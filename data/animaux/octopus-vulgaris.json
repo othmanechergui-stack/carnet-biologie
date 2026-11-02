@@ -1,0 +1,97 @@
+{
+  "id": "octopus-vulgaris",
+  "nom": "Poulpe commun",
+  "latin": "Octopus vulgaris",
+  "groupe": "mollusque",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": false,
+  "clade": "cephalopoda",
+  "resume": "Mollusque sans coquille à **huit bras** couverts de ventouses, maître du camouflage et de la résolution de problèmes. Environ **deux tiers de ses neurones** sont dans ses bras.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Mollusques",
+      "synapomorphies": [
+        "Manteau",
+        "Radula",
+        "Cténidies"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Céphalopodes",
+      "synapomorphies": [
+        "Siphon",
+        "Poche d’encre",
+        "Couronne de bras"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Octopodes",
+      "synapomorphies": [
+        "8 bras",
+        "Coquille absente"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Octopodidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Octopus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Sepia officinalis",
+    "parents": [
+      "Octopus insularis",
+      "Eledone cirrhosa"
+    ]
+  },
+  "facts": [
+    "Il a trois cœurs et le sang bleu.",
+    "Environ deux tiers de ses neurones se trouvent dans ses bras.",
+    "Il change de couleur pour se camoufler alors qu’il ne voit pas les couleurs.",
+    "Son œil, très proche du nôtre, n’a pas de tache aveugle : c’est un cas de convergence évolutive."
+  ],
+  "anecdote": "Le poulpe se camoufle en couleur alors qu’il est daltonien, et son œil, plus « logique » que le nôtre, n’a pas de tache aveugle.",
+  "indices_quiz": [
+    "Céphalopode à trois cœurs et au sang bleu.",
+    "Deux tiers de ses neurones sont dans ses bras.",
+    "La femelle meurt après avoir gardé ses œufs."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/49315",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Octopus_vulgaris"
+  },
+  "notions": [
+    "mollusques-synapomorphies"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il possède **trois cœurs** (deux branchiaux et un systémique) et un sang bleu à **hémocyanine** (cuivre). Ses **chromatophores**, des sacs pigmentaires contrôlés par des muscles, permettent des changements de couleur en une fraction de seconde. Ses papilles modifient sa texture.",
+    "details": "Son système nerveux compte environ 500 millions de neurones, dont environ deux tiers dans les bras. Les bras ont une large autonomie de mouvement. Son œil est de type caméra, très semblable au nôtre mais **sans tache aveugle**, car les nerfs passent derrière la rétine : c’est une convergence."
+  },
+  "comportement": {
+    "essentiel": "Il est solitaire et vit peu longtemps (1 à 2 ans). La femelle garde ses œufs sans manger pendant des semaines, puis meurt peu après l’éclosion : c’est la **sémelparité**.",
+    "details": "Il apprend par essais-erreurs, ouvre des bocaux et s’échappe des aquariums. On a décrit un apprentissage par **observation** de congénères (Fiorito & Scotto, 1992, débattu). Le camouflage dynamique combine des indices visuels du fond, bien que l’animal soit **daltonien**.",
+    "concepts": [
+      "tinbergen-quatre-questions"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Fonds rocheux côtiers de la Méditerranée et de l’Atlantique Est.",
+    "details": "Prédateur de crabes et de bivalves. Une pêche importante existe, et des projets d’élevage industriel soulèvent des **questions éthiques** (sentience des céphalopodes, reconnue par la loi britannique en 2022).",
+    "uicn": "LC",
+    "menaces": [
+      "Surpêche locale",
+      "Projets d’élevage intensif"
+    ]
+  }
+}

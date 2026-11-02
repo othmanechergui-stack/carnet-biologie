@@ -1,0 +1,120 @@
+{
+  "id": "erinaceus-europaeus",
+  "nom": "Hérisson d’Europe",
+  "latin": "Erinaceus europaeus",
+  "groupe": "mammifere",
+  "milieu": [
+    "jardin",
+    "prairie",
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "eulipotyphla",
+  "resume": "Petit mammifère nocturne couvert d’environ **5 000 à 7 000 piquants**, allié des jardiniers et grand mangeur de coléoptères et de chenilles. Il **hiberne** de novembre à mars et décline en Europe de l’Ouest.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Eulipotyphles",
+      "synapomorphies": [
+        "Insectivores au sens strict (clade moléculaire)"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Érinacéidés",
+      "synapomorphies": [
+        "Piquants (poils modifiés) chez les hérissons"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Erinaceus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Talpa europaea",
+    "parents": [
+      "Erinaceus roumanicus",
+      "Atelerix algirus"
+    ]
+  },
+  "facts": [
+    "Ses piquants sont des poils modifiés ; il en a environ 5 000 à 7 000.",
+    "Il s’enduit les piquants de sa propre salive mousseuse, sans qu’on sache encore pourquoi.",
+    "Le lait et le pain sont mauvais pour lui : il ne digère pas le lactose (il vaut mieux lui laisser de l’eau et des croquettes pour chat).",
+    "Il a été reclassé « Quasi menacé » par l’UICN en 2024."
+  ],
+  "anecdote": "Les hérissons « s’auto-oignent » : ils mâchent une odeur nouvelle et se couvrent les piquants de salive mousseuse, et personne ne sait vraiment pourquoi.",
+  "indices_quiz": [
+    "Mammifère insectivore qui hiberne vraiment.",
+    "Il se couvre les piquants de salive mousseuse.",
+    "L’UICN l’a reclassé Quasi menacé en 2024."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/43042",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Erinaceus_europaeus"
+  },
+  "notions": [
+    "tinbergen-quatre-questions"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "800 g à 1,2 kg. Les piquants sont des **poils kératinisés** creux. Un muscle peaucier circulaire (orbiculaire) lui permet de se rouler en boule. Sa vue est faible, mais son odorat et son ouïe sont excellents.",
+    "details": "Il hiberne vraiment : sa température corporelle descend vers 5 °C et son rythme cardiaque d’environ 190 à une vingtaine de battements par minute. Il a besoin de réserves de graisse suffisantes : un jeune de moins de 500 à 600 g à l’automne a peu de chances de survivre à l’hiver."
+  },
+  "comportement": {
+    "essentiel": "Il est **solitaire** et parcourt jusqu’à 2 à 3 km par nuit. La parade nuptiale consiste en un manège bruyant où le mâle tourne autour de la femelle en soufflant.",
+    "details": "Il pratique l’**auto-ointement** : il produit une salive mousseuse qu’il étale sur ses piquants après avoir mâché des substances odorantes. Sa fonction reste inconnue : défense, communication chimique ou simple comportement non fonctionnel. C’est un bel exemple où les quatre questions de Tinbergen n’ont pas encore de réponse.",
+    "concepts": [
+      "tinbergen-quatre-questions"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Bocages, jardins, parcs urbains. Il a besoin de haies, de tas de feuilles pour ses nids et de passages entre les jardins.",
+    "details": "Il consomme des invertébrés du sol : coléoptères, chenilles, vers, limaces dans une moindre mesure. En 2024, l’UICN l’a classé **Quasi menacé** à l’échelle mondiale, à cause de forts déclins en Europe de l’Ouest.",
+    "uicn": "NT",
+    "menaces": [
+      "Trafic routier",
+      "Pesticides et raréfaction des insectes",
+      "Robots tondeuses",
+      "Jardins clôturés et imperméabilisés",
+      "Prédation par le blaireau"
+    ]
+  },
+  "terrain": {
+    "ou": "Jardins avec haies et tas de feuilles, parcs, bocages. La nuit, souvent entendu avant d’être vu (reniflements).",
+    "quand": "Actif de mars à octobre-novembre ; jeunes en août-septembre.",
+    "criteres": [
+      "Piquants bruns à pointe claire",
+      "Museau pointu, petites oreilles",
+      "Crottes noires et brillantes contenant des élytres"
+    ],
+    "sosies": [
+      {
+        "espece": "Hérisson roumain (Erinaceus roumanicus)",
+        "distinguer": "Plus à l’est (Europe centrale) : poitrine claire contrastée ; absent de Belgique."
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "heterosporie-graine",
+  "titre": "De l’hétérosporie à la graine",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+  "essentiel": "L’**hétérosporie** consiste à produire deux types de spores : des **microspores** (gamétophytes mâles) et des **mégaspores** (gamétophytes femelles). Elle est apparue plusieurs fois, par exemple chez *Selaginella*. Chez les **Spermatophytes**, la mégaspore n’est plus libérée : elle reste dans le mégasporange entouré d’un **tégument**. C’est l’**ovule**, qui devient la **graine** après fécondation. Le gamétophyte mâle est réduit au **grain de pollen**.",
+  "details": "La graine combine trois générations :\n- le tégument, issu du sporophyte parent (2n) ;\n- le tissu de réserve, issu du gamétophyte femelle (n) chez les gymnospermes ;\n- l’embryon, la nouvelle génération (2n).\n\nAvantages de la graine :\n- **indépendance vis-à-vis de l’eau** pour la fécondation (le pollen est transporté par le vent ou les animaux, puis vient la **siphonogamie**, c’est-à-dire le tube pollinique) ;\n- **dormance** ;\n- réserves pour la plantule ;\n- dispersion.\n\nAttention : chez les Cycadophytes et le Ginkgo, les gamètes mâles sont encore **flagellés**, mais ils nagent dans une chambre pollinique à l’intérieur de l’ovule.",
+  "question": "En quoi la graine a-t-elle libéré la reproduction des plantes de l’eau liquide ?",
+  "reponse": "Chez les fougères, le gamète mâle doit **nager** jusqu’à l’archégone : il faut de l’eau à la surface du sol. Chez les plantes à graines, le gamétophyte mâle est un **grain de pollen** transporté par l’air ou par les animaux jusqu’à l’ovule. Le gamète mâle y est ensuite délivré par un **tube pollinique** (siphonogamie), ou nage dans un liquide fourni par l’ovule lui-même (Cycas, Ginkgo). L’embryon formé est protégé dans une graine capable de dormance.",
+  "pieges": [
+    "Dire que la graine = l’ovule (la graine est l’ovule fécondé et mûri).",
+    "Croire que le Ginkgo produit des « fruits » : son ovule charnu n’est pas un fruit, il n’y a pas d’ovaire."
+  ],
+  "liens": [
+    "adaptations-terrestres",
+    "angiospermes-double-fecondation"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-27-fourmis-transposons-asteroide",
+  "date": "2026-10-27",
+  "titre": "Après l’astéroïde, des « gènes sauteurs » auraient dopé la diversification des fourmis",
+  "resume": "Génomes de 163 espèces de fourmis (12 sous-familles sur 16) : les lignées riches en éléments transposables sont plus riches en espèces, et plusieurs ont connu des bouffées d’activité au début du Paléogène (≈ 66 Ma), juste avant leur diversification. Lien suggéré, mais non démontré, avec l’expansion des récepteurs olfactifs.",
+  "source": {
+    "nom": "Science Advances 12(39) — Schrader et al. (Univ. Münster) — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm"
+  },
+  "themes": [
+    "evolution",
+    "genetique",
+    "zoologie"
+  ],
+  "grille": {
+    "modele": "animal",
+    "echantillon": "163 espèces (génomes)",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "moyen",
+    "grand_echantillon": true
+  },
+  "quiz": {
+    "question": "Quel résultat relie les éléments transposables à la diversité des fourmis ?",
+    "choix": [
+      "Les lignées riches en transposons sont plus riches en espèces (corrélation)",
+      "Les transposons ont causé l’extinction des dinosaures",
+      "Les fourmis n’ont pas de transposons"
+    ],
+    "bonne": 0
+  },
+  "module": "module1"
+}

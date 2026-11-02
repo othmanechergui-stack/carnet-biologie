@@ -1,0 +1,18 @@
+{
+  "id": "genre-homo",
+  "titre": "Émergence et dispersion du genre Homo",
+  "module": "module5",
+  "source": "module 5/UV - EvolH4.pdf",
+  "essentiel": "Le genre ***Homo*** apparaît vers **2,8 à 2,4 Ma** en Afrique de l’Est (mandibule de Ledi-Geraru). Ses premières espèces sont *H. habilis* et *H. rudolfensis*. Avec ***Homo erectus*** (≈ 1,9 Ma), on observe des proportions corporelles modernes, un cerveau plus gros et une première **sortie d’Afrique** (Dmanissi, Géorgie, ≈ 1,8 Ma). ***Homo sapiens*** apparaît en Afrique vers **300 000 ans** (Djebel Irhoud, Maroc).",
+  "details": "Tendances :\n- augmentation de la taille du cerveau ;\n- réduction de la face et des dents ;\n- industries lithiques : oldowayenne (≈ 2,6 Ma), puis acheuléenne (bifaces, ≈ 1,76 Ma), puis moustérienne ;\n- maîtrise du feu.\n\nLes sorties d’Afrique de *H. sapiens* sont multiples, avec une dispersion majeure vers **60 à 50 000 ans**. En Eurasie, *H. sapiens* rencontre **Néandertal** et les **Dénisoviens**.\n\nPlusieurs espèces ont coexisté récemment : *H. floresiensis* (Flores) et *H. naledi* (Afrique du Sud, ≈ 300 000 ans).",
+  "question": "Pourquoi dit-on que l’évolution humaine est « buissonnante » plutôt que linéaire ?",
+  "reponse": "Parce qu’à de nombreuses époques **plusieurs espèces d’hominines ont coexisté**. Vers 2 Ma, on trouve *Paranthropus*, *Homo habilis*, *H. rudolfensis* et *H. erectus*. Il y a 50 000 ans encore, *H. sapiens* côtoyait Néandertal, les Dénisoviens, *H. floresiensis* et *H. luzonensis*. Beaucoup de lignées se sont éteintes sans descendance, et des **hybridations** ont eu lieu. L’image d’une marche linéaire du singe vers l’homme est fausse.",
+  "pieges": [
+    "Dire que l’homme descend du chimpanzé : ils partagent un ancêtre commun (≈ 6 à 7 Ma).",
+    "Croire à une seule sortie d’Afrique."
+  ],
+  "liens": [
+    "australopitheques",
+    "neandertal-introgression"
+  ]
+}

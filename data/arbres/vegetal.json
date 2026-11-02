@@ -1,0 +1,511 @@
+{
+ "id": "eukaryota",
+ "nom": "Eucaryotes (plantes, algues, champignons)",
+ "synapomorphies": [
+  "Noyau",
+  "Reproduction sexuée (méiose + fécondation)"
+ ],
+ "texte": "Les « végétaux » au sens ancien ne forment pas un groupe naturel. Cet arbre regroupe les lignées étudiées dans ton syllabus de botanique.",
+ "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+ "enfants": [
+  {
+   "id": "opisthokonta",
+   "nom": "Opisthocontes",
+   "synapomorphies": [
+    "Flagelle propulseur postérieur unique",
+    "Chitine structurale"
+   ],
+   "texte": "Animaux + champignons : les champignons sont plus proches de nous que des plantes.",
+   "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+   "enfants": [
+    {
+     "id": "opisthokonta-animaux",
+     "nom": "Animaux → voir l’arbre animal",
+     "texte": "Les Métazoaires sont le groupe frère des champignons (via leurs parents unicellulaires).",
+     "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+    },
+    {
+     "id": "fungi",
+     "nom": "Champignons (Eumycètes)",
+     "synapomorphies": [
+      "Hétérotrophie par absorption",
+      "Paroi rigide chitineuse",
+      "Hyphes"
+     ],
+     "texte": "Décomposeurs, symbiotes (mycorhizes, lichens), parasites.",
+     "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+     "enfants": [
+      {
+       "id": "chytridiomycota",
+       "nom": "Chytridiomycètes",
+       "synapomorphies": [
+        "Zoospores flagellées"
+       ],
+       "texte": "Dont Batrachochytrium, responsables du déclin des amphibiens.",
+       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+      },
+      {
+       "id": "glomeromycota",
+       "nom": "Gloméromycètes",
+       "texte": "Endomycorhizes à arbuscules (≥ 80 % des spermatophytes).",
+       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+      },
+      {
+       "id": "ascomycota",
+       "nom": "Ascomycètes",
+       "synapomorphies": [
+        "Asque à 8 spores"
+       ],
+       "texte": "Levures, Penicillium, morilles, truffes, la plupart des lichens.",
+       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+      },
+      {
+       "id": "basidiomycota",
+       "nom": "Basidiomycètes",
+       "synapomorphies": [
+        "Baside à 4 spores",
+        "Hyphes à boucles"
+       ],
+       "texte": "Champignons à chapeau, rouilles, charbons.",
+       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+       "enfants": [
+        {
+         "id": "agaricales",
+         "nom": "Agaricales",
+         "synapomorphies": [
+          "Lames sous le chapeau"
+         ],
+         "texte": "Amanites, rosés des prés…",
+         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+        },
+        {
+         "id": "boletales",
+         "nom": "Boletales",
+         "synapomorphies": [
+          "Tubes et pores (souvent)"
+         ],
+         "texte": "Bolets.",
+         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stramenopiles",
+   "nom": "Straménopiles",
+   "synapomorphies": [
+    "Flagelle antérieur à mastigonèmes tripartites"
+   ],
+   "texte": "Plastes issus d’une endosymbiose secondaire (algue rouge).",
+   "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+   "enfants": [
+    {
+     "id": "phaeophyceae",
+     "nom": "Algues brunes (Phéophycées)",
+     "synapomorphies": [
+      "Fucoxanthine",
+      "Alginates"
+     ],
+     "texte": "Fucus, laminaires.",
+     "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+    }
+   ]
+  },
+  {
+   "id": "archaeplastida",
+   "nom": "Archaeplastida",
+   "synapomorphies": [
+    "Plaste à deux membranes issu de l’endosymbiose primaire d’une cyanobactérie"
+   ],
+   "texte": "Glaucophytes, algues rouges, lignée verte.",
+   "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+   "enfants": [
+    {
+     "id": "rhodophyta",
+     "nom": "Algues rouges",
+     "synapomorphies": [
+      "Phycoérythrine",
+      "Gamètes mâles sans flagelle"
+     ],
+     "texte": "Agar, carraghénanes.",
+     "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+    },
+    {
+     "id": "viridiplantae",
+     "nom": "Lignée verte (Chlorobiontes)",
+     "synapomorphies": [
+      "Chlorophylles a + b",
+      "Amidon intraplastidial"
+     ],
+     "texte": "Algues vertes + plantes terrestres.",
+     "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+     "enfants": [
+      {
+       "id": "chlorophyta",
+       "nom": "Chlorophytes",
+       "texte": "Ulves, chlamydomonas, volvox.",
+       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf"
+      },
+      {
+       "id": "streptophyta",
+       "nom": "Streptophytes",
+       "synapomorphies": [
+        "Phragmoplaste",
+        "Plasmodesmes"
+       ],
+       "texte": "Charophytes + Embryophytes.",
+       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+       "enfants": [
+        {
+         "id": "coleochaetophyta",
+         "nom": "Coléochétophytes / Charophytes",
+         "texte": "Chez Coleochaete, le zygote reste fixé et nourri sur le gamétophyte.",
+         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+        },
+        {
+         "id": "embryophyta",
+         "nom": "Embryophytes (plantes terrestres)",
+         "synapomorphies": [
+          "Phase diploïde multicellulaire",
+          "Gamétanges et sporanges protégés",
+          "Spores à sporopollénine",
+          "Embryon nourri par le gamétophyte"
+         ],
+         "texte": "Origine ≈ −515 à −480 Ma (datations moléculaires).",
+         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+         "enfants": [
+          {
+           "id": "marchantiophyta",
+           "nom": "Hépatiques",
+           "synapomorphies": [
+            "Thalle ou feuilles sans nervure",
+            "Sporange sans columelle"
+           ],
+           "texte": "Ni épiderme, ni stomates, ni cellules conductrices.",
+           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+          },
+          {
+           "id": "stomatophyta",
+           "nom": "Stomatophytes",
+           "synapomorphies": [
+            "Épiderme, cuticule, stomates (sur le sporophyte)",
+            "Sporange à columelle"
+           ],
+           "texte": "Topologie de ton syllabus ; les phylogénomiques récentes soutiennent plutôt des bryophytes monophylétiques.",
+           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+           "enfants": [
+            {
+             "id": "anthocerotophyta",
+             "nom": "Anthocérotes",
+             "synapomorphies": [
+              "Sporophyte en corne à croissance basale continue"
+             ],
+             "texte": "Thalle sans cellules conductrices.",
+             "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+            },
+            {
+             "id": "hemitracheophyta",
+             "nom": "Hémitrachéophytes",
+             "synapomorphies": [
+              "Cellules conductrices"
+             ],
+             "texte": "Mousses + plantes vasculaires.",
+             "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+             "enfants": [
+              {
+               "id": "bryophyta",
+               "nom": "Mousses",
+               "synapomorphies": [
+                "Tige feuillée",
+                "Hydroïdes/leptoïdes",
+                "Capsule à péristome"
+               ],
+               "texte": "Sporophyte dépendant, à sporange unique.",
+               "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+              },
+              {
+               "id": "tracheophyta",
+               "nom": "Trachéophytes (plantes vasculaires)",
+               "synapomorphies": [
+                "Sporophyte dominant et ramifié",
+                "Trachéides lignifiées",
+                "Vraies racines et feuilles (actuels)"
+               ],
+               "texte": "= Polysporangiophytes actuels.",
+               "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+               "enfants": [
+                {
+                 "id": "lycophyta",
+                 "nom": "Lycophytes",
+                 "synapomorphies": [
+                  "Microphylles",
+                  "Sporanges à l’aisselle des sporophylles"
+                 ],
+                 "texte": "Lycopodes, sélaginelles, isoètes.",
+                 "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                },
+                {
+                 "id": "euphyllophyta",
+                 "nom": "Euphyllophytes",
+                 "synapomorphies": [
+                  "Mégaphylles",
+                  "Anthérozoïdes multiflagellés"
+                 ],
+                 "texte": "Fougères, prêles, plantes à graines.",
+                 "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                 "enfants": [
+                  {
+                   "id": "sphenophyta",
+                   "nom": "Sphénophytes (Prêles)",
+                   "synapomorphies": [
+                    "Tiges articulées à rameaux verticillés",
+                    "Silice"
+                   ],
+                   "texte": "Calamites géantes au Carbonifère.",
+                   "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                  },
+                  {
+                   "id": "filicophyta",
+                   "nom": "Filicophytes (Fougères)",
+                   "synapomorphies": [
+                    "Crosses (préfoliaison circinée)",
+                    "Sporanges en sores"
+                   ],
+                   "texte": "Gamétophyte libre (prothalle).",
+                   "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                  },
+                  {
+                   "id": "spermatophyta",
+                   "nom": "Spermatophytes",
+                   "synapomorphies": [
+                    "Ovule (mégasporange tégumenté)",
+                    "Pollen (gamétophyte mâle réduit)",
+                    "Graine"
+                   ],
+                   "texte": "Indépendance vis-à-vis de l’eau pour la fécondation.",
+                   "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                   "enfants": [
+                    {
+                     "id": "gymnospermae",
+                     "nom": "Gymnospermes",
+                     "synapomorphies": [
+                      "Ovules nus",
+                      "Xylème à trachéides"
+                     ],
+                     "texte": "Cycas, Ginkgo, conifères, gnétophytes.",
+                     "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                     "enfants": [
+                      {
+                       "id": "cycadophyta",
+                       "nom": "Cycadophytes",
+                       "synapomorphies": [
+                        "Ovules géants à la marge de feuilles ovulifères"
+                       ],
+                       "texte": "Port de palmier ; spermatozoïdes flagellés.",
+                       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                      },
+                      {
+                       "id": "ginkgophyta",
+                       "nom": "Ginkgophytes",
+                       "synapomorphies": [
+                        "Feuilles en éventail",
+                        "Ovule charnu"
+                       ],
+                       "texte": "Une seule espèce actuelle.",
+                       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                      },
+                      {
+                       "id": "coniferophyta",
+                       "nom": "Coniférophytes",
+                       "synapomorphies": [
+                        "Gamète mâle non flagellé (siphonogamie)",
+                        "Feuilles en aiguille ou écaille"
+                       ],
+                       "texte": "Pins, sapins, ifs, cyprès.",
+                       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                       "enfants": [
+                        {
+                         "id": "pinaceae",
+                         "nom": "Pinacées",
+                         "synapomorphies": [
+                          "Cônes ligneux"
+                         ],
+                         "texte": "Pins, épicéas, sapins, mélèzes.",
+                         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                        },
+                        {
+                         "id": "taxaceae",
+                         "nom": "Taxacées",
+                         "synapomorphies": [
+                          "Graine entourée d’un arille charnu"
+                         ],
+                         "texte": "Ifs.",
+                         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                        }
+                       ]
+                      }
+                     ]
+                    },
+                    {
+                     "id": "angiospermae",
+                     "nom": "Angiospermes",
+                     "synapomorphies": [
+                      "Carpelle (ovules enfermés)",
+                      "Double fécondation (albumen 3n)",
+                      "Vaisseaux (sauf Amborella)"
+                     ],
+                     "texte": "Plantes à fleurs.",
+                     "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                     "enfants": [
+                      {
+                       "id": "monocotyledones",
+                       "nom": "Monocotylédones",
+                       "synapomorphies": [
+                        "Un seul cotylédon",
+                        "Absence de cambium"
+                       ],
+                       "texte": "Atactostèle, nervures parallèles, pièces florales par 3.",
+                       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                       "enfants": [
+                        {
+                         "id": "poales",
+                         "nom": "Poales",
+                         "texte": "Graminées (Poacées), joncs, laîches.",
+                         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                        },
+                        {
+                         "id": "asparagales",
+                         "nom": "Asparagales",
+                         "texte": "Orchidées, iris, ails (Amaryllidacées).",
+                         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                        }
+                       ]
+                      },
+                      {
+                       "id": "eudicotyledones",
+                       "nom": "Eudicotylédones",
+                       "synapomorphies": [
+                        "Pollen triaperturé"
+                       ],
+                       "texte": "Les « dicotylédones » au sens large sont paraphylétiques.",
+                       "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                       "enfants": [
+                        {
+                         "id": "ranunculales",
+                         "nom": "Renonculales",
+                         "texte": "Eudicotylédones archaïques : pièces florales souvent libres et nombreuses.",
+                         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                        },
+                        {
+                         "id": "caryophyllales",
+                         "nom": "Caryophyllales",
+                         "texte": "Œillets, cactus, renouées, plantes carnivores…",
+                         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                        },
+                        {
+                         "id": "rosidae",
+                         "nom": "Rosidées",
+                         "texte": "Rosacées, Fabacées, Fagacées, Brassicacées…",
+                         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                         "enfants": [
+                          {
+                           "id": "fagales",
+                           "nom": "Fagales",
+                           "synapomorphies": [
+                            "Fleurs unisexuées en chatons, pollinisation par le vent"
+                           ],
+                           "texte": "Chênes, hêtres, bouleaux, noisetiers.",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          },
+                          {
+                           "id": "rosales",
+                           "nom": "Rosales",
+                           "texte": "Rosacées, orties, ormes.",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          },
+                          {
+                           "id": "brassicales",
+                           "nom": "Brassicales",
+                           "synapomorphies": [
+                            "Glucosinolates"
+                           ],
+                           "texte": "Choux, moutardes.",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          }
+                         ]
+                        },
+                        {
+                         "id": "asteridae",
+                         "nom": "Astéridées",
+                         "synapomorphies": [
+                          "Corolle gamopétale",
+                          "Ovule unitégumenté, ténuinucellé"
+                         ],
+                         "texte": "Tendance aux fleurs à 5 pétales soudés.",
+                         "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+                         "enfants": [
+                          {
+                           "id": "ericales",
+                           "nom": "Éricales",
+                           "texte": "Bruyères, primevères, théiers.",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          },
+                          {
+                           "id": "lamiales",
+                           "nom": "Lamiales",
+                           "texte": "Menthes, digitales, oliviers.",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          },
+                          {
+                           "id": "solanales",
+                           "nom": "Solanales",
+                           "texte": "Pomme de terre, tomate, liserons.",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          },
+                          {
+                           "id": "apiales",
+                           "nom": "Apiales",
+                           "texte": "Apiacées (ombellifères) et lierres (Araliacées).",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          },
+                          {
+                           "id": "dipsacales",
+                           "nom": "Dipsacales",
+                           "texte": "Sureaux, chèvrefeuilles, valérianes.",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          },
+                          {
+                           "id": "asterales",
+                           "nom": "Astérales",
+                           "texte": "Astéracées : inflorescence en capitule.",
+                           "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+                          }
+                         ]
+                        }
+                       ]
+                      }
+                     ]
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

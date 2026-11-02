@@ -1,0 +1,17 @@
+{
+  "id": "exclusion-competitive",
+  "titre": "Exclusion compétitive et coexistence",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "Le **principe d’exclusion compétitive** (Gause) dit que deux espèces exploitant **exactement la même ressource limitante** ne peuvent pas coexister durablement : l’une élimine l’autre. La coexistence exige une **différenciation des niches**, par partage des ressources, ou d’autres mécanismes stabilisateurs.",
+  "details": "Les modèles de **Lotka-Volterra** fixent la condition de coexistence : la compétition intraspécifique doit être plus forte que la compétition interspécifique.\n\nExemples de partage des ressources : les fauvettes de MacArthur, qui se nourrissent à différentes hauteurs dans les conifères, et le **déplacement de caractère** chez les pinsons de Darwin.\n\nLe « paradoxe du plancton » (Hutchinson, 1961) pose la question de la coexistence de tant d’espèces sur peu de ressources. Explications : fluctuations environnementales, effet de stockage, perturbations, prédation densité-dépendante (Janzen-Connell).",
+  "question": "Comment Gause a-t-il mis en évidence l’exclusion compétitive, et comment ce résultat peut-il être contourné ?",
+  "reponse": "Il a cultivé deux paramécies (*Paramecium aurelia* et *P. caudatum*) dans un milieu homogène avec une seule ressource, des bactéries. Séparément, chacune prospérait. Ensemble, *P. aurelia* finissait toujours par éliminer l’autre. La coexistence devenait possible en **diversifiant le milieu** : avec *P. bursaria*, qui exploitait le fond du tube pauvre en oxygène, les deux espèces se partageaient l’espace. Les ressources ou habitats différents **séparent les niches**.",
+  "pieges": [
+    "Croire que deux espèces semblables ne coexistent jamais.",
+    "Oublier que les fluctuations et la prédation peuvent permettre la coexistence."
+  ],
+  "liens": [
+    "niche-ecologique"
+  ]
+}

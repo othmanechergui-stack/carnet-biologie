@@ -1,0 +1,151 @@
+{
+  "id": "digitalis-purpurea",
+  "nom": "Digitale pourpre",
+  "latin": "Digitalis purpurea",
+  "type": "fleur",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "lande"
+  ],
+  "belgique": true,
+  "clade": "lamiales",
+  "saison": [
+    6,
+    7
+  ],
+  "resume": "Grande hampe de fleurs pourpres en doigts de gant dans les coupes forestières d’Ardenne. Elle est **très toxique** et a donné un médicament cardiaque historique, la **digitoxine**.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Lamiales",
+      []
+    ],
+    [
+      "Famille",
+      "Plantaginacées",
+      []
+    ],
+    [
+      "Genre",
+      "Digitalis",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Solanum tuberosum",
+    "parents": [
+      "Digitalis lutea",
+      "Plantago lanceolata"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Elle est **bisannuelle** : une rosette la première année, une hampe florale la deuxième. Ses fleurs **zygomorphes** (symétrie bilatérale) sont tubulaires et tachetées à l’intérieur. Les taches servent de **guides à nectar** pour les bourdons, ses principaux pollinisateurs.",
+    "details": "Elle contient des **glycosides cardiotoniques** (digitoxine) qui inhibent la pompe Na⁺/K⁺-ATPase. William Withering en a décrit l’usage contre l’« hydropisie » (insuffisance cardiaque) en 1785. Elle est protandre : les étamines mûrissent avant le stigmate, ce qui limite l’autofécondation."
+  },
+  "identification": {
+    "feuille": "Grande, ovale-lancéolée, gaufrée, duveteuse grisâtre dessous",
+    "fleur": "Tubes pourpres pendants tachetés, en grappe unilatérale",
+    "fruit": "Capsule à très nombreuses graines minuscules",
+    "ecorce": "—",
+    "port": "Hampe dressée 1–2 m",
+    "periode": "Juin-juillet"
+  },
+  "ecologie": {
+    "essentiel": "Coupes forestières, clairières, landes sur sols **acides** (Ardenne, Campine).",
+    "details": "C’est une espèce **pionnière** des coupes à blanc. Sa banque de graines dans le sol germe après la mise en lumière.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "**Mortelle** : toute la plante est toxique (troubles du rythme cardiaque). Ses dérivés (digoxine) restent utilisés en cardiologie à dose précise.",
+    "details": "Ses feuilles en rosette peuvent être confondues avec celles de la consoude ou de la bourrache.",
+    "confusions_dangereuses": [
+      "Rosette confondue avec la consoude (Symphytum) : intoxications cardiaques documentées"
+    ]
+  },
+  "facts": [
+    "Elle a donné la digitoxine, un médicament cardiaque décrit dès 1785.",
+    "Les taches à l’intérieur des fleurs guident les bourdons vers le nectar.",
+    "Elle envahit les coupes forestières grâce à sa banque de graines.",
+    "Elle est bisannuelle : rosette la première année, fleurs la deuxième."
+  ],
+  "anecdote": "La digitale est l’ancêtre d’un médicament du cœur : en 1785, un médecin anglais a compris pourquoi une tisane de guérisseuse soignait l’hydropisie.",
+  "indices_quiz": [
+    "Plantaginacée bisannuelle à fleurs en doigts de gant.",
+    "Source de la digitoxine.",
+    "Pionnière des coupes forestières sur sol acide."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/53983",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Digitalis_purpurea"
+  },
+  "notions": [],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Coupes forestières et clairières d’Ardenne, talus acides.",
+    "quand": "Juin-juillet.",
+    "criteres": [
+      "Hampe de fleurs pourpres tubulaires",
+      "Taches sombres à l’intérieur",
+      "Feuilles duveteuses"
+    ],
+    "sosies": [
+      {
+        "espece": "Consoude officinale (Symphytum officinale)",
+        "distinguer": "Feuilles rudes (non duveteuses) décurrentes sur la tige ; fleurs en crosse ; milieux humides."
+      }
+    ]
+  }
+}

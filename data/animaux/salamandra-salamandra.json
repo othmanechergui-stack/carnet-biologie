@@ -1,0 +1,118 @@
+{
+  "id": "salamandra-salamandra",
+  "nom": "Salamandre tachetée",
+  "latin": "Salamandra salamandra",
+  "groupe": "amphibien",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "urodela",
+  "resume": "Le plus grand urodèle terrestre de Belgique, noir et jaune. Ses couleurs vives sont un **signal d’avertissement** (aposématisme). L’espèce est aujourd’hui menacée par un champignon venu d’Asie, **Bsal**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Amphibiens (Lissamphibiens)",
+      "synapomorphies": [
+        "Dents bicuspides pédicellées",
+        "Peau respiratoire perméable"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Urodèles",
+      "synapomorphies": [
+        "Queue conservée chez l’adulte"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Salamandridés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Salamandra",
+      "synapomorphies": [
+        "Larves déposées dans l’eau (ovoviviparité)"
+      ]
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Bufo bufo",
+    "parents": [
+      "Salamandra atra",
+      "Ichthyosaura alpestris",
+      "Ambystoma mexicanum"
+    ]
+  },
+  "facts": [
+    "Elle met au monde des larves déjà formées (ovoviviparité).",
+    "Le motif jaune de chaque individu est unique : il sert à les identifier par photo.",
+    "Le chytride Bsal a fait chuter de plus de 95 % une population néerlandaise en quelques années.",
+    "Le mythe médiéval de la salamandre qui résiste au feu viendrait de salamandres sortant des bûches humides jetées au feu."
+  ],
+  "anecdote": "La légende de la salamandre qui naît des flammes vient sans doute de bûches : les salamandres hivernaient dans le bois humide et s’enfuyaient quand on l’allumait.",
+  "indices_quiz": [
+    "Urodèle noir et jaune qui dépose des larves déjà formées.",
+    "Ses couleurs sont un signal d’avertissement (samandarine).",
+    "Elle est décimée par un chytride venu d’Asie."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/27726",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Salamandra_salamandra"
+  },
+  "notions": [
+    "invasions-impacts"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Elle mesure 15 à 20 cm. Elle est noire avec des taches ou bandes **jaunes**, variables selon les individus. Ses glandes parotoïdes et dorsales produisent de la **samandarine**, un alcaloïde neurotoxique.",
+    "details": "Elle est **ovovivipare** : la femelle dépose des larves déjà formées, munies de branchies externes, dans les ruisseaux forestiers frais. Elle peut stocker le sperme du mâle. Elle vit plus de 20 ans en nature, et bien plus en captivité."
+  },
+  "comportement": {
+    "essentiel": "Elle est nocturne et sort par temps de pluie. Les accouplements ont lieu à terre : le mâle dépose un **spermatophore** que la femelle récupère avec son cloaque.",
+    "details": "La coloration aposématique est un **signal** pour les prédateurs. Il est honnête, car l’animal est réellement toxique. Les prédateurs apprennent à associer le motif au mauvais goût.",
+    "concepts": [
+      "signal-indice",
+      "signal-honnete"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Hêtraies et chênaies humides traversées de ruisseaux : forêt de Soignes, vallées ardennaises.",
+    "details": "Elle consomme limaces, vers et insectes. Depuis 2013, le chytride ***Batrachochytrium salamandrivorans*** (Bsal), probablement introduit par le commerce d’urodèles asiatiques, a provoqué des **effondrements** de populations aux Pays-Bas, puis en Belgique et en Allemagne.",
+    "uicn": "LC",
+    "menaces": [
+      "Bsal (chytride invasif)",
+      "Trafic routier",
+      "Assèchement des ruisseaux forestiers",
+      "Fragmentation"
+    ]
+  },
+  "terrain": {
+    "ou": "Forêts feuillues humides avec ruisseaux (Soignes, Ardennes, Fagne).",
+    "quand": "Mars à novembre, nuits pluvieuses ; dépôt des larves au printemps.",
+    "criteres": [
+      "Noir brillant à taches jaunes",
+      "Démarche lente",
+      "Larves à branchies externes et tache claire à la base des pattes"
+    ],
+    "sosies": [
+      {
+        "espece": "Triton alpestre (Ichthyosaura alpestris)",
+        "distinguer": "Plus petit, ventre orange vif uni, dos gris-bleu ; souvent dans l’eau."
+      }
+    ]
+  }
+}

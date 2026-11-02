@@ -1,0 +1,108 @@
+{
+  "id": "aurelia-aurita",
+  "nom": "Aurélie (méduse commune)",
+  "latin": "Aurelia aurita",
+  "groupe": "cnidaire",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "scyphozoa",
+  "resume": "La méduse translucide aux **quatre anneaux** violets (ses gonades) qui s’échoue en été sur nos plages. Elle est quasiment **inoffensive** pour l’humain.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Cnidaires",
+      "synapomorphies": [
+        "Cnidocytes",
+        "Mésoglée",
+        "Cavité gastrovasculaire à un orifice"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Scyphozoaires",
+      "synapomorphies": [
+        "Strobilation"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Sémaéostomes",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Ulmaridés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Aurelia",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Hydra",
+    "parents": [
+      "Cyanea capillata",
+      "Rhizostoma pulmo"
+    ]
+  },
+  "facts": [
+    "Les quatre anneaux visibles sont ses gonades.",
+    "Elle est constituée à plus de 95 % d’eau.",
+    "Ses polypes fixés peuvent survivre des années et produire des méduses en série par strobilation.",
+    "Les pullulations de méduses sont favorisées par les ports, digues et éoliennes, qui servent de support aux polypes."
+  ],
+  "anecdote": "Une méduse est surtout une phase : derrière chaque aurélie de la plage, il y a un petit polype fixé quelque part sous un ponton.",
+  "indices_quiz": [
+    "Cnidaire scyphozoaire à quatre anneaux visibles (gonades).",
+    "Son polype fixé libère des éphyrules par strobilation.",
+    "Plus de 95 % d’eau, presque inoffensive."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/48328",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Aurelia_aurita"
+  },
+  "notions": [
+    "cnidaires-diploblastes"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "L’ombrelle mesure jusqu’à 25 à 40 cm. Elle porte une frange de courts tentacules, et ses **4 gonades** en fer à cheval sont visibles. Elle est constituée à plus de 95 % d’eau. Ses **rhopalies** (organes sensoriels marginaux) contiennent des statocystes et des ocelles.",
+    "details": "Son cycle est typique des scyphozoaires : méduse sexuée, puis larve planula, puis polype (scyphistome) fixé, puis **strobilation** qui libère des éphyrules. Les polypes peuvent persister et se multiplier de façon asexuée pendant des années."
+  },
+  "comportement": {
+    "essentiel": "Elle se nourrit passivement de zooplancton capturé par le mucus de l’ombrelle et les cnidocytes, puis amené à la bouche par des cils.",
+    "details": "Les méduses n’ont pas de cerveau mais un **réseau nerveux diffus** et des centres dans les rhopalies, qui coordonnent la pulsation.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Mer du Nord, ports et estuaires ; pullulations estivales.",
+    "details": "Les **pullulations** de méduses peuvent être favorisées par la surpêche (moins de compétiteurs), l’eutrophisation et les structures artificielles qui offrent des supports aux polypes. Elles nourrissent les tortues luths et les poissons-lunes.",
+    "uicn": "NE",
+    "menaces": [
+      "Aucune ; espèce opportuniste"
+    ]
+  },
+  "terrain": {
+    "ou": "Plages de la côte belge (échouages), ports de Nieuport, Zeebruges.",
+    "quand": "Juin à septembre.",
+    "criteres": [
+      "Ombrelle translucide",
+      "Quatre anneaux violacés",
+      "Tentacules très courts en frange"
+    ],
+    "sosies": [
+      {
+        "espece": "Cyanée capillata (méduse à crinière de lion)",
+        "distinguer": "Rouge-brun, très longs tentacules urticants : à éviter !"
+      },
+      {
+        "espece": "Rhizostome (Rhizostoma pulmo)",
+        "distinguer": "Grosse ombrelle blanche bordée de violet, bras oraux épais, sans tentacules marginaux."
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-02",
+  "actu": "2026-10-22-bonobos-femelles-chasse",
+  "titre": "Les bonobos femelles chasseuses : ce que dit (et ne dit pas) l’étude de LuiKotale",
+  "question": "Qui chasse les vertébrés chez les bonobos, et ce comportement suit-il le modèle « l’homme chasseur » souvent extrapolé à partir des chimpanzés ?",
+  "methode": "Étude **observationnelle** à long terme : 10 ans de suivi de deux communautés habituées de bonobos sauvages (LuiKotale, RDC), 415 captures de proies enregistrées. Seules les chasses dont le chasseur initial était visible ont été analysées pour l’attribution par sexe. Comparaison entre sexes, classes d’âge, statut reproducteur (avec ou sans petit) et entre communautés.",
+  "resultats": "Les femelles sont les chasseuses dans 60 % des chasses attribuables ; elles initient les chasses (pas seulement du vol de proies aux mâles), chassent environ trois fois plus d’ongulés (céphalophes) que les mâles, et ce avec ou sans jeune. Mâles et femelles chassent les singes arboricoles (colobes) à des taux similaires. Les jeunes femelles visent plutôt les primates arboricoles, les plus âgées les ongulés au sol. Les deux communautés diffèrent durablement dans leur choix de proies.",
+  "limites": "Biais d’observation possible (seules les chasses dont l’auteur est visible) ; deux communautés seulement, sur un site ; l’explication proposée (les mâles éviteraient les grosses proies pour ne pas entrer en conflit avec les femelles dominantes autour de la viande) est une hypothèse non testée. Les auteurs soulignent qu’on ne peut pas reconstruire le comportement de l’ancêtre commun à partir d’une seule espèce de Pan.",
+  "ce_que_ca_change": "L’image d’une chasse essentiellement masculine, souvent tirée des chimpanzés et projetée sur nos ancêtres, est trop simple : chez notre autre plus proche parent, les femelles sont les principales chasseuses. Les différences entre communautés suggèrent des **traditions** de chasse. Pour reconstruire l’évolution humaine, il faut comparer bonobos ET chimpanzés.",
+  "lien_cours": {
+    "module": "module5",
+    "notions": [
+      "humains-grands-singes",
+      "genre-homo",
+      "bateman-selection-sexuelle"
+    ],
+    "texte": "Lien direct avec ton module 5 (humains et grands singes, comportement des hominidés) et avec l’éthologie : la société des bonobos, où les femelles forment des coalitions et dominent souvent les mâles, modifie les coûts et bénéfices de la chasse pour chaque sexe. C’est aussi un rappel méthodologique du cours : une seule espèce modèle ne suffit pas pour inférer un état ancestral (penser phylogénie)."
+  }
+}

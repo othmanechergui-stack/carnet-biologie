@@ -1,0 +1,22 @@
+{
+  "id": "especes-cles-ingenieurs",
+  "titre": "Espèces clés de voûte et ingénieurs",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "Une **espèce clé de voûte** (*keystone*, Paine, 1969) a un effet sur la communauté **disproportionné par rapport à son abondance**. Exemples : l’étoile de mer *Pisaster*, la loutre de mer. Un **ingénieur de l’écosystème** (Jones et al., 1994) modifie physiquement le milieu et crée des habitats pour d’autres espèces. Exemples : le **castor**, le lombric, les coraux, les pics.",
+  "details": "Le **castor d’Europe** est revenu en Belgique, réintroduit illégalement dans les années 1990–2000, puis il s’est étendu. Il construit des barrages qui créent des zones humides, ralentissent les crues, retiennent les sédiments et augmentent la diversité des amphibiens, des libellules et des poissons. Il entre aussi en conflit avec certains usages : inondations de parcelles, arbres abattus.\n\nLes **lombrics** sont des ingénieurs du sol. Darwin leur consacre son dernier livre (1881). Ils assurent bioturbation, aération et formation des agrégats.\n\nUne espèce **fondatrice** (*foundation species*) structure le milieu par sa masse, comme le hêtre en forêt de Soignes.",
+  "question": "En quoi le castor d’Europe est-il un ingénieur de l’écosystème, et quel effet a-t-il sur la biodiversité d’une vallée ?",
+  "reponse": "Il **modifie physiquement** le milieu : barrages, étangs, canaux et arbres abattus. Il transforme un ruisseau rapide en une **mosaïque de zones humides** : eau stagnante, bois mort, prairies inondées, clairières. Ces nouveaux habitats profitent aux amphibiens, aux odonates, aux chauves-souris qui chassent au-dessus de l’eau, aux oiseaux d’eau et à des plantes de milieux humides. La diversité β et γ de la vallée augmente, le régime hydrologique est tamponné et la qualité de l’eau s’améliore.",
+  "pieges": [
+    "Confondre « clé de voûte » (effet trophique disproportionné) et « ingénieur » (modification physique).",
+    "Supposer que l’espèce clé est forcément abondante."
+  ],
+  "liens": [
+    "cascade-trophique"
+  ],
+  "especes": [
+    "castor-fiber",
+    "lumbricus-terrestris",
+    "asterias-rubens"
+  ]
+}

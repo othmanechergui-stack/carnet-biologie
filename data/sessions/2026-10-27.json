@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-27",
+  "revision": "fst-nm",
+  "bonus": {
+    "titre": "Les marqueurs « isolement par la distance » en Belgique",
+    "essentiel": "Le F_ST global résume une structure, mais dans un paysage, la différenciation augmente souvent avec la distance (isolement par la distance). Régresser F_ST/(1−F_ST) sur le log de la distance donne une estimation de la « taille de voisinage » de Wright (4πDσ²).",
+    "details": "Rousset (1997) a montré que, en deux dimensions, la pente de cette régression vaut 1/(4πDσ²), où D est la densité efficace et σ² la variance de dispersion par génération. On estime donc un produit densité × dispersion, sans hypothèse d’équilibre du modèle en îles — bien plus robuste que convertir un F_ST en Nm. Applications : tritons dans un réseau de mares, chênes dans un paysage agricole.",
+    "lien_notion": "flux-genes"
+  },
+  "animal": "erithacus-rubecula",
+  "animaux_reserve": [
+    "vulpes-vulpes",
+    "octopus-vulgaris",
+    "milnesium-tardigradum"
+  ],
+  "plante": "hedera-helix",
+  "plantes_reserve": [
+    "quercus-robur",
+    "marchantia-polymorpha"
+  ],
+  "digest": [
+    "2026-10-23-adn-ancien-gravettien",
+    "2026-10-23-rechauffement-pollinisateurs",
+    "2026-10-22-bonobos-femelles-chasse"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "fst-nm"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "vulpes-vulpes"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-23-retrovirus-chimpanze-organoides"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-20-belemnite-wyoming"
+    }
+  ]
+}

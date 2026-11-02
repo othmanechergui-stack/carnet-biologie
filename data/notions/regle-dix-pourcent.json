@@ -1,0 +1,18 @@
+{
+  "id": "regle-dix-pourcent",
+  "titre": "Règle des 10 % (tens rule)",
+  "module": "module4",
+  "source": "module 4/invasions 3.pdf",
+  "essentiel": "La **règle des 10 %** (*tens rule*, Williamson & Fitter, 1996) est une règle empirique. Environ **1 espèce sur 10** franchit chaque étape de l’invasion : sur les espèces **importées**, environ 10 % sont **introduites** dans la nature ; parmi elles, environ 10 % s’**établissent** ; parmi celles-ci, environ 10 % deviennent **envahissantes** (nuisibles). Au bout de la chaîne, environ 1 importation sur 1 000 devient un problème.",
+  "details": "Cette règle a été établie sur la flore britannique. C’est un **ordre de grandeur**, avec des valeurs plausibles de 5 à 20 %. Elle est souvent **dépassée** pour les vertébrés introduits volontairement : chez les mammifères et les oiseaux, le taux d’établissement atteint fréquemment environ 50 %, en lien avec la pression de propagules (Jeschke & Strayer, 2005).\n\nElle montre que le succès est **rare**, mais que le **nombre d’importations**, multiplié par le commerce mondial, rend les invasions inévitables à grande échelle.\n\nLe cours insiste aussi sur la nécessité de tenir compte des **échecs d’introduction**. Sinon, on surestime le rôle des traits des espèces qui réussissent.",
+  "question": "Si 2 000 espèces de plantes ornementales sont importées dans un pays, combien devraient devenir envahissantes d’après la règle des 10 %, et quelle est la limite de ce raisonnement ?",
+  "reponse": "2 000 → environ 200 introduites dans la nature → environ 20 établies → environ **2 envahissantes**. C’est un **ordre de grandeur**, pas une loi. Le taux varie selon les groupes (bien plus élevé pour les vertébrés relâchés intentionnellement), selon la **pression de propagules** (nombre d’individus et d’introductions) et selon la similarité climatique. Il ne prédit pas **quelles** espèces deviendront envahissantes.",
+  "pieges": [
+    "Prendre la règle pour une constante biologique.",
+    "Oublier qu’elle s’applique en cascade (≈ 1/1 000 au total)."
+  ],
+  "liens": [
+    "etapes-invasion",
+    "effet-allee"
+  ]
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "zoologie",
+    "nom": "Zoologie",
+    "dossier": "Zoologie/",
+    "fichiers": [
+      "Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+      "Synthese de Zoologie 2 2019-2020.pdf"
+    ]
+  },
+  {
+    "id": "botanique",
+    "nom": "Botanique",
+    "dossier": "Botanique/",
+    "fichiers": [
+      "Syllabus BIOL-F-201 - 2020 - vol. 1 - PM + SB - nouvelle version.pdf",
+      "Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+      "Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf"
+    ]
+  },
+  {
+    "id": "ethologie",
+    "nom": "Comportement animal",
+    "dossier": "comportement animal/",
+    "fichiers": [
+      "Cours Eco-Ethologie_22-23.pdf",
+      "Synthese_retranscription du cours de Claire Detrain.pdf",
+      "Tp/ (bruches, cloportes, fourmis)"
+    ]
+  },
+  {
+    "id": "societes",
+    "nom": "Sociétés animales",
+    "dossier": "animal societies/",
+    "fichiers": [
+      "Biology of Animal Societies (2017-2018).pdf",
+      "Synthèse animal societies.docx",
+      "Réponses Q exam.docx"
+    ]
+  },
+  {
+    "id": "module1",
+    "nom": "M1 · Variation, spéciation, polyploïdie",
+    "dossier": "module 1/",
+    "fichiers": [
+      "synthèse.docx",
+      "1_Variation intraspÃ©cifique - copie.pdf",
+      "XNS3L0-2. SpÃ©ciation - copie.pdf",
+      "3. PolyploÃ¯die - copie.pdf",
+      "Xi7uW3-2023-02-09_GenomeEvolution_Flot - copie.pdf"
+    ]
+  },
+  {
+    "id": "module2",
+    "nom": "M2 · Génétique des populations",
+    "dossier": "module 2/",
+    "fichiers": [
+      "Résumé module 2.docx",
+      "CoursBIOL-F450_SM2(OH3)StructGenet.pdf",
+      "MarqueursMoleÌculaires_2022-2023 - copie.pdf",
+      "Parenté.pdf",
+      "7qY10q-ReÌseauxphylogeÌographie - copie.pdf"
+    ]
+  },
+  {
+    "id": "module3",
+    "nom": "M3 · Dérive, flux, sélection",
+    "dossier": "module 3/",
+    "fichiers": [
+      "Synthèse module 3.docx",
+      "Derive genet.pdf",
+      "Flux gènes.pdf",
+      "Selection.pdf",
+      "GeÌneÌalogiesDeGeÌne - copie.pdf",
+      "2023-02-17_speciesdelimitation - copie.pdf"
+    ]
+  },
+  {
+    "id": "module4",
+    "nom": "M4 · Conservation & invasions",
+    "dossier": "module 4/",
+    "fichiers": [
+      "Résumé module 4.docx",
+      "CoursBIOL-F450_SM3(OH4)IntroBiolConserv(diapos+notesEN).pdf",
+      "invasions 2.pdf",
+      "invasions 3.pdf",
+      "invasions 4.pdf"
+    ]
+  },
+  {
+    "id": "module5",
+    "nom": "M5 · Évolution humaine",
+    "dossier": "module 5/",
+    "fichiers": [
+      "Anthropologie biologique.docx",
+      "Evolution Humaine1.pdf",
+      "LHomme de NÃ©andertal.pdf",
+      "HumanEvolution.pdf",
+      "Ostéologie.docx"
+    ]
+  },
+  {
+    "id": "transcriptomique",
+    "nom": "Transcriptomique",
+    "dossier": "Transcriptomic/",
+    "fichiers": [
+      "L01.pdf … L05.pdf",
+      "P01.pdf … P05.pdf"
+    ]
+  },
+  {
+    "id": "ecologie",
+    "nom": "Écologie & biodiversité",
+    "dossier": "(culture générale + liens modules 3 et 4)",
+    "fichiers": []
+  }
+]

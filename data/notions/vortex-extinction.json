@@ -1,0 +1,19 @@
+{
+  "id": "vortex-extinction",
+  "titre": "Petites populations et vortex d’extinction",
+  "module": "module4",
+  "source": "module 4/CoursBIOL-F450_SM3(OH4)IntroBiolConserv(diapos+notesEN).pdf",
+  "essentiel": "Les petites populations cumulent plusieurs risques :\n- **stochasticité démographique** et **environnementale** ;\n- **effet Allee** ;\n- **dérive** et perte de diversité ;\n- **dépression de consanguinité** ;\n- accumulation de mutations délétères (fardeau de dérive).\n\nCes facteurs se renforcent mutuellement : c’est le **vortex d’extinction** (Gilpin & Soulé, 1986). La biologie de la conservation est une « discipline de crise » (Soulé, 1985).",
+  "details": "La moindre diversité réduit le potentiel adaptatif. La consanguinité réduit la fitness, ce qui réduit encore l’effectif, et ainsi de suite.\n\nOutils :\n- l’**analyse de viabilité des populations** (PVA) ;\n- la **population minimale viable** ;\n- les corridors écologiques ;\n- le **sauvetage génétique**.\n\nCas du sauvetage génétique : la panthère de Floride, où l’introduction de 8 femelles du Texas en 1995 a réduit les défauts liés à la consanguinité et fait remonter l’effectif. Les loups de l’Isle Royale offrent un exemple de consanguinité extrême.\n\nLa diversité génétique fait partie des trois niveaux de la biodiversité (gènes, espèces, écosystèmes) reconnus par la Convention sur la diversité biologique.",
+  "question": "Qu’est-ce que le sauvetage génétique, et quel risque comporte-t-il ?",
+  "reponse": "C’est l’introduction de quelques individus d’une **autre population** dans une petite population consanguine. Elle apporte de la **diversité génétique**, masque les allèles délétères récessifs et restaure la fitness, comme chez la panthère de Floride. Le risque est la **dépression hybride** (*outbreeding depression*) : si les populations sont adaptées à des milieux différents ou divergées depuis longtemps, leurs hybrides peuvent être moins adaptés. On peut aussi « noyer » des adaptations locales.",
+  "pieges": [
+    "Croire qu’une population nombreuse mais à faible Ne est à l’abri.",
+    "Oublier la dépression hybride comme risque du sauvetage génétique."
+  ],
+  "liens": [
+    "taille-efficace",
+    "effet-allee",
+    "derive-genetique"
+  ]
+}

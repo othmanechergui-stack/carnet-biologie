@@ -1,0 +1,18 @@
+{
+  "id": "eudicots-monocots",
+  "titre": "Eudicotylédones et Monocotylédones",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Les **Monocotylédones** forment un clade défini par un **seul cotylédon** et l’absence de cambium. Les **Eudicotylédones** sont définies par une synapomorphie microscopique : le **pollen triaperturé** (trois fentes ou pores). Le groupe « Dicotylédones » au sens large est **paraphylétique**, car il inclut des lignées archaïques (Magnoliidées, *Amborella*, nymphéas) qui ont un pollen à une seule aperture.",
+  "details": "Monocotylédones : nervures parallèles, fleurs souvent à pièces par 3, racines fasciculées, atactostèle. Exemples : Poacées, Orchidacées, Liliacées.\n\nEudicotylédones : nervation réticulée, fleurs à pièces par 4 ou 5, racine pivotante, faisceaux en cercle et cambium.\n- Les Eudicotylédones archaïques (Renonculales) ont encore beaucoup de pièces libres.\n- Les **Astéridées** ont une corolle gamopétale et des ovules à un seul tégument et nucelle mince.\n- Les **Rosidées** comprennent Rosacées, Fabacées et Brassicacées.\n\nLe syllabus détaille trois familles « au sommet évolutif » : **Astéracées, Orchidacées, Poacées**.",
+  "question": "Pourquoi le pollen triaperturé est-il un meilleur caractère que le nombre de cotylédons pour délimiter les Eudicotylédones ?",
+  "reponse": "Deux cotylédons est l’état **ancestral** des Angiospermes : on le trouve aussi chez *Amborella*, les nymphéas et les Magnoliidées. C’est une symplésiomorphie, qui ne définit pas de clade. Le pollen triaperturé est un état **dérivé**, présent seulement chez le clade des Eudicotylédones : c’est une **synapomorphie**. Le nombre de cotylédons ne délimite qu’un clade, celui des Monocotylédones, défini par l’état dérivé « un seul cotylédon ».",
+  "pieges": [
+    "Considérer les « Dicotylédones » comme un clade.",
+    "Croire que toutes les monocotylédones sont herbacées (palmiers, bambous)."
+  ],
+  "liens": [
+    "angiospermes-double-fecondation",
+    "caracteres-cladistique"
+  ]
+}

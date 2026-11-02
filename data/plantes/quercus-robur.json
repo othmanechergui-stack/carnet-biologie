@@ -1,0 +1,162 @@
+{
+  "id": "quercus-robur",
+  "nom": "Chêne pédonculé",
+  "latin": "Quercus robur",
+  "type": "arbre",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "prairie"
+  ],
+  "belgique": true,
+  "clade": "fagales",
+  "saison": [
+    4,
+    5,
+    9,
+    10,
+    11
+  ],
+  "resume": "Le grand chêne des forêts et des prairies belges, qui peut vivre plus de 500 ans. Ses glands sont portés par un **long pédoncule** et ses feuilles sont presque sans pétiole. C’est l’arbre qui héberge le plus d’espèces d’insectes en Europe.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Rosidées",
+      []
+    ],
+    [
+      "Ordre",
+      "Fagales",
+      [
+        "Chatons, pollinisation anémophile"
+      ]
+    ],
+    [
+      "Famille",
+      "Fagacées",
+      [
+        "Fruit (akène) dans une cupule"
+      ]
+    ],
+    [
+      "Genre",
+      "Quercus",
+      [
+        "Gland"
+      ]
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Fagus sylvatica",
+    "parents": [
+      "Quercus petraea",
+      "Quercus pubescens"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Il est **monoïque** : les chatons mâles pendants libèrent leur pollen au vent, et les fleurs femelles sont minuscules. Le fruit est un **akène** (le gland) dans une **cupule**. Son bois de cœur, ou **duramen**, est riche en tanins.",
+    "details": "Le bois est hétérogène, à **zone poreuse** : de gros vaisseaux au printemps, de petits en été. Les cernes sont très lisibles, ce qui en fait un bois de référence en dendrochronologie. Les tanins protègent contre les herbivores et les champignons, et leur concentration baisse avec la croissance."
+  },
+  "identification": {
+    "feuille": "Lobée, à lobes arrondis, pétiole très court (< 1 cm), deux « oreillettes » à la base",
+    "fleur": "Chatons mâles jaunes pendants en avril-mai",
+    "fruit": "Glands sur un long pédoncule (3–8 cm)",
+    "ecorce": "Profondément crevassée chez l’adulte",
+    "port": "Large couronne irrégulière, branches tortueuses",
+    "periode": "Feuillaison fin avril ; glands mûrs en octobre"
+  },
+  "ecologie": {
+    "essentiel": "Forêts sur sols frais à humides, prairies, bocages. Très commun en Belgique.",
+    "details": "Plus de **2 300 espèces** lui sont associées au Royaume-Uni (Mitchell et al., 2019), dont des centaines d’insectes, des champignons ectomycorhiziens et des lichens. Le geai des chênes disperse les glands en les cachant.",
+    "uicn": "LC",
+    "menaces": [
+      "Dépérissement (sécheresses, chenilles processionnaires)",
+      "Oïdium du chêne (champignon introduit)"
+    ]
+  },
+  "usages": {
+    "essentiel": "Bois de charpente, de tonnellerie (le chêne donne leur goût aux vins et whiskies) et de menuiserie. Les glands, riches en tanins, sont toxiques crus pour les chevaux et les bovins en grande quantité. Ils ont été consommés après lessivage en période de disette.",
+    "details": "L’écorce servait au tannage des peaux. Le « bois de chêne de marais », fossilisé dans les tourbières, est très recherché."
+  },
+  "facts": [
+    "Plus de 2 300 espèces dépendent de lui en Grande-Bretagne.",
+    "Le pédoncule est sur le gland chez le chêne pédonculé, et sur la feuille chez le chêne sessile.",
+    "Il s’hybride avec le chêne sessile : les deux espèces restent distinctes malgré un flux de gènes.",
+    "Le geai des chênes peut cacher plusieurs milliers de glands par automne et en oublier une partie : il plante des forêts."
+  ],
+  "anecdote": "Pour reconnaître les deux chênes : le pédonculé a la queue sur le fruit, le sessile a la queue sur la feuille.",
+  "indices_quiz": [
+    "Fagacée monoïque à glands portés par un long pédoncule.",
+    "Arbre européen qui héberge le plus d’espèces.",
+    "Il s’hybride avec son cousin sessile tout en restant distinct."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/56133",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Quercus_robur"
+  },
+  "notions": [
+    "concepts-espece",
+    "croissance-secondaire"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Forêts, bocages, parcs : partout en Belgique.",
+    "quand": "Toute l’année ; glands en octobre.",
+    "criteres": [
+      "Glands sur long pédoncule",
+      "Feuilles presque sans pétiole, à oreillettes",
+      "Couronne irrégulière"
+    ],
+    "sosies": [
+      {
+        "espece": "Chêne sessile (Quercus petraea)",
+        "distinguer": "Glands sessiles (sans pédoncule), feuilles à pétiole long (1–2,5 cm) sans oreillettes ; sols plus secs."
+      },
+      {
+        "espece": "Chêne rouge d’Amérique (Quercus rubra)",
+        "distinguer": "Feuilles à lobes pointus terminés par des soies, grandes ; espèce plantée."
+      }
+    ]
+  }
+}

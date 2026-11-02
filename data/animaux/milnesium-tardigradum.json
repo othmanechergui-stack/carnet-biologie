@@ -1,0 +1,103 @@
+{
+  "id": "milnesium-tardigradum",
+  "nom": "Tardigrade (Milnesium)",
+  "latin": "Milnesium tardigradum",
+  "groupe": "tardigrade",
+  "milieu": [
+    "jardin",
+    "foret",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "tardigrada",
+  "resume": "Les « oursons d’eau » de moins d’un millimètre vivent dans les **mousses** des toits et des murs. Desséchés, ils entrent en **cryptobiose** et résistent à des conditions extrêmes.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Tardigrades",
+      "synapomorphies": [
+        "4 paires de pattes à griffes",
+        "Stylets buccaux"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Eutardigrades",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Apochela",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Milnésiidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Milnesium",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Caenorhabditis elegans",
+    "parents": [
+      "Hypsibius exemplaris",
+      "Ramazzottius varieornatus"
+    ]
+  },
+  "facts": [
+    "En 2007, des tardigrades (dont Milnesium tardigradum) ont survécu à une exposition au vide spatial (mission FOTON-M3).",
+    "En tonnelet, ils supportent des températures proches du zéro absolu.",
+    "Certains reviennent à la vie après des années de dessiccation dans une mousse d’herbier.",
+    "On peut les observer en faisant tremper une touffe de mousse de toit et en regardant l’eau à la loupe binoculaire."
+  ],
+  "anecdote": "Des tardigrades ramassés dans une mousse ordinaire ont survécu au vide spatial : la prochaine mousse de ton toit cache peut-être des astronautes.",
+  "indices_quiz": [
+    "Micro-animal ecdysozoaire à 8 pattes griffues.",
+    "Il survit desséché en « tonnelet » (anhydrobiose).",
+    "Il a survécu au vide spatial en 2007."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/256112",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Milnesium_tardigradum"
+  },
+  "notions": [
+    "ecdysozoaires-mue"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il mesure 0,2 à 0,7 mm, avec quatre paires de pattes griffues. Il est **eutélique** : le nombre de cellules est fixe chez l’adulte. *Milnesium* est **carnivore** : il perce rotifères et nématodes avec ses stylets.",
+    "details": "En **anhydrobiose**, il se contracte en « tonnelet », perd presque toute son eau et stoppe son métabolisme. Des protéines désordonnées spécifiques (CAHS chez les eutardigrades) se vitrifient et protègent ses cellules. Il peut ainsi survivre des années."
+  },
+  "comportement": {
+    "essentiel": "Il broute ou chasse dans le film d’eau des mousses. La reproduction est sexuée ou parthénogénétique selon les populations.",
+    "details": "Comportement de cryptobiose : le tonnelet se forme en réponse à la dessiccation lente. Un séchage trop rapide le tue.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Coussinets de mousses et de lichens sur toits, murs, troncs.",
+    "details": "C’est un membre de la microfaune des mousses, prédateur de rotifères et de nématodes.",
+    "uicn": "NE",
+    "menaces": [
+      "Aucune connue"
+    ]
+  },
+  "terrain": {
+    "ou": "Mousses des toits, des murs et des troncs ; à faire tremper puis observer à la binoculaire.",
+    "quand": "Toute l’année.",
+    "criteres": [
+      "Microscopique (≤ 1 mm)",
+      "4 paires de pattes griffues",
+      "Démarche lente et maladroite (« ourson »)"
+    ],
+    "sosies": [
+      {
+        "espece": "Rotifères bdelloïdes",
+        "distinguer": "Pas de pattes ; couronne ciliée rotative à l’avant ; se déplacent comme des chenilles arpenteuses."
+      }
+    ]
+  }
+}

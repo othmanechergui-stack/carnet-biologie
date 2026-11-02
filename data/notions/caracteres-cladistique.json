@@ -1,0 +1,17 @@
+{
+  "id": "caracteres-cladistique",
+  "titre": "Apomorphies, plésiomorphies et homoplasies",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Un caractère peut être à l’état **ancestral** (plésiomorphie) ou **dérivé** (apomorphie). Seuls les états dérivés partagés, les **synapomorphies**, permettent de reconnaître un clade. Les **autapomorphies** (propres à un seul taxon) et les **symplésiomorphies** (états ancestraux partagés) ne renseignent pas sur les relations. La polarité se détermine par comparaison avec un **groupe externe**.",
+  "details": "Les **homoplasies** sont des ressemblances non héritées d’un ancêtre commun : convergences (ailes des oiseaux et des chauves-souris en tant qu’ailes), réversions (perte secondaire des pattes chez les serpents). Le principe de **parcimonie** choisit l’arbre qui minimise le nombre de changements d’états, et donc d’homoplasies.\n\nLe groupe externe est un taxon supposé extérieur au groupe étudié ; l’état qu’il présente est considéré comme ancestral.",
+  "question": "Les requins et les poissons osseux possèdent tous deux des vertèbres et des nageoires. Ces caractères permettent-ils de regrouper requins et poissons osseux en excluant les tétrapodes ? Justifie avec le vocabulaire cladistique.",
+  "reponse": "Non. Les vertèbres sont une **symplésiomorphie** au niveau des gnathostomes : elles sont héritées de l’ancêtre commun de tous les vertébrés à mâchoires, tétrapodes compris. Partager un état ancestral ne dit rien sur la proximité relative. Les poissons osseux (actinoptérygiens + sarcoptérygiens) forment avec les tétrapodes le clade des Ostéichthyens, défini par une synapomorphie : l’os endochondral.",
+  "pieges": [
+    "Utiliser une ressemblance ancestrale (symplésiomorphie) pour définir un groupe.",
+    "Oublier que la polarité d’un caractère dépend du niveau de l’arbre : un état dérivé à un niveau devient ancestral plus haut."
+  ],
+  "liens": [
+    "classification-ecoles"
+  ]
+}

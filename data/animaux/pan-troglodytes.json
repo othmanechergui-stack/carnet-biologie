@@ -1,0 +1,108 @@
+{
+  "id": "pan-troglodytes",
+  "nom": "Chimpanzé commun",
+  "latin": "Pan troglodytes",
+  "groupe": "mammifere",
+  "milieu": [
+    "foret",
+    "savane"
+  ],
+  "belgique": false,
+  "clade": "primates",
+  "resume": "Avec le bonobo, c’est notre **plus proche parent vivant**, avec une divergence vers 6 à 7 Ma. Il utilise des **outils** et possède des **traditions culturelles** différentes selon les populations.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Primates",
+      "synapomorphies": [
+        "Ongles plats",
+        "Pouce opposable"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Hominidés",
+      "synapomorphies": [
+        "Pas de queue",
+        "Grand cerveau"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Pan",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Pongo pygmaeus",
+    "parents": [
+      "Pan paniscus",
+      "Homo sapiens",
+      "Gorilla gorilla"
+    ]
+  },
+  "facts": [
+    "Les cultures d’outils diffèrent d’une population à l’autre et se transmettent socialement.",
+    "Certains chimpanzés cassent des noix avec des enclumes en pierre depuis au moins 4 300 ans (fouilles archéologiques en Côte d’Ivoire).",
+    "Pour une fraction du génome, l’humain est plus proche du gorille que du chimpanzé (tri incomplet des lignées).",
+    "Les femelles quittent leur groupe natal, alors que les mâles restent."
+  ],
+  "anecdote": "L’archéologie du chimpanzé existe : en Côte d’Ivoire, des sites de cassage de noix vieux de plus de 4 000 ans ont été fouillés.",
+  "indices_quiz": [
+    "Hominidé en knuckle-walking, notre plus proche parent avec le bonobo.",
+    "Ses traditions d’outils varient d’une population à l’autre.",
+    "Mâles philopatriques en coalitions."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/43577",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Pan_troglodytes"
+  },
+  "notions": [
+    "humains-grands-singes",
+    "genealogies-tri-incomplet"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Le mâle pèse 40 à 70 kg. Il se déplace en **knuckle-walking** (appui sur les phalanges). Son cerveau fait environ 350 à 400 cm³. Il a une force considérable. Sa dentition est en U avec de grandes canines.",
+    "details": "La divergence de séquence avec l’humain est d’environ 1,2 % en substitutions, davantage avec les indels. Une part importante des gènes montre du **tri incomplet** : pour certains loci, l’humain est plus proche du gorille."
+  },
+  "comportement": {
+    "essentiel": "Il vit en communautés **fission-fusion**, avec des mâles philopatriques qui coopèrent dans des **coalitions** et défendent le territoire, et des femelles qui se dispersent.",
+    "details": "Les outils varient selon les populations : bâtonnets pour pêcher les termites, marteaux et enclumes pour casser des noix en Côte d’Ivoire, éponges de feuilles. Ces **cultures** se transmettent socialement (Whiten et al., 1999). Il pratique la chasse coopérative de colobes. Les patrouilles territoriales peuvent être létales (« guerres » de Gombe).",
+    "concepts": [
+      "cd-reciprocite",
+      "humains-grands-singes"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Forêts tropicales et savanes boisées d’Afrique de l’Ouest et centrale.",
+    "details": "Disperseur de graines. Effectifs en fort déclin.",
+    "uicn": "EN",
+    "menaces": [
+      "Déforestation",
+      "Braconnage (viande de brousse)",
+      "Maladies (Ebola, maladies humaines)",
+      "Trafic de jeunes"
+    ]
+  }
+}

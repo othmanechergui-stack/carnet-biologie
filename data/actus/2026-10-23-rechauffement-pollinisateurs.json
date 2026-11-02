@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-23-rechauffement-pollinisateurs",
+  "date": "2026-10-23",
+  "titre": "Le réchauffement casse le mutualisme plante–abeille même sans décalage temporel",
+  "resume": "En serres climatisées, le réchauffement avance à la fois la floraison et l’activité de l’osmie Osmia lignaria : le chevauchement reste intact. Pourtant, fleurs plus petites, moins de nectar, abeilles qui vivent moins longtemps et construisent moins de cellules, plus forte mortalité des plantules. Le décalage phénologique n’est donc pas le seul mécanisme de rupture.",
+  "source": {
+    "nom": "Global Change Biology 32(8) e71074 — Manincor et al. (via Botany One)",
+    "url": "https://www.botany.one/how-global-warming-weakens-plant-pollinator-partnerships/"
+  },
+  "themes": [
+    "ecologie",
+    "botanique",
+    "climat"
+  ],
+  "grille": {
+    "modele": "plante",
+    "echantillon": "non précisé (communautés en serre)",
+    "publication": "revue",
+    "design": "causalite",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "Dans l’expérience en serre, pourquoi le mutualisme se dégrade-t-il malgré un chevauchement temporel intact ?",
+    "choix": [
+      "Parce que les abeilles émergent trop tard",
+      "Parce que la chaleur réduit nectar et fleurs et affaiblit les abeilles",
+      "Parce que les plantes deviennent autogames"
+    ],
+    "bonne": 1
+  },
+  "module": "ecologie"
+}

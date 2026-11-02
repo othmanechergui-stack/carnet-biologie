@@ -1,0 +1,17 @@
+{
+  "id": "agregation-cloportes",
+  "titre": "Agrégation des cloportes (TP)",
+  "module": "ethologie",
+  "source": "comportement animal/Tp/CA_Rapport-Cloportes.docx",
+  "essentiel": "Les cloportes sont des **crustacés isopodes terrestres**, sensibles au dessèchement : ils respirent par des pléopodes et leur cuticule est perméable. Ils recherchent les abris sombres et humides et forment des **agrégats**. L’agrégation réduit la perte d’eau par individu, grâce à un effet de groupe sur le microclimat. Elle repose sur une **interattraction** (contacts, signaux chimiques) en plus des préférences pour l’abri.",
+  "details": "Ton TP comparait la répartition d’un individu isolé et de groupes dans une arène à quatre secteurs, dont l’un contenait un abri sombre, entre 9 et 30 minutes. Pour l’individu isolé, le test du **χ²** donnait p ≈ 0,80 : H0 « pas de préférence » n’était **pas rejetée**, malgré une tendance à rester près de l’abri.\n\nLeçon méthodologique : avec un seul individu, la puissance statistique est faible et les observations successives ne sont pas indépendantes. Il faut les données de la classe (plusieurs réplicats) pour conclure.\n\nLes mécanismes en jeu sont l’**orthocinèse** (la vitesse diminue en milieu humide), la **klinocinèse** (la fréquence des virages change) et la **thigmotaxie**.",
+  "question": "Pourquoi un test du χ² sur les positions successives d’un seul cloporte observé pendant 20 minutes est-il fragile ?",
+  "reponse": "Parce que les positions successives d’un même animal **ne sont pas indépendantes** : là où il est à t dépend de là où il était à t−1. C’est de la pseudo-réplication, alors que le χ² suppose des observations indépendantes. De plus, n = 1 individu ne permet pas de généraliser à la population. Il faut plusieurs individus indépendants (un par arène) et une analyse au niveau des individus, par exemple un test sur la proportion de temps dans le secteur abri.",
+  "pieges": [
+    "Conclure à une préférence parce que l’animal « reste souvent » près de l’abri sans test significatif.",
+    "Ignorer la pseudo-réplication."
+  ],
+  "especes": [
+    "oniscus-asellus"
+  ]
+}

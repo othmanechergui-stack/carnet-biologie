@@ -1,0 +1,135 @@
+{
+  "id": "triticum-aestivum",
+  "nom": "Blé tendre",
+  "latin": "Triticum aestivum",
+  "type": "assiette",
+  "regne": "plante",
+  "milieu": [
+    "culture"
+  ],
+  "belgique": true,
+  "clade": "poales",
+  "saison": [
+    6,
+    7
+  ],
+  "resume": "La céréale du pain, et un génome hors norme : le blé tendre est un **allohexaploïde** (AABBDD) né de deux hybridations entre trois graminées sauvages, au Croissant fertile.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Monocotylédones",
+      [
+        "Un cotylédon"
+      ]
+    ],
+    [
+      "Ordre",
+      "Poales",
+      []
+    ],
+    [
+      "Famille",
+      "Poacées (Graminées)",
+      [
+        "Caryopse",
+        "Épillets",
+        "Tige creuse à nœuds"
+      ]
+    ],
+    [
+      "Genre",
+      "Triticum",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Allium ursinum",
+    "parents": [
+      "Triticum turgidum",
+      "Aegilops tauschii",
+      "Hordeum vulgare"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ses fleurs sont réduites, sans pétales, en **épillets** protégés de glumes et de glumelles. Il est **anémophile** et largement autogame. Le fruit est un **caryopse** : la paroi du fruit est soudée à la graine. L’**albumen** est riche en amidon et en gluten, et le germe forme l’embryon.",
+    "details": "Son génome fait environ **16 Gb**, cinq fois le génome humain. Origine : *T. urartu* (génome A) × un *Aegilops* proche de *Ae. speltoides* (B) a donné le blé dur tétraploïde (AABB). Celui-ci a ensuite été croisé avec *Ae. tauschii* (D) il y a environ 10 000 ans. Le gène *Ph1* empêche les appariements entre homéologues et assure une méiose régulière."
+  },
+  "identification": {
+    "feuille": "Linéaire, ligule et oreillettes à la base",
+    "fleur": "Épillets en épi, sans pétales",
+    "fruit": "Caryopse (grain)",
+    "ecorce": "—",
+    "port": "Graminée annuelle 0,6–1,2 m",
+    "periode": "Semis d’automne ; moisson en juillet-août"
+  },
+  "ecologie": {
+    "essentiel": "Champs cultivés ; il a été domestiqué au **Croissant fertile** vers 10 000 ans avant le présent.",
+    "details": "Les plaines limoneuses de Hesbaye et du Brabant sont parmi les meilleures terres à blé d’Europe.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Pain, pâtes (blé **dur**, tétraploïde), bière (avec l’orge), seitan. La **maladie cœliaque** est une réaction auto-immune au gluten chez des personnes génétiquement prédisposées : elle est différente de la sensibilité au gluten non cœliaque.",
+    "details": "L’épeautre est un blé hexaploïde vêtu, proche du blé tendre.",
+    "confusions_dangereuses": [
+      "Ergot du seigle (Claviceps purpurea) sur céréales : alcaloïdes toxiques (ergotisme)"
+    ]
+  },
+  "facts": [
+    "Son génome est environ cinq fois plus grand que le génome humain.",
+    "Il réunit les génomes de trois espèces sauvages.",
+    "Le blé dur des pâtes est tétraploïde, le blé tendre du pain hexaploïde.",
+    "Son grain est un fruit (caryopse), pas une simple graine."
+  ],
+  "anecdote": "Ta tartine contient trois espèces sauvages fusionnées : le blé tendre est un allohexaploïde né de deux hybridations au Croissant fertile.",
+  "indices_quiz": [
+    "Poacée allohexaploïde AABBDD.",
+    "Son grain est un caryopse.",
+    "Génome environ cinq fois plus grand que le nôtre."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/64161",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Triticum_aestivum"
+  },
+  "notions": [
+    "polyploidie",
+    "eudicots-monocots"
+  ],
+  "ajoute_le": "2026-11-02"
+}

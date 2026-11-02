@@ -1,0 +1,141 @@
+{
+  "id": "brassica-oleracea",
+  "nom": "Chou (Brassica oleracea)",
+  "latin": "Brassica oleracea",
+  "type": "assiette",
+  "regne": "plante",
+  "milieu": [
+    "culture",
+    "falaise"
+  ],
+  "belgique": true,
+  "clade": "brassicales",
+  "saison": [
+    10,
+    11,
+    12,
+    1
+  ],
+  "resume": "Une seule espèce, de très nombreux légumes : chou pommé, chou-fleur, brocoli, chou de Bruxelles, chou-rave, kale. Tous ont été **sélectionnés** à partir du chou sauvage des falaises atlantiques.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Rosidées",
+      []
+    ],
+    [
+      "Ordre",
+      "Brassicales",
+      [
+        "Glucosinolates"
+      ]
+    ],
+    [
+      "Famille",
+      "Brassicacées (Crucifères)",
+      [
+        "4 pétales en croix",
+        "6 étamines dont 4 longues",
+        "Silique"
+      ]
+    ],
+    [
+      "Genre",
+      "Brassica",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Urtica dioica",
+    "parents": [
+      "Brassica rapa",
+      "Brassica napus",
+      "Sinapis arvensis"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ses fleurs jaunes ont **4 pétales en croix** et 6 étamines **tétradynames** (4 longues, 2 courtes). Le fruit est une **silique**. Les **glucosinolates**, hydrolysés par la myrosinase quand la feuille est blessée, donnent les isothiocyanates piquants et l’odeur soufrée. C’est une défense contre les herbivores, à la manière de la « bombe à moutarde ».",
+    "details": "Chaque légume exagère un organe :\n- le **bourgeon terminal** pour le chou pommé ;\n- les **bourgeons axillaires** pour le chou de Bruxelles ;\n- l’**inflorescence** pour le brocoli et le chou-fleur ;\n- la **tige** pour le chou-rave.\n\nC’est un spectaculaire exemple de **sélection artificielle** sur la variation de l’architecture de la plante. Le **triangle de U** (1935) relie *B. oleracea* (C), *B. rapa* (A) et *B. nigra* (B) aux allotétraploïdes, comme le colza *B. napus* (AACC)."
+  },
+  "identification": {
+    "feuille": "Épaisse, glauque, cireuse",
+    "fleur": "Jaune, 4 pétales en croix",
+    "fruit": "Silique",
+    "ecorce": "—",
+    "port": "Bisannuelle",
+    "periode": "Choux de Bruxelles récoltés d’octobre à février, meilleurs après les gelées"
+  },
+  "ecologie": {
+    "essentiel": "Chou sauvage sur les falaises calcaires littorales (Manche, Atlantique). Cultivé partout.",
+    "details": "Plante hôte des piérides du chou.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Le chou de Bruxelles a été sélectionné dans la région de Bruxelles, probablement au XVIIIᵉ siècle, sinon plus tôt. Sa saveur amère vient des glucosinolates : certaines personnes la perçoivent plus fortement (gène récepteur *TAS2R38*).",
+    "details": "Les variétés modernes sont moins amères : on a sélectionné contre certains glucosinolates dans les années 1990."
+  },
+  "facts": [
+    "Chou pommé, chou-fleur, brocoli, kale, chou-rave et chou de Bruxelles appartiennent à une seule espèce.",
+    "Le chou de Bruxelles est un ensemble de bourgeons axillaires hypertrophiés.",
+    "Le colza est un allotétraploïde issu du chou et de la navette.",
+    "L’amertume du chou de Bruxelles est perçue différemment selon ton génotype."
+  ],
+  "anecdote": "Si tu détestes les choux de Bruxelles, ton récepteur de l’amertume TAS2R38 y est peut-être pour quelque chose.",
+  "indices_quiz": [
+    "Brassicacée dont les cultivars exagèrent chacun un organe.",
+    "Le chou de Bruxelles est fait de bourgeons axillaires.",
+    "Le triangle de U relie les choux au colza."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/54516",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Brassica_oleracea"
+  },
+  "notions": [
+    "polyploidie"
+  ],
+  "ajoute_le": "2026-11-02"
+}

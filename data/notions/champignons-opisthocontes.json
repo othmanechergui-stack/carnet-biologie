@@ -1,0 +1,17 @@
+{
+  "id": "champignons-opisthocontes",
+  "titre": "Les champignons sont des Opisthocontes",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Les champignons (Fungi ou Eumycètes) ne sont **pas des plantes**. Avec les animaux, ils forment les **Opisthocontes**, dont les synapomorphies sont un **flagelle propulseur** postérieur (quand il existe) et l’utilisation de la **chitine** comme molécule de structure. Les synapomorphies propres aux Fungi sont l’**hétérotrophie par absorption**, une paroi rigide et un appareil végétatif fait d’**hyphes**.",
+  "details": "Phylogénie simplifiée du syllabus :\n- **Chytridiomycètes** : cellules flagellées.\n- **Zygomycètes** : moisissures à filaments non cloisonnés (*Mucor*, *Rhizopus*).\n- **Gloméromycètes** : endomycorhizes.\n- **Ascomycètes** : 8 spores dans un **asque** ; levures, *Penicillium*, morilles, truffes.\n- **Basidiomycètes** : 4 spores au sommet d’une **baside** ; la plupart des champignons à chapeau.\n\nLes champignons digèrent leur nourriture **à l’extérieur** grâce à des enzymes, puis absorbent les petites molécules. Ils jouent un rôle clé de décomposeurs, notamment de la lignine (pourritures blanches).",
+  "question": "Donne deux arguments, l’un biochimique et l’autre lié aux cellules flagellées, qui rapprochent les champignons des animaux plutôt que des plantes.",
+  "reponse": "1) La **chitine** : c’est le polymère structural de la paroi des champignons et de la cuticule des arthropodes, alors que les plantes utilisent la cellulose.\n\n2) Le **flagelle unique postérieur propulseur** des cellules flagellées des chytrides, comme celui des spermatozoïdes animaux. C’est le sens d’« opisthoconte » : flagelle à l’arrière.\n\nOn peut ajouter que la réserve est le **glycogène**, comme chez les animaux, et non l’amidon. Les phylogénies moléculaires confirment ce groupement.",
+  "pieges": [
+    "Classer les champignons parmi les plantes parce qu’ils sont immobiles et ont une paroi.",
+    "Dire que les champignons « font de la photosynthèse » ou « mangent » par ingestion : ils absorbent."
+  ],
+  "liens": [
+    "mycorhizes"
+  ]
+}

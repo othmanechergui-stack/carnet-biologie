@@ -1,0 +1,145 @@
+{
+  "id": "polytrichum-commune",
+  "nom": "Polytric commun",
+  "latin": "Polytrichum commune",
+  "type": "mousse",
+  "regne": "plante",
+  "milieu": [
+    "tourbiere",
+    "foret",
+    "lande"
+  ],
+  "belgique": true,
+  "clade": "bryophyta",
+  "saison": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "resume": "Grande mousse dressée des tourbières et des landes humides. Ses tiges peuvent dépasser 30 cm. Ses tissus conducteurs (hydroïdes et leptoïdes) en font la mousse la plus « vasculaire ».",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Stomatophytes",
+      [
+        "Stomates sur le sporophyte"
+      ]
+    ],
+    [
+      "Clade",
+      "Hémitrachéophytes",
+      [
+        "Cellules conductrices"
+      ]
+    ],
+    [
+      "Division",
+      "Mousses (Bryophytes s.s.)",
+      [
+        "Tige feuillée",
+        "Capsule à péristome"
+      ]
+    ],
+    [
+      "Famille",
+      "Polytrichacées",
+      [
+        "Lamelles chlorophylliennes sur les feuilles"
+      ]
+    ],
+    [
+      "Genre",
+      "Polytrichum",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Marchantia polymorpha",
+    "parents": [
+      "Polytrichum formosum",
+      "Atrichum undulatum"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "La plante visible est le **gamétophyte** (n). Le **sporophyte** (2n) est une soie surmontée d’une **capsule** coiffée d’une coiffe poilue. Il reste **dépendant** du gamétophyte pour sa nutrition. Les tiges ont des **hydroïdes** (conduction de l’eau, cellules mortes non lignifiées) et des **leptoïdes** (conduction des sucres).",
+    "details": "Ses feuilles portent des **lamelles** photosynthétiques sur la face supérieure, qui augmentent la surface d’échange. Par temps sec, les feuilles se plaquent contre la tige. Le **péristome** contrôle la libération des spores selon l’humidité. Les gamètes mâles sont flagellés : la fécondation a besoin d’eau (éclaboussures de pluie sur les « fleurs » mâles en coupe)."
+  },
+  "identification": {
+    "feuille": "Lancéolée, raide, à bord denté, avec lamelles sur la face supérieure",
+    "fleur": "« Fleurs » mâles en coupes (rosettes) au sommet des tiges mâles",
+    "fruit": "Capsule quadrangulaire sur longue soie, coiffe poilue",
+    "ecorce": "—",
+    "port": "Tiges dressées en coussins, 5–40 cm",
+    "periode": "Toute l’année ; capsules en été"
+  },
+  "ecologie": {
+    "essentiel": "Tourbières, landes humides, bois humides acides : Hautes Fagnes, Campine.",
+    "details": "Elle participe à la formation de la tourbe avec les sphaignes.",
+    "uicn": "NE",
+    "menaces": [
+      "Drainage des zones humides"
+    ]
+  },
+  "usages": {
+    "essentiel": "Ses tiges ont servi à fabriquer des balais, des brosses et des cordages. Des fragments en ont été retrouvés sur des sites archéologiques (Âge du Bronze et époque romaine).",
+    "details": "Aucun usage alimentaire."
+  },
+  "facts": [
+    "Elle possède de vrais tissus conducteurs (hydroïdes, leptoïdes), mais non lignifiés.",
+    "Ce que tu vois est le gamétophyte haploïde.",
+    "Sa capsule est coiffée d’une coiffe poilue, d’où son nom « poil » en grec.",
+    "Les gamètes mâles sont projetés par les gouttes de pluie depuis des coupes."
+  ],
+  "anecdote": "Le polytric est un gamétophyte : ce que tu prends pour la plante est la génération haploïde, et la capsule qui pousse dessus est son « enfant » diploïde qui reste à sa charge.",
+  "indices_quiz": [
+    "Mousse dressée à hydroïdes et leptoïdes.",
+    "Feuilles à lamelles photosynthétiques.",
+    "Le sporophyte reste dépendant du gamétophyte."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/68293",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Polytrichum_commune"
+  },
+  "notions": [
+    "adaptations-terrestres",
+    "embryophytes-apomorphies"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Hautes Fagnes, landes humides de Campine, bois acides.",
+    "quand": "Toute l’année ; capsules en été.",
+    "criteres": [
+      "Tiges raides dressées, feuilles en étoile vue d’en haut",
+      "Capsule quadrangulaire",
+      "Coussins denses"
+    ],
+    "sosies": [
+      {
+        "espece": "Polytric élégant (P. formosum)",
+        "distinguer": "Plus petit, en forêts plus sèches ; capsule à 4–6 angles moins nets."
+      },
+      {
+        "espece": "Atrichum undulatum",
+        "distinguer": "Feuilles ondulées transversalement, plus molles, sans coiffe poilue."
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "taraxacum-officinale",
+  "nom": "Pissenlit",
+  "latin": "Taraxacum officinale",
+  "type": "fleur",
+  "regne": "plante",
+  "milieu": [
+    "prairie",
+    "jardin",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "asterales",
+  "saison": [
+    3,
+    4,
+    5,
+    9,
+    10
+  ],
+  "resume": "La fleur jaune des pelouses, qui est en fait un **capitule** de 100 à 200 fleurs. Sa « boule » de graines à parachutes est reconnaissable entre toutes. Beaucoup de pissenlits se reproduisent **sans fécondation** (apomixie).",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Astérales",
+      []
+    ],
+    [
+      "Famille",
+      "Astéracées",
+      [
+        "Capitule",
+        "Akène à pappus"
+      ]
+    ],
+    [
+      "Genre",
+      "Taraxacum",
+      [
+        "Latex blanc"
+      ]
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Digitalis purpurea",
+    "parents": [
+      "Leontodon autumnalis",
+      "Hieracium pilosella"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ce qu’on prend pour une fleur est un **capitule** de fleurs **ligulées**, entouré de bractées. Chaque fleur donne un **akène** surmonté d’un **pappus**, un parachute issu du calice. La plante contient un **latex** blanc et forme une rosette basale avec une longue racine pivotante.",
+    "details": "Beaucoup de pissenlits européens sont **triploïdes et apomictiques** : ils forment des graines sans fécondation, des **clones** de la plante mère. On distingue des centaines de « micro-espèces » apomictiques. Le parachute crée un **vortex** d’air stable au-dessus des soies, ce qui le rend très efficace (Cummins et al., 2018, Nature)."
+  },
+  "identification": {
+    "feuille": "Rosette basale, feuilles dentées « dents de lion »",
+    "fleur": "Capitule jaune de fleurs ligulées, sur hampe creuse",
+    "fruit": "Akènes à pappus en boule (« chandelle »)",
+    "ecorce": "—",
+    "port": "Herbacée vivace en rosette, racine pivotante",
+    "periode": "Pic de floraison en avril ; seconde floraison en automne"
+  },
+  "ecologie": {
+    "essentiel": "Pelouses, prairies, bords de route : ubiquiste.",
+    "details": "C’est une ressource de **nectar et de pollen** précoce majeure pour les abeilles sauvages et les bourdons au printemps.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Feuilles en salade, racine torréfiée en « café ». C’est un **diurétique** traditionnel, d’où le nom de « pisse-en-lit ».",
+    "details": "Évite les pelouses traitées et les bords de route.",
+    "cueillette": "Jeunes feuilles avant floraison (moins amères)."
+  },
+  "facts": [
+    "Une « fleur » de pissenlit contient en fait 100 à 200 fleurs.",
+    "Beaucoup de pissenlits sont des clones qui produisent des graines sans fécondation.",
+    "Son parachute crée un tourbillon d’air stable, découvert en 2018.",
+    "Une graine peut parcourir des kilomètres portée par le vent."
+  ],
+  "anecdote": "Le pissenlit souffle des clones : la plupart de ses graines sont produites sans fécondation, des copies conformes de leur mère.",
+  "indices_quiz": [
+    "Astéracée à capitule jaune et akènes à pappus.",
+    "Souvent apomictique et triploïde.",
+    "Son parachute crée un vortex d’air stable."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/47602",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Taraxacum_officinale"
+  },
+  "notions": [
+    "autogamie-allogamie",
+    "polyploidie"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Pelouses, bords de route, prairies.",
+    "quand": "Mars à novembre ; pic en avril.",
+    "criteres": [
+      "Rosette de feuilles dentées",
+      "Hampe creuse non ramifiée à latex",
+      "Un seul capitule par hampe"
+    ],
+    "sosies": [
+      {
+        "espece": "Liondent d’automne (Leontodon autumnalis)",
+        "distinguer": "Tiges ramifiées portant plusieurs capitules, sans latex abondant."
+      },
+      {
+        "espece": "Porcelle enracinée (Hypochaeris radicata)",
+        "distinguer": "Feuilles poilues rudes, hampe ramifiée et pleine avec de petites écailles."
+      }
+    ]
+  }
+}

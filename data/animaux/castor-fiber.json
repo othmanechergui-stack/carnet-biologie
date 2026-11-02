@@ -1,0 +1,122 @@
+{
+  "id": "castor-fiber",
+  "nom": "Castor d’Europe",
+  "latin": "Castor fiber",
+  "groupe": "mammifere",
+  "milieu": [
+    "riviere",
+    "zone-humide"
+  ],
+  "belgique": true,
+  "clade": "rodentia",
+  "resume": "Le plus grand rongeur d’Europe (20 à 30 kg) est revenu en Belgique depuis la fin des années 1990. C’est l’**ingénieur de l’écosystème** par excellence : ses barrages créent des zones humides riches en vie.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Rongeurs",
+      "synapomorphies": [
+        "Incisives à croissance continue",
+        "Diastème"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Castoridés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Castor",
+      "synapomorphies": [
+        "Queue écailleuse aplatie",
+        "Pieds postérieurs palmés"
+      ]
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Myocastor coypus",
+    "parents": [
+      "Castor canadensis"
+    ]
+  },
+  "facts": [
+    "Ses incisives sont orange car l’émail contient du fer.",
+    "Le bruit d’eau qui s’écoule suffit à déclencher la construction d’un barrage.",
+    "Il a été réintroduit clandestinement en Belgique vers la fin des années 1990.",
+    "Ses barrages augmentent la diversité des amphibiens et des invertébrés aquatiques."
+  ],
+  "anecdote": "Pour faire construire un barrage à un castor, il suffit de lui passer un enregistrement d’eau qui coule : c’est le bruit, pas la vue, qui déclenche le chantier.",
+  "indices_quiz": [
+    "Gros rongeur aux incisives orange (fer) et à la queue écailleuse.",
+    "Le bruit de l’eau qui coule déclenche ses constructions.",
+    "Revenu en Belgique par des lâchers clandestins."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/43793",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Castor_fiber"
+  },
+  "notions": [
+    "especes-cles-ingenieurs"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Ses incisives orange sont colorées par le **fer** de l’émail, ce qui les rend plus dures. Sa queue écailleuse plate sert de gouvernail, de réserve de graisse et d’alarme quand il frappe l’eau. Ses narines et oreilles se ferment sous l’eau, et une membrane nictitante protège ses yeux.",
+    "details": "Ses **glandes à castoréum** produisent une sécrétion qui sert au marquage territorial. Le castoréum contient de l’acide salicylique issu de son alimentation à base de saules, ce qui explique son usage ancien en médecine."
+  },
+  "comportement": {
+    "essentiel": "Il vit en **famille** : le couple, les jeunes de l’année et ceux de l’année précédente. Les subadultes se dispersent vers 2 ans. Il est territorial et marque avec des **monticules de castoréum** sur les berges.",
+    "details": "Il construit des barrages pour maintenir une profondeur d’eau qui protège l’entrée de son terrier ou de sa hutte. Le **bruit de l’eau qui coule** déclenche la construction, comme l’ont montré des expériences avec des haut-parleurs. C’est un stimulus déclencheur, sans « plan » du barrage.",
+    "concepts": [
+      "contraintes-ecologiques-cooperation"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Rivières et ruisseaux bordés de saules et de peupliers. Wallonie, Flandre et région bruxelloise (Woluwe).",
+    "details": "Exterminé en Belgique au XIXᵉ siècle, il est revenu par des **lâchers clandestins** vers 1998-2000 et par une expansion depuis les pays voisins. Il crée des **zones humides** qui profitent aux amphibiens, aux libellules et aux chauves-souris, retiennent l’eau et tamponnent les crues. Il est aussi source de conflits avec certains usages.",
+    "uicn": "LC",
+    "menaces": [
+      "Conflits (inondations de parcelles, arbres abattus)",
+      "Trafic routier",
+      "Pollution des cours d’eau"
+    ]
+  },
+  "terrain": {
+    "ou": "Vallées de l’Ourthe, de la Semois, de la Dyle, de la Woluwe… Cherche les arbres taillés en crayon.",
+    "quand": "Toute l’année ; actif au crépuscule ; abattages surtout en automne et en hiver.",
+    "criteres": [
+      "Arbres rongés en forme de crayon",
+      "Coulées et barrages de branches",
+      "Tête seule visible en nageant, queue plate"
+    ],
+    "sosies": [
+      {
+        "espece": "Ragondin (Myocastor coypus)",
+        "distinguer": "Plus petit, queue ronde et peu poilue, moustaches blanches, nage avec le dos visible ; exotique."
+      },
+      {
+        "espece": "Rat musqué (Ondatra zibethicus)",
+        "distinguer": "Bien plus petit (1 kg), queue aplatie latéralement."
+      }
+    ]
+  }
+}

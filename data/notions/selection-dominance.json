@@ -1,0 +1,18 @@
+{
+  "id": "selection-dominance",
+  "titre": "Sélection : dominance, purification et superdominance",
+  "module": "module3",
+  "source": "module 3/Selection.pdf",
+  "essentiel": "La sélection change les fréquences selon la fitness relative des génotypes. La **sélection purificatrice** élimine vite les mutations délétères **dominantes**. Les **récessives** délétères persistent longtemps, cachées chez les hétérozygotes. Un nouvel allèle **favorable** a plus de chances d’envahir s’il est **dominant** : c’est le **crible de Haldane**. La **superdominance** (avantage aux hétérozygotes) maintient un **polymorphisme stable**.",
+  "details": "Équilibre mutation–sélection : pour un allèle délétère récessif, q* ≈ √(μ/s) ; pour un allèle dominant, q* ≈ μ/s. Quand la sélection est faible, l’évolution est lente et la dérive peut l’emporter si s < 1/(2Ne).\n\nLes **allèles délétères récessifs** sont exposés en cas de consanguinité : c’est la **dépression de consanguinité**.\n\nExemple de superdominance : l’allèle HbS de la drépanocytose. Les hétérozygotes AS sont protégés du paludisme, les homozygotes SS sont malades. Cela maintient HbS à des fréquences élevées dans les zones impaludées.\n\nTests de sélection moléculaire : le **D de Tajima** et le test de **McDonald-Kreitman** (rapport des substitutions non synonymes et synonymes entre et au sein des espèces).",
+  "question": "Pourquoi un allèle récessif létal peut-il persister des centaines de générations dans une grande population ?",
+  "reponse": "Quand q est faible, l’allèle se trouve presque toujours chez des **hétérozygotes** (fréquence 2pq), où il n’est pas exprimé. Les homozygotes, seuls exposés à la sélection, sont très rares (fréquence q²). La sélection élimine donc l’allèle très lentement : Δq ≈ −sq² quand q est petit. Avec les nouvelles mutations, il se maintient à l’équilibre q* ≈ √(μ/s). La consanguinité, en augmentant l’homozygotie, l’expose et le purge plus vite.",
+  "pieges": [
+    "Croire que la sélection élimine rapidement tout allèle délétère.",
+    "Confondre superdominance et dominance."
+  ],
+  "liens": [
+    "autogamie-allogamie",
+    "derive-genetique"
+  ]
+}

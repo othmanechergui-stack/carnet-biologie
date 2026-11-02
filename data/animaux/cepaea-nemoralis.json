@@ -1,0 +1,117 @@
+{
+  "id": "cepaea-nemoralis",
+  "nom": "Escargot des haies",
+  "latin": "Cepaea nemoralis",
+  "groupe": "mollusque",
+  "milieu": [
+    "jardin",
+    "prairie",
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "gastropoda",
+  "resume": "Escargot à coquille jaune, rose ou brune, avec ou sans **bandes** noires, et au **péristome brun-noir**. Son polymorphisme est l’un des grands modèles historiques de la **sélection naturelle** sur le terrain.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Mollusques",
+      "synapomorphies": [
+        "Manteau",
+        "Radula",
+        "Cténidies"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Gastéropodes",
+      "synapomorphies": [
+        "Torsion de 180°"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Stylommatophores (pulmonés)",
+      "synapomorphies": [
+        "Cavité palléale transformée en poumon",
+        "Yeux au sommet des grands tentacules"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Hélicidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Cepaea",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Arion ater",
+    "parents": [
+      "Cepaea hortensis",
+      "Cornu aspersum"
+    ]
+  },
+  "facts": [
+    "Le polymorphisme de sa coquille est l’un des premiers exemples démontrés de sélection naturelle sur le terrain.",
+    "Il transperce son partenaire d’un « dard d’amour » calcaire avant l’accouplement.",
+    "Les grives cassent les coquilles sur des pierres-enclumes : on peut y compter les morphes prédatés.",
+    "Le péristome brun-noir le distingue de l’escargot des jardins, à péristome blanc."
+  ],
+  "anecdote": "Avant de s’accoupler, l’escargot des haies plante à son partenaire un dard calcaire enduit d’une hormone qui augmente les chances de son sperme.",
+  "indices_quiz": [
+    "Gastéropode pulmoné à coquille polymorphe, rayée ou non.",
+    "Il pique son partenaire avec un dard calcaire.",
+    "Les grives qui le chassent ont servi à démontrer la sélection naturelle."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/48586",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Cepaea_nemoralis"
+  },
+  "notions": [
+    "selection-dominance"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Coquille de 2 à 2,5 cm. Les couleurs de fond (jaune, rose, brun) et le nombre de bandes (0 à 5) sont déterminés par quelques **gènes** à effets majeurs, regroupés en **supergène**.",
+    "details": "Il est **hermaphrodite**. Avant l’accouplement, il transperce son partenaire avec un **dard calcaire** enduit de mucus qui augmente la survie de son sperme. C’est un exemple de conflit sexuel."
+  },
+  "comportement": {
+    "essentiel": "Lors de l’accouplement, chaque partenaire donne et reçoit du sperme. Les dards d’amour sont une manipulation physiologique du partenaire.",
+    "details": "Le polymorphisme est maintenu par plusieurs forces. La **prédation visuelle** par la grive musicienne favorise le camouflage selon le milieu (Cain & Sheppard, 1954 : coquilles jaunes et rayées en prairie, brunes et unies en forêt). La **sélection climatique** joue aussi : les coquilles claires chauffent moins au soleil. Le projet de science participative *Evolution MegaLab* (2009) a montré une hausse des formes jaunes dans certaines régions.",
+    "concepts": [
+      "selection-dominance",
+      "norme-reaction-gxe"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Haies, prairies, dunes, jardins, lisières. Commun en Belgique, y compris sur les dunes côtières.",
+    "details": "Il consomme des végétaux en décomposition et des plantes vivantes. C’est une proie des grives, qui le cassent sur des pierres, les « enclumes ».",
+    "uicn": "LC",
+    "menaces": [
+      "Faible ; pesticides (anti-limaces)",
+      "Disparition des haies"
+    ]
+  },
+  "terrain": {
+    "ou": "Haies, talus, dunes, jardins. Cherche les « enclumes » de grive.",
+    "quand": "Avril à octobre, après la pluie ; hiberne enterré.",
+    "criteres": [
+      "Lèvre de la coquille (péristome) brun foncé",
+      "Coquille jaune, rose ou brune, 0 à 5 bandes",
+      "Diamètre ≈ 2 cm"
+    ],
+    "sosies": [
+      {
+        "espece": "Escargot des jardins (Cepaea hortensis)",
+        "distinguer": "Péristome BLANC, un peu plus petit."
+      },
+      {
+        "espece": "Petit-gris (Cornu aspersum)",
+        "distinguer": "Coquille plus grosse, brune et marbrée, ridée."
+      }
+    ]
+  }
+}

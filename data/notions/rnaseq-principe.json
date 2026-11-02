@@ -1,0 +1,18 @@
+{
+  "id": "rnaseq-principe",
+  "titre": "Principe du RNA-seq",
+  "module": "transcriptomique",
+  "source": "Transcriptomic/L05.pdf",
+  "essentiel": "Le **RNA-seq** mesure le transcriptome. Les étapes :\n1. extraction des ARN ;\n2. sélection des ARNm (poly-A) ou déplétion des ARN ribosomiques ;\n3. fragmentation et rétrotranscription en ADNc ;\n4. préparation de la librairie et séquençage massif en parallèle (Illumina) ;\n5. **mapping** des lectures sur le génome ou le transcriptome ;\n6. **comptage** des lectures par gène ;\n7. **normalisation** et expression différentielle.",
+  "details": "Choix à faire :\n- **single-end** ou **paired-end** ;\n- librairie **orientée** (*stranded*) ou non ;\n- nombre de **réplicats biologiques** : ils sont plus importants que la profondeur pour l’expression différentielle.\n\nChez les eucaryotes, les ARNm sont épissés (pré-ARNm vers ARNm mature : coiffe 5′, queue poly-A, introns retirés). Il faut donc des **aligneurs épissés** (*splice-aware*, comme STAR, HISAT2 ou subjunc de Rsubread) pour mapper sur le génome.\n\nLes procaryotes ont des opérons polycistroniques, sans queue poly-A.\n\nLes « omiques » couvrent la génomique, la transcriptomique et l’épigénomique. Les coûts de séquençage ont chuté de façon spectaculaire, plus vite que la loi de Moore.",
+  "question": "Pourquoi un aligneur classique pour l’ADN est-il mal adapté au mapping de lectures RNA-seq eucaryotes sur le génome ?",
+  "reponse": "Parce que beaucoup de lectures RNA-seq chevauchent une **jonction exon-exon** : la séquence existe dans l’ARNm mature, mais elle est **interrompue par un intron**, parfois long de plusieurs kilobases, dans le génome. Un aligneur non épissé ne peut pas placer ces lectures, ou les place mal. Un **aligneur épissé** sait couper une lecture en plusieurs segments alignés sur des exons distants. On peut aussi aligner directement sur le transcriptome (pseudo-alignement avec Salmon ou kallisto).",
+  "pieges": [
+    "Oublier les réplicats biologiques au profit de la profondeur.",
+    "Confondre réplicats techniques et biologiques."
+  ],
+  "liens": [
+    "mapping-reads",
+    "normalisation-rnaseq"
+  ]
+}

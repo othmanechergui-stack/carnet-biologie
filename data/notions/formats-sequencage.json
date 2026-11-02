@@ -1,0 +1,17 @@
+{
+  "id": "formats-sequencage",
+  "titre": "Formats FASTQ, SAM et BAM",
+  "module": "transcriptomique",
+  "source": "Transcriptomic/L03.pdf",
+  "essentiel": "Le **FASTQ** stocke chaque lecture sur **4 lignes** : un identifiant commençant par @, la séquence, un « + », puis les **qualités** de chaque base encodées en ASCII. Ce sont des scores Phred : Q = −10 log₁₀(P_erreur), avec un décalage de 33. Le **SAM** (*Sequence Alignment/Map*) est un format texte tabulé : un en-tête optionnel (lignes @), puis une ligne par alignement. Le **BAM** est sa version **binaire compressée**. Une fois **triée et indexée** (.bai), elle permet un accès rapide à une région.",
+  "details": "Colonnes clés du SAM :\n- QNAME : nom de la lecture ;\n- **FLAG** : propriétés codées en bits (appariée, non mappée, brin inverse, secondaire…) ;\n- RNAME et **POS** : chromosome et position ;\n- **MAPQ** : qualité de mapping, la probabilité que la position soit fausse en échelle Phred, faible pour les multi-reads ;\n- **CIGAR** : description de l’alignement (M = correspondance, I = insertion, D = délétion, **N = saut d’intron**, S = soft-clip) ;\n- SEQ et QUAL.\n\nEn TP : `sortBam()`, `indexBam()` et `pileup()` avec Rsamtools.",
+  "question": "Dans un fichier SAM issu de RNA-seq, une lecture a le CIGAR « 40M1200N60M ». Que signifie-t-il ?",
+  "reponse": "Les **40 premières bases** s’alignent sur la référence (M). Viennent ensuite **1 200 bases sautées** dans la référence (N = région absente de la lecture, typiquement un **intron**). Enfin, les **60 bases suivantes** s’alignent. C’est une lecture **épissée** qui chevauche une jonction exon-exon, avec un intron de 1,2 kb entre les deux exons.",
+  "pieges": [
+    "Confondre D (délétion dans la lecture) et N (intron sauté).",
+    "Oublier que MAPQ est sur échelle Phred (MAPQ 30 = 1/1 000 de chance d’erreur)."
+  ],
+  "liens": [
+    "mapping-reads"
+  ]
+}

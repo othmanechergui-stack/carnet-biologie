@@ -1,0 +1,18 @@
+{
+  "id": "triploblastes-coelome",
+  "titre": "Triploblastes et cavités corporelles",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Les **Triploblastes**, ou Bilatériens, possèdent trois feuillets embryonnaires : l’ectoderme, le mésoderme et l’endoderme. Ils ont une symétrie bilatérale. On classait autrefois les animaux selon leur cavité corporelle.\n- **Acœlomates** : pas de cavité.\n- **Pseudocœlomates** : la cavité est bordée d’un côté par le mésoderme et de l’autre par l’endoderme.\n- **Cœlomates** : la cavité est entièrement bordée par le mésoderme.",
+  "details": "Le mésoderme se forme pendant la gastrulation. Chez les cœlomates, la paroi du cœlome du côté de l’endoderme s’appelle la **splanchnopleure**, et celle du côté de l’ectoderme la **somatopleure**.\n\nLes phylogénies moléculaires montrent que ces plans d’organisation **ne correspondent pas à des clades**. Le cœlome a été perdu ou modifié plusieurs fois (plathelminthes, nématodes). Les Xénacœlomorphes (*Xenoturbella*, acœles) ont une position débattue : groupe frère des autres bilatériens (Néphrozoaires) ou deutérostomiens.",
+  "question": "Peut-on utiliser le caractère « pseudocœlomate » pour définir un groupe naturel ? Explique.",
+  "reponse": "Non. Les animaux « pseudocœlomates » (nématodes, rotifères, etc.) se répartissent dans plusieurs clades : les nématodes sont des Ecdysozoaires, les rotifères des Lophotrochozoaires (Spiraliens). La cavité de type pseudocœlome est donc apparue ou dérivée **plusieurs fois indépendamment** : c’est une homoplasie. Les arbres moléculaires ont montré que les plans d’organisation fondés sur la cavité corporelle sont polyphylétiques.",
+  "pieges": [
+    "Croire que la séquence acœlomate → pseudocœlomate → cœlomate est une échelle évolutive.",
+    "Confondre symétrie bilatérale et absence de symétrie radiale chez l’adulte (les échinodermes sont des bilatériens à larve bilatérale)."
+  ],
+  "liens": [
+    "protostomiens-deuterostomiens",
+    "caracteres-cladistique"
+  ]
+}

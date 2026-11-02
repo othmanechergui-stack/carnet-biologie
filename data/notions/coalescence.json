@@ -1,0 +1,19 @@
+{
+  "id": "coalescence",
+  "titre": "Coalescence",
+  "module": "module3",
+  "source": "module 3/Derive genet.pdf",
+  "essentiel": "La **coalescence** regarde la généalogie des gènes **en remontant le temps** : deux copies tirées au hasard finissent par **coalescer** dans leur ancêtre commun le plus récent (MRCA). Pour un locus neutre dans une population diploïde de taille N, le temps moyen de coalescence de deux copies est **E(T) = 2N générations**, ou 2Ne.",
+  "details": "Avec n copies, les coalescences sont rapides au début, quand beaucoup de lignées existent, puis lentes. Le temps jusqu’au MRCA de tout l’échantillon tend vers 4N, et la **moitié** de ce temps est passée avec seulement **deux lignées**.\n\nLa diversité neutre attendue vaut θ = 4Neμ. Les mutations tombent sur les branches de la généalogie.\n\nC’est la base des tests de neutralité, comme le **D de Tajima** qui compare deux estimateurs de θ (diversité nucléotidique π et nombre de sites polymorphes S) :\n- D < 0 : excès de variants rares (expansion ou balayage sélectif) ;\n- D > 0 : excès de variants intermédiaires (sélection balancée ou structure).",
+  "question": "Pourquoi le temps de coalescence de l’ADN mitochondrial est-il en moyenne quatre fois plus court que celui d’un gène nucléaire autosomique ?",
+  "reponse": "L’ADN mitochondrial est **haploïde** et transmis **uniquement par les femelles**. Sa taille efficace est environ **Ne/4** par rapport à un gène autosomique diploïde : facteur ½ pour l’haploïdie et facteur ½ pour la transmission par un seul sexe, à sex-ratio égal. Comme le temps de coalescence est proportionnel à la taille efficace, les lignées mitochondriales coalescent environ **4 fois plus vite**. Elles trient plus rapidement entre espèces, ce qui en fait de bons marqueurs pour les espèces récentes.",
+  "pieges": [
+    "Oublier que la coalescence remonte le temps.",
+    "Croire que le MRCA d’un gène = l’origine de l’espèce."
+  ],
+  "liens": [
+    "derive-genetique",
+    "genealogies-tri-incomplet",
+    "phylogeographie"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-19-dunes-cote",
+  "semaine": "2026-10-19",
+  "nom": "Les dunes de la côte belge",
+  "lieu": "Littoral belge (De Panne, Westhoek, Zwin)",
+  "fonctionnement": {
+    "essentiel": "Un gradient spectaculaire depuis la plage : dune embryonnaire, dune blanche (oyat qui fixe le sable), dune grise (mousses, lichens), puis fourrés d’argousier et forêt. C’est une **succession primaire** lisible dans l’espace, sur un sol initialement sans matière organique.",
+    "details": "L’**oyat** (*Ammophila arenaria*) pousse plus vigoureusement quand il est ensablé : il construit la dune. Les pannes humides entre les dunes abritent des orchidées et des plantes rares. Le Westhoek et le Zwin sont des réserves majeures. Les dunes protègent naturellement l’arrière-pays contre la mer, un **service de régulation**. Les rosiers rugueux et les cerisiers tardifs exotiques envahissent les dunes grises."
+  },
+  "especes_cles": [
+    "coccinella-septempunctata",
+    "cepaea-nemoralis",
+    "daucus-carota",
+    "asterias-rubens",
+    "fucus-vesiculosus"
+  ],
+  "especes_texte": "Oyat, argousier, panicaut maritime ; crapaud calamite ; alouettes ; escargots des haies aux coquilles variées (dunes grises).",
+  "menaces": [
+    "Urbanisation du littoral",
+    "Piétinement",
+    "Espèces exotiques (rosier rugueux)",
+    "Dépôts d’azote",
+    "Montée du niveau marin"
+  ],
+  "a_observer": "Mi-octobre : migration visible le long de la côte (pinsons, alouettes), argousiers couverts de baies orange, laisse de mer riche après les premières tempêtes.",
+  "notions": [
+    "successions-ecologiques",
+    "services-ecosystemiques",
+    "invasions-impacts"
+  ]
+}

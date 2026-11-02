@@ -1,0 +1,124 @@
+{
+  "id": "erithacus-rubecula",
+  "nom": "Rouge-gorge familier",
+  "latin": "Erithacus rubecula",
+  "groupe": "oiseau",
+  "milieu": [
+    "jardin",
+    "foret",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "passeriformes",
+  "resume": "Petit passereau à plastron orangé, compagnon des jardiniers. Le rouge-gorge est l’un des rares oiseaux à **chanter en automne et en hiver**, car il défend un territoire individuel toute l’année, les femelles comprises.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Oiseaux",
+      "synapomorphies": [
+        "Plumes",
+        "Furcula",
+        "Bec corné",
+        "Hallux retourné"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Passériformes",
+      "synapomorphies": [
+        "Pied anisodactyle de perchoir"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Muscicapidés",
+      "synapomorphies": [
+        "Gobemouches et traquets de l’Ancien Monde"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Erithacus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Parus major",
+    "parents": [
+      "Luscinia megarhynchos",
+      "Phoenicurus ochruros"
+    ]
+  },
+  "facts": [
+    "Les deux sexes chantent, surtout en automne et en hiver, pour défendre chacun son territoire.",
+    "Une boule de plumes rouges suffit à déclencher une attaque territoriale (expériences de David Lack).",
+    "Les rouges-gorges perçoivent le champ magnétique terrestre pour s’orienter en migration ; c’est l’un des modèles historiques de la magnétoréception (Wiltschko).",
+    "Il chante parfois la nuit près des éclairages publics, probablement pour éviter le bruit du trafic diurne."
+  ],
+  "anecdote": "Le rouge-gorge qui te suit au potager n’est pas affectueux : il fait comme avec les sangliers, il attend que tu retournes le sol pour lui.",
+  "indices_quiz": [
+    "Passereau dont les deux sexes défendent un territoire individuel en hiver.",
+    "Une simple touffe de plumes colorées suffit à déclencher son agressivité.",
+    "Il suit les jardiniers pour attraper les vers mis au jour."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/13094",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Erithacus_rubecula"
+  },
+  "notions": [
+    "signal-indice"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Environ 14 cm et 16 à 22 g. Le plastron orange s’étend du front à la poitrine et est bordé de gris. Le dos est brun olive. Les sexes sont semblables. Le juvénile est brun moucheté de beige, sans orange.",
+    "details": "Ses grands yeux sont adaptés à la pénombre : il chante tôt à l’aube et parfois la nuit près des éclairages. C’est un insectivore du sol : il guette depuis un perchoir bas puis plonge sur sa proie. En hiver, il consomme aussi des baies. Une partie des rouges-gorges du nord et de l’est de l’Europe migre vers le sud et passe par la Belgique en automne."
+  },
+  "comportement": {
+    "essentiel": "Mâles et femelles chantent pour défendre un **territoire hivernal individuel**. Le chant d’automne est plus mélancolique et plus doux que celui du printemps.",
+    "details": "Il est très agressif envers ses congénères : il attaque un simple **tas de plumes rouges** plus qu’un rouge-gorge empaillé sans plastron. David Lack l’a montré en 1943. C’est un exemple de stimulus-signal (*sign stimulus*) au sens de l’éthologie classique. Le plastron est un **signal** de statut territorial. Il suit les jardiniers pour attraper les vers mis au jour : il a appris à exploiter les grands mammifères qui retournent le sol, comme les sangliers.",
+    "concepts": [
+      "signal-indice",
+      "tinbergen-quatre-questions"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Lisières, haies, sous-bois, parcs et jardins. Il niche dans une cavité basse : talus, souche, vieille bouilloire. Très commun en Belgique.",
+    "details": "Il régule des invertébrés du sol. La mortalité hivernale est forte lors des vagues de froid, et les chats domestiques sont un prédateur important.",
+    "uicn": "LC",
+    "menaces": [
+      "Chats domestiques",
+      "Hivers rigoureux",
+      "Disparition des haies et des sous-bois"
+    ]
+  },
+  "terrain": {
+    "ou": "Partout : jardins, parcs, lisières. Repère-le à son chant flûté depuis un buisson bas.",
+    "quand": "Toute l’année ; chant d’automne d’août à décembre, au plus fort en octobre-novembre.",
+    "criteres": [
+      "Plastron orange entouré de gris",
+      "Silhouette ronde, pattes fines",
+      "Cri « tic » sec répété quand il est inquiet"
+    ],
+    "sosies": [
+      {
+        "espece": "Rougequeue noir (Phoenicurus ochruros)",
+        "distinguer": "Plumage gris-noir et queue rousse qui frémit, sans plastron orange ; fréquente les toits et les bâtiments."
+      },
+      {
+        "espece": "Bouvreuil pivoine mâle",
+        "distinguer": "Rose-rouge et non orange, calotte noire, gros bec conique de granivore."
+      }
+    ]
+  }
+}

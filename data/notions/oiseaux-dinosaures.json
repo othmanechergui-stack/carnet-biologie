@@ -1,0 +1,18 @@
+{
+  "id": "oiseaux-dinosaures",
+  "titre": "Les oiseaux sont des dinosaures",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+  "essentiel": "Les Oiseaux sont des **dinosaures théropodes**. Avec les crocodiles, leur groupe frère actuel, ils forment les **Archosaures**. La synthèse de Zoologie 2 cite comme synapomorphies les **plumes** (dérivées des écailles), l’**hallux retourné** vers l’arrière, les membres antérieurs repliés et la **fourchette** (furcula, clavicules soudées).",
+  "details": "Le vol a entraîné de nombreuses modifications : os pneumatisés, bréchet, fusion d’os (pygostyle, synsacrum), ventricules du cœur complètement séparés et disparition de l’arc aortique gauche. Les **sacs aériens** assurent une ventilation unidirectionnelle des poumons. *Archaeopteryx* (Jurassique supérieur) mêle des caractères de théropode (dents, longue queue osseuse, griffes) et des plumes de vol.\n\nNuance importante : de nombreux théropodes non aviens portaient déjà des plumes (*Sinosauropteryx*, *Microraptor*). Les plumes sont donc une synapomorphie d’un clade **plus large** que les seuls oiseaux.",
+  "question": "Un crocodile est-il plus proche d’un lézard ou d’un pigeon ? Justifie.",
+  "reponse": "D’un **pigeon**. Crocodiles et oiseaux forment le clade des **Archosaures**, qui partagent par exemple des fenêtres antéorbitaires et un gésier. Les lézards appartiennent à une autre lignée de diapsides, les Lépidosaures. Le groupe « reptiles » qui réunirait crocodiles et lézards sans les oiseaux est paraphylétique.",
+  "pieges": [
+    "Croire que les plumes sont apparues avec le vol (elles servaient d’abord à l’isolation et aux parades).",
+    "Dire que les oiseaux descendent des ptérosaures : ce sont deux lignées d’archosaures distinctes."
+  ],
+  "liens": [
+    "classification-ecoles",
+    "mammiferes-synapomorphies"
+  ]
+}

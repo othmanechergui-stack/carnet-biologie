@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-28-salamandre-fluorescence",
+  "date": "2026-10-28",
+  "titre": "La salamandre tachetée brille en vert et cyan sous UV",
+  "resume": "Sous lumière ultraviolette, Salamandra salamandra émet une fluorescence verte et cyan, surtout sur les zones jaunes, d’origine principalement glandulaire (les sécrétions restent fluorescentes plus de 24 h). La molécule n’est pas identifiée ; communication ou renforcement du signal aposématique restent des hypothèses.",
+  "source": {
+    "nom": "Royal Society Open Science 13(5) — MPI Ecologie chimique — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm"
+  },
+  "themes": [
+    "zoologie",
+    "comportement"
+  ],
+  "grille": {
+    "modele": "animal",
+    "echantillon": "non précisé",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "D’où vient principalement la fluorescence de la salamandre tachetée ?",
+    "choix": [
+      "De bactéries symbiotiques de l’intestin",
+      "Des glandes cutanées et de leurs sécrétions",
+      "De ses os"
+    ],
+    "bonne": 1
+  },
+  "module": "ethologie"
+}

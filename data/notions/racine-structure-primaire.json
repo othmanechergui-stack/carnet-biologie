@@ -1,0 +1,18 @@
+{
+  "id": "racine-structure-primaire",
+  "titre": "Structure primaire de la racine",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 1 - PM + SB - nouvelle version.pdf",
+  "essentiel": "La racine primaire de dicotylédone a une écorce très développée et un cylindre central réduit. Elle n’a pas d’épiderme vrai, mais une **assise pilifère** (poils absorbants). L’**endoderme**, entouré de **cadres de Caspary**, sépare l’écorce du cylindre central. Les faisceaux de xylème et de phloème sont **séparés et alternes**, et le xylème se différencie de façon **centripète**.",
+  "details": "Le cadre de Caspary est une bande de subérine et de lignine dans les parois radiales de l’endoderme. Il bloque le passage de l’eau entre les cellules (voie **apoplastique**) et oblige l’eau et les ions à **traverser une membrane** (voie symplastique). La plante peut ainsi filtrer ce qui entre dans la sève.\n\nLa racine de monocotylédone a un cylindre central plus gros avec de nombreux pôles de xylème, un exoderme à plusieurs couches et une moelle développée.\n\nLes racines latérales naissent en profondeur, dans le **péricycle** : on dit qu’elles sont **endogènes**.",
+  "question": "À quoi sert le cadre de Caspary, et que se passerait-il sans lui ?",
+  "reponse": "Il rend imperméables les parois radiales de l’endoderme. L’eau et les solutés qui circulaient dans les parois (apoplasme) sont alors **forcés de passer par le cytoplasme** des cellules endodermiques, à travers des membranes sélectives. Sans lui, des ions toxiques ou en excès et des pathogènes pourraient gagner directement le xylème. La plante perdrait aussi le contrôle de la pression racinaire, car les ions pompés dans le cylindre central reflueraient.",
+  "pieges": [
+    "Dire que les racines latérales naissent à la surface (elles sont endogènes, issues du péricycle).",
+    "Confondre structure de la racine (faisceaux alternes) et de la tige (faisceaux superposés)."
+  ],
+  "categorie": "botanique-base",
+  "liens": [
+    "tige-dicot-monocot"
+  ]
+}

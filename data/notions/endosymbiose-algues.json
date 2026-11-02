@@ -1,0 +1,17 @@
+{
+  "id": "endosymbiose-algues",
+  "titre": "Endosymbioses et évolution réticulée des algues",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Le chloroplaste vient d’une **cyanobactérie** absorbée par un eucaryote : c’est l’**endosymbiose primaire**, à l’origine des **Archaeplastida** (glaucophytes, algues rouges, algues vertes + plantes terrestres). D’autres lignées (algues brunes, diatomées, dinoflagellés, euglènes) ont acquis leurs plastes en avalant une algue eucaryote : c’est l’**endosymbiose secondaire**. Les « algues » ne forment donc pas un groupe naturel.",
+  "details": "Les preuves de l’origine endosymbiotique :\n- une **double membrane** (plaste primaire) ;\n- un **ADN circulaire** propre ;\n- des **ribosomes de type bactérien** ;\n- une division par fission.\n\nLes plastes secondaires ont **trois ou quatre membranes**, et parfois un reste du noyau de l’algue avalée (nucléomorphe). C’est l’**évolution réticulée** : des lignées différentes ont fusionné, et l’arbre devient un réseau.\n\nLes algues rouges ont des pigments (phycoérythrine) qui masquent la chlorophylle a. Leurs gamètes mâles n’ont pas de flagelle.",
+  "question": "Une algue brune (fucus) et une algue verte (ulve) sont toutes deux des « algues » marines photosynthétiques. Pourquoi sont-elles phylogénétiquement très éloignées ?",
+  "reponse": "L’ulve appartient aux **Archaeplastida** : son plaste vient de l’endosymbiose primaire d’une cyanobactérie, et elle est plus proche des plantes terrestres que du fucus. Le fucus est un **Straménopile** (avec les diatomées et les oomycètes). Son plaste provient d’une **endosymbiose secondaire**, l’absorption d’une algue rouge. Leur ressemblance (photosynthèse, vie marine) est une convergence de mode de vie, pas une parenté.",
+  "pieges": [
+    "Considérer les « algues » comme un taxon.",
+    "Oublier que le nombre de membranes du plaste trahit le type d’endosymbiose."
+  ],
+  "liens": [
+    "embryophytes-apomorphies"
+  ]
+}

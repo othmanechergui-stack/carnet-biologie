@@ -1,0 +1,105 @@
+{
+  "id": "linepithema-humile",
+  "nom": "Fourmi d’Argentine",
+  "latin": "Linepithema humile",
+  "groupe": "insecte",
+  "milieu": [
+    "urbain",
+    "jardin"
+  ],
+  "belgique": false,
+  "clade": "formicidae",
+  "resume": "Petite fourmi brune originaire d’Amérique du Sud, devenue l’une des pires **espèces envahissantes** du monde. En Europe du Sud, elle forme une **supercolonie** de plusieurs milliers de kilomètres.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Arthropodes",
+      "synapomorphies": [
+        "Exosquelette chitineux articulé",
+        "Mue (ecdystéroïdes)",
+        "Appendices articulés"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Insectes",
+      "synapomorphies": [
+        "3 paires de pattes",
+        "Corps en 3 tagmes",
+        "1 paire d’antennes",
+        "Ailes (ptérygotes)"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Hyménoptères",
+      "synapomorphies": [
+        "Haplodiploïdie"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Formicidés",
+      "synapomorphies": [
+        "Eusocialité"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Linepithema",
+      "synapomorphies": [
+        "Dolichodérinés : pas d’aiguillon"
+      ]
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Apis mellifera",
+    "parents": [
+      "Tapinoma sessile",
+      "Formica rufa"
+    ]
+  },
+  "facts": [
+    "Une supercolonie s’étend sur environ 6 000 km de côtes en Europe du Sud.",
+    "Des fourmis de continents différents ne s’attaquent pas : elles se reconnaissent comme une seule colonie.",
+    "Ses colonies à nombreuses reines échappent à l’effet Allee lors des introductions.",
+    "C’est l’espèce de l’expérience classique du double pont sur le choix du plus court chemin."
+  ],
+  "anecdote": "La fourmi d’Argentine a peut-être construit la plus grande « société » animale de la planète : des fourmis de Californie et du Japon se traitent comme des sœurs.",
+  "indices_quiz": [
+    "Fourmi invasive unicoloniale venue d’Amérique du Sud.",
+    "Supercolonie de 6 000 km en Europe du Sud.",
+    "Espèce de l’expérience du double pont."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/68165",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Linepithema_humile"
+  },
+  "notions": [
+    "effet-allee",
+    "recrutement-fourmis"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Ouvrières de 2 à 3 mm, brunes, sans aiguillon. Les colonies sont fortement **polygynes**, avec de nombreuses reines. Elles se dispersent par **bourgeonnement** et non par vol nuptial.",
+    "details": "Dans l’aire introduite, la **perte de diversité génétique** au goulet d’étranglement (notamment aux loci de reconnaissance) a réduit l’agressivité entre nids. Ils se comportent comme une seule colonie : c’est l’**unicolonialité**."
+  },
+  "comportement": {
+    "essentiel": "C’est un modèle classique de **décision collective** : expérience du double pont (Goss et al., 1989 ; Deneubourg). Le chemin le plus court est sélectionné par amplification des pistes.",
+    "details": "Les supercolonies européennes s’étendent du Portugal à l’Italie (« Main », environ 6 000 km). Des ouvrières de Californie, d’Europe et du Japon ne s’agressent pas : elles appartiendraient à une même mégacolonie intercontinentale (Sunamura et al., 2009).",
+    "concepts": [
+      "recrutement-fourmis",
+      "effet-allee",
+      "etapes-invasion",
+      "cd-communication-recrutement"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Climats méditerranéens et subtropicaux ; en Belgique, seulement dans certaines serres.",
+    "details": "Elle élimine les fourmis indigènes et perturbe les réseaux trophiques : les lézards cornus de Californie, spécialistes des fourmis indigènes, déclinent. Elle protège les pucerons et les cochenilles.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  }
+}

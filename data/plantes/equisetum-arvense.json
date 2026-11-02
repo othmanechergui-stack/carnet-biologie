@@ -1,0 +1,137 @@
+{
+  "id": "equisetum-arvense",
+  "nom": "Prêle des champs",
+  "latin": "Equisetum arvense",
+  "type": "fougere",
+  "regne": "plante",
+  "milieu": [
+    "friche",
+    "culture",
+    "prairie"
+  ],
+  "belgique": true,
+  "clade": "sphenophyta",
+  "saison": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "resume": "Héritière des **prêles géantes du Carbonifère**, elle produit au printemps des tiges fertiles brunes sans chlorophylle, puis des tiges vertes en « queue de cheval ». Ses tissus sont **chargés de silice**.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Euphyllophytes",
+      [
+        "Mégaphylles (feuilles réduites secondairement ici)"
+      ]
+    ],
+    [
+      "Division",
+      "Sphénophytes",
+      [
+        "Tiges articulées",
+        "Rameaux verticillés",
+        "Silice"
+      ]
+    ],
+    [
+      "Famille",
+      "Équisétacées",
+      []
+    ],
+    [
+      "Genre",
+      "Equisetum",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Pteridium aquilinum",
+    "parents": [
+      "Equisetum telmateia",
+      "Equisetum fluviatile"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Elle présente un **dimorphisme**. Les **tiges fertiles** brunes, sans chlorophylle, portent un **épi de sporanges** (strobile) en mars-avril. Les **tiges stériles** vertes, articulées, portent des verticilles de rameaux. Ses feuilles sont réduites à des **gaines dentées** aux nœuds.",
+    "details": "Les spores sont munies d’**élatères** hygroscopiques qui s’enroulent et se déroulent selon l’humidité : elles « marchent » et favorisent la dispersion. Les parois sont riches en **silice**, et la tige a des canaux (vallécules, canal central). Ses ancêtres (*Calamites*) atteignaient 20 m au Carbonifère et ont formé une partie du **charbon**."
+  },
+  "identification": {
+    "feuille": "Réduite à des gaines dentées aux nœuds",
+    "fleur": "— (épi sporifère au sommet des tiges fertiles brunes)",
+    "fruit": "—",
+    "ecorce": "—",
+    "port": "Tiges vertes articulées en verticilles, 20–50 cm",
+    "periode": "Tiges fertiles mars-avril ; tiges stériles jusqu’en automne"
+  },
+  "ecologie": {
+    "essentiel": "Champs, talus, remblais humides, sols compacts.",
+    "details": "C’est une adventice tenace grâce à ses rhizomes profonds.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Sa richesse en silice la faisait utiliser pour **récurer** les casseroles (« herbe à récurer »). Infusions traditionnelles diurétiques. Elle est toxique pour les chevaux (thiaminase).",
+    "details": "Le purin de prêle est utilisé contre les maladies fongiques au jardin.",
+    "confusions_dangereuses": [
+      "Toxique pour le bétail (thiaminase)"
+    ]
+  },
+  "facts": [
+    "Ses ancêtres atteignaient 20 m de haut au Carbonifère.",
+    "Sa silice la faisait utiliser pour récurer les casseroles et polir le bois.",
+    "Ses spores ont des « pattes » (élatères) qui bougent avec l’humidité.",
+    "Ses tiges fertiles brunes au printemps n’ont pas de chlorophylle."
+  ],
+  "anecdote": "Souffle doucement sur des spores de prêle sous la loupe : leurs élatères se tortillent et les font sautiller comme de minuscules insectes.",
+  "indices_quiz": [
+    "Sphénophyte à tiges articulées et silice.",
+    "Spores à élatères hygroscopiques.",
+    "Ses ancêtres géants ont formé une partie du charbon."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/52724",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Equisetum_arvense"
+  },
+  "notions": [
+    "adaptations-terrestres"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Talus, bords de champs et de voies ferrées, remblais.",
+    "quand": "Tiges fertiles en mars-avril ; vertes jusqu’en automne.",
+    "criteres": [
+      "Tiges articulées vertes en verticilles",
+      "Gaines dentées aux nœuds",
+      "Tiges fertiles brunes au printemps"
+    ],
+    "sosies": [
+      {
+        "espece": "Prêle géante (E. telmateia)",
+        "distinguer": "Bien plus grande, tige stérile blanchâtre ivoire ; suintements calcaires."
+      }
+    ]
+  }
+}

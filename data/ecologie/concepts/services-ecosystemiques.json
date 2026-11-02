@@ -1,0 +1,20 @@
+{
+  "id": "services-ecosystemiques",
+  "titre": "Services écosystémiques",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "Les **services écosystémiques** sont les bénéfices que les sociétés humaines tirent des écosystèmes. Le Millennium Ecosystem Assessment (2005) en distingue quatre types :\n- **approvisionnement** : nourriture, bois, eau ;\n- **régulation** : pollinisation, climat, crues, épuration ;\n- **culturels** : loisirs, spiritualité, éducation ;\n- **soutien** : formation des sols, cycles des nutriments.\n\nL’IPBES parle aujourd’hui de « **contributions de la nature aux populations** ».",
+  "details": "La valeur économique de la **pollinisation** animale dans le monde est souvent estimée à plusieurs centaines de milliards de dollars par an (IPBES, 2016 : 235 à 577 milliards de dollars de production agricole concernée).\n\nLimites de cette approche :\n- tout ne se monétise pas ;\n- elle reste une vision **anthropocentrée** ;\n- il existe un risque de « marchandisation » ;\n- des services peuvent s’opposer entre eux : une production intensive réduit la régulation.\n\nExemples en Belgique : les **zones humides** comme tampons contre les crues, les forêts comme puits de carbone et lieux de loisirs (forêt de Soignes), les haies (auxiliaires de culture, lutte contre l’érosion).",
+  "question": "Pourquoi l’approche par services écosystémiques est-elle à la fois utile et risquée pour la conservation ?",
+  "reponse": "**Utile** : elle rend visibles, dans les décisions économiques et politiques, des bénéfices que l’on considérait comme gratuits. On peut chiffrer le coût de la perte des pollinisateurs ou de l’épuration naturelle de l’eau, et justifier une protection.\n\n**Risquée** : elle laisse entendre que ce qui ne « rend pas de service » ou qui vaut moins qu’une alternative rentable peut être sacrifié. Beaucoup d’espèces n’ont pas de valeur d’usage identifiable. La valeur intrinsèque de la biodiversité et les incertitudes (redondance, effets de seuil) se prêtent mal à la monétisation.",
+  "pieges": [
+    "Réduire les services à leur valeur monétaire.",
+    "Oublier les compromis entre services."
+  ],
+  "liens": [
+    "mutualismes"
+  ],
+  "especes": [
+    "apis-mellifera"
+  ]
+}

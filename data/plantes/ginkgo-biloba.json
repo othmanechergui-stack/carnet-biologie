@@ -1,0 +1,125 @@
+{
+  "id": "ginkgo-biloba",
+  "nom": "Ginkgo",
+  "latin": "Ginkgo biloba",
+  "type": "arbre",
+  "regne": "plante",
+  "milieu": [
+    "urbain"
+  ],
+  "belgique": false,
+  "clade": "ginkgophyta",
+  "saison": [
+    10,
+    11
+  ],
+  "resume": "Seule espèce survivante d’une lignée vieille de plus de 200 millions d’années. Ses feuilles en **éventail** deviennent jaune d’or en novembre. Ses graines charnues sentent le **beurre rance**.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Gymnospermes",
+      [
+        "Ovules nus"
+      ]
+    ],
+    [
+      "Division",
+      "Ginkgophytes",
+      [
+        "Feuilles en éventail",
+        "Ovule charnu"
+      ]
+    ],
+    [
+      "Famille",
+      "Ginkgoacées",
+      []
+    ],
+    [
+      "Genre",
+      "Ginkgo",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Cycas revoluta",
+    "parents": [
+      "Taxus baccata",
+      "Pinus sylvestris"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Il est **dioïque**. Ses feuilles en éventail ont une **nervation dichotomique**. Les ovules sont portés par paires au bout d’un pédoncule. Après pollinisation, la graine développe un **tégument charnu** odorant, riche en acide butyrique : ce n’est pas un fruit.",
+    "details": "Ses **spermatozoïdes sont flagellés** : ce sont parmi les plus grands du monde végétal. Ils nagent dans une chambre pollinique à l’intérieur de l’ovule. Hirase les a découverts en 1896, une découverte majeure qui reliait les plantes à graines aux fougères."
+  },
+  "identification": {
+    "feuille": "En éventail, bilobée, nervation dichotomique, sur rameaux courts",
+    "fleur": "Chatons mâles ; ovules par 2 sur pédoncule (pieds femelles)",
+    "fruit": "Graine à tégument charnu jaune, odeur de vomi/beurre rance",
+    "ecorce": "Grise, crevassée",
+    "port": "Pyramidal puis étalé",
+    "periode": "Feuillage jaune d’or puis chute quasi simultanée en novembre"
+  },
+  "ecologie": {
+    "essentiel": "Planté dans les villes : il est résistant à la pollution. À l’état sauvage, il ne subsiste peut-être que dans quelques zones du sud-ouest de la Chine.",
+    "details": "L’UICN le classe **en danger** à l’état sauvage, alors qu’il est planté partout.",
+    "uicn": "EN",
+    "menaces": [
+      "Rareté à l’état sauvage"
+    ]
+  },
+  "usages": {
+    "essentiel": "On plante surtout des pieds **mâles** pour éviter l’odeur. Les amandes (graines cuites) sont consommées en Asie avec modération : elles sont toxiques en excès. L’efficacité des extraits de feuilles sur la mémoire n’est **pas démontrée** par les grands essais cliniques (GEM study, 2008).",
+    "details": "Six ginkgos ont survécu près de l’hypocentre de la bombe d’Hiroshima et ont redémarré.",
+    "confusions_dangereuses": [
+      "Graines toxiques en quantité (ginkgotoxine)",
+      "Pulpe irritante pour la peau"
+    ]
+  },
+  "facts": [
+    "Il a des spermatozoïdes flagellés, une rareté chez les plantes à graines.",
+    "Six ginkgos ont survécu au bombardement d’Hiroshima.",
+    "Il perd souvent toutes ses feuilles en un ou deux jours en automne.",
+    "Les extraits de feuilles n’ont pas montré d’effet préventif contre la démence dans un grand essai clinique."
+  ],
+  "anecdote": "Le ginkgo des avenues a des spermatozoïdes qui nagent, comme une fougère : c’est un fossile vivant planté au coin de ta rue.",
+  "indices_quiz": [
+    "Gymnosperme dioïque aux feuilles en éventail.",
+    "Spermatozoïdes flagellés.",
+    "En danger à l’état sauvage mais planté partout."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/64350",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Ginkgo_biloba"
+  },
+  "notions": [
+    "heterosporie-graine"
+  ],
+  "ajoute_le": "2026-11-02"
+}

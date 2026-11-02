@@ -1,0 +1,19 @@
+{
+  "id": "genealogies-tri-incomplet",
+  "titre": "Arbres de gènes, arbres d’espèces et tri incomplet",
+  "module": "module3",
+  "source": "module 3/GeÌneÌalogiesDeGeÌne - copie.pdf",
+  "essentiel": "L’**arbre d’un gène** ne coïncide pas forcément avec l’**arbre des espèces**. Si deux spéciations sont rapprochées dans le temps par rapport à la taille efficace ancestrale, des lignées alléliques polymorphes chez l’ancêtre peuvent se trier « au hasard » entre les espèces filles. C’est le **tri incomplet des lignées** (*incomplete lineage sorting*, ILS). D’autres causes de discordance existent : l’**introgression** et la **duplication** suivie de pertes de copies.",
+  "details": "Le temps attendu pour qu’une espèce devienne **réciproquement monophylétique** pour un gène nucléaire est de l’ordre de **4Ne générations** ou plus. Pour l’ADN mitochondrial, c’est environ Ne.\n\nChez les grands singes, une part notable du génome (environ 30 % dans certaines estimations) donne un arbre où l’humain n’est pas le plus proche du chimpanzé. La raison : les spéciations humain/chimpanzé et (humain+chimpanzé)/gorille sont rapprochées, et la taille efficace ancestrale était grande.\n\nSolution : les méthodes multi-locus fondées sur le coalescent multi-espèces (*BPP, *BEAST, ASTRAL).",
+  "question": "Comment distinguer une discordance entre arbre de gène et arbre d’espèces due au tri incomplet d’une discordance due à l’introgression ?",
+  "reponse": "Le **tri incomplet** produit des discordances **symétriques** : les deux topologies alternatives sont aussi fréquentes l’une que l’autre dans le génome. Les temps de coalescence sont antérieurs à la spéciation. L’**introgression** produit un **excès asymétrique** d’une topologie alternative, avec des temps de coalescence **récents**, postérieurs à la spéciation. C’est le principe du **test ABBA-BABA (D de Patterson)**, qui a permis de détecter l’introgression néandertalienne chez les non-Africains.",
+  "pieges": [
+    "Prendre l’arbre d’un seul gène pour l’arbre des espèces.",
+    "Attribuer toute discordance à l’hybridation."
+  ],
+  "liens": [
+    "coalescence",
+    "delimitation-especes",
+    "neandertal-introgression"
+  ]
+}

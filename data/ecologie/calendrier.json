@@ -1,0 +1,385 @@
+[
+ {
+  "mois": 1,
+  "evenements": [
+   {
+    "type": "flore",
+    "texte": "Chatons du noisetier : premier pollen de l’année (allergies).",
+    "especes": [
+     "corylus-avellana"
+    ]
+   },
+   {
+    "type": "oiseaux",
+    "texte": "Rassemblements d’oiseaux d’eau hivernants sur les lacs et l’Escaut ; grives et pigeons sur les baies de lierre.",
+    "especes": [
+     "hedera-helix"
+    ]
+   },
+   {
+    "type": "mammiferes",
+    "texte": "Rut du renard : cris rauques nocturnes.",
+    "especes": [
+     "vulpes-vulpes"
+    ]
+   },
+   {
+    "type": "oiseaux",
+    "texte": "Le rouge-gorge chante encore en hiver : territoires individuels.",
+    "especes": [
+     "erithacus-rubecula"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 2,
+  "evenements": [
+   {
+    "type": "amphibiens",
+    "texte": "Fin du mois : premières migrations de crapauds par nuits douces et humides (> 7 °C).",
+    "especes": [
+     "bufo-bufo"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Perce-neiges, primevères acaules sur les talus.",
+    "especes": [
+     "primula-vulgaris"
+    ]
+   },
+   {
+    "type": "oiseaux",
+    "texte": "Les mésanges commencent à chanter ; la mésange à longue queue construit déjà son nid.",
+    "especes": [
+     "aegithalos-caudatus"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 3,
+  "evenements": [
+   {
+    "type": "amphibiens",
+    "texte": "Pic des migrations de crapauds et grenouilles : opérations de sauvetage sur les routes.",
+    "especes": [
+     "bufo-bufo"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Tapis d’anémones des bois et de ficaires avant la feuillaison ; feuilles d’ail des ours.",
+    "especes": [
+     "anemone-nemorosa",
+     "allium-ursinum"
+    ]
+   },
+   {
+    "type": "insectes",
+    "texte": "Premières abeilles sauvages et reines de bourdons sur les saules."
+   },
+   {
+    "type": "flore",
+    "texte": "Tiges fertiles brunes de la prêle des champs.",
+    "especes": [
+     "equisetum-arvense"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 4,
+  "evenements": [
+   {
+    "type": "oiseaux",
+    "texte": "Retour des migrateurs (hirondelles, fauvettes) ; chœur de l’aube au maximum."
+   },
+   {
+    "type": "flore",
+    "texte": "Pic de floraison du pissenlit ; jacinthes des bois au Hallerbos (fin avril).",
+    "especes": [
+     "taraxacum-officinale"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Pollen de bouleau (allergies).",
+    "especes": [
+     "betula-pendula"
+    ]
+   },
+   {
+    "type": "insectes",
+    "texte": "Coccinelles sortent d’hivernage et attaquent les premiers pucerons.",
+    "especes": [
+     "coccinella-septempunctata"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 5,
+  "evenements": [
+   {
+    "type": "flore",
+    "texte": "« Pluie de soufre » : pollen de pin.",
+    "especes": [
+     "pinus-sylvestris"
+    ]
+   },
+   {
+    "type": "insectes",
+    "texte": "Essaimage des abeilles domestiques.",
+    "especes": [
+     "apis-mellifera"
+    ]
+   },
+   {
+    "type": "poissons",
+    "texte": "Épinoches mâles à gorge rouge construisent leur nid.",
+    "especes": [
+     "gasterosteus-aculeatus"
+    ]
+   },
+   {
+    "type": "mammiferes",
+    "texte": "Renardeaux à l’entrée des terriers.",
+    "especes": [
+     "vulpes-vulpes"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 6,
+  "evenements": [
+   {
+    "type": "flore",
+    "texte": "Sureau en fleurs (sirop) ; digitales dans les coupes ardennaises.",
+    "especes": [
+     "sambucus-nigra",
+     "digitalis-purpurea"
+    ]
+   },
+   {
+    "type": "mammiferes",
+    "texte": "Colonies de mise bas des chauves-souris dans les bâtiments.",
+    "especes": [
+     "pipistrellus-pipistrellus"
+    ]
+   },
+   {
+    "type": "insectes",
+    "texte": "Lucioles (lampyres) les nuits chaudes ; vols nuptiaux de fourmis par temps orageux."
+   },
+   {
+    "type": "mer",
+    "texte": "Premières méduses aurélies sur la côte.",
+    "especes": [
+     "aurelia-aurita"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 7,
+  "evenements": [
+   {
+    "type": "flore",
+    "texte": "Ombelles de berce et de carotte sauvage couvertes d’insectes.",
+    "especes": [
+     "heracleum-sphondylium",
+     "daucus-carota"
+    ]
+   },
+   {
+    "type": "insectes",
+    "texte": "Pic de papillons : paons-du-jour sur les orties et les buddleias.",
+    "especes": [
+     "urtica-dioica"
+    ]
+   },
+   {
+    "type": "champignons",
+    "texte": "Premières amanites phalloïdes en été humide.",
+    "especes": [
+     "amanita-phalloides"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Moisson du blé.",
+    "especes": [
+     "triticum-aestivum"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 8,
+  "evenements": [
+   {
+    "type": "oiseaux",
+    "texte": "Début de la migration postnuptiale (martinets partis, limicoles en passage)."
+   },
+   {
+    "type": "flore",
+    "texte": "Floraison des landes à bruyère (Campine, Hautes Fagnes)."
+   },
+   {
+    "type": "insectes",
+    "texte": "Épeires diadèmes adultes ; toiles partout.",
+    "especes": [
+     "araneus-diadematus"
+    ]
+   },
+   {
+    "type": "champignons",
+    "texte": "Après les orages : premiers cèpes.",
+    "especes": [
+     "boletus-edulis"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 9,
+  "evenements": [
+   {
+    "type": "mammiferes",
+    "texte": "Brame du cerf en Ardenne (mi-septembre à mi-octobre).",
+    "especes": [
+     "cervus-elaphus"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Le lierre commence à fleurir : dernier grand buffet des insectes ; abeille du lierre.",
+    "especes": [
+     "hedera-helix"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Baies de sureau et noisettes mûres.",
+    "especes": [
+     "sambucus-nigra",
+     "corylus-avellana"
+    ]
+   },
+   {
+    "type": "champignons",
+    "texte": "Pic de la saison des champignons.",
+    "especes": [
+     "boletus-edulis",
+     "amanita-muscaria"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 10,
+  "evenements": [
+   {
+    "type": "oiseaux",
+    "texte": "Grand passage migratoire : pinsons, grives, grues cendrées au-dessus de l’Ardenne ; rouges-gorges nordiques.",
+    "especes": [
+     "erithacus-rubecula"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Glands et faines ; couleurs d’automne.",
+    "especes": [
+     "quercus-robur",
+     "fagus-sylvatica"
+    ]
+   },
+   {
+    "type": "champignons",
+    "texte": "Amanites tue-mouches sous les bouleaux.",
+    "especes": [
+     "amanita-muscaria"
+    ]
+   },
+   {
+    "type": "mammiferes",
+    "texte": "Les castors coupent des arbres pour leurs réserves d’hiver.",
+    "especes": [
+     "castor-fiber"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 11,
+  "evenements": [
+   {
+    "type": "flore",
+    "texte": "Fin de floraison du lierre ; arilles rouges de l’if.",
+    "especes": [
+     "hedera-helix",
+     "taxus-baccata"
+    ]
+   },
+   {
+    "type": "mammiferes",
+    "texte": "Les hérissons entrent en hibernation : laisse des tas de feuilles.",
+    "especes": [
+     "erinaceus-europaeus"
+    ]
+   },
+   {
+    "type": "insectes",
+    "texte": "Agrégats d’hivernage de coccinelles.",
+    "especes": [
+     "coccinella-septempunctata"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Feuillages cuivrés des hêtres ; le ginkgo perd ses feuilles d’or en un jour.",
+    "especes": [
+     "fagus-sylvatica",
+     "ginkgo-biloba"
+    ]
+   }
+  ]
+ },
+ {
+  "mois": 12,
+  "evenements": [
+   {
+    "type": "oiseaux",
+    "texte": "Mésanges à longue queue en bandes familiales aux mangeoires.",
+    "especes": [
+     "aegithalos-caudatus"
+    ]
+   },
+   {
+    "type": "flore",
+    "texte": "Mousses et lichens bien visibles : saison idéale pour la bryologie.",
+    "especes": [
+     "polytrichum-commune",
+     "xanthoria-parietina"
+    ]
+   },
+   {
+    "type": "mer",
+    "texte": "Échouages d’étoiles de mer après les tempêtes.",
+    "especes": [
+     "asterias-rubens"
+    ]
+   },
+   {
+    "type": "mammiferes",
+    "texte": "Traces dans la neige ou la boue : renard (ovale) vs chat (rond).",
+    "especes": [
+     "vulpes-vulpes"
+    ]
+   }
+  ]
+ }
+]

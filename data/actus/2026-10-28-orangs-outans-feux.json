@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-28-orangs-outans-feux",
+  "date": "2026-10-28",
+  "titre": "Feux de Bornéo : ce que 2015 laisse prévoir pour les orangs-outans",
+  "resume": "Saison d’incendies exceptionnelle (El Niño) : ≈ 30 % de la zone d’étude de Tuanan brûlée en 2026. Après 2015, la production de fruits avait chuté pendant ≈ 2,5 ans ; les orangs-outans se déplaçaient moins, perdaient de la masse maigre, les femelles toléraient moins leurs congénères et aucune gestation n’avait été observée pendant 2,5 ans.",
+  "source": {
+    "nom": "MPI Animal Behavior (d’après Ashbury et al. 2021, Int. J. Primatol.)",
+    "url": "https://www.ab.mpg.de/1616300/news_publication_27060234_transferred"
+  },
+  "themes": [
+    "conservation",
+    "comportement",
+    "ecologie"
+  ],
+  "grille": {
+    "modele": "animal",
+    "echantillon": "population suivie depuis 2003 (Tuanan)",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "Après les feux de 2015 à Tuanan, combien de temps la production de fruits est-elle restée basse ?",
+    "choix": [
+      "Quelques semaines",
+      "Environ 2,5 ans",
+      "Dix ans"
+    ],
+    "bonne": 1
+  },
+  "module": "module4"
+}

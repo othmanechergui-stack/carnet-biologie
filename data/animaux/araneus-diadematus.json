@@ -1,0 +1,116 @@
+{
+  "id": "araneus-diadematus",
+  "nom": "Épeire diadème",
+  "latin": "Araneus diadematus",
+  "groupe": "arachnide",
+  "milieu": [
+    "jardin",
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "arachnida",
+  "resume": "La grande araignée des jardins d’automne qui tisse une **toile orbiculaire** parfaite. Elle porte une **croix blanche** sur l’abdomen.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Arthropodes",
+      "synapomorphies": [
+        "Exosquelette chitineux articulé",
+        "Mue (ecdystéroïdes)",
+        "Appendices articulés"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Arachnides",
+      "synapomorphies": [
+        "Chélicères",
+        "4 paires de pattes",
+        "Pas d’antennes"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Aranéides",
+      "synapomorphies": [
+        "Filières (soie)",
+        "Chélicères à crochets venimeux"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Aranéidés",
+      "synapomorphies": [
+        "Toile orbiculaire"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Araneus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Opiliones",
+    "parents": [
+      "Araneus quadratus",
+      "Larinioides cornutus"
+    ]
+  },
+  "facts": [
+    "Elle mange chaque jour sa vieille toile pour recycler les protéines de la soie.",
+    "Le mâle pince les fils selon un code vibratoire pour ne pas être confondu avec une proie.",
+    "Deux épeires diadèmes ont été envoyées dans Skylab en 1973 : elles ont réussi à tisser en apesanteur.",
+    "La soie de cadre est, à masse égale, plus résistante que l’acier."
+  ],
+  "anecdote": "En 1973, deux épeires diadèmes, Arabella et Anita, ont tissé leurs toiles en apesanteur dans la station Skylab.",
+  "indices_quiz": [
+    "Araignée à croix blanche qui tisse une toile orbiculaire.",
+    "Elle mange et recycle sa toile.",
+    "Elle a tissé dans l’espace à bord de Skylab."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/52628",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Araneus_diadematus"
+  },
+  "notions": [],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "La femelle mesure 10 à 20 mm, le mâle est bien plus petit. La croix est formée de taches blanches sur l’abdomen. Ses filières produisent plusieurs types de **soies** : soie de cadre (ampullacée majeure, plus résistante que l’acier à masse égale), spirale **gluante**, soie d’emballage.",
+    "details": "Elle reconstruit souvent sa toile chaque jour et **recycle** l’ancienne en la mangeant. Sa vue est mauvaise : elle perçoit le monde par les **vibrations** de la toile."
+  },
+  "comportement": {
+    "essentiel": "Les mâles approchent la femelle en pinçant les fils selon un code vibratoire propre à l’espèce, pour ne pas être pris pour une proie. Le **cannibalisme sexuel** est possible.",
+    "details": "Expérience célèbre de Peter Witt (années 1960) : sous l’effet de drogues (caféine, amphétamines), les toiles deviennent irrégulières. La géométrie de la toile sert de test comportemental. La toile est un **phénotype étendu** au sens de Dawkins.",
+    "concepts": [
+      "signal-indice"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Haies, jardins, lisières ; très visible en septembre-octobre.",
+    "details": "Grande consommatrice de mouches, de moustiques et de guêpes. Proie des oiseaux et des guêpes chasseuses d’araignées.",
+    "uicn": "NE",
+    "menaces": [
+      "Peu menacée"
+    ]
+  },
+  "terrain": {
+    "ou": "Haies, jardins, encadrements de fenêtres.",
+    "quand": "Fin août à octobre (adultes) ; très visible le matin avec la rosée.",
+    "criteres": [
+      "Croix blanche sur l’abdomen",
+      "Grande toile orbiculaire verticale",
+      "Couleur brun-orangé variable"
+    ],
+    "sosies": [
+      {
+        "espece": "Épeire des roseaux (Larinioides cornutus)",
+        "distinguer": "Abdomen à motif en feuille de chêne sans croix, souvent près de l’eau."
+      },
+      {
+        "espece": "Épeire de velours (Araneus quadratus)",
+        "distinguer": "Abdomen très rond avec quatre grosses taches blanches en carré."
+      }
+    ]
+  }
+}

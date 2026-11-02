@@ -1,0 +1,21 @@
+{
+  "id": "regle-hamilton",
+  "titre": "Règle de Hamilton et sélection de parentèle",
+  "module": "societes",
+  "source": "animal societies/Biology of Animal Societies (2017-2018).pdf",
+  "essentiel": "La **règle de Hamilton** (1964) dit qu’un comportement altruiste est favorisé si **rB > C**. Ici r est le coefficient d’apparentement entre l’acteur et le bénéficiaire, B le bénéfice en descendants pour le bénéficiaire, et C le coût en descendants pour l’acteur. La **fitness inclusive** additionne la reproduction directe et la part indirecte transmise par les apparentés.",
+  "details": "L’apparentement r est la probabilité qu’un allèle de l’acteur soit présent, par ascendance commune, chez le bénéficiaire, au-delà de la moyenne de la population. Pour des diploïdes : r = 0,5 entre parent et enfant et entre frères et sœurs, 0,25 pour un demi-frère, 0,125 pour un cousin.\n\nExemples :\n- sentinelles et aides chez les suricates ;\n- aides au nid chez le geai buissonnier de Floride (*Aphelocoma coerulescens*, Woolfenden & Fitzpatrick) ;\n- cris d’alarme des spermophiles de Belding, plus fréquents chez les femelles entourées d’apparentées (Sherman, 1977).\n\nLa reconnaissance de parentèle se fait par contexte (vivre au même nid) ou par phénotype (odeurs), ce que l’on appelle le *phenotype matching*.",
+  "question": "Un geai buissonnier de 1 an reste aider ses parents au lieu de se reproduire. Il augmente leur production de 1,2 jeune par an. S’il partait, il élèverait en moyenne 0,4 jeune. Hamilton prédit-il qu’il doit aider (r = 0,5 avec des frères et sœurs) ?",
+  "reponse": "Oui. Il faut comparer en **équivalents de gènes**, en pondérant chaque option par l’apparentement. Aider : il gagne 1,2 frère ou sœur supplémentaire × r = 0,5, soit **0,6**. Partir : il élève 0,4 jeune propre × r = 0,5, soit **0,2**. Comme 0,6 > 0,2, aider est favorisé ; c’est la règle rB > C avec B et C pondérés de la même façon. Les **contraintes écologiques** (manque de territoires libres) réduisent C, ce qui favorise l’aide. Attention : les aides gagnent souvent aussi des bénéfices directs, comme hériter du territoire.",
+  "pieges": [
+    "Oublier de pondérer coûts et bénéfices de la même façon par l’apparentement.",
+    "Croire que l’altruisme envers des apparentés exige une « conscience » de la parenté."
+  ],
+  "liens": [
+    "haplodiploidie-trois-quarts",
+    "eusocialite-criteres"
+  ],
+  "especes": [
+    "suricata-suricatta"
+  ]
+}

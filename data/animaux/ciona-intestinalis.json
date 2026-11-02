@@ -1,0 +1,93 @@
+{
+  "id": "ciona-intestinalis",
+  "nom": "Ascidie (Ciona)",
+  "latin": "Ciona intestinalis",
+  "groupe": "urochorde",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": false,
+  "clade": "urochordata",
+  "resume": "Un « sac » translucide fixé sur les pontons et les coques qui filtre l’eau de mer. C’est un **tunicier**, le groupe frère des vertébrés. Sa larve têtard a une **notochorde** et un tube neural.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Sous-embranchement",
+      "nom": "Urochordés (Tuniciers)",
+      "synapomorphies": [
+        "Tunique de tunicine (cellulose)"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Ascidies",
+      "synapomorphies": [
+        "Adulte fixé à deux siphons"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Cionidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Ciona",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Branchiostoma lanceolatum",
+    "parents": [
+      "Ciona robusta",
+      "Molgula manhattensis"
+    ]
+  },
+  "facts": [
+    "C’est l’un des rares animaux qui fabriquent de la cellulose, grâce à un gène d’origine bactérienne.",
+    "La larve têtard possède une notochorde, qu’elle perd à la métamorphose.",
+    "Les tuniciers sont le groupe frère des vertébrés (Olfactores).",
+    "On dit (à tort) qu’elle « mange son cerveau » : le ganglion cérébral larvaire régresse et est remodelé à la métamorphose."
+  ],
+  "anecdote": "L’ascidie fabrique de la cellulose comme une plante, grâce à un gène volé à une bactérie il y a des centaines de millions d’années.",
+  "indices_quiz": [
+    "Tunicier fixé à deux siphons, groupe frère des vertébrés.",
+    "Sa tunique est en cellulose (gène bactérien).",
+    "Sa larve têtard perd sa notochorde."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/48272",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Ciona_intestinalis"
+  },
+  "notions": [
+    "chordes-synapomorphies"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "L’adulte mesure jusqu’à environ 15 cm. Il a deux **siphons** (inhalant et exhalant), un énorme pharynx percé de fentes et un **endostyle**. Sa **tunique** est faite de **tunicine**, une forme de **cellulose** : c’est l’un des rares animaux à en synthétiser, grâce à un gène acquis par **transfert horizontal** depuis une bactérie.",
+    "details": "La larve, de 1 à 2 mm, nage quelques heures, se fixe par la tête, puis se métamorphose : la queue, la notochorde et le tube neural régressent. Son génome compact et ses embryons à lignages cellulaires connus en font un modèle de développement."
+  },
+  "comportement": {
+    "essentiel": "Filtreur sessile. C’est un hermaphrodite qui pratique l’auto-incompatibilité.",
+    "details": "La larve est attirée par la lumière puis par la gravité au moment de la fixation : la séquence de taxies est programmée.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Ports, pontons, coques de bateaux en zone tempérée. Présente sur les côtes de la mer du Nord, y compris dans les ports.",
+    "details": "Elle est devenue **envahissante** sur certaines côtes (Canada, Chili), où elle encrasse les élevages de moules.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  }
+}

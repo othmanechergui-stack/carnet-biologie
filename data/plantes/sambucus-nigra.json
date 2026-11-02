@@ -1,0 +1,160 @@
+{
+  "id": "sambucus-nigra",
+  "nom": "Sureau noir",
+  "latin": "Sambucus nigra",
+  "type": "arbuste",
+  "regne": "plante",
+  "milieu": [
+    "haie",
+    "foret",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "dipsacales",
+  "saison": [
+    5,
+    6,
+    8,
+    9
+  ],
+  "resume": "Arbuste des haies et des friches azotées. Ses ombelles de fleurs blanches parfumées en juin, puis ses baies noires en septembre, se cuisinent **cuites**. Crues, les baies vertes sont toxiques.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Dipsacales",
+      []
+    ],
+    [
+      "Famille",
+      "Viburnacées (Adoxacées)",
+      []
+    ],
+    [
+      "Genre",
+      "Sambucus",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Hedera helix",
+    "parents": [
+      "Sambucus racemosa",
+      "Sambucus ebulus"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ses rameaux contiennent une **moelle blanche** très développée et légère. Ses feuilles sont composées de 5 à 7 folioles. Ses fleurs sont petites, en larges corymbes plats. Ses fruits sont des **drupes** noires.",
+    "details": "Les parties vertes, les graines et les fruits non mûrs contiennent des **glycosides cyanogènes** (sambunigrine). La cuisson les détruit. C’est une plante **nitrophile**, indicatrice de sols riches en azote."
+  },
+  "identification": {
+    "feuille": "Opposée, composée de 5–7 folioles dentées, odeur forte au froissement",
+    "fleur": "Corymbes plats blanc crème, parfum fort",
+    "fruit": "Baies (drupes) noires luisantes en grappes pendantes",
+    "ecorce": "Liégeuse, crevassée, grise",
+    "port": "Arbuste à tiges arquées",
+    "periode": "Floraison juin ; baies fin août-septembre"
+  },
+  "ecologie": {
+    "essentiel": "Haies, friches, abords de fermes, bois sur sols riches.",
+    "details": "Les baies nourrissent de nombreux oiseaux (fauvettes à tête noire, grives) en migration.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Fleurs en **sirop** et beignets ; baies **cuites** en gelée et en sirop. La moelle servait aux préparations microscopiques (coupes à main levée).",
+    "details": "Ne jamais consommer les baies crues ou vertes en quantité.",
+    "cueillette": "Fleurs : juin, par temps sec ; baies bien noires, toujours cuites.",
+    "confusions_dangereuses": [
+      "Sureau hièble (Sambucus ebulus) : plante herbacée toxique à baies noires similaires, à corymbe dressé et odeur fétide",
+      "Ciguë et autres Apiacées à ombelles blanches : fleurs en vraie ombelle et tiges creuses, pas un arbuste"
+    ]
+  },
+  "facts": [
+    "Sa moelle servait de support pour les coupes en microscopie.",
+    "Ses baies crues contiennent des composés cyanogènes, détruits par la cuisson.",
+    "C’est un indicateur de sols riches en azote.",
+    "Les fauvettes à tête noire font le plein de ses baies avant la migration."
+  ],
+  "anecdote": "En TP de botanique, avant les microtomes, on coinçait les échantillons dans de la moelle de sureau pour les couper au rasoir.",
+  "indices_quiz": [
+    "Arbuste nitrophile à feuilles composées opposées et moelle blanche.",
+    "Fleurs en sirop, baies toujours cuites.",
+    "Baies crues cyanogènes."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/765394",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Sambucus_nigra"
+  },
+  "notions": [],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Haies, friches, cours de ferme, talus.",
+    "quand": "Fleurs en juin ; baies en septembre.",
+    "criteres": [
+      "Feuilles composées opposées malodorantes",
+      "Corymbes blancs plats",
+      "Moelle blanche dans les rameaux"
+    ],
+    "sosies": [
+      {
+        "espece": "Sureau hièble (Sambucus ebulus)",
+        "distinguer": "Herbacé (non ligneux), inflorescence dressée, baies toxiques ; odeur désagréable."
+      },
+      {
+        "espece": "Sureau rouge (Sambucus racemosa)",
+        "distinguer": "Inflorescence en grappe ovale, baies rouges ; Ardenne."
+      }
+    ]
+  }
+}

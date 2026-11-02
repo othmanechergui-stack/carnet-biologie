@@ -1,0 +1,116 @@
+{
+  "id": "oniscus-asellus",
+  "nom": "Cloporte des murs",
+  "latin": "Oniscus asellus",
+  "groupe": "crustace",
+  "milieu": [
+    "jardin",
+    "foret",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "isopoda",
+  "resume": "Ce n’est pas un insecte mais un **crustacé terrestre**, cousin des crevettes. Il vit sous les écorces, les pierres et les pots de fleurs, et joue un rôle clé de **décomposeur** de litière.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Arthropodes",
+      "synapomorphies": [
+        "Exosquelette chitineux articulé",
+        "Mue (ecdystéroïdes)",
+        "Appendices articulés"
+      ]
+    },
+    {
+      "rang": "Sous-embranchement",
+      "nom": "Crustacés (Pancrustacés)",
+      "synapomorphies": [
+        "Deux paires d’antennes (A1 réduite chez les cloportes)"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Isopodes",
+      "synapomorphies": [
+        "Corps aplati",
+        "Pléopodes respiratoires"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Oniscidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Oniscus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Armadillidium vulgare",
+    "parents": [
+      "Porcellio scaber",
+      "Philoscia muscorum"
+    ]
+  },
+  "facts": [
+    "C’est un crustacé terrestre, plus proche des crevettes que des insectes.",
+    "Il excrète de l’ammoniac gazeux à travers sa cuticule.",
+    "La femelle porte ses petits dans une poche ventrale (marsupium).",
+    "Les cloportes muent en deux temps : d’abord la moitié arrière, puis la moitié avant."
+  ],
+  "anecdote": "Les cloportes muent en deux moitiés : pendant un jour ou deux, ils ont un arrière tout neuf et un avant encore ancien.",
+  "indices_quiz": [
+    "Crustacé isopode terrestre qui respire par des pléopodes.",
+    "Il mue en deux moitiés, l’arrière d’abord.",
+    "La femelle porte ses jeunes dans un marsupium."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/48284",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Oniscus_asellus"
+  },
+  "notions": [
+    "agregation-cloportes"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il mesure jusqu’à environ 16 mm, avec un corps gris luisant marbré de taches claires. Il ne se roule pas complètement en boule, contrairement à l’armadille. Il respire par des **pléopodes** abdominaux à pseudotrachées, ce qui le rend **sensible au dessèchement**.",
+    "details": "Il excrète de l’**ammoniac** gazeux plutôt que de l’urée ou de l’acide urique, une trace de son origine aquatique. La femelle porte ses œufs dans un **marsupium** ventral : les jeunes en sortent comme des adultes miniatures."
+  },
+  "comportement": {
+    "essentiel": "Il est **grégaire** : il forme des agrégats sous les abris humides. L’agrégation réduit la perte d’eau individuelle et repose sur une interattraction (contacts, signaux chimiques).",
+    "details": "Il réagit à l’humidité par **orthocinèse** (il ralentit en milieu humide) et par **klinocinèse**. C’est un modèle classique de TP d’éthologie, que tu as étudié. Tu en as tiré une leçon de méthode : l’individu isolé n’a pas montré de préférence significative (χ², p ≈ 0,80).",
+    "concepts": [
+      "agregation-cloportes"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Litières, bois mort, murs humides, compost.",
+    "details": "C’est un **détritivore**. Il fragmente la litière et accélère la décomposition par les micro-organismes : il fait partie de la chaîne détritique. Il accumule aussi des métaux lourds (bioindicateur).",
+    "uicn": "NE",
+    "menaces": [
+      "Assèchement des sols",
+      "Peu menacé"
+    ]
+  },
+  "terrain": {
+    "ou": "Sous les pierres, écorces, pots de fleurs, dans les composts.",
+    "quand": "Toute l’année ; plus actif la nuit et par temps humide.",
+    "criteres": [
+      "Gris luisant marbré de jaune pâle",
+      "Bord du corps clair",
+      "Ne se roule pas en boule parfaite"
+    ],
+    "sosies": [
+      {
+        "espece": "Armadille commune (Armadillidium vulgare)",
+        "distinguer": "Se roule en boule parfaite ; corps plus bombé, gris ardoise uniforme."
+      },
+      {
+        "espece": "Porcellio scaber",
+        "distinguer": "Dos mat et granuleux, sans marbrures claires."
+      }
+    ]
+  }
+}

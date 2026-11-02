@@ -1,0 +1,17 @@
+{
+  "id": "expression-differentielle",
+  "titre": "Expression différentielle",
+  "module": "transcriptomique",
+  "source": "Transcriptomic/P05.pdf",
+  "essentiel": "L’analyse d’**expression différentielle** teste, gène par gène, si les comptages diffèrent entre conditions. Comme les comptages sont **surdispersés** (variance supérieure à la moyenne), on utilise une **loi binomiale négative** (edgeR, DESeq2) plutôt qu’une loi de Poisson. Les milliers de tests imposent une **correction pour tests multiples**, par le **FDR** de Benjamini-Hochberg.",
+  "details": "Étapes :\n1. filtrer les gènes trop peu exprimés ;\n2. normaliser (TMM, médiane des ratios) ;\n3. estimer la **dispersion**, en partageant l’information entre gènes (*shrinkage*) ;\n4. ajuster un modèle linéaire généralisé ;\n5. faire le test (vraisemblance, Wald, quasi-vraisemblance) ;\n6. calculer le log₂ *fold change* et le FDR.\n\nVisualisations : MA-plot, volcano plot, ACP des échantillons (pour repérer les effets de lot), heatmaps.\n\nLa **puissance** dépend surtout du **nombre de réplicats biologiques**. Avec n = 2, on ne détecte que de gros effets.",
+  "question": "Pourquoi utilise-t-on une loi binomiale négative plutôt qu’une loi de Poisson pour modéliser les comptages RNA-seq ?",
+  "reponse": "La loi de Poisson suppose **variance = moyenne**, ce qui ne vaut que pour la variation **technique** pure. Entre **réplicats biologiques**, l’expression varie en plus d’un individu à l’autre : la variance observée est **supérieure** à la moyenne (surdispersion). La binomiale négative ajoute un paramètre de **dispersion** (variance = μ + αμ²). Elle modélise correctement cette variabilité. Avec Poisson, la variance serait sous-estimée et les faux positifs trop nombreux.",
+  "pieges": [
+    "Utiliser des p-values brutes sur 20 000 gènes.",
+    "Interpréter un gros fold change sans regarder l’expression moyenne (gènes très peu exprimés = bruit)."
+  ],
+  "liens": [
+    "normalisation-rnaseq"
+  ]
+}

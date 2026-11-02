@@ -1,0 +1,18 @@
+{
+  "id": "neotenie-humaine",
+  "titre": "Néoténie humaine",
+  "module": "module5",
+  "source": "module 5/Evolution Humaine1.pdf",
+  "essentiel": "La **néoténie** est la **rétention, chez l’adulte, de caractères juvéniles** de l’ancêtre, par ralentissement du développement somatique. Ton cours note que le crâne d’un humain adulte **ressemble à celui d’un bébé chimpanzé** : crâne arrondi et volumineux, face réduite et plate, faible pilosité, trou occipital avancé. Cela s’expliquerait par des gènes qui ralentissent le développement.",
+  "details": "Idée ancienne : Bolk (1926), puis Gould (*Ontogeny and Phylogeny*, 1977). L’**hétérochronie** désigne un changement dans le calendrier du développement.\n\nL’humain combine pourtant plusieurs tendances :\n- **néoténie** de la forme du crâne ;\n- **hypermorphose** : croissance prolongée du cerveau et période juvénile longue ;\n- **caractères non juvéniles** : jambes longues, bipédie.\n\nOn parle donc plutôt de **mosaïque d’hétérochronies**. Les analyses morphométriques récentes nuancent fortement la « néoténie globale ».\n\nLe ralentissement du développement s’accompagne d’une longue enfance, d’une grande plasticité cérébrale et d’un apprentissage culturel prolongé.\n\nNéoténie chez d’autres animaux : l’axolotl (*Ambystoma mexicanum*), qui se reproduit à l’état larvaire, ou les chiens par rapport au loup.",
+  "question": "En quoi la forme du crâne humain illustre-t-elle la néoténie, et pourquoi faut-il nuancer l’idée que l’humain est « un singe néoténique » ?",
+  "reponse": "Le crâne humain adulte conserve des proportions **juvéniles** de grand singe : boîte crânienne globuleuse par rapport à la face, face plate et peu projetée, trou occipital sous le crâne, arcades sourcilières réduites. Le bébé chimpanzé a ces traits, puis les perd en grandissant. Mais d’autres traits humains ne sont **pas juvéniles** : jambes longues, adaptations à la bipédie. Le cerveau, lui, résulte d’une croissance **prolongée** (hypermorphose). C’est donc une **mosaïque** d’hétérochronies plutôt qu’une néoténie globale.",
+  "pieges": [
+    "Confondre néoténie (développement somatique ralenti) et progenèse (maturité sexuelle précoce).",
+    "Présenter la néoténie comme l’explication unique de l’évolution humaine."
+  ],
+  "liens": [
+    "bipedie",
+    "encephalisation"
+  ]
+}

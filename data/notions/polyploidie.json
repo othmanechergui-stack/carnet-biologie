@@ -1,0 +1,19 @@
+{
+  "id": "polyploidie",
+  "titre": "Autopolyploïdie et allopolyploïdie",
+  "module": "module1",
+  "source": "module 1/3. PolyploÃ¯die - copie.pdf",
+  "essentiel": "La **polyploïdie** est la duplication du génome entier. L’**autopolyploïde** résulte du doublement chromosomique **d’une seule espèce** (gamètes non réduits, mitose anormale). L’**allopolyploïde** résulte de l’hybridation entre **deux espèces** suivie d’un doublement, ce qui restaure des paires de chromosomes homologues. Les chromosomes issus des deux espèces parentales s’appellent **homéologues**.",
+  "details": "Le doublement produit un **choc génomique** :\n- appariements multivalents qui mènent à l’aneuploïdie ;\n- recombinaisons entre homéologues qui font perdre des homéoallèles ;\n- réactivation de transposons ;\n- réorganisation de l’expression.\n\nIl présente aussi des avantages :\n- **hétérosis** fixée ;\n- **redondance** génétique qui masque les allèles délétères ;\n- matériel pour la néo- ou sous-fonctionnalisation ;\n- rupture de l’auto-incompatibilité (les polyploïdes sont plus souvent autogames).\n\nLes polyploïdes se forment de façon **récurrente** (plusieurs origines indépendantes). Toutes les angiospermes ont des **duplications de génome ancestrales** (paléopolyploïdie). Exemples : le blé tendre (hexaploïde, AABBDD), le colza, *Spartina anglica*.",
+  "question": "Le blé tendre est AABBDD. Explique ce que cela signifie et pourquoi sa méiose reste régulière.",
+  "reponse": "Le blé tendre est un **allohexaploïde** : il possède les génomes diploïdes complets de **trois espèces** ancestrales (A d’un *Triticum* sauvage, B apparenté à *Aegilops speltoides*, D d’*Aegilops tauschii*), issus de deux hybridations successives suivies de doublements. À la méiose, chaque chromosome s’apparie avec son **homologue** du même génome (A avec A, B avec B…) et non avec ses homéologues. Le gène *Ph1* empêche ces appariements homéologues. La méiose se comporte donc comme chez un diploïde.",
+  "pieges": [
+    "Confondre homologues (même génome) et homéologues (génomes de deux espèces).",
+    "Dire que l’allopolyploïde est forcément stérile : le doublement restaure justement la fertilité."
+  ],
+  "liens": [
+    "modes-speciation",
+    "duplication-genes",
+    "hybridation-transgressive"
+  ]
+}

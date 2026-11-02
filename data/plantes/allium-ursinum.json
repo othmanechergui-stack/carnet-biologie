@@ -1,0 +1,156 @@
+{
+  "id": "allium-ursinum",
+  "nom": "Ail des ours",
+  "latin": "Allium ursinum",
+  "type": "fleur",
+  "regne": "plante",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "asparagales",
+  "saison": [
+    3,
+    4,
+    5
+  ],
+  "resume": "Tapis vert à **forte odeur d’ail** dans les sous-bois humides au printemps. C’est une star de la cueillette, mais attention aux **confusions mortelles** avec le muguet et le colchique.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Monocotylédones",
+      [
+        "Un cotylédon",
+        "Nervures parallèles"
+      ]
+    ],
+    [
+      "Ordre",
+      "Asparagales",
+      []
+    ],
+    [
+      "Famille",
+      "Amaryllidacées (Alliacées)",
+      [
+        "Bulbe",
+        "Composés soufrés"
+      ]
+    ],
+    [
+      "Genre",
+      "Allium",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Triticum aestivum",
+    "parents": [
+      "Allium vineale",
+      "Allium paradoxum"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "C’est un **géophyte à bulbe**. Ses 2 ou 3 feuilles elliptiques sont larges et ont un **pétiole**. Ses fleurs blanches à 6 tépales sont en **ombelle**. L’odeur d’ail vient de l’**alliine**, transformée par l’enzyme **alliinase** en allicine quand les cellules sont écrasées.",
+    "details": "C’est un exemple de **défense chimique activée** : les deux composants sont stockés dans des compartiments séparés et ne réagissent qu’en cas de blessure. Les fleurs sont ce qui caractérise une monocotylédone : pièces par 3, nervures parallèles."
+  },
+  "identification": {
+    "feuille": "Elliptique, pétiolée, molle, d’un vert vif, odeur d’ail au froissement",
+    "fleur": "Ombelle de fleurs blanches étoilées",
+    "fruit": "Capsule à 3 loges",
+    "ecorce": "—",
+    "port": "Herbacée en tapis, 20–40 cm",
+    "periode": "Feuilles mars-avril ; fleurs avril-mai"
+  },
+  "ecologie": {
+    "essentiel": "Sous-bois frais et humides, vallons, ripisylves.",
+    "details": "Ses tapis denses forment un faciès printanier des forêts alluviales.",
+    "uicn": "LC",
+    "menaces": [
+      "Cueillette abusive locale"
+    ]
+  },
+  "usages": {
+    "essentiel": "Feuilles en pesto, soupe, beurre. Cueillir **feuille par feuille** en vérifiant l’odeur de **chaque** feuille (les mains imprégnées trompent).",
+    "details": "Les confusions provoquent des intoxications graves chaque année en Europe.",
+    "cueillette": "Mars-avril, avant floraison ; une feuille par plant, sans arracher le bulbe.",
+    "confusions_dangereuses": [
+      "Muguet (Convallaria majalis) : feuilles par 2 engainantes, sans odeur d’ail, CARDIOTOXIQUE",
+      "Colchique (Colchicum autumnale) : feuilles en touffe sans pétiole, sans odeur ; colchicine MORTELLE",
+      "Arum tacheté : feuilles en flèche, sans odeur d’ail"
+    ]
+  },
+  "facts": [
+    "L’odeur d’ail n’apparaît qu’au froissement : deux molécules stockées séparément se rencontrent.",
+    "Les confusions avec le muguet et le colchique causent des intoxications graves chaque printemps.",
+    "Son nom viendrait de la croyance que les ours en mangeaient au sortir de l’hibernation.",
+    "C’est une monocotylédone, parente de l’oignon et de la ciboulette."
+  ],
+  "anecdote": "Avec l’ail des ours, la règle d’or : une feuille, une odeur. Si tu as les doigts qui sentent l’ail, tu ne sentiras plus le muguet mortel.",
+  "indices_quiz": [
+    "Monocotylédone à bulbe et odeur d’ail.",
+    "Défense chimique activée par blessure (alliinase).",
+    "Confusions mortelles avec le muguet et le colchique."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/56152",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Allium_ursinum"
+  },
+  "notions": [
+    "eudicots-monocots"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Sous-bois humides (vallées ardennaises, Brabant).",
+    "quand": "Feuilles en mars-avril ; fleurs en avril-mai.",
+    "criteres": [
+      "Odeur d’ail en froissant",
+      "Feuilles pétiolées une à une",
+      "Ombelle blanche étoilée"
+    ],
+    "sosies": [
+      {
+        "espece": "Muguet (Convallaria majalis)",
+        "distinguer": "Deux feuilles enveloppant la tige, sans odeur, fleurs en clochettes : toxique."
+      },
+      {
+        "espece": "Colchique d’automne",
+        "distinguer": "Feuilles au printemps sans pétiole, en touffe autour de la capsule, sans odeur : mortel."
+      }
+    ]
+  }
+}

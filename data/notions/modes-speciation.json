@@ -1,0 +1,19 @@
+{
+  "id": "modes-speciation",
+  "titre": "Modes de spéciation",
+  "module": "module1",
+  "source": "module 1/XNS3L0-2. SpÃ©ciation - copie.pdf",
+  "essentiel": "On classe la spéciation selon deux axes.\n- **Géographie** : **allopatrique** (populations séparées), **parapatrique** (populations contiguës le long d’un gradient) ou **sympatrique** (même zone).\n- **Vitesse** : **graduelle**, par spécialisation écologique ou par vicariance (une barrière physique coupe le flux de gènes), ou **abrupte**, par réarrangements chromosomiques, hybridation ou **polyploïdie**, qui isolent immédiatement en sympatrie.",
+  "details": "L’allopatrie est considérée comme le mode le plus fréquent chez les animaux. La **polyploïdie** est le mécanisme le plus courant de spéciation sympatrique abrupte chez les plantes.\n\nExemples de sympatrie :\n- *Rhagoletis pomonella*, la mouche de l’aubépine, qui passe au pommier : un changement d’hôte avec accouplement sur le fruit ;\n- les cichlidés des lacs de cratère du Cameroun et du Nicaragua.\n\nLa **vicariance** se distingue de la **dispersion** suivie d’un effet fondateur (spéciation péripatrique, Mayr).",
+  "question": "Pourquoi la polyploïdie est-elle souvent présentée comme une « spéciation instantanée » ?",
+  "reponse": "Un individu tétraploïde issu d’un diploïde ne produit avec lui que des **triploïdes**, généralement stériles car leur méiose est déséquilibrée. Il est donc **isolé reproductivement de ses parents dès la première génération**, sans séparation géographique. Si le polyploïde peut s’autoféconder ou rencontrer d’autres polyploïdes, une nouvelle espèce s’établit en sympatrie en une ou quelques générations. C’est le **blocage triploïde**.",
+  "pieges": [
+    "Assimiler sympatrique et abrupte (une spéciation sympatrique peut être graduelle, par exemple écologique).",
+    "Oublier la vicariance comme mécanisme graduel allopatrique."
+  ],
+  "liens": [
+    "polyploidie",
+    "renforcement-wallace",
+    "concepts-espece"
+  ]
+}

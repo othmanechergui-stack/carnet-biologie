@@ -1,0 +1,21 @@
+{
+  "id": "recrutement-fourmis",
+  "titre": "Recrutement et décisions collectives chez les fourmis",
+  "module": "ethologie",
+  "source": "comportement animal/Synthese_retranscription du cours de Claire Detrain.pdf",
+  "essentiel": "Chez beaucoup de fourmis, une ouvrière qui a trouvé de la nourriture dépose une **piste de phéromone** en rentrant au nid et recrute des congénères. Plus une piste est empruntée, plus elle est renforcée : c’est une **rétroaction positive** (amplification). L’évaporation de la phéromone joue le rôle de rétroaction négative. La colonie « choisit » ainsi la source la plus proche ou la plus riche **sans qu’aucun individu ne compare les options** : c’est l’**auto-organisation**.",
+  "details": "Expérience du double pont (Deneubourg, Goss, Pasteels et collaborateurs, chez *Linepithema humile* et *Lasius niger*). Avec deux branches de même longueur, la colonie finit par en choisir une au hasard, par brisure de symétrie. Avec deux longueurs différentes, la plus courte gagne : les fourmis qui l’empruntent reviennent plus vite et la marquent plus tôt.\n\nLes travaux de C. Detrain portent sur l’**intensité de marquage modulée par la qualité** de la ressource et sur la répartition des tâches.\n\nDans ton TP, l’éthogramme (proie, couvain, déplacement, inactivité, toilettage) des cinq fourmis marquées montrait une **forte variabilité individuelle** : certaines passaient l’essentiel du temps au couvain, d’autres en déplacement. C’est une illustration de la division du travail.",
+  "question": "Comment une colonie de fourmis peut-elle sélectionner la source de nourriture la plus riche alors qu’aucune fourmi ne visite les deux sources ?",
+  "reponse": "Chaque fourmi qui revient d’une source dépose une piste dont l’**intensité dépend de la qualité** de cette source : elle dépose plus de phéromone pour une solution sucrée concentrée. Les recrutées suivent préférentiellement la piste la plus forte et la renforcent à leur tour. Cette **amplification non linéaire** fait basculer la majorité de la colonie vers la meilleure source. L’évaporation efface les pistes peu renforcées. La « décision » émerge des interactions locales : c’est de l’intelligence collective.",
+  "pieges": [
+    "Supposer un individu leader ou une comparaison centralisée.",
+    "Oublier le rôle de l’évaporation (rétroaction négative) qui permet de s’adapter quand une source s’épuise."
+  ],
+  "liens": [
+    "signal-indice",
+    "eusocialite-criteres"
+  ],
+  "especes": [
+    "formica-rufa"
+  ]
+}

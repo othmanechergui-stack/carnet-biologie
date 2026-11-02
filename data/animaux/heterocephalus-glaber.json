@@ -1,0 +1,101 @@
+{
+  "id": "heterocephalus-glaber",
+  "nom": "Rat-taupe nu",
+  "latin": "Heterocephalus glaber",
+  "groupe": "mammifere",
+  "milieu": [
+    "souterrain",
+    "savane"
+  ],
+  "belgique": false,
+  "clade": "rodentia",
+  "resume": "Rongeur fouisseur presque glabre d’Afrique de l’Est. C’est l’un des rares **mammifères eusociaux** : une reine, quelques mâles reproducteurs et des dizaines d’ouvriers stériles. Il vit plus de **30 ans**, un record pour un rongeur de sa taille.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Rongeurs",
+      "synapomorphies": [
+        "Incisives à croissance continue"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Hétérocéphalidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Heterocephalus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Mus musculus",
+    "parents": [
+      "Fukomys damarensis",
+      "Bathyergus suillus"
+    ]
+  },
+  "facts": [
+    "Il peut survivre environ 18 minutes sans oxygène en métabolisant du fructose.",
+    "Sa mortalité n’augmente presque pas avec l’âge.",
+    "Chaque colonie a son propre « dialecte » de cris, appris par les jeunes.",
+    "La reine allonge sa colonne vertébrale (ses vertèbres lombaires) après son accession au trône."
+  ],
+  "anecdote": "Chez le rat-taupe nu, la reine impose un dialecte à sa colonie : un petit adopté jeune apprend l’accent de sa famille d’accueil.",
+  "indices_quiz": [
+    "Mammifère eusocial diploïde d’Afrique de l’Est.",
+    "Il résiste 18 minutes à l’absence d’oxygène.",
+    "Chaque colonie a un dialecte imposé par la reine."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/43746",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Heterocephalus_glaber"
+  },
+  "notions": [
+    "eusocialite-criteres"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il mesure 8 à 10 cm et pèse environ 30 à 35 g. Sa peau est rose et nue. Ses **incisives** sortent devant les lèvres, qui se ferment derrière : il creuse avec ses dents sans avaler de terre. Il est quasi **poïkilotherme** pour un mammifère.",
+    "details": "Il résiste de façon extraordinaire à l’**hypoxie** : il peut survivre environ 18 minutes sans oxygène en passant à un métabolisme du fructose (Park et al., 2017). Il est peu sensible à certaines douleurs chimiques (acide, capsaïcine) et développe très rarement des cancers. Sa mortalité n’augmente pas avec l’âge comme chez les autres mammifères (Ruby et al., 2018)."
+  },
+  "comportement": {
+    "essentiel": "La colonie compte jusqu’à environ 300 individus. Une **seule reine** se reproduit avec 1 à 3 mâles. Les ouvriers creusent les tunnels et récoltent les tubercules. Les plus gros, les « soldats », défendent la colonie contre les serpents.",
+    "details": "La reine **supprime la reproduction** des autres par des interactions agressives (bousculades). Les colonies sont très **consanguines**, avec un apparentement élevé. Ce cas est l’argument classique contre le rôle exclusif de l’haplodiploïdie. La **contrainte écologique** est forte : la nourriture est dispersée et creuser coûte cher, ce qui favorise la vie en groupe. La colonie a aussi des **dialectes** : chaque colonie a sa signature vocale, apprise et imposée par la reine (Barker et al., 2021).",
+    "concepts": [
+      "eusocialite-criteres",
+      "regle-hamilton",
+      "contraintes-ecologiques-cooperation",
+      "cd-altruisme-parentele"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Zones semi-arides de Somalie, Éthiopie et Kenya, dans des réseaux de galeries pouvant atteindre plusieurs kilomètres.",
+    "details": "Il consomme des tubercules géants qu’il exploite sans les tuer. C’est un modèle biomédical pour le vieillissement et le cancer.",
+    "uicn": "LC",
+    "menaces": [
+      "Peu menacé"
+    ]
+  }
+}

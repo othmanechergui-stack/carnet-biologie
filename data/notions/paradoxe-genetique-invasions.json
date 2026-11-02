@@ -1,0 +1,19 @@
+{
+  "id": "paradoxe-genetique-invasions",
+  "titre": "Le paradoxe génétique des invasions",
+  "module": "module4",
+  "source": "module 4/invasions 4.pdf",
+  "essentiel": "**Paradoxe** : les populations introduites ont souvent subi un **goulet d’étranglement**. Elles ont donc une diversité génétique réduite, de la consanguinité et un faible potentiel adaptatif. Pourtant, elles s’adaptent et prolifèrent dans un environnement nouveau. Plusieurs explications sont proposées : **introductions multiples et admixture**, **hybridation et introgression** d’allèles « prêts à l’emploi », **plasticité**, **purge** des allèles délétères, et rôle de la variance additive plutôt que de la richesse allélique.",
+  "details": "Nuances :\n- un goulet sévère mais court réduit surtout la **richesse allélique** (les allèles rares sont perdus), beaucoup moins l’**hétérozygotie** et la **variance additive** ;\n- certaines invasions viennent d’une population déjà adaptée à des milieux anthropisés : c’est l’hypothèse de l’**envahisseur « tête de pont »** (*bridgehead*), illustrée par la coccinelle asiatique *Harmonia axyridis* ;\n- la purge des allèles délétères pendant le goulet peut réduire la dépression de consanguinité.\n\nAnalyse de données (notes Fournier) : il faut comparer la **richesse allélique raréfiée** et non le nombre brut d’allèles, qui dépend de la taille d’échantillon. Les **allèles privés** permettent de retracer les populations sources.",
+  "question": "Pourquoi faut-il comparer la richesse allélique raréfiée, et non le nombre d’allèles brut, entre populations d’origine et d’introduction ?",
+  "reponse": "Le nombre d’allèles observé **augmente avec le nombre d’individus échantillonnés** : plus on échantillonne, plus on trouve d’allèles rares. Si la population introduite est mieux échantillonnée (comme la Nouvelle-Zélande dans tes notes), elle peut sembler plus diverse à tort. La **raréfaction** ramène toutes les populations à une même taille d’échantillon. La comparaison de diversité devient alors équitable.",
+  "pieges": [
+    "Conclure à une absence de goulet parce que l’hétérozygotie est conservée (la richesse allélique est plus sensible).",
+    "Comparer des nombres d’allèles bruts entre échantillons de tailles différentes."
+  ],
+  "liens": [
+    "etapes-invasion",
+    "hybridation-invasions",
+    "derive-genetique"
+  ]
+}

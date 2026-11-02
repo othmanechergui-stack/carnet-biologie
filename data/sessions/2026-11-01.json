@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-01",
+  "revision": "couverture-largeur-profondeur",
+  "bonus": {
+    "titre": "Le séquençage longues lectures change la donne",
+    "essentiel": "Les lectures longues (Oxford Nanopore, PacBio HiFi : 10 à plus de 100 kb) traversent les répétitions qui fragmentent les assemblages en lectures courtes. Elles permettent des génomes « télomère à télomère » et le séquençage direct de molécules d’ARN entières (isoformes complètes).",
+    "details": "En RNA-seq longues lectures, chaque lecture représente un transcrit complet : plus besoin de reconstruire les isoformes d’épissage à partir de fragments. Le Nanopore lit aussi directement les modifications de bases (5-mC, m6A) sans traitement au bisulfite. Contrepartie historique : un taux d’erreur plus élevé, en forte baisse. Ton TP sur MinION (Roscoff, L01) en était une introduction.",
+    "lien_notion": "rnaseq-principe"
+  },
+  "animal": "castor-fiber",
+  "animaux_reserve": [
+    "araneus-diadematus",
+    "latimeria-chalumnae",
+    "petromyzon-marinus"
+  ],
+  "plante": "taxus-baccata",
+  "plantes_reserve": [
+    "ginkgo-biloba",
+    "pinus-sylvestris"
+  ],
+  "digest": [
+    "2026-11-01-masripithecus",
+    "2026-10-31-infernogallus",
+    "2026-10-30-bois-de-tension-proprioception"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "couverture-largeur-profondeur"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "castor-fiber"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-28-salamandre-fluorescence"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-23-retrovirus-chimpanze-organoides"
+    }
+  ]
+}

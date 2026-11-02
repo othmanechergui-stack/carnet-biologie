@@ -1,0 +1,18 @@
+{
+  "id": "microsatellites-alleles-nuls",
+  "titre": "Microsatellites et allèles nuls",
+  "module": "module2",
+  "source": "module 2/MarqueursMoleÌculaires_2022-2023 - copie.pdf",
+  "essentiel": "Les **microsatellites** sont des répétitions en tandem d’un motif de 1 à 5 (ou 6) nucléotides. Les allèles diffèrent par le **nombre de répétitions**, donc par la **taille** du fragment amplifié par PCR. Ils sont **codominants**, très **polymorphes** et ont un taux de mutation élevé. On les utilise en parenté, en génétique des populations et en assignation. Mais un même allèle (une même taille) ne dit **rien de l’histoire** des mutations : c’est l’homoplasie de taille.",
+  "details": "Un **allèle nul** est un allèle qui ne s’amplifie pas, à cause d’une mutation dans le site d’amorce. Il est donc invisible et se comporte comme un **récessif** face aux allèles visibles. Un hétérozygote « visible/nul » est lu comme un homozygote. Résultat : un **déficit apparent en hétérozygotes** au seul locus concerné et des fréquences alléliques biaisées.\n\nAutres marqueurs : le séquençage Sanger d’un fragment (relations entre allèles), les génomes complets, le **pool-seq**, le **RAD-seq** (SNP aux sites de restriction), le RNA-seq. L’ADN mitochondrial est transmis par la mère seule.",
+  "question": "Pourquoi un excès d’homozygotes observé à un seul microsatellite sur dix suggère-t-il un allèle nul plutôt que de la consanguinité ?",
+  "reponse": "La **consanguinité** affecte **tout le génome** : elle produirait un déficit en hétérozygotes à **tous les loci**. Un déficit limité à **un seul locus** pointe vers une cause propre à ce marqueur, typiquement un **allèle nul** dû à une mutation dans le site de fixation d’une amorce. On peut le confirmer en redessinant les amorces, en estimant la fréquence d’allèles nuls (Brookfield, MicroChecker) ou en repérant des individus « sans bande » (homozygotes nuls).",
+  "pieges": [
+    "Croire qu’une même taille d’allèle implique une identité par ascendance.",
+    "Oublier que l’allèle nul fausse aussi les fréquences alléliques."
+  ],
+  "liens": [
+    "hardy-weinberg",
+    "identite-parente"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "xanthoria-parietina",
+  "nom": "Xanthorie des murailles",
+  "latin": "Xanthoria parietina",
+  "type": "lichen",
+  "regne": "champignon",
+  "milieu": [
+    "urbain",
+    "arbre",
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "ascomycota",
+  "saison": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "resume": "Le lichen **jaune-orangé** des troncs, des toits et des murs. C’est un champignon associé à une algue verte. Il est favorisé par l’**azote** de la pollution agricole et routière.",
+  "phylogenie": [
+    [
+      "Règne",
+      "Champignons (Fungi)",
+      [
+        "Hétérotrophie par absorption",
+        "Paroi chitineuse",
+        "Hyphes"
+      ]
+    ],
+    [
+      "Division",
+      "Ascomycètes",
+      [
+        "Asque à 8 spores"
+      ]
+    ],
+    [
+      "Classe",
+      "Lécanoromycètes",
+      [
+        "Lichénisation"
+      ]
+    ],
+    [
+      "Famille",
+      "Téloschistacées",
+      [
+        "Pariétine (anthraquinone)"
+      ]
+    ],
+    [
+      "Genre",
+      "Xanthoria",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Amanita muscaria",
+    "parents": [
+      "Xanthoria calcicola",
+      "Polycauliona polycarpa"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Son thalle **foliacé** est jaune-orangé à l’éclairement et plus verdâtre à l’ombre. La **pariétine** est un pigment protecteur contre les UV. Les **apothécies**, des disques orangés, portent les asques du champignon. Le photobionte est une algue verte du genre *Trebouxia*.",
+    "details": "Le lichen est un **mutualisme** : le champignon fournit l’abri et l’eau, l’algue les sucres. On le voit aujourd’hui plutôt comme un **petit écosystème** qui inclut aussi des levures et des bactéries. Il **reviviscent** : il supporte la dessiccation et reprend son activité dès qu’il est mouillé."
+  },
+  "identification": {
+    "thalle": "Foliacé, jaune-orangé, lobes appliqués",
+    "apothecies": "Disques orangés au centre",
+    "habitat": "Écorces (sureau, frêne, peuplier), murs, toits",
+    "periode": "Toute l’année"
+  },
+  "ecologie": {
+    "essentiel": "Troncs, murs et toits, surtout en milieu enrichi en azote : campagnes agricoles, villes, littoral.",
+    "details": "C’est un **bioindicateur** de l’enrichissement en azote. Les lichens sensibles au SO₂ ont disparu des villes au XXᵉ siècle et reviennent depuis la baisse du soufre. Les espèces **nitrophiles** comme *Xanthoria* ont progressé.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Pas d’usage alimentaire. On en tirait autrefois une teinture jaune. La pariétine est étudiée pour ses propriétés photoprotectrices.",
+    "details": "Il indique la qualité de l’air (azote), pas sa propreté globale."
+  },
+  "facts": [
+    "C’est un champignon et une algue réunis en un seul organisme.",
+    "Sa couleur orange protège l’algue des UV ; à l’ombre, il est plus vert.",
+    "Il signale les apports d’azote (agriculture, trafic).",
+    "Il peut se dessécher complètement et revivre en quelques minutes une fois mouillé."
+  ],
+  "anecdote": "Plus un tronc est orange de xanthories, plus l’air est chargé en azote : ce lichen signe l’ammoniac agricole.",
+  "indices_quiz": [
+    "Lichen foliacé jaune-orangé à pariétine.",
+    "Mutualisme champignon ascomycète et algue Trebouxia.",
+    "Bioindicateur de l’azote."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/55576",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Xanthoria_parietina"
+  },
+  "notions": [
+    "mutualismes"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Troncs de sureau, frêne, peuplier ; murs et toits, partout.",
+    "quand": "Toute l’année.",
+    "criteres": [
+      "Thalle foliacé jaune-orangé",
+      "Apothécies en disques orangés",
+      "Lobes plats appliqués"
+    ],
+    "sosies": [
+      {
+        "espece": "Candelaria concolor",
+        "distinguer": "Jaune citron, très petits lobes ascendants, sans apothécies orangées."
+      },
+      {
+        "espece": "Physcia",
+        "distinguer": "Lichens foliacés gris-blanc, souvent avec la Xanthorie."
+      }
+    ]
+  }
+}

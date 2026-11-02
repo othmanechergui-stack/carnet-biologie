@@ -1,0 +1,152 @@
+{
+  "id": "urtica-dioica",
+  "nom": "Grande ortie",
+  "latin": "Urtica dioica",
+  "type": "fleur",
+  "regne": "plante",
+  "milieu": [
+    "friche",
+    "foret",
+    "jardin"
+  ],
+  "belgique": true,
+  "clade": "rosales",
+  "saison": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "resume": "La plante qui pique, indicatrice de sols riches en azote. Elle nourrit les chenilles de plusieurs de nos plus beaux papillons : paon-du-jour, vulcain, petite tortue, carte géographique.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Rosidées",
+      []
+    ],
+    [
+      "Ordre",
+      "Rosales",
+      []
+    ],
+    [
+      "Famille",
+      "Urticacées",
+      [
+        "Poils urticants (beaucoup de genres)"
+      ]
+    ],
+    [
+      "Genre",
+      "Urtica",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Fagus sylvatica",
+    "parents": [
+      "Urtica urens",
+      "Parietaria judaica"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Elle est **dioïque**, d’où son nom : des pieds mâles et des pieds femelles. Ses fleurs vertes, minuscules, sont en grappes pendantes. Ses étamines **explosives** projettent le pollen au vent. Ses **poils urticants** sont des cellules allongées à pointe **silicifiée** qui se casse comme une ampoule et injecte histamine, acétylcholine, sérotonine et acides.",
+    "details": "Elle a une **tige quadrangulaire** et des feuilles opposées. Elle s’étend par des rhizomes traçants et forme des colonies clonales. Elle est indicatrice de **nitrates et de phosphates**, par exemple autour d’anciennes habitations."
+  },
+  "identification": {
+    "feuille": "Opposée, cordée, dentée, couverte de poils urticants",
+    "fleur": "Petites fleurs vertes en grappes pendantes (pieds séparés)",
+    "fruit": "Akènes minuscules",
+    "ecorce": "—",
+    "port": "Herbacée vivace 0,5–1,5 m, tige carrée",
+    "periode": "Floraison juin-septembre"
+  },
+  "ecologie": {
+    "essentiel": "Friches, bords de chemins, ripisylves, sous-bois riches.",
+    "details": "Plante hôte de plus de 30 espèces d’insectes spécialistes. Ses colonies sont des nurseries à papillons.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Les **jeunes feuilles** se mangent cuites (soupe, pesto) : la cuisson neutralise les poils. Ses fibres ont servi de textile jusqu’au XXᵉ siècle. Le purin d’ortie est utilisé comme engrais.",
+    "details": "On la récolte avec des gants : les jeunes pousses au printemps, ou les repousses après fauche.",
+    "cueillette": "Jeunes sommités (4–6 feuilles) avant floraison, loin des routes et cultures traitées."
+  },
+  "facts": [
+    "Ses poils urticants sont de minuscules seringues à pointe de verre (silice).",
+    "C’est la plante nourricière de chenilles du paon-du-jour et du vulcain.",
+    "Elle signale les sols riches en azote, comme autour des ruines.",
+    "Ses fibres ont servi à tisser des uniformes pendant la Première Guerre mondiale (Allemagne)."
+  ],
+  "anecdote": "Les poils d’ortie sont des seringues à pointe de verre : la silice se brise et injecte un cocktail d’histamine et d’acétylcholine.",
+  "indices_quiz": [
+    "Urticacée dioïque à poils urticants silicifiés.",
+    "Indicatrice de sols riches en azote.",
+    "Plante hôte du paon-du-jour."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/51884",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Urtica_dioica"
+  },
+  "notions": [],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Friches, bords de chemins, berges.",
+    "quand": "Mars à octobre.",
+    "criteres": [
+      "Tige carrée",
+      "Feuilles opposées urticantes",
+      "Fleurs vertes pendantes"
+    ],
+    "sosies": [
+      {
+        "espece": "Lamier blanc (Lamium album)",
+        "distinguer": "Feuilles semblables mais NE PIQUE PAS ; grandes fleurs blanches en casque (Lamiacée)."
+      }
+    ]
+  }
+}

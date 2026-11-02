@@ -1,0 +1,17 @@
+{
+  "id": "duplication-genes",
+  "titre": "Devenir des gènes dupliqués",
+  "module": "module1",
+  "source": "module 1/Xi7uW3-2023-02-09_GenomeEvolution_Flot - copie.pdf",
+  "essentiel": "Après une duplication de gène ou de génome, les deux copies peuvent :\n- **se maintenir à l’identique**, si plus de produit est avantageux (effet de dose) ;\n- se **sous-fonctionnaliser**, en se répartissant les fonctions ou les sites d’expression de l’ancêtre (modèle DDC) ;\n- se **néofonctionnaliser**, l’une acquérant une nouvelle fonction ;\n- le plus souvent, l’une se **pseudogénise**, c’est-à-dire qu’elle est perdue.",
+  "details": "Les duplications fournissent la **matière première** de l’innovation. Exemples :\n- les globines (myoglobine et hémoglobines α et β) ;\n- les gènes *Hox* : deux rondes de duplication de génome à la base des vertébrés, l’hypothèse 2R d’Ohno ;\n- les opsines de la vision trichromatique des primates de l’Ancien Monde.\n\nDes **séquences paralogues** sont des segments de chromosome qui portent les mêmes gènes dans le même ordre : ce sont des traces de duplications anciennes, comme le note ta synthèse.\n\nLe cours de J.-F. Flot sur l’évolution des génomes aborde aussi la taille des génomes, les éléments transposables et la recombinaison.",
+  "question": "Comment la duplication d’un gène d’opsine a-t-elle permis la vision trichromatique des primates de l’Ancien Monde ?",
+  "reponse": "Le gène d’opsine sensible aux grandes longueurs d’onde, sur le chromosome X, a été **dupliqué**. Les deux copies ont accumulé quelques substitutions d’acides aminés qui décalent leur pic d’absorption : une est devenue sensible au vert (M), l’autre au rouge (L). C’est une **néofonctionnalisation**, ou plus précisément une divergence de fonction. Avec l’opsine bleue (S, autosomique), cela donne trois types de cônes. Un trichromatisme plus utile pour repérer les fruits mûrs ou les jeunes feuilles a été maintenu par la sélection.",
+  "pieges": [
+    "Croire que les deux copies sont toujours conservées.",
+    "Confondre orthologues (séparés par spéciation) et paralogues (séparés par duplication)."
+  ],
+  "liens": [
+    "polyploidie"
+  ]
+}

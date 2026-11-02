@@ -1,0 +1,139 @@
+{
+  "id": "fucus-vesiculosus",
+  "nom": "Fucus vésiculeux",
+  "latin": "Fucus vesiculosus",
+  "type": "algue",
+  "regne": "algue",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "phaeophyceae",
+  "saison": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "resume": "L’algue brune à **vésicules d’air** des brise-lames de la côte belge. Elle n’est pas apparentée aux plantes vertes : c’est un **straménopile**, cousin des diatomées.",
+  "phylogenie": [
+    [
+      "Domaine",
+      "Eucaryotes",
+      [
+        "Noyau"
+      ]
+    ],
+    [
+      "Clade",
+      "Straménopiles",
+      [
+        "Flagelle à mastigonèmes tripartites",
+        "Plaste issu d’une endosymbiose secondaire"
+      ]
+    ],
+    [
+      "Classe",
+      "Phéophycées (algues brunes)",
+      [
+        "Fucoxanthine",
+        "Alginates"
+      ]
+    ],
+    [
+      "Ordre",
+      "Fucales",
+      [
+        "Cycle monogénétique diploïde"
+      ]
+    ],
+    [
+      "Famille",
+      "Fucacées",
+      []
+    ],
+    [
+      "Genre",
+      "Fucus",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Ulva lactuca",
+    "parents": [
+      "Fucus serratus",
+      "Ascophyllum nodosum"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Son thalle est ruban, dichotome, avec une **nervure médiane** et des **vésicules aérifères** par paires qui le font flotter vers la lumière à marée haute. Les **réceptacles** renflés au bout des rameaux contiennent des conceptacles où se forment les gamètes.",
+    "details": "Le cycle des Fucales est **monogénétique diploïde** : seuls les gamètes sont haploïdes, comme chez les animaux. Sa couleur brune vient de la **fucoxanthine**, un caroténoïde qui masque la chlorophylle. Ses parois contiennent des **alginates** (gélifiants). Il est fixé par un **crampon**, qui n’est pas une racine."
+  },
+  "identification": {
+    "thalle": "Ruban olive-brun dichotome à nervure médiane",
+    "vesicules": "Vésicules d’air par paires de part et d’autre de la nervure",
+    "receptacles": "Extrémités renflées granuleuses (gamètes)",
+    "habitat": "Brise-lames, digues, zone intertidale moyenne",
+    "periode": "Toute l’année"
+  },
+  "ecologie": {
+    "essentiel": "Zone intertidale des substrats durs : brise-lames de la côte belge, entièrement artificiels.",
+    "details": "Il abrite à marée basse des crabes, des bigorneaux et des gammares, qu’il protège de la dessiccation. Sur une côte sableuse comme la nôtre, les digues lui ont offert un habitat.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Source historique d’**iode**, découvert en 1811 dans les cendres d’algues. On en extrait des **alginates** (E401 à E405). Il était utilisé comme engrais (goémon).",
+    "details": "Comestible (riche en iode) ; prudence en cas de troubles thyroïdiens.",
+    "cueillette": "Couper au-dessus du crampon, loin des ports."
+  },
+  "facts": [
+    "Ce n’est pas une plante : c’est un straménopile, cousin des diatomées.",
+    "Son cycle est diploïde comme celui des animaux (seuls les gamètes sont haploïdes).",
+    "L’iode a été découvert dans les cendres d’algues brunes.",
+    "Ses vésicules d’air le soulèvent vers la lumière à marée haute."
+  ],
+  "anecdote": "Les petites bulles qui éclatent sous les pieds sur les brise-lames sont les flotteurs d’une algue cousine des diatomées, pas des plantes.",
+  "indices_quiz": [
+    "Algue brune à vésicules d’air par paires.",
+    "Straménopile (endosymbiose secondaire).",
+    "Cycle diploïde comme chez les animaux."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/48216",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Fucus_vesiculosus"
+  },
+  "notions": [
+    "endosymbiose-algues"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Brise-lames et digues de la côte belge à marée basse.",
+    "quand": "Toute l’année.",
+    "criteres": [
+      "Vésicules d’air par paires",
+      "Nervure médiane",
+      "Réceptacles renflés au bout"
+    ],
+    "sosies": [
+      {
+        "espece": "Fucus denté (Fucus serratus)",
+        "distinguer": "Bord du thalle denté en scie, pas de vésicules ; plus bas sur l’estran."
+      },
+      {
+        "espece": "Fucus spiralé (Fucus spiralis)",
+        "distinguer": "Pas de vésicules, thalle souvent vrillé ; tout en haut de l’estran."
+      }
+    ]
+  }
+}

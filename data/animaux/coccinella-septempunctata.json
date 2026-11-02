@@ -1,0 +1,120 @@
+{
+  "id": "coccinella-septempunctata",
+  "nom": "Coccinelle à sept points",
+  "latin": "Coccinella septempunctata",
+  "groupe": "insecte",
+  "milieu": [
+    "prairie",
+    "jardin"
+  ],
+  "belgique": true,
+  "clade": "coleoptera",
+  "resume": "La « bête à bon Dieu », rouge à sept points noirs. C’est une grande **prédatrice de pucerons**, et sa couleur est un **signal d’avertissement**. Elle subit la concurrence de la coccinelle asiatique invasive.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Arthropodes",
+      "synapomorphies": [
+        "Exosquelette chitineux articulé",
+        "Mue (ecdystéroïdes)",
+        "Appendices articulés"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Insectes",
+      "synapomorphies": [
+        "3 paires de pattes",
+        "Corps en 3 tagmes",
+        "1 paire d’antennes",
+        "Ailes (ptérygotes)"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Coléoptères",
+      "synapomorphies": [
+        "Élytres (ailes antérieures durcies)"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Coccinellidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Coccinella",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Chrysoperla carnea",
+    "parents": [
+      "Coccinella magnifica",
+      "Harmonia axyridis",
+      "Adalia bipunctata"
+    ]
+  },
+  "facts": [
+    "Le saignement réflexe est une hémolymphe amère émise aux genoux.",
+    "Le nombre de points n’indique pas l’âge.",
+    "La larve ressemble à un petit crocodile et dévore des centaines de pucerons.",
+    "La coccinelle asiatique, très variable, peut avoir de 0 à 19 points."
+  ],
+  "anecdote": "Le nombre de points d’une coccinelle ne donne pas son âge : il dépend de l’espèce, et la coccinelle à sept points en a sept toute sa vie.",
+  "indices_quiz": [
+    "Coléoptère aposématique qui pratique le saignement réflexe.",
+    "Sa larve « petit crocodile » dévore les pucerons.",
+    "Elle est concurrencée par une cousine asiatique invasive."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/51702",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Coccinella_septempunctata"
+  },
+  "notions": [
+    "signal-honnete",
+    "invasions-impacts"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Elle mesure 5 à 8 mm. Elle est rouge à 7 points noirs (3 + 3 + 1 à cheval sur la suture), avec deux taches blanches sur la tête. Elle pratique le **saignement réflexe** : elle émet aux articulations une hémolymphe jaune, amère et toxique, riche en alcaloïdes (coccinelline).",
+    "details": "La larve, gris-bleu à taches orangées, ressemble à un petit crocodile et est très vorace. Une larve peut manger plusieurs centaines de pucerons pendant son développement. L’adulte hiverne en groupe dans la litière ou les touffes d’herbe."
+  },
+  "comportement": {
+    "essentiel": "Ses couleurs vives et son mauvais goût en font un exemple classique d’**aposématisme**. C’est un signal honnête : plus elle est colorée, plus elle est toxique, au moins chez certaines espèces (Blount et al., 2012).",
+    "details": "Elle **hiverne en agrégats**, attirée par des phéromones et des traces d’hivernages précédents. Elle repère les colonies de pucerons à leurs odeurs et à celles des plantes attaquées, qui jouent le rôle d’**indices**.",
+    "concepts": [
+      "signal-indice",
+      "signal-honnete"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Prairies, champs, jardins, dunes.",
+    "details": "Auxiliaire de culture contre les pucerons, utilisée en lutte biologique. La **coccinelle asiatique** (*Harmonia axyridis*), introduite pour la lutte biologique puis envahissante (Belgique, depuis 2001), est un prédateur intraguilde et une concurrente.",
+    "uicn": "NE",
+    "menaces": [
+      "Coccinelle asiatique (compétition, prédation intraguilde)",
+      "Pesticides"
+    ]
+  },
+  "terrain": {
+    "ou": "Prairies, jardins, orties couvertes de pucerons.",
+    "quand": "Avril à octobre ; agrégats d’hivernage en novembre.",
+    "criteres": [
+      "Rouge à 7 points noirs",
+      "Deux taches blanches à l’avant du pronotum",
+      "Taille 5–8 mm"
+    ],
+    "sosies": [
+      {
+        "espece": "Coccinelle asiatique (Harmonia axyridis)",
+        "distinguer": "Plus grosse, souvent un « M » ou « W » noir sur le pronotum blanc, pattes brunes, très variable en couleur."
+      },
+      {
+        "espece": "Coccinelle à deux points (Adalia bipunctata)",
+        "distinguer": "Plus petite (4–5 mm), rouge à deux points ou noire à taches rouges."
+      }
+    ]
+  }
+}

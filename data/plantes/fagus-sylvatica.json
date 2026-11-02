@@ -1,0 +1,157 @@
+{
+  "id": "fagus-sylvatica",
+  "nom": "Hêtre commun",
+  "latin": "Fagus sylvatica",
+  "type": "arbre",
+  "regne": "plante",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "fagales",
+  "saison": [
+    4,
+    5,
+    10,
+    11
+  ],
+  "resume": "L’arbre de la **forêt de Soignes** : un tronc lisse et gris « en éléphant », un sous-bois sombre et, en automne, des feuillages cuivrés. Ses faines nourrissent la faune les années de **glandée massive**.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Rosidées",
+      []
+    ],
+    [
+      "Ordre",
+      "Fagales",
+      [
+        "Chatons"
+      ]
+    ],
+    [
+      "Famille",
+      "Fagacées",
+      [
+        "Cupule"
+      ]
+    ],
+    [
+      "Genre",
+      "Fagus",
+      [
+        "Cupule épineuse à 4 valves contenant 2 faines"
+      ]
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Betula pendula",
+    "parents": [
+      "Fagus orientalis",
+      "Quercus robur"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Il est monoïque et anémophile. Son fruit est une **cupule épineuse** qui s’ouvre en 4 valves et contient 2 **faines** trigones. Son écorce reste **lisse** toute sa vie, car le périderme se renouvelle sans former de rhytidome crevassé.",
+    "details": "Il est **sciaphile** : il tolère l’ombre quand il est jeune. Son ombre très dense limite le sous-bois. Il fructifie en **masting** : de fortes productions synchrones tous les 2 à 5 ans environ. Cela sature les prédateurs de graines (hypothèse de la satiété des prédateurs). Il forme des ectomycorhizes."
+  },
+  "identification": {
+    "feuille": "Ovale, entière, bord ondulé cilié (poils fins au bord quand elle est jeune), nervures parallèles",
+    "fleur": "Chatons mâles globuleux pendants, fleurs femelles par 2 dans une cupule",
+    "fruit": "Cupule épineuse à 4 valves, 2 faines trigones",
+    "ecorce": "Lisse, gris argenté, même chez les vieux arbres",
+    "port": "Tronc droit, couronne dense, bourgeons fusiformes très pointus",
+    "periode": "Feuillaison début mai ; faines en octobre ; jeunes arbres gardent leurs feuilles sèches en hiver (marcescence)"
+  },
+  "ecologie": {
+    "essentiel": "Hêtraies sur sols bien drainés : forêt de Soignes, Ardenne.",
+    "details": "C’est une espèce **fondatrice** de la hêtraie. Il est sensible aux **sécheresses** estivales récentes, qui provoquent des dépérissements, y compris en forêt de Soignes, où l’on diversifie les essences.",
+    "uicn": "LC",
+    "menaces": [
+      "Sécheresses et canicules (changement climatique)",
+      "Compaction des sols"
+    ]
+  },
+  "usages": {
+    "essentiel": "Bois de menuiserie, de chauffage et de cintrage (chaises Thonet). Les faines sont comestibles en petite quantité, après grillage : elles contiennent de la fagine, irritante crue en excès. On en tirait une huile.",
+    "details": "Le hêtre pourpre est une variante ornementale à anthocyanes.",
+    "cueillette": "Faines : quelques-unes grillées, pas en grande quantité crues."
+  },
+  "facts": [
+    "Son écorce reste lisse toute sa vie.",
+    "Les jeunes hêtres gardent leurs feuilles mortes tout l’hiver (marcescence).",
+    "Il produit des faines en masse certaines années, de façon synchrone sur de grandes régions.",
+    "La hêtraie cathédrale de la forêt de Soignes fait partie du patrimoine mondial de l’UNESCO (Forêts primaires de hêtres, 2017)."
+  ],
+  "anecdote": "Les hêtres se « concertent » sur des centaines de kilomètres pour produire des faines la même année : c’est le masting, qui affame puis submerge les mangeurs de graines.",
+  "indices_quiz": [
+    "Fagacée à l’écorce lisse et grise.",
+    "Fructification synchrone massive (masting).",
+    "Les jeunes arbres gardent leurs feuilles sèches en hiver."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/54227",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Fagus_sylvatica"
+  },
+  "notions": [
+    "croissance-secondaire",
+    "mycorhizes"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Forêt de Soignes, Hallerbos, forêts ardennaises.",
+    "quand": "Toute l’année ; feuillage cuivré fin octobre-novembre.",
+    "criteres": [
+      "Écorce lisse grise",
+      "Bourgeons longs et pointus en cigare",
+      "Feuille à bord cilié ondulé"
+    ],
+    "sosies": [
+      {
+        "espece": "Charme (Carpinus betulus)",
+        "distinguer": "Écorce lisse mais cannelée (« muscles ») ; feuilles doublement dentées, plissées ; fruits ailés à bractée trilobée."
+      }
+    ]
+  }
+}

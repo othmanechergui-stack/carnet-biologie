@@ -1,0 +1,23 @@
+{
+  "id": "eusocialite-criteres",
+  "titre": "Eusocialité : critères et diversité",
+  "module": "societes",
+  "source": "animal societies/Synthèse animal societies.docx",
+  "essentiel": "L’**eusocialité** réunit trois conditions : un **chevauchement des générations** adultes, des **soins coopératifs** au couvain et une **division reproductive du travail** (castes reproductrices et ouvrières, souvent stériles). On la trouve chez les fourmis, certaines abeilles et guêpes, les termites, et aussi chez le rat-taupe nu, certains pucerons à soldats, des thrips, des scolytes ambrosiens et des crevettes *Synalpheus* vivant dans des éponges.",
+  "details": "On distingue l’eusocialité **avancée** (castes irréversiblement distinctes avant la maturité, souvent morphologiquement) et l’eusocialité **primitive** (pas de vraies castes, la dominance règle la reproduction). L’eusocialité primitive s’applique par exemple aux guêpes *Polistes* et à de nombreux vertébrés coopératifs.\n\nDeux voies mènent à l’eusocialité :\n- la voie **subsociale** : les descendants restent au nid parental et aident leur mère ;\n- la voie **semisociale ou parasociale** : des femelles d’une même génération s’associent.\n\nL’haplodiploïdie n’est **ni nécessaire ni suffisante** : les termites et le rat-taupe nu sont diploïdes.",
+  "question": "Le rat-taupe nu (*Heterocephalus glaber*) est diploïde. Que montre son eusocialité sur le rôle de l’haplodiploïdie ?",
+  "reponse": "Que l’haplodiploïdie **n’est pas nécessaire**. Chez le rat-taupe nu, d’autres facteurs favorisent l’eusocialité :\n- un **apparentement élevé** dû à une forte consanguinité dans les colonies ;\n- des **contraintes écologiques** fortes : terriers coûteux à creuser, nourriture (tubercules) dispersée et imprévisible, dispersion risquée ;\n- une **monogamie** de la reine.\n\nC’est l’hypothèse des contraintes écologiques combinée à la règle de Hamilton, avec un C réduit et un B augmenté.",
+  "pieges": [
+    "Présenter l’haplodiploïdie comme la cause de l’eusocialité.",
+    "Oublier que l’eusocialité est apparue plusieurs fois indépendamment."
+  ],
+  "liens": [
+    "regle-hamilton",
+    "haplodiploidie-trois-quarts",
+    "niveaux-socialite"
+  ],
+  "especes": [
+    "apis-mellifera",
+    "heterocephalus-glaber"
+  ]
+}

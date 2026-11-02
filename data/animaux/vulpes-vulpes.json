@@ -1,0 +1,127 @@
+{
+  "id": "vulpes-vulpes",
+  "nom": "Renard roux",
+  "latin": "Vulpes vulpes",
+  "groupe": "mammifere",
+  "milieu": [
+    "foret",
+    "prairie",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "carnivora",
+  "resume": "Le carnivore sauvage le plus répandu au monde, de l’Arctique à l’Australie, où il a été introduit. Opportuniste génial, il s’est installé **au cœur des villes**, y compris Bruxelles.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Carnivores",
+      "synapomorphies": [
+        "Carnassières"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Canidés",
+      "synapomorphies": [
+        "Museau allongé",
+        "Griffes non rétractiles"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Vulpes",
+      "synapomorphies": [
+        "Pupille verticale en fente"
+      ]
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Felis silvestris",
+    "parents": [
+      "Vulpes lagopus",
+      "Nyctereutes procyonoides",
+      "Canis lupus"
+    ]
+  },
+  "facts": [
+    "C’est le carnivore terrestre à la plus vaste répartition naturelle au monde.",
+    "Il saute plus souvent avec succès vers le nord-est quand il chasse des proies cachées (hypothèse magnétique, encore débattue).",
+    "Les renardes de l’année précédente aident parfois leur mère à élever la portée suivante.",
+    "Le renard a été introduit en Australie au XIXᵉ siècle pour la chasse : il y a contribué à l’extinction de nombreux petits marsupiaux."
+  ],
+  "anecdote": "Un renard qui chasse un campagnol sous la neige saute plus souvent vers le nord-est : il utiliserait peut-être la boussole magnétique comme télémètre.",
+  "indices_quiz": [
+    "Carnivore canidé à pupille verticale.",
+    "Couple territorial avec parfois de jeunes femelles « aides ».",
+    "Il saute en cloche sur les rongeurs cachés, avec plus de succès vers le nord-est."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/42069",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Vulpes_vulpes"
+  },
+  "notions": [
+    "contraintes-ecologiques-cooperation"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "5 à 8 kg en Belgique. Pelage roux avec le bout de la queue souvent blanc et l’arrière des oreilles noir. Pupille verticale. Excellente ouïe, qui lui permet d’entendre les petits rongeurs sous la neige ou l’herbe.",
+    "details": "Sa dentition est polyvalente : carnassières et molaires broyeuses. Son régime alimentaire est très large : campagnols, lapins, insectes, vers de terre, fruits, déchets. Il fait des réserves en enterrant ses surplus dans des caches dispersées, dont il retrouve une grande part."
+  },
+  "comportement": {
+    "essentiel": "Il vit en général en **couple territorial** avec parfois des aides, souvent des femelles de l’année précédente qui aident à élever les renardeaux. Le rut a lieu en hiver (décembre-février), accompagné de cris rauques nocturnes.",
+    "details": "Le **mulot** (bond en cloche sur une proie cachée) est spectaculaire. Une étude tchèque (Červený et al., 2011) a montré que les renards réussissent mieux ce saut quand ils sont orientés vers le **nord-est**, ce qui suggère une possible utilisation du champ magnétique. Ce résultat reste discuté. En ville, les renards ont des domaines vitaux plus petits et des densités plus élevées.",
+    "concepts": [
+      "contraintes-ecologiques-cooperation",
+      "regle-hamilton"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Ubiquiste : forêts, bocages, dunes, villes. Prédateur clé des micromammifères. Statut de nuisible discuté selon les régions.",
+    "details": "Il régule les populations de rongeurs et disperse des graines par ses crottes. Il peut être réservoir de l’échinococcose alvéolaire (*Echinococcus multilocularis*), présente en Wallonie : il faut laver les fruits ramassés au sol.",
+    "uicn": "LC",
+    "menaces": [
+      "Gale sarcoptique",
+      "Trafic routier",
+      "Chasse et destructions"
+    ]
+  },
+  "terrain": {
+    "ou": "Bocages, lisières, dunes et grandes villes (parcs, voies ferrées). Au crépuscule.",
+    "quand": "Toute l’année ; renardeaux visibles de mai à juillet ; cris du rut en janvier.",
+    "criteres": [
+      "Queue touffue au bout blanc",
+      "Arrière des oreilles noir",
+      "Traces en ligne droite, pelote ovale"
+    ],
+    "sosies": [
+      {
+        "espece": "Chien viverrin (Nyctereutes procyonoides)",
+        "distinguer": "Masque facial noir, pattes courtes, queue courte non touffue ; espèce exotique en expansion."
+      },
+      {
+        "espece": "Chat domestique (traces)",
+        "distinguer": "Empreinte ronde sans griffes, alors que le renard laisse une empreinte ovale avec des griffes marquées."
+      }
+    ]
+  }
+}

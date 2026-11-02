@@ -1,0 +1,22 @@
+{
+  "id": "invasions-impacts",
+  "titre": "Impacts écologiques des invasions biologiques",
+  "module": "ecologie",
+  "source": "module 4/Résumé module 4.docx",
+  "essentiel": "Les espèces exotiques envahissantes ont plusieurs types d’impacts :\n- **prédation** sur des espèces naïves ;\n- **compétition** ;\n- transmission de **pathogènes** ;\n- **hybridation** ;\n- modification des **écosystèmes** (cycles des nutriments, régimes de feu, hydrologie).\n\nIPBES (2023) : elles ont contribué à environ **60 % des extinctions** documentées, et leur coût mondial dépasse **400 milliards de dollars par an**.",
+  "details": "Exemples en Belgique et en Europe :\n- les **renouées asiatiques** et la **berce du Caucase** le long des cours d’eau ;\n- l’**écrevisse américaine**, porteuse de la peste de l’écrevisse ;\n- la **coccinelle asiatique** ;\n- le **frelon asiatique** (*Vespa velutina*) ;\n- le **chytride *Batrachochytrium salamandrivorans*** (Bsal), qui décime les salamandres tachetées depuis 2013 aux Pays-Bas puis en Belgique ;\n- l’**ouette d’Égypte**.\n\nLe règlement **UE 1143/2014** établit une liste d’espèces préoccupantes pour l’Union. La prévention coûte bien moins cher que la gestion après établissement.",
+  "question": "Pourquoi le champignon Bsal est-il une menace grave pour la salamandre tachetée en Belgique ?",
+  "reponse": "*Batrachochytrium salamandrivorans* est un chytride originaire d’Asie, probablement introduit via le **commerce d’amphibiens** de compagnie. Les urodèles asiatiques le tolèrent. Les salamandres européennes, **naïves**, n’ont pas co-évolué avec lui : il détruit leur peau, d’où une mortalité proche de 100 % et des déclins locaux massifs (Pays-Bas, Eifel, Belgique depuis 2014). Aucun traitement n’est applicable à grande échelle dans la nature. La prévention passe par l’hygiène du matériel et l’encadrement du commerce.",
+  "pieges": [
+    "Confondre « exotique » et « envahissant » (seule une minorité devient envahissante, cf. tens rule).",
+    "Sous-estimer le rôle des pathogènes introduits."
+  ],
+  "liens": [
+    "etapes-invasion",
+    "regle-dix-pourcent"
+  ],
+  "especes": [
+    "salamandra-salamandra",
+    "reynoutria-japonica"
+  ]
+}

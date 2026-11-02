@@ -1,0 +1,98 @@
+{
+  "id": "ambystoma-mexicanum",
+  "nom": "Axolotl",
+  "latin": "Ambystoma mexicanum",
+  "groupe": "amphibien",
+  "milieu": [
+    "lac"
+  ],
+  "belgique": false,
+  "clade": "urodela",
+  "resume": "Salamandre mexicaine qui reste toute sa vie à l’état **larvaire**, avec ses branchies plumeuses, tout en devenant sexuellement mature. C’est le symbole de la **néoténie**, et elle est capable de **régénérer** membres, moelle épinière et même une partie du cœur.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Amphibiens (Lissamphibiens)",
+      "synapomorphies": [
+        "Dents bicuspides pédicellées",
+        "Peau respiratoire perméable"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Urodèles",
+      "synapomorphies": [
+        "Queue chez l’adulte"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Ambystomatidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Ambystoma",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Salamandra salamandra",
+    "parents": [
+      "Ambystoma tigrinum",
+      "Ambystoma velasci"
+    ]
+  },
+  "facts": [
+    "Elle se reproduit à l’état larvaire : c’est le modèle classique de la néoténie.",
+    "Son génome fait environ 32 milliards de paires de bases, dix fois le nôtre.",
+    "Elle peut régénérer un membre entier, avec os, muscles et nerfs.",
+    "De la thyroxine dans l’eau peut la faire se métamorphoser en salamandre terrestre."
+  ],
+  "anecdote": "Un axolotl est un têtard de salamandre qui a refusé de grandir, et il peut repousser un bras entier.",
+  "indices_quiz": [
+    "Urodèle néoténique aux branchies externes.",
+    "Il régénère des membres entiers.",
+    "Génome dix fois plus grand que le nôtre."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/26777",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Ambystoma_mexicanum"
+  },
+  "notions": [
+    "neotenie-humaine"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Elle mesure environ 15 à 30 cm, avec des branchies externes rouges et une nageoire caudale. La néoténie est liée à une faible activité de l’**axe thyroïdien** : un traitement à la thyroxine induit une métamorphose en salamandre terrestre.",
+    "details": "Son génome est géant, environ **32 milliards de paires de bases**, une dizaine de fois celui de l’humain (Nowoshilow et al., 2018). La régénération passe par un **blastème** de cellules dédifférenciées. C’est un modèle majeur de la recherche biomédicale."
+  },
+  "comportement": {
+    "essentiel": "Elle est carnivore et chasse par aspiration. La reproduction se fait par spermatophore, comme chez les autres salamandres.",
+    "details": "La néoténie est **adaptative** dans un lac permanent froid où la vie terrestre n’offre pas d’avantage. C’est un exemple d’hétérochronie, en lien avec la discussion sur la néoténie humaine.",
+    "concepts": [
+      "neotenie-humaine"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Endémique des canaux de Xochimilco, au sud de Mexico.",
+    "details": "Elle a presque disparu en nature (densités en chute de plus de 99 % depuis 1998), alors qu’elle est abondante en captivité.",
+    "uicn": "CR",
+    "menaces": [
+      "Pollution et urbanisation de Xochimilco",
+      "Poissons introduits (tilapias, carpes)",
+      "Assèchement"
+    ]
+  }
+}

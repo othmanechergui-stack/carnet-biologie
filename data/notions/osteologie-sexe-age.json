@@ -1,0 +1,17 @@
+{
+  "id": "osteologie-sexe-age",
+  "titre": "Ostéologie : estimer le sexe et l’âge d’un squelette",
+  "module": "module5",
+  "source": "module 5/Ostéologie.docx",
+  "essentiel": "En anthropologie biologique, le **bassin** est l’os le plus fiable pour estimer le **sexe** :\n- chez la femme, grande incisure ischiatique large, angle sous-pubien ouvert, bassin plus large ;\n- chez l’homme, crâne en moyenne plus robuste (processus mastoïde, arcades sourcilières, protubérance occipitale).\n\nL’**âge** s’estime chez l’enfant par l’**éruption dentaire** et la **fusion des épiphyses**, chez l’adulte par la **symphyse pubienne**, la surface auriculaire et la fermeture des sutures (moins fiable).",
+  "details": "Ta fiche d’ostéologie décrit l’identification des os, avec leur latéralisation (pair, non symétrique) :\n- **clavicule** en S : extrémité plate vers la scapula, extrémité arrondie vers le sternum ;\n- **scapula** : épine, acromion, processus coracoïde, cavité glénoïdale ;\n- **humérus** : tête vers l’intérieur, capitulum (radius), trochlée (ulna) ;\n- **ulna** : incisure trochléaire en forme de clé à molette.\n\nLes os longs permettent d’estimer la **stature** par des équations de régression propres à chaque population. Les marqueurs d’activité, les pathologies et les isotopes (alimentation, mobilité) complètent le profil biologique.",
+  "question": "Pourquoi le bassin est-il plus fiable que le crâne pour estimer le sexe d’un squelette adulte ?",
+  "reponse": "Le bassin féminin porte des adaptations **fonctionnelles** à l’accouchement : canal pelvien large, grande incisure ischiatique ouverte, angle sous-pubien d’environ 90° ou plus, sacrum plus large et plus court. Ces différences sont directement sélectionnées et donc **nettes**, avec une fiabilité de 95 % ou plus. Les caractères du crâne reflètent surtout la **robustesse générale**, qui varie beaucoup entre individus et entre populations. Ils se recouvrent largement entre sexes (fiabilité d’environ 80 à 90 %).",
+  "pieges": [
+    "Utiliser les sutures crâniennes comme critère d’âge fiable.",
+    "Estimer le sexe d’un squelette d’enfant par le bassin (le dimorphisme n’apparaît qu’à la puberté)."
+  ],
+  "liens": [
+    "bipedie"
+  ]
+}

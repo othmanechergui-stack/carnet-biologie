@@ -1,0 +1,18 @@
+{
+  "id": "transfert-energie-lindeman",
+  "titre": "Règle des 10 % du transfert d’énergie (Lindeman)",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "En écologie trophique, la **règle des 10 %** dit qu’environ **10 % de l’énergie** d’un niveau trophique se retrouve dans la production du niveau suivant. C’est l’efficacité de transfert écologique (Lindeman, 1942). Elle explique les **pyramides d’énergie** et pourquoi les prédateurs sont rares. À ne pas confondre avec la **règle des 10 % des invasions** (*tens rule*, module 4).",
+  "details": "L’efficacité réelle varie, d’environ 2 % à plus de 20 %. Elle est plus élevée chez les **ectothermes** (pas de dépense pour maintenir leur température) et dans les écosystèmes aquatiques. Elle est plus faible chez les endothermes, en particulier les petits mammifères et les oiseaux.\n\nElle se décompose en trois efficacités : consommation × assimilation × production.\n\nApplication : manger plus bas dans la chaîne trophique (végétaux plutôt que viande) nourrit plus de personnes par hectare.\n\nLes pyramides de **biomasse** peuvent être inversées dans les océans, où un phytoplancton à renouvellement très rapide nourrit une plus grande biomasse de zooplancton. Les pyramides d’**énergie**, elles, ne s’inversent jamais.",
+  "question": "Pourquoi une pyramide de biomasse peut-elle être inversée dans l’océan, alors qu’une pyramide d’énergie ne l’est jamais ?",
+  "reponse": "La **biomasse** est un stock à un instant donné. Le phytoplancton est peu abondant mais se **renouvelle très vite** (en quelques jours) : une petite biomasse peut produire beaucoup d’énergie au cours du temps et nourrir un zooplancton plus abondant en masse. La pyramide d’**énergie** mesure un **flux**, la production par unité de temps. Ce flux diminue forcément d’un niveau à l’autre, à cause des pertes respiratoires (deuxième principe de la thermodynamique).",
+  "pieges": [
+    "Confondre cette règle (énergie) avec la tens rule des invasions (module 4).",
+    "Prendre 10 % comme une constante exacte."
+  ],
+  "liens": [
+    "reseaux-trophiques",
+    "regle-dix-pourcent"
+  ]
+}

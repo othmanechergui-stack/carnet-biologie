@@ -1,0 +1,32 @@
+{
+  "id": "cd-communication-recrutement",
+  "titre": "Communication et recrutement chez les insectes sociaux",
+  "module": "ethologie",
+  "source": "comportement animal/Synthese_retranscription du cours de Claire Detrain.pdf",
+  "essentiel": "Les insectes sociaux transmettent l’emplacement des ressources par des signaux sophistiqués : la **piste de phéromones** des fourmis et la **danse frétillante** des abeilles. La **décision collective** émerge d’interactions locales amplifiées : c’est l’auto-organisation.",
+  "details": "La danse de l’abeille (von Frisch, prix Nobel 1973) code la **direction** par l’angle par rapport à la verticale, qui correspond à l’angle avec le soleil, et la **distance** par la durée de la phase frétillante. Les pistes de fourmis codent la qualité par l’intensité du dépôt de phéromone.",
+  "question": "Comment l’abeille domestique indique-t-elle la direction d’une source de nectar dans l’obscurité de la ruche ?",
+  "reponse": "Sur le rayon vertical, elle effectue une danse en 8. L’**angle** de la phase frétillante par rapport à la **verticale** correspond à l’angle entre la direction de la source et la **direction du soleil**. Si la source est dans la direction du soleil, la danse va vers le haut ; si elle est à 60° à droite du soleil, la danse fait 60° à droite de la verticale. La **durée** du frétillement indique la distance. Les suiveuses perçoivent la danse par contact et vibrations.",
+  "pieges": [
+    "Croire que la danse indique la distance par la vitesse uniquement.",
+    "Oublier que la gravité remplace le soleil sur le rayon vertical."
+  ],
+  "exemples": [
+    {
+      "espece": "apis-mellifera",
+      "texte": "Danse frétillante : direction (angle/verticale = angle/soleil) et distance (durée du frétillement)."
+    },
+    {
+      "espece": "formica-rufa",
+      "texte": "Pistes chimiques et recrutement vers les colonies de pucerons dont elles récoltent le miellat."
+    },
+    {
+      "espece": "linepithema-humile",
+      "texte": "Expérience du double pont : la colonie choisit le chemin le plus court par amplification des pistes."
+    }
+  ],
+  "liens": [
+    "recrutement-fourmis",
+    "signal-indice"
+  ]
+}

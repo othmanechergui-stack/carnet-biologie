@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-06-biodiversite-services",
+  "date": "2026-10-06",
+  "titre": "Plus d’espèces, plus de services : pas de plateau de redondance",
+  "resume": "Une méta-analyse de 423 études (222 829 mesures, tous milieux) montre que la plupart des fonctions et services écosystémiques continuent d’augmenter avec la biodiversité, sans plafonner. L’idée que les écosystèmes ont assez d’espèces « redondantes » pour encaisser quelques pertes est donc fragilisée (Moffett et al., Nature Ecology & Evolution).",
+  "source": {
+    "nom": "Nature Ecology & Evolution (DOI 10.1038/s41559-026-03200-4)",
+    "url": "https://doi.org/10.1038/s41559-026-03200-4"
+  },
+  "themes": [
+    "ecologie",
+    "biodiversite"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "423 études, 222 829 mesures",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible",
+    "grand_echantillon": true
+  },
+  "quiz": {
+    "question": "Que conclut la méta-analyse de 423 études publiée en octobre 2026 dans Nature Ecology & Evolution ?",
+    "choix": [
+      "Les services écosystémiques plafonnent dès quelques espèces",
+      "La plupart des services continuent d’augmenter avec la biodiversité",
+      "La biodiversité n’a pas d’effet mesurable"
+    ],
+    "bonne": 1
+  },
+  "module": "ecologie"
+}

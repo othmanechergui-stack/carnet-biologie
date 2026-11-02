@@ -1,0 +1,20 @@
+{
+  "id": "contraintes-ecologiques-cooperation",
+  "titre": "Contraintes écologiques et reproduction coopérative",
+  "module": "societes",
+  "source": "animal societies/Biology of Animal Societies (2017-2018).pdf",
+  "essentiel": "Chez environ 9 % des oiseaux et de nombreux mammifères, des **aides** non reproducteurs assistent un couple. L’hypothèse des **contraintes écologiques** (Emlen, 1982) explique que les jeunes **retardent leur dispersion** quand les territoires de qualité sont saturés ou que se reproduire seul est trop risqué. Ils gagnent alors en fitness **indirecte** (aide à des apparentés) et souvent **directe** (héritage du territoire, apprentissage).",
+  "details": "Bénéfices directs possibles :\n- la survie au sein du groupe ;\n- l’**héritage** du territoire parental ;\n- l’expérience acquise ;\n- le « paiement de loyer » (*pay-to-stay*) chez des cichlidés.\n\nLes espèces coopératives sont plus fréquentes dans les environnements **imprévisibles** (Jetz & Rubenstein, 2011).\n\nExemples : les suricates, les mangoustes, le geai buissonnier de Floride et la mésange à longue queue. Chez cette dernière, les adultes dont la nichée a échoué aident préférentiellement des apparentés, qu’ils reconnaissent à leur cri (Sharp et al., 2005).",
+  "question": "Chez la mésange à longue queue, les aides sont des adultes ayant raté leur propre nichée. Pourquoi est-ce un bon test de la sélection de parentèle ?",
+  "reponse": "Ces adultes ont **perdu leur option de reproduction directe** cette saison : le coût C de l’aide est quasi nul. S’ils aident, le bénéfice ne peut venir que de la fitness indirecte, à condition qu’ils aident des **apparentés**. Or on observe qu’ils choisissent préférentiellement les nids de parents, reconnus par l’apprentissage des cris. C’est exactement ce que prédit la règle de Hamilton (rB > C, avec C ≈ 0).",
+  "pieges": [
+    "Opposer contraintes écologiques et sélection de parentèle : elles agissent ensemble.",
+    "Oublier les bénéfices directs des aides."
+  ],
+  "liens": [
+    "regle-hamilton"
+  ],
+  "especes": [
+    "aegithalos-caudatus"
+  ]
+}

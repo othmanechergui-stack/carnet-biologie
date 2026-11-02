@@ -1,0 +1,17 @@
+{
+  "id": "epigenomique",
+  "titre": "Épigénomique : méthylation et marques d’histones",
+  "module": "transcriptomique",
+  "source": "Transcriptomic/L04.pdf",
+  "essentiel": "L’**épigénome** désigne l’ensemble des modifications chimiques de l’ADN et de la chromatine qui modulent l’expression **sans changer la séquence**. Il y a **un génome par individu**, mais **plusieurs épigénomes**, un par type cellulaire. Les principales marques sont la **méthylation de l’ADN** (5-méthylcytosine, surtout aux dinucléotides CpG ; 5-hmC) et les **modifications d’histones** (acétylation, méthylation).",
+  "details": "- Une méthylation des **îlots CpG des promoteurs** est associée à la répression. L’hyperméthylation des promoteurs de gènes suppresseurs de tumeur est un mécanisme établi du cancer.\n- Exemples de marques d’histones : **H3K4me3** aux promoteurs actifs, **H3K27ac** aux enhancers actifs, **H3K27me3** pour la répression Polycomb, H3K9me3 pour l’hétérochromatine.\n- Les ARN eux-mêmes sont modifiés (m6A, mesuré par MeRIP-seq) : c’est l’épitranscriptome.\n\nMéthodes :\n- **ChIP-seq** : immunoprécipitation de la chromatine pour une marque ou un facteur ;\n- **bisulfite-seq** / RRBS : méthylation à la base près ;\n- **MeDIP** ;\n- **ATAC-seq** : chromatine ouverte.\n\nLe « paysage épigénétique » de Waddington (1957) illustre la différenciation cellulaire comme une bille qui roule dans des vallées. Projet de référence : Roadmap Epigenomics (2015).",
+  "question": "Comment le traitement au bisulfite permet-il de lire la méthylation de l’ADN par séquençage ?",
+  "reponse": "Le bisulfite de sodium **convertit les cytosines non méthylées en uraciles**, lues comme des **T** après PCR. Les **5-méthylcytosines sont protégées** et restent des **C**. En comparant les lectures à la référence, chaque C de la référence lu « C » était méthylé, et chaque C lu « T » ne l’était pas. On obtient un taux de méthylation **à la résolution d’un nucléotide**. Limite : le bisulfite classique ne distingue pas 5-mC et 5-hmC.",
+  "pieges": [
+    "Dire que l’épigénétique modifie la séquence d’ADN.",
+    "Croire que la méthylation est toujours répressive (dans le corps des gènes, elle est souvent associée à l’expression)."
+  ],
+  "liens": [
+    "rnaseq-principe"
+  ]
+}

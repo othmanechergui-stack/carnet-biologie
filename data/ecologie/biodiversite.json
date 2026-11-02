@@ -1,0 +1,90 @@
+[
+ {
+  "titre": "COP17 (Yerevan) : la « Yerevan Pathway » adoptée",
+  "chiffre": "≈ 50 décisions",
+  "tendance": "stable",
+  "texte": "La COP17 de la Convention sur la diversité biologique s’est conclue le 31 octobre 2026. Premier bilan mondial du cadre de Kunming-Montréal : le monde est hors trajectoire sur presque toutes les cibles. Les pays sont invités à réviser leurs plans (selon les financements disponibles) ; le financement reste le point bloquant.",
+  "source": {
+   "nom": "Climate Home News",
+   "url": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/"
+  },
+  "maj": "2026-11-02"
+ },
+ {
+  "titre": "Oiseaux des champs en Europe",
+  "chiffre": "−56 % (1980–2017)",
+  "tendance": "baisse",
+  "texte": "Les populations d’oiseaux des milieux agricoles ont chuté de 56 % en Europe ; l’intensification agricole (pesticides, engrais) en est le principal moteur (Rigal et al., PNAS 2023).",
+  "source": {
+   "nom": "PNAS 2023 (PMC)",
+   "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10214186/"
+  },
+  "maj": "2026-11-02"
+ },
+ {
+  "titre": "Oiseaux et papillons communs : déclin projeté jusqu’en 2050",
+  "chiffre": "265 oiseaux + 144 papillons",
+  "tendance": "baisse",
+  "texte": "Une modélisation sur plus de 20 000 sites projette la poursuite du déclin moyen des espèces communes d’Europe jusqu’en 2050, même sous les scénarios de politique de conservation (Nature Ecology & Evolution, 2026).",
+  "source": {
+   "nom": "Nature Ecology & Evolution 2026",
+   "url": "https://www.nature.com/articles/s41559-026-03139-6"
+  },
+  "maj": "2026-11-02"
+ },
+ {
+  "titre": "Biomasse d’insectes volants (Allemagne)",
+  "chiffre": "−76 % en 27 ans",
+  "tendance": "baisse",
+  "texte": "Dans 63 aires protégées allemandes, la biomasse d’insectes volants capturés a chuté de plus de 75 % entre 1989 et 2016 (Hallmann et al., PLoS ONE 2017) — l’étude fondatrice du « déclin des insectes ».",
+  "source": {
+   "nom": "PLoS ONE 2017",
+   "url": "https://doi.org/10.1371/journal.pone.0185809"
+  },
+  "maj": "2026-11-02"
+ },
+ {
+  "titre": "Retour du loup en Belgique",
+  "chiffre": "depuis 2018 ; 1ʳᵉ meute en 2020",
+  "tendance": "hausse",
+  "texte": "Après plus d’un siècle d’absence, le loup est revenu en Belgique en 2018 et une première meute s’est formée en 2020. En Wallonie, le réseau loup piloté par le DEMNA (SPW) suit les observations.",
+  "source": {
+   "nom": "WWF Belgique",
+   "url": "https://wwf.be/fr/regions/belgique"
+  },
+  "maj": "2026-11-02"
+ },
+ {
+  "titre": "Retour du castor en Wallonie",
+  "chiffre": "disparu au XIXᵉ s., revenu fin des années 1990",
+  "tendance": "hausse",
+  "texte": "Réintroduit de façon non officielle (castors venus d’Allemagne), le castor d’Europe prospère aujourd’hui dans de nombreuses rivières wallonnes. Intégralement protégé (directive Habitats, annexes II et IV). Le castor nord-américain, signalé depuis 2006, est considéré comme invasif.",
+  "source": {
+   "nom": "Biodiversité en Wallonie (SPW)",
+   "url": "https://biodiversite.wallonie.be/home/evaluation-biologique/monitoring-des-especes/mammiferes/castor-d-europe.html"
+  },
+  "maj": "2026-11-02"
+ },
+ {
+  "titre": "Biodiversité et services écosystémiques",
+  "chiffre": "423 études, 222 829 mesures",
+  "tendance": "stable",
+  "texte": "Méta-analyse 2026 : la plupart des services continuent d’augmenter avec le nombre d’espèces, sans plateau de redondance — chaque perte compte.",
+  "source": {
+   "nom": "Nature Ecology & Evolution 2026",
+   "url": "https://doi.org/10.1038/s41559-026-03200-4"
+  },
+  "maj": "2026-11-02"
+ },
+ {
+  "titre": "Espèces exotiques envahissantes (IPBES)",
+  "chiffre": "≈ 60 % des extinctions documentées",
+  "tendance": "hausse",
+  "texte": "Le rapport IPBES 2023 estime que les espèces exotiques envahissantes ont contribué à environ 60 % des extinctions documentées et coûtent plus de 400 milliards de dollars par an ; leur nombre continue d’augmenter.",
+  "source": {
+   "nom": "IPBES 2023",
+   "url": "https://www.ipbes.net/IASmediarelease"
+  },
+  "maj": "2026-11-02"
+ }
+]

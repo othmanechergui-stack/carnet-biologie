@@ -1,0 +1,17 @@
+{
+  "id": "signal-honnete",
+  "titre": "Signaux honnêtes et principe du handicap",
+  "module": "ethologie",
+  "source": "comportement animal/Cours Eco-Ethologie_22-23.pdf",
+  "essentiel": "Pourquoi les signaux restent-ils fiables alors que tricher serait tentant ? Le **principe du handicap** (Zahavi 1975, formalisé par Grafen 1990) répond qu’un signal coûteux ne peut être produit à forte intensité que par les individus de bonne qualité, car le **coût marginal** est plus élevé pour les individus de mauvaise qualité. Les **signaux d’index**, eux, sont honnêtes par contrainte physique.",
+  "details": "Exemples :\n- La queue du paon : le coût de production et de survie est plus lourd pour un mâle en mauvaise condition.\n- Les caroténoïdes des oiseaux : ce sont des pigments rares, avec un compromis entre ornement et immunité.\n- Le cerf élaphe : la fréquence des formants du brame est liée à la longueur du conduit vocal, donc à la taille. C’est un signal d’index.\n- Le stotting de la gazelle de Thomson : des bonds verticaux devant un prédateur, qui signalent une bonne condition physique.\n\nL’honnêteté peut aussi être maintenue par des **intérêts communs**, par exemple entre parents et jeunes apparentés, ou par la **punition** des tricheurs (« badges of status » des moineaux).",
+  "question": "Pourquoi le saut vertical (stotting) d’une gazelle devant un guépard peut-il être un signal honnête destiné au prédateur ?",
+  "reponse": "Sauter au lieu de fuir coûte du temps et de l’énergie. Seule une gazelle en **excellente condition** peut se le permettre et garder de quoi s’échapper. Le comportement informe le prédateur que la poursuite a peu de chances de réussir. Le guépard a intérêt à le croire, et l’on observe effectivement qu’il abandonne plus souvent ces individus (Caro, 1986). Le coût différentiel garantit l’honnêteté : une gazelle faible qui « bluffe » serait rattrapée.",
+  "pieges": [
+    "Dire que tout signal honnête doit être coûteux : les signaux d’index et les signaux entre partenaires aux intérêts alignés peuvent être bon marché.",
+    "Confondre le coût de production avec le coût marginal différentiel, qui est la clé du modèle de Grafen."
+  ],
+  "liens": [
+    "signal-indice"
+  ]
+}

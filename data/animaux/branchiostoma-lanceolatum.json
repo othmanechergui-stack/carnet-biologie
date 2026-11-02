@@ -1,0 +1,93 @@
+{
+  "id": "branchiostoma-lanceolatum",
+  "nom": "Amphioxus (lancelet)",
+  "latin": "Branchiostoma lanceolatum",
+  "groupe": "cephalochorde",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": false,
+  "clade": "cephalochordata",
+  "resume": "Petit animal marin translucide de 5 cm qui vit enfoui dans le sable. C’est un **céphalocordé** : il possède tous les caractères de chordé à l’état simple, et c’est un modèle clé pour comprendre l’origine des vertébrés.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Sous-embranchement",
+      "nom": "Céphalocordés",
+      "synapomorphies": [
+        "Notochorde jusqu’à l’extrémité antérieure"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Amphioxiformes",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Branchiostomatidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Branchiostoma",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Asterias rubens",
+    "parents": [
+      "Branchiostoma floridae",
+      "Asymmetron lucayanum"
+    ]
+  },
+  "facts": [
+    "Ce n’est pas un vertébré mais un chordé sans crâne.",
+    "Il n’a qu’un seul groupe de gènes Hox, alors que les vertébrés en ont quatre.",
+    "On le croyait le plus proche parent des vertébrés : ce sont en fait les tuniciers.",
+    "Son nom vient du grec amphi- (des deux côtés) et oxys (pointu)."
+  ],
+  "anecdote": "L’amphioxus ressemble à un poisson, mais les ascidies, ces sacs fixés aux rochers, sont plus proches de nous que lui.",
+  "indices_quiz": [
+    "Céphalocordé translucide enfoui dans le sable.",
+    "Il a un seul groupe de gènes Hox (pas de duplication 2R).",
+    "On l’a longtemps cru le plus proche parent des vertébrés."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/363793",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Branchiostoma_lanceolatum"
+  },
+  "notions": [
+    "chordes-synapomorphies",
+    "duplication-genes"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il a une **notochorde** sur toute la longueur, un **tube neural dorsal**, un pharynx percé de très nombreuses **fentes** (filtration), une queue post-anale, un **endostyle** et des **myomères** en chevrons. Il n’a pas de crâne, pas de vraies vertèbres et pas de crêtes neurales.",
+    "details": "Son génome n’a **pas subi les deux duplications** de génome des vertébrés. Il possède un seul groupe de gènes *Hox*, alors que les vertébrés en ont quatre ou plus. C’est la référence pour étudier l’hypothèse 2R."
+  },
+  "comportement": {
+    "essentiel": "Il est filtreur, enfoui dans les sables grossiers, avec seulement la partie antérieure dépassant. Il nage brièvement par ondulations et se ré-enfouit.",
+    "details": "Il est sensible à la lumière grâce à des cellules photoréceptrices (organes de Hesse) le long du tube neural.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Sables grossiers côtiers de l’Atlantique Est et de la Méditerranée, présent aussi en mer du Nord.",
+    "details": "Modèle biologique : station de Banyuls-sur-Mer, élevages de laboratoire.",
+    "uicn": "NE",
+    "menaces": [
+      "Extraction de sable",
+      "Pollution"
+    ]
+  }
+}

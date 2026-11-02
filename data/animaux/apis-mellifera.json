@@ -1,0 +1,131 @@
+{
+  "id": "apis-mellifera",
+  "nom": "Abeille domestique",
+  "latin": "Apis mellifera",
+  "groupe": "insecte",
+  "milieu": [
+    "prairie",
+    "jardin",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "apidae",
+  "resume": "L’abeille mellifère vit en colonies **eusociales** d’environ 20 000 à 60 000 ouvrières avec une seule reine. Elle est célèbre pour sa **danse frétillante**, qui code la direction et la distance des fleurs.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Arthropodes",
+      "synapomorphies": [
+        "Exosquelette chitineux articulé",
+        "Mue (ecdystéroïdes)",
+        "Appendices articulés"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Insectes",
+      "synapomorphies": [
+        "3 paires de pattes",
+        "Corps en 3 tagmes",
+        "1 paire d’antennes",
+        "Ailes (ptérygotes)"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Hyménoptères",
+      "synapomorphies": [
+        "Haplodiploïdie",
+        "Hamuli couplant les ailes"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Apidés",
+      "synapomorphies": [
+        "Corbeilles à pollen (Apinés)"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Apis",
+      "synapomorphies": [
+        "Rayons de cire verticaux à cellules hexagonales"
+      ]
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Vespula vulgaris",
+    "parents": [
+      "Apis cerana",
+      "Bombus terrestris"
+    ]
+  },
+  "facts": [
+    "La reine s’accouple avec une dizaine à une vingtaine de mâles en un ou quelques vols nuptiaux.",
+    "La direction de la danse par rapport à la verticale indique l’angle entre la source et le soleil.",
+    "Une ouvrière en été vit environ 5 à 6 semaines ; une reine peut vivre plusieurs années.",
+    "Les éclaireuses donnent des « signaux stop » à celles qui défendent un autre site de nid."
+  ],
+  "anecdote": "Quand un essaim choisit sa future maison, les abeilles votent par la danse et se donnent des coups de tête pour faire taire les partisanes du site concurrent.",
+  "indices_quiz": [
+    "Hyménoptère eusocial dont la reine est fortement polyandre.",
+    "Elle code la direction des fleurs par l’angle d’une danse par rapport à la verticale.",
+    "Le régime larvaire décide si une femelle sera reine ou ouvrière."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/47219",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Apis_mellifera"
+  },
+  "notions": [
+    "eusocialite-criteres",
+    "haplodiploidie-trois-quarts",
+    "conflits-coloniaux"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Les ouvrières sont des femelles stériles. Elles portent des **corbeilles à pollen** sur les pattes postérieures et un dard barbelé. Elles produisent la **cire** avec des glandes abdominales et la **gelée royale** avec des glandes hypopharyngiennes.",
+    "details": "Le régime larvaire détermine la caste : une larve femelle nourrie longtemps de gelée royale devient reine. C’est un polyphénisme d’origine épigénétique, lié à la méthylation. Les ouvrières changent de tâche avec l’âge (**polyéthisme d’âge**) : nettoyeuses, nourrices, bâtisseuses, gardiennes, puis butineuses."
+  },
+  "comportement": {
+    "essentiel": "La reine s’accouple avec **10 à 20 mâles** environ lors de vols nuptiaux. Cette **polyandrie** abaisse l’apparentement entre ouvrières, qui sont surtout des demi-sœurs. Elle explique le **worker policing** : les ouvrières détruisent les œufs pondus par d’autres ouvrières.",
+    "details": "La **danse frétillante** a été décodée par Karl von Frisch, prix Nobel 1973. Les décisions collectives sont aussi remarquables. Lors de l’essaimage, des éclaireuses visitent des cavités et « débattent » par des danses. Celles qui défendent une cavité donnent aussi des **signaux stop** (coups de tête) aux danseuses qui promeuvent une cavité concurrente. Le quorum fixe ensuite le choix (Seeley).",
+    "concepts": [
+      "eusocialite-criteres",
+      "haplodiploidie-trois-quarts",
+      "conflits-coloniaux",
+      "cd-communication-recrutement"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "C’est un insecte domestique, mais l’**abeille noire** (*A. m. mellifera*) est la sous-espèce indigène d’Europe du Nord-Ouest. Des colonies sauvages subsistent dans des arbres creux.",
+    "details": "Elle pollinise de nombreuses cultures, mais les **abeilles sauvages**, environ 400 espèces en Belgique, sont souvent plus efficaces pour beaucoup de plantes. De fortes densités de ruches peuvent concurrencer ces abeilles sauvages.",
+    "uicn": "DD",
+    "menaces": [
+      "Varroa destructor",
+      "Frelon asiatique",
+      "Pesticides (néonicotinoïdes)",
+      "Manque de fleurs (monocultures)",
+      "Hybridation de l’abeille noire"
+    ]
+  },
+  "terrain": {
+    "ou": "Partout où il y a des fleurs ; ruchers de particuliers jusqu’en ville.",
+    "quand": "Mars à octobre ; on voit encore des butineuses sur le lierre en octobre-novembre.",
+    "criteres": [
+      "Corps brun à bandes plus ou moins orangées, pilosité modérée",
+      "Corbeilles à pollen chargées sur les pattes arrière",
+      "Vol direct de fleur en fleur"
+    ],
+    "sosies": [
+      {
+        "espece": "Éristale gluante (Eristalis tenax)",
+        "distinguer": "Syrphe mimétique : une seule paire d’ailes (diptère), gros yeux qui se touchent, antennes courtes ; elle vole en surplace."
+      },
+      {
+        "espece": "Andrènes (abeilles sauvages)",
+        "distinguer": "Souvent plus petites, solitaires, nichant dans le sol ; pas de corbeille à pollen mais des brosses de poils."
+      }
+    ]
+  }
+}

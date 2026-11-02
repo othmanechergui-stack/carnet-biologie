@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-18-hy5-ombre-preprint",
+  "date": "2026-10-18",
+  "titre": "Ombre des voisins : un facteur de transcription voyagerait de la tige aux racines",
+  "resume": "Un preprint propose que le facteur de transcription HY5 migre des parties aériennes vers les racines et y pilote la réponse du développement racinaire à l’ombrage par les voisins — un signal à longue distance. Travail non encore relu par les pairs.",
+  "source": {
+    "nom": "bioRxiv (preprint) — DOI 10.64898/2026.10.18.759902",
+    "url": "https://doi.org/10.64898/2026.10.18.759902"
+  },
+  "themes": [
+    "botanique",
+    "genetique"
+  ],
+  "grille": {
+    "modele": "plante",
+    "echantillon": "non précisé",
+    "publication": "preprint",
+    "design": "causalite",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "Pourquoi l’étude sur HY5 et l’ombrage reçoit-elle le badge « à prendre avec des pincettes » ?",
+    "choix": [
+      "Parce que c’est un preprint non relu par les pairs",
+      "Parce qu’elle porte sur des humains",
+      "Parce qu’elle a un énorme échantillon"
+    ],
+    "bonne": 0
+  },
+  "module": "botanique"
+}

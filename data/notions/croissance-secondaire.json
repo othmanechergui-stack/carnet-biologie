@@ -1,0 +1,19 @@
+{
+  "id": "croissance-secondaire",
+  "titre": "Croissance secondaire : cambium et phellogène",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 1 - PM + SB - nouvelle version.pdf",
+  "essentiel": "La croissance en épaisseur repose sur deux méristèmes secondaires. Le **cambium** produit du **bois** (xylème secondaire) vers l’intérieur et du **liber** (phloème secondaire) vers l’extérieur. Le **phellogène** produit le **liège** (suber) vers l’extérieur et le phelloderme vers l’intérieur. L’ensemble liège + phellogène + phelloderme forme le **périderme**.",
+  "details": "Le cambium fonctionne de façon **intermittente**, seulement à la belle saison, sous nos climats.\n- Au printemps, il produit un bois à larges vaisseaux (**bois initial**).\n- En été, il produit un bois dense (**bois final**).\n\nCette alternance forme un **cerne** annuel. La largeur des cernes enregistre les conditions de croissance : elle sert à l’archivage climatique (dendroclimatologie) et à la datation (**dendrochronologie**) par comparaison avec des séries de référence.\n\nL’**écorce** au sens courant désigne tout ce qui se trouve à l’extérieur du cambium.",
+  "question": "Pourquoi peut-on dater une poutre de charpente médiévale grâce à ses cernes ?",
+  "reponse": "La largeur des cernes varie d’une année à l’autre selon le climat (pluie, température). Tous les arbres d’une même région enregistrent donc une **séquence commune** de cernes larges et étroits. En superposant la séquence de la poutre à une **chronologie de référence**, construite en chevauchant des arbres vivants et des bois anciens, on trouve l’année exacte de formation de chaque cerne. Si l’écorce est conservée, on obtient l’année d’abattage.",
+  "pieges": [
+    "Croire que l’écorce = le liège seulement (elle inclut aussi le liber).",
+    "Dire que le cambium produit du liège."
+  ],
+  "categorie": "botanique-base",
+  "liens": [
+    "tige-dicot-monocot",
+    "meristemes-tissus"
+  ]
+}

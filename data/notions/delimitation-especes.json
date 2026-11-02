@@ -1,0 +1,18 @@
+{
+  "id": "delimitation-especes",
+  "titre": "Délimitation moléculaire des espèces",
+  "module": "module3",
+  "source": "module 3/2023-02-17_speciesdelimitation - copie.pdf",
+  "essentiel": "Les méthodes de **délimitation d’espèces** à partir de séquences comparent des hypothèses d’espèces.\n- **Mono-locus fondées sur la distance** : ABGD, barcoding avec seuil ou « barcode gap ».\n- **Fondées sur les arbres** : GMYC (transition entre processus de Yule et coalescence), PTP/bPTP (nombre de substitutions).\n- **Multi-locus** : BPP (coalescent multi-espèces), et les **haplowebs** (réseaux d’haplotypes reliant les allèles co-occurrents chez des hétérozygotes) avec le critère d’**exclusivité allélique mutuelle** (J.-F. Flot).",
+  "details": "Un **haploweb** relie, sur un réseau d’haplotypes nucléaires, les allèles trouvés **ensemble chez un même individu hétérozygote**. Les groupes d’individus qui partagent un **pool d’allèles exclusif** forment des « champs de recombinaison » (*fields for recombination*, Doyle), donc des espèces candidates. Avec plusieurs loci, on combine les résultats dans une **matrice de conspécificité**.\n\nLes méthodes mono-locus fondées sur l’ADN mitochondrial ont tendance à **sur-diviser** les espèces structurées en populations (GMYC, notamment).\n\nLes résultats sont des **hypothèses** à confirmer par d’autres données : morphologie, écologie, isolement reproductif.",
+  "question": "Pourquoi un haploweb fondé sur un marqueur nucléaire peut-il être plus fiable qu’un seuil de distance sur l’ADN mitochondrial pour délimiter des espèces ?",
+  "reponse": "Un seuil de distance mitochondriale est **arbitraire**. Il ignore l’ILS, l’introgression mitochondriale et la structure géographique, et il peut fusionner des espèces récentes ou en couper une en plusieurs lignées. L’haploweb repose sur un critère **biologique** : la **recombinaison effective**. Deux individus qui partagent des allèles nucléaires, présents ensemble chez des hétérozygotes, appartiennent au même pool génique. L’exclusivité allélique mutuelle approche directement le concept biologique d’espèce, sans seuil. Elle peut se combiner sur plusieurs loci.",
+  "pieges": [
+    "Considérer une délimitation moléculaire comme une preuve définitive.",
+    "Oublier que les méthodes mono-locus sur l’ADN mitochondrial sur-divisent souvent."
+  ],
+  "liens": [
+    "concepts-espece",
+    "genealogies-tri-incomplet"
+  ]
+}

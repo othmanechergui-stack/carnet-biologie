@@ -1,0 +1,31 @@
+{
+  "id": "cd-biais-sensoriels",
+  "titre": "Exploitation sensorielle",
+  "module": "ethologie",
+  "source": "comportement animal/Synthese_retranscription du cours de Claire Detrain.pdf",
+  "essentiel": "Les ornements sexuels peuvent évoluer en **exploitant une préférence sensorielle préexistante** du receveur, apparue dans un autre contexte. Les approches comparatives montrent dans plusieurs groupes que la préférence existait **avant** l’ornement.",
+  "details": "La démonstration exige une **phylogénie** : on cartographie le signal et la préférence, puis on teste la préférence chez des espèces apparentées sans le signal.",
+  "question": "Chez les guppys, pourquoi la préférence des femelles pour les taches orange des mâles serait-elle une exploitation sensorielle ?",
+  "reponse": "Les guppys (mâles et femelles) sont attirés par les **objets orange**, qui rappellent des fruits riches tombés à l’eau dont ils se nourrissent. Rodd et al. (2002) ont montré que l’attirance pour des disques orange varie entre populations et qu’elle est corrélée à la préférence des femelles pour l’orange des mâles. Une préférence née dans le contexte **alimentaire** aurait été « détournée » par la sélection sexuelle.",
+  "pieges": [
+    "Confondre avec Fisher : ici la préférence précède et ne coévolue pas forcément.",
+    "Prendre une simple préférence pour une preuve, sans phylogénie."
+  ],
+  "exemples": [
+    {
+      "espece": "engystomops-pustulosus",
+      "texte": "Le « chuck » ajouté au chant des mâles exploite un accord auditif ancestral des femelles, présent aussi chez des espèces sans chuck."
+    },
+    {
+      "espece_libre": "Guppy (Poecilia reticulata)",
+      "texte": "Préférence pour l’orange d’origine alimentaire, exploitée par les taches orange des mâles."
+    },
+    {
+      "espece_libre": "Acarien aquatique Neumania papillator",
+      "texte": "Les mâles font vibrer leurs pattes comme les copépodes que les femelles chassent : celles-ci se tournent vers eux (Proctor, 1991)."
+    }
+  ],
+  "liens": [
+    "exploitation-sensorielle"
+  ]
+}

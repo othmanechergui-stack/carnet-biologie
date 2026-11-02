@@ -1,0 +1,17 @@
+{
+  "id": "mollusques-synapomorphies",
+  "titre": "Mollusques : manteau, radula, cténidies",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Les **Mollusques** (plus de 100 000 espèces décrites) partagent trois synapomorphies :\n- le **manteau**, un tégument qui sécrète la coquille calcaire ;\n- la **radula**, un ruban chitineux denté qui râpe la nourriture ;\n- les **cténidies**, des branchies en peigne.\n\nLes perles se forment quand le manteau recouvre de nacre un corps étranger.",
+  "details": "Les classes du cours :\n- **Polyplacophores** (chitons) : coquille de 7 à 8 plaques articulées, nombreuses paires de branchies.\n- **Gastéropodes** : **torsion** de 180° de la masse viscérale pendant le développement embryonnaire. Elle produit un système nerveux croisé (streptoneurie) chez les prosobranches. La torsion est suivie d’une détorsion chez les opisthobranches.\n- **Céphalopodes** : siphon musculeux pour la propulsion à réaction, poche d’encre.\n- **Bivalves** : ils ont perdu la radula et filtrent avec leurs branchies.",
+  "question": "Qu’est-ce que la torsion des gastéropodes, et quelle conséquence anatomique a-t-elle ?",
+  "reponse": "Pendant le développement larvaire, la masse viscérale et le manteau pivotent de **180°** par rapport au pied. La cavité palléale, l’anus et les branchies se retrouvent alors **à l’avant**, au-dessus de la tête. Les cordons nerveux viscéraux se croisent en 8 (**streptoneurie**). Cette torsion est une synapomorphie des gastéropodes. Chez les opisthobranches, elle est partiellement annulée par une détorsion. Chez les pulmonés, le système nerveux très condensé masque le croisement.",
+  "pieges": [
+    "Confondre la torsion avec l’enroulement en spirale de la coquille (ce sont deux phénomènes distincts).",
+    "Dire que tous les mollusques ont une radula (les bivalves l’ont perdue)."
+  ],
+  "liens": [
+    "protostomiens-deuterostomiens"
+  ]
+}

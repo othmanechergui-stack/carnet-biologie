@@ -1,0 +1,108 @@
+{
+  "id": "spongilla-lacustris",
+  "nom": "Éponge d’eau douce",
+  "latin": "Spongilla lacustris",
+  "groupe": "eponge",
+  "milieu": [
+    "riviere",
+    "mare"
+  ],
+  "belgique": true,
+  "clade": "porifera",
+  "resume": "Oui, il y a des éponges dans nos étangs et canaux ! *Spongilla* forme des encroûtements ou des doigts verdâtres sur les branches immergées. Sa couleur verte vient d’**algues symbiotiques**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Spongiaires",
+      "synapomorphies": [
+        "Choanocytes",
+        "Système aquifère"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Démosponges",
+      "synapomorphies": [
+        "Spicules siliceux",
+        "Spongine"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Spongillides",
+      "synapomorphies": [
+        "Gemmules de résistance"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Spongillidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Spongilla",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Choanoflagellés",
+    "parents": [
+      "Ephydatia fluviatilis",
+      "Eunapius fragilis"
+    ]
+  },
+  "facts": [
+    "Il existe une dizaine d’espèces d’éponges d’eau douce en Europe.",
+    "Ses gemmules résistent au gel et à la sécheresse comme des graines.",
+    "Elle est verte grâce à des algues vivant dans ses cellules.",
+    "Les larves de sisyrides vivent exclusivement dans les éponges d’eau douce."
+  ],
+  "anecdote": "Le « truc vert bizarre » sur une branche immergée dans un étang belge peut être une éponge, un animal, colorée par des algues qu’elle héberge.",
+  "indices_quiz": [
+    "Animal filtreur à spicules siliceux vivant dans les étangs.",
+    "Il passe l’hiver sous forme de gemmules résistantes.",
+    "Il est vert grâce à des algues symbiotiques."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/231429",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Spongilla_lacustris"
+  },
+  "notions": [
+    "eponges-organisation"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Organisation de type **leucon**, avec un squelette de spicules siliceux et de spongine. Elle filtre l’eau grâce à ses choanocytes : une éponge peut filtrer de très grands volumes d’eau par rapport à sa taille.",
+    "details": "À la fin de la belle saison, elle produit des **gemmules**, de petites sphères de cellules protégées par une coque à spicules. Elles résistent au gel et à l’assèchement et donnent une nouvelle éponge au printemps. Sa couleur verte vient d’algues vertes symbiotiques (zoochlorelles) logées dans ses cellules : une **endosymbiose** photosynthétique."
+  },
+  "comportement": {
+    "essentiel": "Elle n’a ni muscles ni système nerveux, mais elle peut contracter son osculum et réguler son flux d’eau. Elle « éternue » parfois en se contractant pour expulser les sédiments.",
+    "details": "Elle abrite des larves de névroptères spécialisées, les **sisyrides**, qui se nourrissent exclusivement d’éponges d’eau douce.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Eaux claires et calmes : étangs, lacs, canaux, sur bois et pierres immergés.",
+    "details": "Filtreuse : elle améliore la clarté de l’eau. Elle est sensible à la pollution et à l’envasement, ce qui en fait un indicateur de qualité.",
+    "uicn": "NE",
+    "menaces": [
+      "Eutrophisation",
+      "Envasement"
+    ]
+  },
+  "terrain": {
+    "ou": "Étangs et canaux clairs, sur branches immergées ; visible du bord ou en snorkeling.",
+    "quand": "Été (formes en doigts) ; gemmules en automne.",
+    "criteres": [
+      "Encroûtement ou doigts verdâtres à brunâtres",
+      "Surface à petits pores et oscules",
+      "Texture fragile, odeur d’eau de vase"
+    ],
+    "sosies": [
+      {
+        "espece": "Bryozoaires d’eau douce (Plumatella)",
+        "distinguer": "Colonies en tubes ramifiés munis de lophophores rétractiles, pas de spicules."
+      }
+    ]
+  }
+}

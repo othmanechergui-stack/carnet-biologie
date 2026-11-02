@@ -1,0 +1,17 @@
+{
+  "id": "perturbation-intermediaire",
+  "titre": "Hypothèse des perturbations intermédiaires",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "L’**hypothèse des perturbations intermédiaires** (Connell, 1978) prédit une diversité **maximale à des niveaux intermédiaires** de perturbation, en fréquence ou en intensité. Si les perturbations sont trop rares, les compétiteurs dominants excluent les autres espèces. Si elles sont trop fréquentes, seules les pionnières résistantes persistent. Entre les deux, pionnières et compétitrices **coexistent**.",
+  "details": "L’hypothèse a des exemples historiques : les blocs de rochers retournés par les vagues (Sousa, 1979), les récifs coralliens, les prairies pâturées.\n\nElle est cependant **critiquée** (Fox, 2013, « The intermediate disturbance hypothesis should be abandoned ») : le soutien empirique est inconstant, et plusieurs de ses mécanismes théoriques ne tiennent pas. Elle reste utile comme idée de gestion : maintenir une **mosaïque** de stades par la fauche tardive, le pâturage extensif ou des coupes ponctuelles.",
+  "question": "Comment l’hypothèse des perturbations intermédiaires justifie-t-elle la gestion par pâturage extensif dans certaines réserves naturelles belges ?",
+  "reponse": "Sans perturbation, la succession mène à la fermeture du milieu et à la domination de quelques espèces compétitives. Un pâturage **extensif**, qui est une perturbation modérée, ouvre des trouées, crée de l’hétérogénéité (zones broutées et refus, sol mis à nu) et limite les dominants. Pionnières et espèces de milieux plus matures coexistent alors. Un surpâturage, perturbation trop forte, réduirait en revanche la diversité.",
+  "pieges": [
+    "Présenter l’hypothèse comme une loi établie (elle est contestée).",
+    "Oublier que l’intensité ET la fréquence comptent."
+  ],
+  "liens": [
+    "successions-ecologiques"
+  ]
+}

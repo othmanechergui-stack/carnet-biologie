@@ -1,0 +1,19 @@
+{
+  "id": "hardy-weinberg",
+  "titre": "Équilibre de Hardy-Weinberg",
+  "module": "module2",
+  "source": "module 2/Résumé module 2.docx",
+  "essentiel": "Dans une population **panmictique**, infinie, sans mutation, migration ni sélection, les fréquences alléliques restent constantes. Les fréquences génotypiques atteignent **p², 2pq, q²** en **une seule génération** de panmixie. L’hétérozygotie attendue vaut He = 2pq. Le déficit en hétérozygotes se mesure par **F = (He − Ho) / He**.",
+  "details": "Causes d’écart à l’équilibre :\n- les **croisements consanguins** : Ho est divisé par deux à chaque génération d’autofécondation ;\n- l’**effet Wahlund** : échantillonner un mélange de populations différenciées ;\n- les **allèles nuls** : un hétérozygote porteur d’un allèle nul passe pour un homozygote ;\n- la sélection, l’assortiment homogame.\n\nOn teste l’écart par un **χ²**, ou mieux par un test exact.\n\nL’équilibre de Hardy-Weinberg concerne **un locus**. L’équilibre de liaison entre loci s’atteint lentement, au rythme de la recombinaison.",
+  "question": "Dans un échantillon, p = 0,7 et q = 0,3, mais on observe seulement 30 % d’hétérozygotes. Calcule F et propose trois explications.",
+  "reponse": "He = 2 × 0,7 × 0,3 = 0,42 ; Ho = 0,30 ; F = (0,42 − 0,30) / 0,42 ≈ **0,29**. Il y a donc un déficit en hétérozygotes. Trois explications possibles :\n1. de la **consanguinité** ou de l’autofécondation ;\n2. un **effet Wahlund**, si l’échantillon mélange des sous-populations aux fréquences différentes ;\n3. des **allèles nuls** au marqueur (microsatellite), qui font passer des hétérozygotes pour des homozygotes.\n\nPour départager : la consanguinité touche **tous les loci**, alors que les allèles nuls touchent un locus particulier.",
+  "pieges": [
+    "Croire qu’il faut plusieurs générations pour atteindre les proportions HW.",
+    "Conclure à de la consanguinité sans vérifier si le déficit est propre à un seul locus (allèles nuls)."
+  ],
+  "liens": [
+    "f-statistiques",
+    "effet-wahlund",
+    "microsatellites-alleles-nuls"
+  ]
+}

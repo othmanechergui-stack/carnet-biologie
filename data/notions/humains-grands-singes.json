@@ -1,0 +1,18 @@
+{
+  "id": "humains-grands-singes",
+  "titre": "Humains et grands singes : trois différences clés",
+  "module": "module5",
+  "source": "module 5/Anthropologie biologique.docx",
+  "essentiel": "Ta synthèse retient trois grandes différences entre l’humain et les grands singes :\n1. le **volume du cerveau** (≈ 1 400 cm³ contre ≈ 350 à 400 cm³) avec une face réduite ;\n2. le **mode de locomotion** (bipédie stricte) ;\n3. le **langage** et l’usage poussé d’outils.\n\nLa réduction de la mâchoire a fait apparaître le **menton**. La dentition humaine forme une **parabole**, contre un U chez les grands singes, qui ont de grandes canines.",
+  "details": "Phylogénie : l’humain est un **Hominidé**, comme les orangs-outans, les gorilles et les chimpanzés. Son groupe frère est le genre *Pan* (chimpanzé et bonobo), avec une divergence vers 6 à 7 Ma. Le génome humain diffère de celui du chimpanzé d’environ 1,2 % en substitutions, davantage si l’on compte les indels.\n\nLes grands singes utilisent aussi des outils : bâtonnets pour pêcher les termites, percuteurs pour casser les noix chez les chimpanzés, et des traditions culturelles locales sont documentées. La différence est de **degré** (cumul culturel, langage syntaxique) plus que de nature.",
+  "question": "« L’homme descend du singe » : en quoi cette phrase est-elle fausse, et comment la corriger ?",
+  "reponse": "L’humain ne descend d’**aucune espèce actuelle** de singe. Humains et chimpanzés partagent un **ancêtre commun** qui vivait il y a environ 6 à 7 Ma, et cet ancêtre n’était ni un humain ni un chimpanzé. Les deux lignées ont évolué depuis aussi longtemps l’une que l’autre. En revanche, phylogénétiquement, l’humain **est** un singe : un primate haplorhinien et un hominidé. La formulation correcte est « l’humain et le chimpanzé ont un ancêtre commun » ou « l’humain est un grand singe ».",
+  "pieges": [
+    "Considérer le chimpanzé comme un ancêtre « resté primitif ».",
+    "Croire que l’outil est propre à l’humain."
+  ],
+  "liens": [
+    "bipedie",
+    "encephalisation"
+  ]
+}

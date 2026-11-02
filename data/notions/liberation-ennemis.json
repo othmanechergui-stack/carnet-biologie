@@ -1,0 +1,17 @@
+{
+  "id": "liberation-ennemis",
+  "titre": "Hypothèse de libération des ennemis",
+  "module": "module4",
+  "source": "module 4/invasions 4.pdf",
+  "essentiel": "L’**hypothèse de libération des ennemis** (*Enemy Release Hypothesis*, ERH) dit que les espèces introduites prolifèrent parce qu’elles ont laissé derrière elles leurs **prédateurs, parasites et pathogènes spécialistes**. Elles peuvent alors réallouer de l’énergie de la défense vers la croissance et la reproduction : c’est l’hypothèse **EICA**, *Evolution of Increased Competitive Ability* (Blossey & Nötzold, 1995).",
+  "details": "Mécanismes de la perte des ennemis :\n- seul un sous-ensemble d’hôtes non infectés est introduit ;\n- les individus infectés meurent pendant le transport ;\n- les parasites spécialistes ne trouvent pas leur cycle complet (hôtes intermédiaires) ;\n- les ennemis eux-mêmes subissent un **effet Allee** à faible densité d’hôtes.\n\nLe cours (invasions 4) présente une **typologie de sous-hypothèses** de l’ERH, par exemple la réduction et non l’absence totale des ennemis.\n\nTests : comparer la charge parasitaire dans l’aire d’origine et dans l’aire d’introduction (Torchin et al., 2003 : environ deux fois moins de parasites chez les animaux introduits). Les résultats varient, et les ennemis généralistes locaux peuvent compenser.",
+  "question": "Comment tester expérimentalement l’hypothèse EICA chez une plante envahissante ?",
+  "reponse": "On cultive en **jardin commun** des plantes issues de graines de l’**aire d’origine** et de l’**aire d’introduction**. On compare leur croissance et leur production de biomasse et de graines, ainsi que leur investissement défensif (composés secondaires, résistance aux herbivores spécialistes). EICA prédit que les génotypes introduits **poussent plus** mais sont **moins défendus** contre les spécialistes. Cela révèle un **changement évolutif** et pas seulement une réponse plastique.",
+  "pieges": [
+    "Confondre ERH (écologique) et EICA (évolutive).",
+    "Oublier les ennemis généralistes locaux."
+  ],
+  "liens": [
+    "etapes-invasion"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "mutualismes",
+  "titre": "Mutualismes",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "Un **mutualisme** est une interaction à bénéfices **réciproques** entre deux espèces. Il peut être :\n- **obligatoire** : lichens, mycorhizes de nombreuses orchidées, figuier et ses guêpes pollinisatrices ;\n- **facultatif** : la plupart des pollinisateurs, les fourmis protectrices de pucerons.\n\nLes partenaires échangent des **services** (pollinisation, dispersion, protection) et des **ressources** (sucres, azote, phosphore).",
+  "details": "Un mutualisme est un équilibre fragile, car chaque partenaire a intérêt à **tricher** : les voleurs de nectar ou les champignons mycorhiziens peu généreux en sont des exemples. Les mécanismes de stabilisation sont :\n- les **sanctions** : les légumineuses réduisent l’oxygène fourni aux nodosités qui fixent peu d’azote (Kiers et al., 2003) ;\n- le choix du partenaire ;\n- l’alignement des intérêts par transmission verticale.\n\nUn mutualisme peut glisser vers le **parasitisme** selon le contexte : les mycorhizes sont moins utiles en sol riche en phosphore.\n\nExemples belges : la pollinisation par les bourdons, la fourmi rousse et les pucerons, les lichens (*Xanthoria*).",
+  "question": "Pourquoi un lichen est-il considéré comme l’exemple type d’un mutualisme obligatoire, et en quoi la vision « deux partenaires » est-elle aujourd’hui nuancée ?",
+  "reponse": "Un lichen associe un **champignon** (mycobionte, souvent un ascomycète) et une **algue verte** ou une **cyanobactérie** (photobionte). Le champignon fournit l’abri, l’eau et les sels minéraux ; le photobionte fournit les sucres de la photosynthèse. Ensemble, ils forment un thalle aux propriétés nouvelles, capable de coloniser des rochers nus. Des travaux récents (Spribille et al., 2016) ont montré la présence fréquente d’une **levure basidiomycète** et de bactéries associées. Le lichen est plutôt un **petit écosystème** qu’un simple couple.",
+  "pieges": [
+    "Supposer qu’un mutualisme est stable sans mécanisme anti-tricheur.",
+    "Oublier le continuum mutualisme–parasitisme."
+  ],
+  "liens": [
+    "mycorhizes"
+  ],
+  "especes": [
+    "xanthoria-parietina"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cretes-neurales-craniates",
+  "titre": "Crêtes neurales et Crâniates",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "La synapomorphie majeure des **Crâniates** est la **crête neurale**. Ces cellules se détachent des bords du tube neural pendant sa fermeture et migrent dans tout l’embryon. Elles forment les mélanocytes, les ganglions et nerfs périphériques, une partie du squelette et du cartilage céphaliques, etc. Les **filaments branchiaux** en sont une autre synapomorphie.",
+  "details": "Le cours décrit deux voies de migration : la voie **latérale**, qui donne les mélanocytes, et la voie **ventrale**, qui donne les nerfs.\n\nUn débat a longtemps opposé deux hypothèses : soit les cyclostomes (myxines + lamproies) forment un clade, et alors « crâniates » = « vertébrés » ; soit ils sont paraphylétiques, et les myxines seraient des crâniates non vertébrés. L’analyse des **microARN** a tranché. On trouve quatre familles de microARN propres aux cyclostomes : ils sont monophylétiques, et crâniates et vertébrés sont synonymes.\n\nTissus minéralisés : la dentine (≈ 70 % d’hydroxyapatite) et l’émail (≈ 96 %).",
+  "question": "Pourquoi les microARN sont-ils de bons marqueurs pour trancher la position des myxines ?",
+  "reponse": "Les microARN sont de très courts ARN régulateurs, d’environ 22 nucléotides, et ils sont très conservés. Une fois qu’une famille de microARN apparaît dans une lignée, elle est **rarement perdue** et sa séquence change peu. La présence de familles partagées est donc un caractère dérivé fiable, peu sujet à l’homoplasie. Quatre familles présentes chez les myxines et les lamproies, et absentes ailleurs, sont des **synapomorphies des cyclostomes**.",
+  "pieges": [
+    "Croire que les myxines n’ont pas de vertèbres du tout : elles possèdent des rudiments vertébraux, et c’est l’argument morphologique qui a longtemps posé problème.",
+    "Oublier que la crête neurale est aussi à l’origine d’os du crâne."
+  ],
+  "liens": [
+    "chordes-synapomorphies",
+    "mammiferes-synapomorphies"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "eudorcas-thomsonii",
+  "nom": "Gazelle de Thomson",
+  "latin": "Eudorcas thomsonii",
+  "groupe": "mammifere",
+  "milieu": [
+    "savane"
+  ],
+  "belgique": false,
+  "clade": "cetartiodactyla",
+  "resume": "Petite gazelle d’Afrique de l’Est à bande latérale noire, proie favorite du guépard. Face au prédateur, elle fait des **bonds verticaux** raides (*stotting*), un signal honnête de sa condition.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Cétartiodactyles",
+      "synapomorphies": [
+        "Astragale à double poulie"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Bovidés",
+      "synapomorphies": [
+        "Cornes permanentes à étui de kératine"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Eudorcas",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Cervus elaphus",
+    "parents": [
+      "Eudorcas rufifrons",
+      "Nanger granti"
+    ]
+  },
+  "facts": [
+    "Les guépards abandonnent plus souvent la poursuite des gazelles qui stottent.",
+    "Elle broute dans le sillage des gnous et des zèbres, qui raccourcissent l’herbe.",
+    "Elle peut courir à environ 70-80 km/h en zigzag.",
+    "Son stotting s’adresse au prédateur, pas seulement à ses congénères."
+  ],
+  "anecdote": "Quand une gazelle saute sur place devant un guépard, elle lui dit en substance : « je suis en forme, ne perds pas ton temps », et le guépard l’écoute souvent.",
+  "indices_quiz": [
+    "Gazelle d’Afrique de l’Est à bande noire latérale.",
+    "Bonds verticaux face au prédateur (stotting).",
+    "Proie favorite du guépard."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/74321",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Eudorcas_thomsonii"
+  },
+  "notions": [
+    "signal-honnete"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Elle pèse 15 à 30 kg et court jusqu’à environ 70-80 km/h en zigzag. Elle porte une bande noire sur le flanc et un miroir blanc au derrière.",
+    "details": "C’est un ruminant qui broute les herbes courtes, souvent dans le sillage des gnous et des zèbres. C’est une **facilitation** : les grands herbivores raccourcissent l’herbe."
+  },
+  "comportement": {
+    "essentiel": "Le **stotting** (ou *pronking*) consiste en bonds de 0,5 à 1 m, pattes raides, effectués à la vue d’un prédateur.",
+    "details": "Caro (1986) a montré que les guépards abandonnent plus souvent la poursuite de gazelles qui stottent, et que ce sont les individus en meilleure condition qui stottent le plus. Le stotting est donc un signal **honnête** destiné au **prédateur**, et non pas seulement une alarme aux congénères. Le signal paraît coûteux, mais il évite une poursuite à la fois au prédateur et à la proie.",
+    "concepts": [
+      "signal-honnete",
+      "cd-signaux-honnetes"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Savanes herbeuses du Kenya et de Tanzanie (Serengeti).",
+    "details": "Proie majeure des guépards, lycaons, hyènes et chacals.",
+    "uicn": "NT",
+    "menaces": [
+      "Perte d’habitat (agriculture)",
+      "Clôtures",
+      "Braconnage"
+    ]
+  }
+}

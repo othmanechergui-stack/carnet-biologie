@@ -1,0 +1,129 @@
+{
+  "id": "formica-rufa",
+  "nom": "Fourmi rousse des bois",
+  "latin": "Formica rufa",
+  "groupe": "insecte",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "formicidae",
+  "resume": "Elle construit les grands **dômes d’aiguilles** des forêts de conifères et de feuillus. C’est une espèce eusociale, souvent **polygyne** (plusieurs reines). Elle prélève beaucoup d’insectes et élève des pucerons pour leur miellat.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Arthropodes",
+      "synapomorphies": [
+        "Exosquelette chitineux articulé",
+        "Mue (ecdystéroïdes)",
+        "Appendices articulés"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Insectes",
+      "synapomorphies": [
+        "3 paires de pattes",
+        "Corps en 3 tagmes",
+        "1 paire d’antennes",
+        "Ailes (ptérygotes)"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Hyménoptères",
+      "synapomorphies": [
+        "Haplodiploïdie"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Formicidés",
+      "synapomorphies": [
+        "Glande métapleurale",
+        "Pétiole",
+        "Eusocialité"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Formica",
+      "synapomorphies": [
+        "Projection d’acide formique (pas d’aiguillon fonctionnel)"
+      ]
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Apis mellifera",
+    "parents": [
+      "Formica polyctena",
+      "Formica pratensis",
+      "Lasius niger"
+    ]
+  },
+  "facts": [
+    "Les ouvrières se chauffent au soleil au printemps puis transportent leur chaleur à l’intérieur du dôme.",
+    "Une jeune reine peut s’installer dans un nid d’une autre espèce (Formica fusca) et se faire adopter.",
+    "Une forte colonie peut récolter des millions de proies par saison et de grandes quantités de miellat.",
+    "Son statut UICN mondial (Quasi menacé) date de 1996 et mériterait une réévaluation."
+  ],
+  "anecdote": "Au printemps, les fourmis rousses font des « bains de soleil » en surface puis redescendent dans le dôme : elles servent de bouillottes vivantes au couvain.",
+  "indices_quiz": [
+    "Fourmi qui projette de l’acide formique et bâtit des dômes d’aiguilles.",
+    "Elle élève des pucerons pour leur miellat.",
+    "Sa jeune reine peut se faire adopter par une autre espèce de fourmi."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/53853",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Formica_rufa"
+  },
+  "notions": [
+    "recrutement-fourmis",
+    "eusocialite-criteres"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Les ouvrières mesurent 4,5 à 9 mm et sont bicolores (tête et thorax roux, abdomen sombre). Elles n’ont pas d’aiguillon fonctionnel : elles **projettent de l’acide formique** depuis la glande à venin. Le dôme est fait d’aiguilles et de brindilles, et sert à **thermoréguler** le nid.",
+    "details": "Le dôme est orienté vers le soleil. Au printemps, des ouvrières se chauffent au soleil puis rentrent dans le nid et y libèrent la chaleur. La colonie peut compter plusieurs centaines de milliers d’individus. Les colonies polycaliques (plusieurs nids reliés) forment des « supercolonies » locales."
+  },
+  "comportement": {
+    "essentiel": "Le recrutement passe par des **pistes chimiques** vers les arbres porteurs de pucerons. Elle **élève les pucerons** : elle les protège des prédateurs en échange de leur miellat, un exemple de **mutualisme**.",
+    "details": "La fondation d’une nouvelle colonie est souvent **dépendante**. Une jeune reine s’introduit dans un nid de *Serviformica* (*Formica fusca*) dont elle remplace la reine : c’est un parasitisme social temporaire. Elle se fait aussi par **bourgeonnement** : la reine part avec des ouvrières. La polygynie abaisse l’apparentement entre ouvrières, ce qui touche aux conflits sur le sex-ratio.",
+    "concepts": [
+      "recrutement-fourmis",
+      "eusocialite-criteres",
+      "mutualismes",
+      "cd-communication-recrutement"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Lisières et clairières de forêts, en particulier de conifères, dans les Ardennes et en Campine. Les dômes sont protégés dans plusieurs pays.",
+    "details": "C’est un prédateur important des insectes forestiers, y compris des chenilles défoliatrices. Elle disperse des graines (myrmécochorie) et brasse le sol. Elle est liée à de nombreux commensaux myrmécophiles (coléoptères, larves de cétoines).",
+    "uicn": "NT",
+    "menaces": [
+      "Fermeture des lisières",
+      "Destruction des dômes",
+      "Fragmentation forestière",
+      "Changement climatique"
+    ]
+  },
+  "terrain": {
+    "ou": "Lisières et chemins forestiers ensoleillés (Ardennes, Campine, forêt de Soignes côté lisières).",
+    "quand": "Mars à octobre ; activité maximale au printemps et en été.",
+    "criteres": [
+      "Dôme d’aiguilles pouvant dépasser 1 m",
+      "Ouvrières bicolores rousses et noires",
+      "Odeur piquante d’acide formique si on approche la main"
+    ],
+    "sosies": [
+      {
+        "espece": "Formica polyctena",
+        "distinguer": "Quasi identique ; ouvrières moins velues (pilosité à la loupe) ; colonies très polygynes."
+      },
+      {
+        "espece": "Lasius niger (fourmi noire des jardins)",
+        "distinguer": "Petite, uniformément sombre, sans dôme d’aiguilles ; nid sous les pierres et dalles."
+      }
+    ]
+  }
+}

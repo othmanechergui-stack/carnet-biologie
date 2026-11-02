@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-22-bonobos-femelles-chasse",
+  "date": "2026-10-22",
+  "titre": "Chez les bonobos, ce sont surtout les femelles qui chassent",
+  "resume": "Dix ans d’observations de deux communautés à LuiKotale (RDC), 415 captures : là où le chasseur est identifiable, les femelles chassent dans 60 % des cas, initient les chasses et prennent trois fois plus d’ongulés que les mâles, avec ou sans petit. Les deux communautés ont des préférences de proies distinctes. Un contre-exemple au modèle de « l’homme chasseur ».",
+  "source": {
+    "nom": "Current Biology — Hohmann, Bessone et al. (MPI)",
+    "url": "https://www.ab.mpg.de/1615717/news_publication_27059159_transferred"
+  },
+  "themes": [
+    "comportement",
+    "evolution",
+    "zoologie"
+  ],
+  "grille": {
+    "modele": "animal",
+    "echantillon": "415 captures, 10 ans, 2 communautés",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible",
+    "grand_echantillon": true
+  },
+  "quiz": {
+    "question": "Chez les bonobos de LuiKotale, quelle part des chasses (chasseur identifié) revient aux femelles ?",
+    "choix": [
+      "Environ 10 %",
+      "Environ 60 %",
+      "Toutes"
+    ],
+    "bonne": 1
+  },
+  "module": "module5"
+}

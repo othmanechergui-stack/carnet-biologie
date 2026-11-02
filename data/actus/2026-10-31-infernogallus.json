@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-31-infernogallus",
+  "date": "2026-10-31",
+  "titre": "« Hell chicken » : un oviraptorosaure qui mâchait des fruits ?",
+  "resume": "Infernogallus jamesi, caenagnathidé sans dents d’environ 12 kg de la formation Hell Creek (fin du Crétacé), décrit d’après un crâne presque complet. Le CT-scan montre un palais et des muscles masticateurs permettant un mouvement de va-et-vient, comparé à celui de perroquets frugivores. Le régime frugivore est une inférence anatomique (pas de contenu stomacal).",
+  "source": {
+    "nom": "Nature Communications — Funston et al. (ROM, Stony Brook) — Phys.org",
+    "url": "https://phys.org/news/2026-10-rare-fossil-discovery-reveals-dinosaur.html"
+  },
+  "themes": [
+    "paleontologie",
+    "evolution"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "1 crâne + squelette partiel",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "moyen"
+  },
+  "quiz": {
+    "question": "Sur quoi repose l’hypothèse d’un régime frugivore chez Infernogallus ?",
+    "choix": [
+      "Des graines trouvées dans l’estomac",
+      "L’anatomie du palais et des muscles masticateurs",
+      "Des isotopes de l’émail dentaire"
+    ],
+    "bonne": 1
+  },
+  "module": "zoologie"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "niveaux-socialite",
+  "titre": "Les niveaux de socialité",
+  "module": "societes",
+  "source": "animal societies/Synthèse animal societies.docx",
+  "essentiel": "Ta synthèse distingue une gradation :\n- **grégarisme** : simple interattraction, par exemple un banc de poissons ;\n- **subsocialité** : soins parentaux aux jeunes ;\n- **communalité** : même site de reproduction, sans coopération ;\n- **quasisocialité** : site commun et soins coopératifs au couvain ;\n- **semisocialité** : en plus, une division reproductive du travail ;\n- **eusocialité** : en plus, un **chevauchement des générations**.",
+  "details": "Le grégarisme protège contre les prédateurs : plus d’yeux, effet de dilution, et transmission des alarmes. Il peut aussi aider la chasse, comme chez les cormorans.\n\nPour qu’on parle de société, ta synthèse retient trois conditions : des individus distincts, des interactions qui dépassent le seul comportement sexuel, et un certain degré de coopération.\n\nLes catégories intermédiaires viennent de la classification de Michener pour les abeilles.",
+  "question": "Une colonie de fous de Bassan, où des milliers de couples nichent côte à côte, est-elle une société eusociale ? Situe-la dans la gradation.",
+  "reponse": "Non. C’est de la **communalité** : un site de reproduction commun, sans coopération entre couples pour élever les jeunes, chaque couple s’occupant de son propre poussin. C’est aussi de la subsocialité au niveau de chaque couple, puisqu’il y a des soins parentaux. Il manque la coopération dans les soins au couvain, la division reproductive du travail (castes) et le chevauchement de générations qui coopèrent.",
+  "pieges": [
+    "Confondre densité de nidification et socialité avancée.",
+    "Oublier le critère du chevauchement des générations."
+  ],
+  "liens": [
+    "eusocialite-criteres"
+  ]
+}

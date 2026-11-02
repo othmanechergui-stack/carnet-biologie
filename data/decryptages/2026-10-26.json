@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-26",
+  "actu": "2026-10-15-cout-du-vol-oiseaux",
+  "titre": "Voler, nager, courir : le classement des coûts de transport revu en conditions naturelles",
+  "question": "Combien coûte réellement, en énergie par mètre parcouru, le vol des oiseaux et des chauves-souris en nature, quand on tient compte du vent et des ascendances ? Le classement de laboratoire (nager < voler < courir) tient-il dehors ?",
+  "methode": "850 individus de 38 espèces (oiseaux et chauves-souris, de 12 g à plus de 11 kg) équipés de GPS et d’accéléromètres pendant 17 ans, plus 4 ans de données radar pour les petits volants (12 classes de taille). Les accéléromètres distinguent le vol battu (coûteux) du vol plané ; les traces GPS sont croisées avec les conditions de vent et d’ascendances rencontrées. Le coût de transport est **estimé** à partir du temps passé à battre des ailes et des conditions atmosphériques.",
+  "resultats": "Deux groupes émergent : planeurs et rameurs. Chez les planeurs, plus on est lourd, moins on bat des ailes et moins le transport coûte. Le condor des Andes (≈ 11 kg) bat des ailes 0,1 % du temps et dépense 79 % de moins par mètre qu’un cygne trompette de même masse (99 % de vol battu). Les sept espèces de vautours ont cumulé 4,3 millions de km. Chez les rameurs, le vent est le facteur décisif (vent arrière favorable). Une fois l’atmosphère intégrée, voler peut coûter moins cher que nager.",
+  "limites": "L’énergie n’est pas mesurée directement (pas de fréquence cardiaque ni de respirométrie) mais estimée ; la physiologie individuelle n’est pas prise en compte ; les petits volants sont suivis par radar et non individuellement. Le grand planeur paie aussi un prix : il dépend fortement des conditions et ne peut pas voler n’importe quand ni n’importe où.",
+  "ce_que_ca_change": "Les coûts de locomotion mesurés en soufflerie ou en laboratoire ignorent l’environnement. En nature, le comportement (choisir quand et où voler) façonne le coût énergétique. Cela compte pour comprendre les routes migratoires, la sensibilité au changement climatique (vents, ascendances) et la conservation des grands planeurs (vautours, cigognes).",
+  "lien_cours": {
+    "module": "ethologie",
+    "notions": [
+      "tinbergen-quatre-questions",
+      "transfert-energie-lindeman"
+    ],
+    "texte": "C’est une belle illustration de l’approche **fonctionnelle** de Tinbergen (valeur adaptative d’un comportement : choisir ses conditions de vol) et du budget énergétique des organismes. Les grands planeurs, qui économisent l’énergie, rappellent aussi pourquoi l’efficacité énergétique conditionne la place d’un animal dans le réseau trophique."
+  }
+}

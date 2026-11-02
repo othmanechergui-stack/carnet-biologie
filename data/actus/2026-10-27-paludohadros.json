@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-27-paludohadros",
+  "date": "2026-10-27",
+  "titre": "Un nouvel iguanodontien anglais identifié dans les collections du NHM",
+  "resume": "Paludohadros proudlovii (≈ 125 Ma, Weald Clay) : herbivore d’environ 5 m, probablement juvénile, trouvé en 2001 près du site du Baryonyx, puis complété par d’autres spécimens dormant depuis les années 1950. Identifié grâce à une redescription de Mantellisaurus qui a clarifié les différences entre iguanodontiens.",
+  "source": {
+    "nom": "Journal of Systematic Palaeontology — Natural History Museum",
+    "url": "https://www.nhm.ac.uk/press-office/press-releases/new-uk-dinosaur-named-after-devoted-dad-and-husband.html"
+  },
+  "themes": [
+    "paleontologie",
+    "zoologie"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "plusieurs spécimens",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "Paludohadros proudlovii est apparenté à quel dinosaure célèbre ?",
+    "choix": [
+      "Tyrannosaurus",
+      "Iguanodon",
+      "Diplodocus"
+    ],
+    "bonne": 1
+  },
+  "module": "zoologie"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cd-altruisme-parentele",
+  "titre": "Altruisme et sélection de parentèle",
+  "module": "societes",
+  "source": "animal societies/Biology of Animal Societies (2017-2018).pdf",
+  "essentiel": "Un comportement **altruiste** coûte à l’acteur et profite au bénéficiaire. Il s’explique par la **fitness inclusive** : aider un apparenté transmet indirectement ses propres gènes, si **rB > C** (Hamilton). On le retrouve chez des groupes très différents, ce qui montre la généralité du principe.",
+  "details": "Le même mécanisme agit à des degrés différents. Chez les fourmis, l’altruisme va jusqu’à la stérilité. Chez les vertébrés coopératifs, il se limite à un report de reproduction. La reconnaissance de parentèle se fait par la familiarité (avoir grandi ensemble) ou par des indices phénotypiques (odeurs, cris).",
+  "question": "Pourquoi les cris d’alarme des spermophiles de Belding sont-ils un argument en faveur de la sélection de parentèle ?",
+  "reponse": "Crier attire l’attention du prédateur sur l’émetteur : c’est un **coût**. Sherman (1977) a montré que les **femelles**, qui restent près de leur lieu de naissance et sont entourées d’apparentées, crient bien plus que les mâles, qui se dispersent. Elles crient aussi davantage quand des parentes sont présentes. Le comportement est donc ajusté à la **présence d’apparentés**, comme le prédit la règle de Hamilton.",
+  "pieges": [
+    "Invoquer le « bien de l’espèce ».",
+    "Oublier les bénéfices directs possibles (sentinelle qui a déjà mangé)."
+  ],
+  "exemples": [
+    {
+      "espece": "formica-rufa",
+      "texte": "Ouvrières stériles qui élèvent les sœurs de la reine : altruisme reproductif extrême, favorisé par un apparentement élevé (eusocialité)."
+    },
+    {
+      "espece": "suricata-suricatta",
+      "texte": "Les aides (souvent frères et sœurs aînés) nourrissent et gardent les petits du couple dominant ; les sentinelles surveillent le ciel."
+    },
+    {
+      "espece": "aphelocoma-coerulescens",
+      "texte": "Les jeunes geais restent aider leurs parents quand les territoires libres manquent (contraintes écologiques + parentèle)."
+    },
+    {
+      "espece": "aegithalos-caudatus",
+      "texte": "Les adultes ayant échoué aident préférentiellement des nids d’apparentés reconnus au cri."
+    },
+    {
+      "espece": "heterocephalus-glaber",
+      "texte": "Colonies de rats-taupes nus : une reine, quelques mâles reproducteurs et des ouvriers stériles très apparentés."
+    }
+  ],
+  "liens": [
+    "regle-hamilton",
+    "contraintes-ecologiques-cooperation"
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "betula-pendula",
+  "nom": "Bouleau verruqueux",
+  "latin": "Betula pendula",
+  "type": "arbre",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "lande",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "fagales",
+  "saison": [
+    3,
+    4,
+    10
+  ],
+  "resume": "L’arbre pionnier à **écorce blanche** qui colonise friches, landes et talus. Il est léger, rapide et peu exigeant, et il prépare le terrain aux espèces de forêt mature.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Rosidées",
+      []
+    ],
+    [
+      "Ordre",
+      "Fagales",
+      [
+        "Chatons"
+      ]
+    ],
+    [
+      "Famille",
+      "Bétulacées",
+      []
+    ],
+    [
+      "Genre",
+      "Betula",
+      [
+        "Écorce à bétuline blanche"
+      ]
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Quercus robur",
+    "parents": [
+      "Betula pubescens",
+      "Alnus glutinosa"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Son écorce blanche doit sa couleur à la **bétuline**, un triterpène qui réfléchit la lumière : protection contre l’échauffement hivernal et contre les herbivores. Il est monoïque, avec des chatons, et produit des **samares** minuscules et très nombreuses, dispersées par le vent.",
+    "details": "C’est une stratégie de **pionnier** : graines légères et abondantes, croissance rapide, intolérance à l’ombre, vie courte (environ 80 à 100 ans). Il pratique les ectomycorhizes avec l’amanite tue-mouches et des bolets rudes (Leccinum)."
+  },
+  "identification": {
+    "feuille": "Triangulaire (deltoïde), doublement dentée, glabre",
+    "fleur": "Chatons mâles pendants en avril",
+    "fruit": "Samares minuscules à deux ailes, en chatons qui se désagrègent",
+    "ecorce": "Blanche, avec des losanges noirs à la base",
+    "port": "Rameaux pendants, silhouette légère",
+    "periode": "Floraison avril ; jaune doré en octobre"
+  },
+  "ecologie": {
+    "essentiel": "Friches, landes, terrils, talus de voies ferrées, forêts claires.",
+    "details": "Il joue un rôle clé dans les **successions** : il améliore le sol (litière riche) et abrite les jeunes chênes. Son pollen est très allergisant.",
+    "uicn": "LC",
+    "menaces": [
+      "Peu menacé"
+    ]
+  },
+  "usages": {
+    "essentiel": "Sa **sève** se récolte au printemps (eau de bouleau). L’écorce imperméable servait de toiture et de canots. Le **xylitol** (un édulcorant) est historiquement extrait du bois de bouleau. Son pollen est une cause majeure de rhume des foins en Belgique.",
+    "details": "Le goudron de bouleau, obtenu en chauffant l’écorce, est la plus ancienne colle connue : des Néandertaliens l’utilisaient déjà il y a plus de 200 000 ans pour emmancher leurs outils.",
+    "cueillette": "Sève : saignée modérée en mars, à refermer ensuite."
+  },
+  "facts": [
+    "Sa blancheur vient de la bétuline, qui réfléchit la lumière.",
+    "Les Néandertaliens fabriquaient déjà du goudron de bouleau comme colle.",
+    "Une seule plante peut produire des millions de graines ailées par an.",
+    "C’est l’un des principaux pollens allergisants en Belgique (avril)."
+  ],
+  "anecdote": "La plus vieille colle de l’humanité est néandertalienne : du goudron d’écorce de bouleau, pour fixer des pointes en silex.",
+  "indices_quiz": [
+    "Arbre pionnier à l’écorce blanche (bétuline).",
+    "Les Néandertaliens en faisaient de la colle.",
+    "Pollen très allergisant au printemps."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/83992",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Betula_pendula"
+  },
+  "notions": [
+    "successions-ecologiques"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Friches, landes de Campine, terrils, bords de route.",
+    "quand": "Toute l’année ; chatons en avril ; feuillage jaune en octobre.",
+    "criteres": [
+      "Écorce blanche à losanges noirs",
+      "Rameaux pendants à verrues résineuses",
+      "Feuille triangulaire doublement dentée"
+    ],
+    "sosies": [
+      {
+        "espece": "Bouleau pubescent (Betula pubescens)",
+        "distinguer": "Rameaux duveteux non pendants, feuille plus ovale ; milieux humides et tourbières."
+      }
+    ]
+  }
+}

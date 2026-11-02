@@ -1,0 +1,22 @@
+{
+  "id": "fst-nm",
+  "titre": "F_ST et nombre de migrants (Nm)",
+  "module": "module2",
+  "source": "module 2/CoursBIOL-F450_SM2(OH3)StructGenet.pdf",
+  "essentiel": "Dans le **modèle en îles** de Wright, à l’équilibre entre dérive et migration, on a **F_ST ≈ 1 / (4Nm + 1)**, où Nm est le nombre de migrants par génération. La relation est **inverse** : **F_ST faible ⇒ beaucoup de migrants** et des populations homogènes ; **F_ST élevé ⇒ peu de migrants** et des populations différenciées. On en tire Nm ≈ (1/F_ST − 1) / 4.",
+  "details": "Exemple chiffré : F_ST = 0,05 donne 1/0,05 = 20, puis 20 − 1 = 19, puis 19 / 4 = **Nm ≈ 4,75** migrants par génération. Il suffit d’environ **un migrant par génération** (Nm = 1, d’où F_ST = 0,2) pour empêcher la fixation d’allèles différents par la dérive. C’est la règle « un migrant par génération ».\n\nLimites : ce modèle suppose un nombre infini d’îles de même taille, une migration symétrique, l’équilibre atteint, des marqueurs neutres et pas de mutation importante. Ces conditions sont rarement réunies, et convertir F_ST en Nm reste donc **indicatif**.\n\nLa dérive différencie les populations (F_ST monte). La migration les homogénéise (F_ST baisse).",
+  "question": "Si F_ST = 0,05 entre deux populations, combien de migrants par génération cela représente-t-il, et que conclus-tu sur leur connectivité ?",
+  "reponse": "F_ST ≈ 1 / (4Nm + 1), donc 4Nm + 1 = 20, d’où 4Nm = 19 et **Nm ≈ 4,75 migrants par génération**. C’est un échange **important** : F_ST faible veut dire **beaucoup** de migrants, et les populations sont bien connectées et peu différenciées. Il faut garder ce chiffre comme un ordre de grandeur, car le modèle en îles repose sur des hypothèses fortes.",
+  "pieges": [
+    "**Inverser le sens** : croire qu’un F_ST faible signifie peu de migrants. C’est l’inverse.",
+    "Oublier le facteur 4 et le +1 dans la formule."
+  ],
+  "a_revoir": {
+    "erreur": "J’ai inversé le sens : un F_ST faible signifie BEAUCOUP de migrants (F_ST ≈ 1/(4Nm+1) ; F_ST = 0,05 donne Nm ≈ 4,75)."
+  },
+  "liens": [
+    "f-statistiques",
+    "flux-genes",
+    "derive-genetique"
+  ]
+}

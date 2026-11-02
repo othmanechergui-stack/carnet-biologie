@@ -1,0 +1,124 @@
+{
+  "id": "cervus-elaphus",
+  "nom": "Cerf élaphe",
+  "latin": "Cervus elaphus",
+  "groupe": "mammifere",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "cetartiodactyla",
+  "resume": "Le plus grand mammifère sauvage de Belgique. En automne, les forêts ardennaises résonnent de son **brame**, l’un des grands spectacles naturalistes du pays.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Cétartiodactyles",
+      "synapomorphies": [
+        "Astragale à double poulie"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Cervidés",
+      "synapomorphies": [
+        "Bois caducs osseux (mâles)"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Cervus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Sus scrofa",
+    "parents": [
+      "Cervus nippon",
+      "Dama dama",
+      "Capreolus capreolus"
+    ]
+  },
+  "facts": [
+    "Les bois repoussent chaque année ; leur croissance peut atteindre environ 2 cm par jour.",
+    "Le larynx du cerf descend pendant le brame pour rendre le cri plus grave.",
+    "Les mâles ne se battent souvent qu’après une marche parallèle d’évaluation.",
+    "Le brame de septembre-octobre en Ardenne se suit lors de sorties guidées."
+  ],
+  "anecdote": "En plein brame, le cerf abaisse son larynx pour sonner plus gros qu’il n’est, mais ses rivaux ne s’y trompent pas, car les formants trahissent la longueur réelle de son conduit vocal.",
+  "indices_quiz": [
+    "Ruminant dont les mâles perdent leurs bois osseux chaque année.",
+    "Son brame combine signal d’index (formants) et handicap (cadence).",
+    "Les mâles défendent un harem au rut."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/204113",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Cervus_elaphus"
+  },
+  "notions": [
+    "signal-honnete",
+    "cascade-trophique"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Le mâle pèse 150 à 250 kg, la biche 80 à 120 kg. Les **bois** sont en os : ils tombent chaque année à la fin de l’hiver et repoussent sous un velours vascularisé. C’est l’un des tissus osseux à la croissance la plus rapide connus.",
+    "details": "C’est un ruminant : sa panse abrite des micro-organismes cellulolytiques. Le **larynx** du mâle descend pendant le brame, ce qui allonge le conduit vocal. Le cri devient plus grave et paraît venir d’un animal plus gros."
+  },
+  "comportement": {
+    "essentiel": "Au rut, les mâles défendent un **harem** de biches. Ils s’évaluent d’abord par le **brame** (cadence, gravité), puis par une **marche parallèle**, et ne se battent qu’en dernier recours.",
+    "details": "Clutton-Brock et collaborateurs (île de Rum) ont montré que le **rythme** du brame reflète la condition physique (handicap) et que ses **formants** reflètent la taille (signal d’index). Les combats sont coûteux : blessures, épuisement. L’évaluation préalable par des signaux honnêtes limite l’escalade. Le succès reproducteur des mâles est très variable, comme le prédit Bateman.",
+    "concepts": [
+      "signal-honnete",
+      "bateman-selection-sexuelle",
+      "cd-signaux-honnetes"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Grands massifs forestiers d’Ardenne (Saint-Hubert, Anlier, Hertogenwald).",
+    "details": "Sans grands prédateurs depuis longtemps, ses densités élevées pèsent sur la régénération forestière. Le retour du loup en Belgique pourrait modifier cet équilibre.",
+    "uicn": "LC",
+    "menaces": [
+      "Fragmentation (routes, clôtures)",
+      "Gestion cynégétique",
+      "Collisions"
+    ]
+  },
+  "terrain": {
+    "ou": "Ardenne : Saint-Hubert, forêt d’Anlier, Hertogenwald, Croix-Scaille.",
+    "quand": "Brame de mi-septembre à mi-octobre, à l’aube et au crépuscule ; mues des bois en mars.",
+    "criteres": [
+      "Grande taille, miroir clair sur les fesses",
+      "Bois ramifiés à andouillers",
+      "Brame rauque et puissant"
+    ],
+    "sosies": [
+      {
+        "espece": "Cerf sika (Cervus nippon)",
+        "distinguer": "Plus petit, pelage tacheté en été, miroir blanc bordé de noir, cri en sifflement ; introduit."
+      },
+      {
+        "espece": "Daim (Dama dama)",
+        "distinguer": "Bois palmés, pelage souvent tacheté, queue longue noire et blanche."
+      }
+    ]
+  }
+}

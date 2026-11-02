@@ -1,0 +1,103 @@
+{
+  "id": "suricata-suricatta",
+  "nom": "Suricate",
+  "latin": "Suricata suricatta",
+  "groupe": "mammifere",
+  "milieu": [
+    "savane",
+    "desert"
+  ],
+  "belgique": false,
+  "clade": "carnivora",
+  "resume": "Petite mangouste du Kalahari célèbre pour ses **sentinelles** dressées sur leurs pattes arrière. Ses groupes sont des modèles de **reproduction coopérative**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Carnivores",
+      "synapomorphies": [
+        "Carnassières"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Herpestidés (mangoustes)",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Suricata",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Felis silvestris",
+    "parents": [
+      "Mungos mungo",
+      "Cynictis penicillata"
+    ]
+  },
+  "facts": [
+    "Les sentinelles ont généralement le ventre plein : guetter leur coûte moins qu’on ne le pense.",
+    "Les adultes enseignent progressivement aux jeunes à manipuler les scorpions.",
+    "Leurs cris d’alarme distinguent prédateurs aériens et terrestres et le degré d’urgence.",
+    "Des femelles subordonnées non gestantes allaitent les petits de la dominante."
+  ],
+  "anecdote": "Les suricates donnent des cours : ils apportent aux petits des scorpions désarmés avant de leur confier des scorpions entiers.",
+  "indices_quiz": [
+    "Petite mangouste du Kalahari aux sentinelles dressées.",
+    "Ses cris d’alarme sont référentiels.",
+    "Les adultes enseignent la manipulation des scorpions aux jeunes."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/41943",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Suricata_suricatta"
+  },
+  "notions": [
+    "regle-hamilton",
+    "skew-models"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Environ 700 g. Ses yeux sont cerclés de noir, ce qui réduit l’éblouissement. Elle est **immunisée** contre certains venins de scorpions qu’elle mange. Elle a de longues griffes de fouisseuse.",
+    "details": "Elle se réchauffe au soleil le matin, grâce à une peau ventrale sombre et peu poilue, car ses réserves énergétiques sont faibles."
+  },
+  "comportement": {
+    "essentiel": "Les groupes comptent 3 à 50 individus, avec un couple **dominant** qui monopolise environ 80 % de la reproduction. Les **aides** gardent les petits, les nourrissent, et certaines femelles subordonnées produisent même du lait sans être gestantes (allolactation).",
+    "details": "Les **sentinelles** se relaient. Elles prennent ce rôle surtout quand elles ont déjà bien mangé : c’est moins un sacrifice qu’on ne le croit (Clutton-Brock et al., 1999). Les **cris d’alarme** sont **référentiels** : ils indiquent le type de prédateur (aérien ou terrestre) et l’urgence (Manser). Les adultes **enseignent** aux jeunes à manipuler les scorpions en leur apportant des proies d’abord mortes, puis désarmées, puis intactes (Thornton & McAuliffe, 2006). C’est l’un des rares cas d’enseignement démontré chez l’animal. La reine dominante **expulse** ou tue les petits des subordonnées.",
+    "concepts": [
+      "regle-hamilton",
+      "contraintes-ecologiques-cooperation",
+      "skew-models",
+      "cd-altruisme-parentele"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Savanes sèches et semi-déserts d’Afrique australe (Kalahari).",
+    "details": "Prédatrice d’insectes, de scorpions et de petits vertébrés. Projet de recherche au long cours : le Kalahari Meerkat Project.",
+    "uicn": "LC",
+    "menaces": [
+      "Sécheresses (changement climatique)",
+      "Tuberculose"
+    ]
+  }
+}

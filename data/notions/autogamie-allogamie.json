@@ -1,0 +1,18 @@
+{
+  "id": "autogamie-allogamie",
+  "titre": "Autogamie, allogamie et dépression de consanguinité",
+  "module": "module1",
+  "source": "module 1/synthèse.docx",
+  "essentiel": "L’**allogamie** produit de la variabilité et masque les allèles délétères récessifs. L’**autogamie** assure la reproduction sans partenaire ni pollinisateur : c’est la **loi de Baker**, qui explique que les colonisateurs d’îles soient souvent autocompatibles. Elle procure aussi un **avantage de transmission** (100 % de ses allèles dans la graine). Son coût principal est la **dépression de consanguinité** : δ = (W_out − W_self) / W_out.",
+  "details": "Mécanismes anti-autofécondation :\n- **dichogamie** : protandrie ou protogynie ;\n- **hétérostylie** : primevère à fleurs longistyles et brévistyles ;\n- **auto-incompatibilité**, soit **gamétophytique** (le génotype haploïde du pollen est confronté au style), soit **sporophytique** (le génotype diploïde de la plante donneuse est confronté au style).\n\nL’autogamie répétée **purge** les allèles fortement délétères, comme les létaux. Mais elle maintient les allèles faiblement délétères. Les populations autogames sont **moins variables en interne mais plus divergentes entre elles**, car le flux de gènes y est réduit.",
+  "question": "Une population allogame de plantes produit 200 graines viables par plante en allofécondation et 120 en autofécondation forcée. Calcule la dépression de consanguinité et interprète.",
+  "reponse": "δ = (200 − 120) / 200 = **0,40**. L’autofécondation réduit la fitness de 40 %. L’autofécondation n’est favorisée que si δ < 0,5 (seuil classique de l’avantage de transmission). Ici l’avantage de transmission (×1,5) n’est donc pas complètement annulé. Mais la dépression peut être plus forte en milieu stressant, et elle s’accumule sur tout le cycle de vie. Les plantes allogames ont typiquement δ > 0,5, ce qui maintient l’allogamie.",
+  "pieges": [
+    "Inverser numérateur et dénominateur.",
+    "Croire que la dépression de consanguinité reste constante : elle peut être purgée par l’autofécondation."
+  ],
+  "liens": [
+    "hardy-weinberg",
+    "polyploidie"
+  ]
+}

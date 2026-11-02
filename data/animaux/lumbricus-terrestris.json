@@ -1,0 +1,113 @@
+{
+  "id": "lumbricus-terrestris",
+  "nom": "Lombric commun (ver de terre)",
+  "latin": "Lumbricus terrestris",
+  "groupe": "annelide",
+  "milieu": [
+    "prairie",
+    "jardin",
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "clitellata",
+  "resume": "Le grand ver de terre qui creuse des **galeries verticales** profondes et tire les feuilles mortes dans le sol. C’est un **ingénieur de l’écosystème**, auquel Darwin a consacré son dernier livre.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Annélides",
+      "synapomorphies": [
+        "Métamérie",
+        "Chètes (soies chitineuses)"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Clitellates",
+      "synapomorphies": [
+        "Clitellum",
+        "Hermaphrodisme"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Haplotaxida (Crassiclitellata)",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Lombricidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Lumbricus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Hirudo medicinalis",
+    "parents": [
+      "Lumbricus rubellus",
+      "Aporrectodea caliginosa"
+    ]
+  },
+  "facts": [
+    "Darwin lui a consacré son dernier livre (1881) et a estimé la masse de terre qu’il remonte.",
+    "Il est hermaphrodite mais doit s’accoupler avec un partenaire.",
+    "Il n’a pas de poumons : il respire par la peau humide.",
+    "Couper un ver en deux ne donne pas deux vers : seule la partie avant survit parfois."
+  ],
+  "anecdote": "Couper un ver en deux ne fait pas deux vers : c’est un mythe, et le lombric a en plus déjà inspiré à Darwin tout un livre.",
+  "indices_quiz": [
+    "Annélide clitellate qui tire les feuilles dans sa galerie verticale.",
+    "Hermaphrodite à fécondation croisée.",
+    "Sujet du dernier livre de Darwin."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/81545",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Lumbricus_terrestris"
+  },
+  "notions": [
+    "especes-cles-ingenieurs"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il mesure 15 à 30 cm et compte plus de 100 segments. Le **clitellum**, un renflement glandulaire, sécrète le cocon. Il respire par la peau, qui doit rester humide. Son système circulatoire est **fermé**, avec des « cœurs » latéraux.",
+    "details": "Il est **hermaphrodite** mais pratique la fécondation **croisée** : les partenaires échangent du sperme, tête-bêche. Ses chètes l’ancrent dans la galerie : un merle a du mal à l’arracher."
+  },
+  "comportement": {
+    "essentiel": "Il est **anécique** : il vit dans une galerie verticale permanente et remonte la nuit pour tirer feuilles et débris dans son terrier.",
+    "details": "Il s’accouple en surface, la nuit, par temps humide. Les vibrations du sol, celles de la pluie ou d’une taupe, peuvent le faire sortir. Les pêcheurs exploitent ce réflexe (« charming » de vers). La pluie le pousse aussi en surface, pour des raisons encore discutées.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Prairies, vergers, jardins, forêts sur sol riche.",
+    "details": "Ingénieur du sol : il assure **bioturbation**, aération, infiltration de l’eau et formation des agrégats par ses turricules. Il enfouit la litière et peut ingérer jusqu’à plusieurs dizaines de tonnes de terre par hectare et par an selon Darwin, chiffre variable selon les sols.",
+    "uicn": "NE",
+    "menaces": [
+      "Labour profond",
+      "Pesticides",
+      "Compaction des sols",
+      "Plathelminthes invasifs (Obama nungara)"
+    ]
+  },
+  "terrain": {
+    "ou": "Pelouses et prairies : turricules à la surface, feuilles « plantées » dans le sol.",
+    "quand": "Toute l’année ; en surface les nuits douces et humides (printemps, automne).",
+    "criteres": [
+      "Grande taille, tête rougeâtre et queue aplatie",
+      "Clitellum orangé vers le 32ᵉ-37ᵉ segment",
+      "Galeries verticales"
+    ],
+    "sosies": [
+      {
+        "espece": "Lombric rouge (Lumbricus rubellus)",
+        "distinguer": "Plus petit, vit dans la litière superficielle (épigé), uniformément rouge-violacé."
+      },
+      {
+        "espece": "Ver du compost (Eisenia fetida)",
+        "distinguer": "Rayé de bandes rouges et jaunes, odeur forte, vit dans le compost."
+      }
+    ]
+  }
+}

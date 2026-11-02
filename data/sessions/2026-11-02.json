@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-02",
+  "revision": "regle-hamilton",
+  "bonus": {
+    "titre": "Fitness inclusive : les débats de 2010",
+    "essentiel": "En 2010, Nowak, Tarnita et Wilson ont contesté dans *Nature* l’utilité de la fitness inclusive pour expliquer l’eusocialité. Plus de 130 chercheurs ont répondu (Abbot et al., 2011) que la théorie restait valide et prédictive. Le débat a surtout clarifié les conditions d’application de la règle de Hamilton.",
+    "details": "La règle de Hamilton est exacte sous une forme générale (régression, Queller 1992), mais les versions simples supposent des effets additifs et une sélection faible. Nowak et al. proposaient un modèle de génétique des populations « standard » avec un gène de « rester au nid ». Le consensus actuel : sélection de parentèle et sélection multiniveau sont deux comptabilités équivalentes du même processus ; l’apparentement reste essentiel (monogamie ancestrale, Hughes et al. 2008).",
+    "lien_notion": "haplodiploidie-trois-quarts"
+  },
+  "animal": "aegithalos-caudatus",
+  "animaux_reserve": [
+    "aphelocoma-coerulescens",
+    "hippocampus-hippocampus",
+    "eudorcas-thomsonii"
+  ],
+  "plante": "primula-vulgaris",
+  "plantes_reserve": [
+    "digitalis-purpurea",
+    "sambucus-nigra"
+  ],
+  "digest": [
+    "2026-11-01-masripithecus",
+    "2026-10-31-infernogallus",
+    "2026-10-30-crocodiles-extinction",
+    "2026-10-28-orangs-outans-feux"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "regle-hamilton"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "quercus-robur"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-30-crocodiles-extinction"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-23-retrovirus-chimpanze-organoides"
+    }
+  ]
+}

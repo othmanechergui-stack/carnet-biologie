@@ -1,0 +1,126 @@
+{
+  "id": "bufo-bufo",
+  "nom": "Crapaud commun",
+  "latin": "Bufo bufo",
+  "groupe": "amphibien",
+  "milieu": [
+    "foret",
+    "mare",
+    "jardin"
+  ],
+  "belgique": true,
+  "clade": "anura",
+  "resume": "Gros crapaud brun à peau verruqueuse, célèbre pour ses **migrations nuptiales massives** vers les mares à la fin de l’hiver. Des bénévoles l’aident alors à traverser les routes.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Amphibiens (Lissamphibiens)",
+      "synapomorphies": [
+        "Dents bicuspides pédicellées",
+        "Peau respiratoire perméable"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Anoures",
+      "synapomorphies": [
+        "Pas de queue chez l’adulte",
+        "Pattes postérieures sauteuses",
+        "Urostyle"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Bufonidés",
+      "synapomorphies": [
+        "Glandes parotoïdes",
+        "Pas de dents"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Bufo",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Rana temporaria",
+    "parents": [
+      "Bufo spinosus",
+      "Epidalea calamita"
+    ]
+  },
+  "facts": [
+    "Il revient pondre dans sa mare natale, parfois après des années et des kilomètres.",
+    "Ses pontes sont en cordons de plusieurs mètres, alors que la grenouille rousse pond en amas.",
+    "Les mâles évaluent la taille de leurs rivaux à la hauteur du cri : un cri grave indique un gros mâle.",
+    "En Belgique, des centaines de bénévoles installent chaque printemps des barrières et des seaux le long des routes."
+  ],
+  "anecdote": "Un crapaud mâle sait jauger la taille d’un rival rien qu’au cri : plus c’est grave, plus il est gros, et moins ça vaut la peine de le déloger.",
+  "indices_quiz": [
+    "Anoure à glandes parotoïdes et pontes en cordons.",
+    "Philopatrie extrême : il retourne à sa mare natale.",
+    "La fréquence de son cri est un signal honnête de sa taille."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/326296",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Bufo_bufo"
+  },
+  "notions": [
+    "signal-honnete"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "La femelle peut atteindre 12 cm, le mâle est plus petit. Il a de grosses **glandes parotoïdes** derrière les yeux, qui sécrètent des **bufadiénolides** toxiques. Ses yeux ont un iris cuivré à pupille horizontale. Sa peau est sèche et verruqueuse.",
+    "details": "Il est très **fidèle à son site de ponte** (philopatrie) : il revient souvent à la mare de sa naissance, même si celle-ci a été comblée. La ponte se fait en **longs cordons** gélatineux de 3 à 5 m enroulés autour de la végétation. Les têtards sont toxiques et souvent évités par les poissons."
+  },
+  "comportement": {
+    "essentiel": "Lors de la migration, les mâles s’accrochent au dos des femelles (**amplexus axillaire**). Des boules de mâles se forment autour d’une femelle.",
+    "details": "Taille et **fréquence du coassement** : les mâles plus gros émettent des cris plus graves. Davies & Halliday (1978) ont montré que les mâles en amplexus sont moins souvent délogés par des rivaux quand ils émettent un cri grave. La fréquence du cri est un **signal d’index** honnête de la taille.",
+    "concepts": [
+      "signal-honnete",
+      "bateman-selection-sexuelle"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Forêts, bocages et jardins. Il se reproduit dans des mares et étangs permanents, même avec des poissons.",
+    "details": "Il consomme limaces, insectes et cloportes. Ses migrations le rendent très vulnérable au trafic routier.",
+    "uicn": "LC",
+    "menaces": [
+      "Trafic routier (migrations)",
+      "Disparition des mares",
+      "Chytrides",
+      "Pesticides"
+    ]
+  },
+  "terrain": {
+    "ou": "Mares forestières et étangs ; routes près des zones humides lors des migrations.",
+    "quand": "Migrations de fin février à début avril, par nuits douces (> 7 °C) et humides.",
+    "criteres": [
+      "Peau verruqueuse brune",
+      "Iris cuivré à pupille horizontale",
+      "Démarche plutôt marchante que sautante"
+    ],
+    "sosies": [
+      {
+        "espece": "Crapaud calamite (Epidalea calamita)",
+        "distinguer": "Ligne jaune sur le dos, iris jaune-vert, court comme une souris ; zones sableuses."
+      },
+      {
+        "espece": "Grenouille rousse (Rana temporaria)",
+        "distinguer": "Peau lisse, tache temporale sombre derrière l’œil, longues pattes sauteuses."
+      }
+    ]
+  }
+}

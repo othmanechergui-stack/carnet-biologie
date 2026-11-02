@@ -1,0 +1,19 @@
+{
+  "id": "tige-dicot-monocot",
+  "titre": "Tige de dicotylédone et de monocotylédone",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 1 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Dans la tige primaire de **dicotylédone**, les faisceaux cribro-vasculaires forment un cercle : c’est l’**eustèle**. Le phloème est à l’extérieur et le xylème à l’intérieur (superposés), avec un xylème qui se différencie de façon **centrifuge**. La moelle est bien développée. Chez les **monocotylédones**, de nombreux faisceaux sont dispersés : c’est l’**atactostèle**. Ces faisceaux n’ont pas de cambium, souvent en forme de V et entourés d’une gaine de sclérenchyme.",
+  "details": "Le syllabus résume les différences entre tige et racine :\n- la tige a un cortex réduit et un cylindre central développé ;\n- elle possède un épiderme et un parenchyme chlorophyllien ;\n- elle n’a normalement pas d’endoderme marqué ;\n- son xylème et son phloème sont superposés, avec un xylème centrifuge.\n\nL’absence de cambium explique que les monocotylédones n’aient généralement pas de vraie croissance secondaire en épaisseur. Les palmiers grossissent par croissance primaire de leur base ou par un épaississement diffus.",
+  "question": "Pourquoi un palmier ne présente-t-il pas de cernes de croissance comme un chêne ?",
+  "reponse": "Le palmier est une monocotylédone. Ses faisceaux sont dispersés (atactostèle) et **dépourvus de cambium**. Il n’y a donc pas d’assise génératrice qui produise chaque année une couche de bois secondaire. Le chêne, dicotylédone, possède un **cambium** continu qui produit du bois de printemps puis d’été chaque année : ce sont les cernes.",
+  "pieges": [
+    "Dire que les monocotylédones ont un cambium inactif (il est absent).",
+    "Confondre centrifuge (tige) et centripète (racine) pour le xylème primaire."
+  ],
+  "categorie": "botanique-base",
+  "liens": [
+    "croissance-secondaire",
+    "racine-structure-primaire"
+  ]
+}

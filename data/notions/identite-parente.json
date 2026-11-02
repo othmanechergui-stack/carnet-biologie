@@ -1,0 +1,18 @@
+{
+  "id": "identite-parente",
+  "titre": "Identité par ascendance et coefficient de parenté",
+  "module": "module2",
+  "source": "module 2/Parenté.pdf",
+  "essentiel": "Deux copies d’un gène sont **identiques par état (IPE)** si on ne peut pas les distinguer. Elles sont **identiques par ascendance (IPA)** si elles descendent d’une même copie ancestrale. Le **coefficient de parenté** f_ij est la probabilité que deux copies tirées au hasard, l’une chez i et l’autre chez j, soient IPA. Le **coefficient de consanguinité** d’un individu est égal au coefficient de parenté de ses parents.",
+  "details": "Valeurs généalogiques de f_ij :\n- parent–enfant : 1/4 ;\n- frères et sœurs pleins : 1/4 ;\n- demi-frères : 1/8 ;\n- cousins germains : 1/16.\n\nNe pas confondre avec le r de Hamilton, qui vaut 2f, soit 1/2 entre parent et enfant.\n\nLe **coefficient de parenté réalisé** varie autour de l’attente généalogique, car la transmission des chromosomes est aléatoire. On l’estime avec des milliers de marqueurs répartis sur le génome, en repérant les **segments IBD**.\n\nUn individu est **autozygote** à un locus si ses deux copies sont IPA.",
+  "question": "Quel est le coefficient de consanguinité d’un enfant issu de deux cousins germains, et que signifie-t-il ?",
+  "reponse": "Il est égal au coefficient de parenté entre les deux parents cousins germains : **F = 1/16 ≈ 0,0625**. En moyenne, à un locus donné, l’enfant a 6,25 % de chances d’être **autozygote**, c’est-à-dire de porter deux copies identiques par ascendance venant de l’arrière-grand-parent commun. C’est ce qui augmente le risque d’exprimer des allèles récessifs délétères.",
+  "pieges": [
+    "Confondre le coefficient de parenté f (1/4 entre frères) avec le r d’apparentement de Hamilton (1/2 entre frères).",
+    "Confondre IPE et IPA."
+  ],
+  "liens": [
+    "regle-hamilton",
+    "autogamie-allogamie"
+  ]
+}

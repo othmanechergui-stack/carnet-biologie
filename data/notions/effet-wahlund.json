@@ -1,0 +1,18 @@
+{
+  "id": "effet-wahlund",
+  "titre": "Effet Wahlund",
+  "module": "module2",
+  "source": "module 2/Résumé module 2.docx",
+  "essentiel": "L’**effet Wahlund** est le **déficit en hétérozygotes** qui apparaît quand on regroupe dans un même échantillon des individus de populations **différenciées**, chacune pourtant panmictique. Il s’explique parce que la moyenne des 2pᵢqᵢ est inférieure à 2p̄q̄ calculé sur les fréquences moyennes. L’ampleur du déficit correspond au **F_ST** entre les populations mélangées.",
+  "details": "Le déficit est égal à **2 × variance(p)** entre sous-populations.\n\nPiège de terrain : un F_IS positif dans un échantillon peut venir d’une **structuration cryptique**, comme des sous-populations non identifiées ou des cohortes d’âges différents, et non de consanguinité. On s’en aperçoit si le déficit disparaît quand on analyse séparément des sous-groupes définis par des méthodes de clustering comme STRUCTURE.\n\nSi les populations mélangées se croisent ensuite librement, une seule génération de panmixie suffit à rétablir les proportions de Hardy-Weinberg.",
+  "question": "Tu échantillonnes des truites dans une rivière et trouves F_IS = 0,15 sur tous les loci. Quelles deux hypothèses opposer, et comment les départager ?",
+  "reponse": "1) La **consanguinité** réelle au sein d’une population.\n2) Un **effet Wahlund** : l’échantillon mélange plusieurs populations différenciées, par exemple des truites sauvages et des truites d’élevage, ou deux populations d’affluents.\n\nPour départager : on recherche une **structure cachée**. On utilise un clustering bayésien (STRUCTURE) ou on analyse séparément les sous-groupes (sites, phénotypes). Si le F_IS tombe vers 0 au sein de chaque groupe, c’était un effet Wahlund. On peut aussi examiner le déséquilibre de liaison, qui est également créé par un mélange.",
+  "pieges": [
+    "Interpréter tout F_IS positif comme de la consanguinité.",
+    "Croire que l’effet Wahlund persiste après une génération de croisements aléatoires."
+  ],
+  "liens": [
+    "f-statistiques",
+    "hardy-weinberg"
+  ]
+}

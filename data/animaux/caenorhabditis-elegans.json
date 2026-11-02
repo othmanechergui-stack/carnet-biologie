@@ -1,0 +1,87 @@
+{
+  "id": "caenorhabditis-elegans",
+  "nom": "Caenorhabditis elegans",
+  "latin": "Caenorhabditis elegans",
+  "groupe": "nematode",
+  "milieu": [
+    "sol"
+  ],
+  "belgique": false,
+  "clade": "nematoda",
+  "resume": "Ver rond transparent de 1 mm, vivant dans les fruits pourrissants. C’est l’un des **organismes modèles** les plus importants de la biologie : premier animal au génome séquencé (1998) et au lignage cellulaire entièrement connu.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Nématodes",
+      "synapomorphies": [
+        "Amphides",
+        "Cuticule à mues",
+        "Muscles longitudinaux seuls"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Chromadorea",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Rhabditida",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Rhabditidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Caenorhabditis",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Drosophila melanogaster",
+    "parents": [
+      "Caenorhabditis briggsae",
+      "Pristionchus pacificus"
+    ]
+  },
+  "facts": [
+    "L’hermaphrodite adulte a exactement 959 cellules somatiques.",
+    "C’est le premier animal dont le génome complet a été séquencé (1998).",
+    "Il a valu plusieurs prix Nobel, dont celui de 2024 pour la découverte des microARN.",
+    "Son système nerveux de 302 neurones est entièrement cartographié."
+  ],
+  "anecdote": "Un petit ver de 1 mm a rapporté au moins quatre prix Nobel, dont celui de 2024 pour les microARN.",
+  "indices_quiz": [
+    "Nématode modèle à 959 cellules somatiques.",
+    "Premier animal au génome séquencé.",
+    "Il a mené à la découverte des microARN et de l’ARN interférent."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/372486",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Caenorhabditis_elegans"
+  },
+  "notions": [
+    "ecdysozoaires-mue"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "L’hermaphrodite adulte compte exactement **959 cellules somatiques**, dont 302 neurones. Il est **eutélique** et transparent : on peut suivre chaque division sous le microscope. Il passe par 4 stades larvaires séparés par des **mues** (Ecdysozoaire).",
+    "details": "Ses deux sexes sont un **hermaphrodite** autofécondant (XX) et un **mâle** rare (X0). Son connectome complet (toutes les synapses) a été cartographié en 1986. Il a permis des découvertes majeures : l’apoptose (Nobel 2002), l’**interférence ARN** (Nobel 2006), la GFP comme marqueur (Nobel 2008) et les microARN (Nobel 2024)."
+  },
+  "comportement": {
+    "essentiel": "Il se déplace par ondulations, s’oriente par **chimiotaxie** vers les bactéries et évite les odeurs nocives.",
+    "details": "Il fait de l’apprentissage associatif simple (odeur associée à la faim). En cas de stress, il forme une **larve dauer** résistante qui se disperse par phorésie, en s’accrochant à d’autres animaux.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Fruits et végétaux en décomposition, compost. Cosmopolite, mais surtout étudié au laboratoire.",
+    "details": "Bactérivore.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  }
+}

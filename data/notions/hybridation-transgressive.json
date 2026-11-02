@@ -1,0 +1,19 @@
+{
+  "id": "hybridation-transgressive",
+  "titre": "Hybridation, introgression et ségrégation transgressive",
+  "module": "module1",
+  "source": "module 1/synthèse.docx",
+  "essentiel": "L’**hybridation** (contact secondaire entre espèces proches) peut avoir plusieurs issues :\n- un **renforcement**, si les hybrides sont peu fertiles ;\n- une **introgression adaptative**, quand des gènes passent d’une espèce à l’autre par rétrocroisements ;\n- une **spéciation homoploïde**, si des hybrides fertiles occupent une nouvelle niche.\n\nLa **ségrégation transgressive** produit chez les hybrides des phénotypes **plus extrêmes** que chez les deux parents, par recombinaison d’allèles complémentaires.",
+  "details": "Exemple de spéciation homoploïde : les tournesols *Helianthus anomalus*, *H. deserticola* et *H. paradoxus*. Ils sont issus de *H. annuus* × *H. petiolaris* et colonisent des habitats extrêmes (dunes, marais salés) grâce à des caractères transgressifs (Rieseberg).\n\nExemples d’introgression adaptative :\n- les gènes de coloration hivernale chez les lièvres ;\n- la résistance aux rodenticides chez la souris *Mus musculus* par introgression depuis *M. spretus* ;\n- chez l’humain, l’allèle *EPAS1* d’adaptation à l’altitude, venu des Dénisoviens.\n\nDans les invasions, l’hybridation peut apporter de la diversité « prête à l’emploi » (module 4).",
+  "question": "Comment des hybrides peuvent-ils coloniser un habitat où aucun des deux parents ne survit ?",
+  "reponse": "Par **ségrégation transgressive**. Chaque parent porte des allèles « plus » à certains loci et « moins » à d’autres. Dans les générations F2 et suivantes, la recombinaison peut réunir chez un même individu **tous les allèles plus** ou tous les moins, ce qui produit des phénotypes extrêmes au-delà de l’amplitude parentale (tolérance au sel, à la sécheresse). Ces génotypes peuvent occuper des niches nouvelles, s’isoler écologiquement des parents et donner une nouvelle espèce homoploïde.",
+  "pieges": [
+    "Croire que l’hybridation est toujours un cul-de-sac évolutif.",
+    "Confondre spéciation homoploïde (même ploïdie) et allopolyploïde."
+  ],
+  "liens": [
+    "renforcement-wallace",
+    "polyploidie",
+    "hybridation-invasions"
+  ]
+}

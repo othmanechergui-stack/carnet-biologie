@@ -1,0 +1,18 @@
+{
+  "id": "normalisation-rnaseq",
+  "titre": "Normalisation des comptages RNA-seq",
+  "module": "transcriptomique",
+  "source": "Transcriptomic/L05.pdf",
+  "essentiel": "Les comptages bruts dépendent de deux biais : la **profondeur de séquençage** de chaque échantillon et la **longueur** des gènes (un gène long capte plus de lectures). Pour comparer **entre gènes** au sein d’un échantillon, on corrige la longueur : RPKM/FPKM ou **TPM**. Pour comparer **entre échantillons**, on utilise des facteurs de taille robustes : **TMM** (edgeR) ou la **médiane des ratios** (DESeq2).",
+  "details": "- **CPM** : comptages par million de lectures, une correction de profondeur seulement.\n- **RPKM/FPKM** : lectures (ou fragments) par kilobase et par million. On divise d’abord par la profondeur, puis par la longueur.\n- **TPM** : on divise d’abord par la longueur, puis on ramène à un total de 10⁶. La **somme des TPM est la même dans chaque échantillon**, ce qui rend les proportions comparables.\n\nPiège de la **composition** : si quelques gènes très exprimés changent fortement, ils « volent » des lectures aux autres. Ceux-ci semblent alors diminuer en CPM. TMM et la médiane des ratios supposent que **la plupart des gènes ne changent pas** et corrigent ce biais.\n\nEn TP (P05), tu as utilisé **edgeR**.",
+  "question": "Pourquoi le TPM est-il préféré au RPKM pour comparer la proportion d’un transcrit entre deux échantillons ?",
+  "reponse": "Avec le RPKM, la **somme** des valeurs diffère d’un échantillon à l’autre, parce que la normalisation par la profondeur est faite avant la correction de longueur. On ne compare donc pas des proportions sur une même échelle. Avec le TPM, on corrige d’abord la longueur, puis on ramène le total à **10⁶ dans chaque échantillon**. Un TPM représente donc une **fraction relative des transcrits**, directement comparable. Pour l’expression différentielle, on préfère quand même les comptages bruts avec les facteurs TMM ou DESeq2 dans un modèle statistique.",
+  "pieges": [
+    "Utiliser des TPM/RPKM directement pour un test d’expression différentielle (on modélise les comptages bruts).",
+    "Oublier le biais de composition."
+  ],
+  "liens": [
+    "expression-differentielle",
+    "rnaseq-principe"
+  ]
+}

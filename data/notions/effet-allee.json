@@ -1,0 +1,25 @@
+{
+  "id": "effet-allee",
+  "titre": "Effet Allee",
+  "module": "module4",
+  "source": "module 4/Résumé module 4.docx",
+  "essentiel": "L’**effet Allee** est une **corrélation positive entre la taille ou la densité d’une population et son taux de croissance par individu** à faible densité. Les petites populations croissent moins bien, voire déclinent. Ses causes : la difficulté à **trouver un partenaire**, la **perte des bénéfices de la coopération** (défense, chasse, thermorégulation), la stochasticité démographique et la consanguinité. Dans les invasions, il agit comme un **filtre**.",
+  "details": "Ce n’est **pas** une baisse de compétition. À faible densité, la compétition diminue bel et bien, ce qui devrait favoriser la croissance (densité-dépendance négative classique). L’effet Allee est le phénomène **inverse** : la croissance chute quand la densité est faible.\n\nDans les **invasions**, l’effet Allee élimine de nombreuses introductions de petite taille. Il agit comme un **filtre** qui retient les espèces ou les populations les mieux armées pour l’éviter : forte pression de propagules, autofécondation ou apomixie, parthénogenèse.\n\n**Eusocialité** : chez les fourmis, une seule **reine fondatrice** fécondée, qui a stocké du sperme, peut fonder une colonie entière. Elle n’a pas besoin de trouver un partenaire dans la nouvelle aire. Certaines fourmis envahissantes sont en plus polygynes et se dispersent par bourgeonnement. Elles **échappent** ainsi à l’effet Allee, ce qui explique en partie leur succès d’envahisseurs.\n\nL’hybridation peut aussi diminuer l’effet Allee (cours invasions 4).",
+  "question": "Pourquoi l’effet Allee peut-il expliquer que les fourmis eusociales soient parmi les envahisseurs les plus redoutables ?",
+  "reponse": "L’effet Allee pénalise les populations introduites en très petit nombre : pas de partenaire, pas de coopération. Une **reine de fourmi fécondée** transporte déjà dans sa spermathèque le sperme nécessaire à toute sa vie. Une **seule reine** peut donc fonder une colonie sans chercher de partenaire dans la nouvelle aire. Puis la colonie fournit rapidement la **coopération** (ouvrières) qui manque aux petites populations d’espèces solitaires. L’eusocialité permet donc d’**échapper au filtre** de l’effet Allee. Ce filtre élimine beaucoup d’autres introductions et ne laisse passer que les « meilleurs envahisseurs ».",
+  "pieges": [
+    "**Confondre l’effet Allee avec une baisse de compétition** à faible densité : c’est l’inverse, la croissance par tête diminue quand la densité baisse.",
+    "Oublier que l’effet Allee agit comme un filtre de sélection des envahisseurs."
+  ],
+  "a_revoir": {
+    "erreur": "Je l’ai confondu avec une baisse de compétition. La bonne idée : la croissance par tête CHUTE à faible densité ; l’eusocialité (une reine fondatrice suffit) permet d’y échapper, et l’effet Allee filtre les meilleurs envahisseurs."
+  },
+  "liens": [
+    "etapes-invasion",
+    "eusocialite-criteres",
+    "regle-dix-pourcent"
+  ],
+  "especes": [
+    "linepithema-humile"
+  ]
+}

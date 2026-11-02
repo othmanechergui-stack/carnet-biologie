@@ -1,0 +1,17 @@
+{
+  "id": "bruches-ponte",
+  "titre": "Choix de ponte chez la bruche du niébé (TP)",
+  "module": "ethologie",
+  "source": "comportement animal/Tp/Rapport bruches.docx",
+  "essentiel": "*Callosobruchus maculatus* (Chrysomelidae, Bruchinae) pond ses œufs collés sur les graines de légumineuses. La larve vit et se développe entièrement dans une seule graine. La ressource est donc **limitée et indivisible** : plusieurs larves dans une même graine entrent en compétition. Les femelles **répartissent leurs œufs uniformément** entre les graines et évitent celles qui portent déjà des œufs.",
+  "details": "Cette distribution uniforme, plus régulière qu’un dépôt au hasard (Poisson), réduit la compétition entre larves. La femelle détecte les graines déjà pondues grâce à des **phéromones de marquage** déposées avec l’œuf et par contact, via les soies sensorielles des palpes et des tarses.\n\nTon rapport décrit le cycle : l’œuf est collé sur la graine, la larve éclot vers 6 jours, se développe environ 20 jours dans la graine, puis l’adulte sort en laissant un **trou d’émergence**.\n\nLe TP testait aussi le comportement des mâles en présence de femelles. Hypothèse : les mâles multiplient les contacts pour copuler.\n\nCe comportement est un bon exemple de **choix de site de ponte adaptatif**, en lien avec la théorie « mère sait mieux » (*preference–performance hypothesis*).",
+  "question": "Pourquoi une femelle bruche a-t-elle intérêt à éviter de pondre sur une graine qui porte déjà un œuf, et comment le sait-elle ?",
+  "reponse": "Une graine ne peut nourrir qu’un nombre limité de larves. Un deuxième œuf entraîne une **compétition larvaire** qui réduit la survie ou la taille adulte, donc la fitness des descendants. Pondre sur une graine libre maximise le succès de chaque œuf. La femelle détecte les graines occupées par contact (soies sensorielles) et grâce à une **phéromone de marquage** laissée lors de la ponte. Quand toutes les graines sont occupées, elle accepte des graines à un œuf : la distribution reste uniforme.",
+  "pieges": [
+    "Supposer que les femelles pondent au hasard parce que la répartition « semble » aléatoire : il faut la comparer à une loi de Poisson.",
+    "Oublier que la larve ne peut pas changer de graine."
+  ],
+  "liens": [
+    "signal-indice"
+  ]
+}

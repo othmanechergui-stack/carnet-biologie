@@ -1,0 +1,153 @@
+{
+  "id": "anemone-nemorosa",
+  "nom": "Anémone des bois",
+  "latin": "Anemone nemorosa",
+  "type": "fleur",
+  "regne": "plante",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "ranunculales",
+  "saison": [
+    3,
+    4
+  ],
+  "resume": "Tapis de fleurs blanches qui couvre les sous-bois au début du printemps, avant que les arbres ne fassent de l’ombre. C’est une **géophyte vernale**, indicatrice de **forêts anciennes**.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Ordre",
+      "Renonculales",
+      [
+        "Eudicots archaïques"
+      ]
+    ],
+    [
+      "Famille",
+      "Renonculacées",
+      [
+        "Pièces florales libres, nombreuses"
+      ]
+    ],
+    [
+      "Genre",
+      "Anemonoides (ex-Anemone)",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Primula vulgaris",
+    "parents": [
+      "Anemonoides ranunculoides",
+      "Ficaria verna"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "La fleur a un **périanthe** de 6 à 8 **tépales** blancs, souvent rosés au revers, de nombreuses étamines et de nombreux carpelles **libres** (gynécée apocarpe). Ce sont des caractères **archaïques** typiques des Renonculales. La plante a des feuilles à 3 segments et un rhizome horizontal.",
+    "details": "Sa stratégie est **vernale** : elle croît et fleurit en mars-avril, quand la lumière atteint le sol avant la feuillaison, puis ses parties aériennes disparaissent en juin. Elle s’étend très lentement par rhizome (environ 1 à 2 m par siècle), ce qui en fait un **indicateur de forêt ancienne**. Le nom accepté sur iNaturalist est *Anemonoides nemorosa*."
+  },
+  "identification": {
+    "feuille": "3 feuilles en verticille sous la fleur, découpées en 3 segments dentés",
+    "fleur": "Solitaire, 6–8 tépales blancs (revers rosé)",
+    "fruit": "Akènes en tête",
+    "ecorce": "—",
+    "port": "Herbacée basse (10–25 cm) en tapis",
+    "periode": "Mars-avril"
+  },
+  "ecologie": {
+    "essentiel": "Chênaies et hêtraies anciennes, sur sols frais.",
+    "details": "Elle offre du pollen précoce aux abeilles solitaires et aux syrphes.",
+    "uicn": "LC",
+    "menaces": [
+      "Défrichements",
+      "Fragmentation des forêts anciennes"
+    ]
+  },
+  "usages": {
+    "essentiel": "**Toxique** : elle contient de la protoanémonine, irritante et vésicante, comme beaucoup de Renonculacées.",
+    "details": "Plante à admirer : ne pas cueillir.",
+    "confusions_dangereuses": [
+      "Toxique (protoanémonine) : ne pas consommer"
+    ]
+  },
+  "facts": [
+    "Elle colonise si lentement qu’elle sert d’indicateur de forêt ancienne.",
+    "Elle fleurit et fait ses réserves avant que les arbres ne fassent de l’ombre.",
+    "Ses fleurs se ferment par mauvais temps et la nuit.",
+    "Elle a des carpelles libres, un caractère archaïque des Renonculales."
+  ],
+  "anecdote": "Un tapis d’anémones des bois, c’est souvent la signature d’une forêt plusieurs fois centenaire : elle avance d’environ un ou deux mètres par siècle.",
+  "indices_quiz": [
+    "Renonculacée vernale à tépales blancs.",
+    "Indicatrice de forêt ancienne.",
+    "Toxique (protoanémonine)."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/950603",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Anemone_nemorosa"
+  },
+  "notions": [
+    "eudicots-monocots"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Sous-bois de chênaies et hêtraies (Hallerbos, Soignes, Ardenne).",
+    "quand": "Mars-avril.",
+    "criteres": [
+      "Fleur blanche solitaire à revers rosé",
+      "Verticille de 3 feuilles découpées",
+      "Tapis denses"
+    ],
+    "sosies": [
+      {
+        "espece": "Anémone fausse-renoncule (A. ranunculoides)",
+        "distinguer": "Fleurs jaunes."
+      },
+      {
+        "espece": "Oxalis petite-oseille",
+        "distinguer": "Feuilles en trèfle, fleurs blanches veinées de mauve, 5 pétales."
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "latimeria-chalumnae",
+  "nom": "Cœlacanthe",
+  "latin": "Latimeria chalumnae",
+  "groupe": "poisson",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": false,
+  "clade": "actinistia",
+  "resume": "Poisson à **nageoires charnues** que l’on croyait éteint depuis 66 millions d’années, redécouvert en 1938 en Afrique du Sud. C’est un sarcoptérygien, plus proche de nous que d’une truite.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Sarcoptérygiens",
+      "synapomorphies": [
+        "Nageoires paires charnues à un seul os basal"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Cœlacanthiformes (Actinistiens)",
+      "synapomorphies": [
+        "Nageoire caudale à lobe médian"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Latimériidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Latimeria",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Salmo trutta",
+    "parents": [
+      "Latimeria menadoensis",
+      "Neoceratodus forsteri"
+    ]
+  },
+  "facts": [
+    "On le croyait éteint depuis la fin du Crétacé avant sa découverte en 1938.",
+    "Il peut vivre environ un siècle et n’est mature que vers 55 ans.",
+    "Ton cours rappelle que « fossile vivant » est un terme trompeur : il a continué d’évoluer.",
+    "Il est plus proche des tétrapodes que des poissons à nageoires rayonnées."
+  ],
+  "anecdote": "Un cœlacanthe est plus proche de toi que d’un saumon : ses nageoires charnues sont construites comme le haut de tes bras.",
+  "indices_quiz": [
+    "Sarcoptérygien à nageoires charnues redécouvert en 1938.",
+    "Il vit environ un siècle et n’est mature qu’à 55 ans.",
+    "Il se tient parfois la tête en bas."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/104109",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Latimeria_chalumnae"
+  },
+  "notions": [
+    "classification-ecoles"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il mesure jusqu’à environ 2 m. Ses nageoires paires charnues bougent en alternance, comme des membres de tétrapode. Il possède un **organe rostral** électrorécepteur et une articulation intracrânienne unique.",
+    "details": "Il est **ovovivipare** : les petits naissent formés après une gestation très longue. Il vit très longtemps (environ 100 ans selon Mahé et al., 2021) et ne devient mature que vers 55 ans. Son poumon est vestigial et rempli de graisse."
+  },
+  "comportement": {
+    "essentiel": "Il passe la journée dans des grottes sous-marines, en groupes, à 150-250 m de profondeur, puis chasse la nuit en dérivant.",
+    "details": "Il pratique des « poiriers » : il se tient la tête en bas, peut-être pour sonder le fond avec son organe rostral.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Canal du Mozambique et Comores, et côte d’Afrique de l’Est. Une seconde espèce vit en Indonésie (*L. menadoensis*, 1997).",
+    "details": "Les populations sont très petites et menacées par les captures accidentelles en eaux profondes.",
+    "uicn": "CR",
+    "menaces": [
+      "Prises accessoires",
+      "Pêche profonde"
+    ]
+  }
+}

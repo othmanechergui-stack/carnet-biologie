@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-31",
+  "revision": "neotenie-humaine",
+  "bonus": {
+    "titre": "Domestication et néoténie : le syndrome de domestication",
+    "essentiel": "Les animaux domestiques partagent des traits juvéniles : oreilles tombantes, museau court, taches blanches, comportement juvénile prolongé. L’hypothèse des **crêtes neurales** (Wilkins et al., 2014) relie ce « syndrome » à une réduction de la migration ou du nombre de cellules de crête neurale.",
+    "details": "Sélectionner la docilité (moins de peur, glandes surrénales issues en partie de la crête neurale) aurait entraîné par effet pléiotrope des changements de pigmentation (mélanocytes), de cartilage (oreilles) et de face. Expérience de Belyaev sur les renards argentés (depuis 1959). L’hypothèse est discutée : l’expérience de Belyaev a utilisé des renards déjà issus d’élevages de fourrure. Certains proposent une « auto-domestication » humaine.",
+    "lien_notion": "cretes-neurales-craniates"
+  },
+  "animal": "pan-troglodytes",
+  "animaux_reserve": [
+    "suricata-suricatta",
+    "orcinus-orca",
+    "erinaceus-europaeus"
+  ],
+  "plante": "triticum-aestivum",
+  "plantes_reserve": [
+    "solanum-tuberosum",
+    "brassica-oleracea"
+  ],
+  "digest": [
+    "2026-10-31-infernogallus",
+    "2026-10-30-crocodiles-extinction",
+    "2026-10-28-salamandre-fluorescence"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "neotenie-humaine"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "pan-troglodytes"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-28-salamandre-fluorescence"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-23-retrovirus-chimpanze-organoides"
+    }
+  ]
+}

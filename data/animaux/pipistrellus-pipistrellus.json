@@ -1,0 +1,124 @@
+{
+  "id": "pipistrellus-pipistrellus",
+  "nom": "Pipistrelle commune",
+  "latin": "Pipistrellus pipistrellus",
+  "groupe": "mammifere",
+  "milieu": [
+    "urbain",
+    "jardin",
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "chiroptera",
+  "resume": "La plus commune des **chauves-souris** de Belgique, qui pèse 4 à 8 g, à peine plus qu’une pièce de 2 euros. Elle chasse les moustiques au crépuscule grâce à l’**écholocation**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Chiroptères",
+      "synapomorphies": [
+        "Patagium",
+        "Vol battu"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Vespertilionidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Pipistrellus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Erinaceus europaeus",
+    "parents": [
+      "Pipistrellus pygmaeus",
+      "Pipistrellus nathusii"
+    ]
+  },
+  "facts": [
+    "Elle pèse environ 5 g et peut manger plusieurs centaines de moucherons par heure de chasse.",
+    "Sa jumelle cryptique, la pipistrelle pygmée, n’est distinguée que depuis les années 1990, grâce aux fréquences d’écholocation.",
+    "Une femelle n’a généralement qu’un seul petit par an.",
+    "On peut l’« écouter » avec un détecteur d’ultrasons qui ramène ses cris dans l’audible."
+  ],
+  "anecdote": "Il a fallu un détecteur d’ultrasons pour découvrir que la pipistrelle « commune » était en fait deux espèces qui ne chantent pas sur la même fréquence.",
+  "indices_quiz": [
+    "Plus petite chauve-souris commune, qui écholoque vers 45 kHz.",
+    "Elle a une espèce jumelle cryptique distinguée par la fréquence de ses cris.",
+    "Une femelle n’a qu’un petit par an."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/40364",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Pipistrellus_pipistrellus"
+  },
+  "notions": [
+    "concepts-espece"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Envergure d’environ 20 cm. Le **patagium**, une membrane de peau, est tendu entre les doigts très allongés. Elle émet des cris d’écholocation **modulés en fréquence**, d’énergie maximale autour de **45 kHz**, inaudibles pour nous.",
+    "details": "La pipistrelle pygmée, très semblable, ne se distingue d’elle qu’à la fréquence d’écholocation (environ 55 kHz) et par la génétique. C’est un bel exemple d’**espèces cryptiques**, reconnues dans les années 1990. En hiver, elle hiberne par torpeur dans des bâtiments."
+  },
+  "comportement": {
+    "essentiel": "Les femelles forment des **colonies de mise bas** dans les bâtiments (combles, volets). Elles n’ont qu’un petit par an.",
+    "details": "Les cris sociaux et les cris d’écholocation servent aussi d’**indices** aux congénères pour repérer les zones de chasse. On observe aussi l’**interférence** : des cris qui brouillent ceux d’un rival en chasse.",
+    "concepts": [
+      "signal-indice",
+      "concepts-espece"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Villes, villages, parcs, lisières.",
+    "details": "Elle consomme des milliers de petits insectes par nuit (moucherons, moustiques). Elle est protégée par la loi en Belgique, comme toutes les chauves-souris.",
+    "uicn": "LC",
+    "menaces": [
+      "Rénovations de bâtiments",
+      "Pollution lumineuse",
+      "Éoliennes",
+      "Chats",
+      "Déclin des insectes"
+    ]
+  },
+  "terrain": {
+    "ou": "Rues éclairées, jardins, parcs, au-dessus des étangs ; à la tombée de la nuit.",
+    "quand": "Avril à octobre ; parfois active par douce soirée d’hiver.",
+    "criteres": [
+      "Vol rapide et saccadé à hauteur de toit",
+      "Très petite taille",
+      "Détecteur : pic vers 45 kHz"
+    ],
+    "sosies": [
+      {
+        "espece": "Pipistrelle pygmée (P. pygmaeus)",
+        "distinguer": "Pic d’écholocation vers 55 kHz ; plus liée aux zones humides."
+      },
+      {
+        "espece": "Pipistrelle de Nathusius",
+        "distinguer": "Pic vers 39 kHz, migratrice, passage en automne."
+      }
+    ]
+  }
+}

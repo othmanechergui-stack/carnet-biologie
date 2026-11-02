@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-15-cout-du-vol-oiseaux",
+  "date": "2026-10-15",
+  "titre": "Avec le vent et les ascendances, voler peut coûter moins que nager",
+  "resume": "850 oiseaux et chauves-souris de 38 espèces suivis 17 ans par GPS et accéléromètres (+ radar) : en intégrant le vent et les ascendances, le coût de transport en vol chute. Le condor des Andes bat des ailes 0,1 % du temps et dépense 79 % de moins par mètre qu’un cygne trompette de même masse. Le classement de manuel « nager < voler < courir » est remis en cause ; l’énergie est estimée, pas mesurée directement.",
+  "source": {
+    "nom": "Science — Scacco et al. (MPI Animal Behavior)",
+    "url": "https://www.ab.mpg.de/1581665/news_publication_27019921_transferred"
+  },
+  "themes": [
+    "zoologie",
+    "comportement",
+    "ecologie"
+  ],
+  "grille": {
+    "modele": "animal",
+    "echantillon": "850 individus, 38 espèces, 17 ans",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible",
+    "grand_echantillon": true
+  },
+  "quiz": {
+    "question": "Combien de temps de vol le condor des Andes passe-t-il à battre des ailes ?",
+    "choix": [
+      "Environ 0,1 %",
+      "Environ 25 %",
+      "Environ 99 %"
+    ],
+    "bonne": 0
+  },
+  "module": "ethologie"
+}

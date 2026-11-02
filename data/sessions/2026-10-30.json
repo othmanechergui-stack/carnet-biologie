@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-30",
+  "revision": "effet-allee",
+  "bonus": {
+    "titre": "Effet Allee et conservation : le cas des petites populations de grands prédateurs",
+    "essentiel": "L’effet Allee n’est pas qu’un filtre pour les envahisseurs : il menace aussi les espèces rares. Chez les lycaons, une meute trop petite ne peut à la fois chasser et garder les petits : en dessous d’un seuil, la reproduction s’effondre.",
+    "details": "On distingue l’effet Allee **composant** (une composante de la fitness, comme trouver un partenaire, baisse à faible densité) de l’effet Allee **démographique** (le taux de croissance global chute). Un effet fort crée un seuil sous lequel la population décline vers l’extinction. En gestion, cela justifie de réintroduire des groupes suffisamment grands (castors, lynx) plutôt que quelques individus isolés.",
+    "lien_notion": "vortex-extinction"
+  },
+  "animal": "formica-rufa",
+  "animaux_reserve": [
+    "linepithema-humile",
+    "apis-mellifera",
+    "heterocephalus-glaber"
+  ],
+  "plante": "reynoutria-japonica",
+  "plantes_reserve": [
+    "heracleum-sphondylium",
+    "taraxacum-officinale"
+  ],
+  "digest": [
+    "2026-10-30-crocodiles-extinction",
+    "2026-10-30-bois-de-tension-proprioception",
+    "2026-10-28-orangs-outans-feux"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "effet-allee"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "apis-mellifera"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-27-paludohadros"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-23-retrovirus-chimpanze-organoides"
+    }
+  ]
+}

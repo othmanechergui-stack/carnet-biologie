@@ -1,0 +1,110 @@
+{
+  "id": "asterias-rubens",
+  "nom": "Étoile de mer commune",
+  "latin": "Asterias rubens",
+  "groupe": "echinoderme",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "echinodermata",
+  "resume": "L’étoile de mer orange de la mer du Nord, prédatrice redoutable des **moules**. Elle est plus proche de nous que d’une méduse : c’est un **deutérostomien**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Échinodermes",
+      "synapomorphies": [
+        "Ossicules de calcite",
+        "Système ambulacraire"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Astérides",
+      "synapomorphies": [
+        "Bras non nettement séparés du disque"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Forcipulatides",
+      "synapomorphies": [
+        "Pédicellaires en pince"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Astériidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Asterias",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Strongylocentrotus",
+    "parents": [
+      "Asterias forbesi",
+      "Marthasterias glacialis"
+    ]
+  },
+  "facts": [
+    "Elle digère ses proies hors de son corps en sortant son estomac.",
+    "Elle a un petit œil au bout de chaque bras.",
+    "Sa larve est bilatérale : la symétrie à 5 est acquise secondairement.",
+    "Elle n’a pas de sang ; son système ambulacraire fonctionne à l’eau de mer."
+  ],
+  "anecdote": "Une étoile de mer n’ouvre pas complètement la moule : elle crée une fente plus fine qu’un millimètre et y glisse son estomac.",
+  "indices_quiz": [
+    "Échinoderme à symétrie pentaradiée mais à larve bilatérale.",
+    "Elle sort son estomac pour digérer une moule dans sa coquille.",
+    "Un petit œil au bout de chaque bras."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/120138",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Asterias_rubens"
+  },
+  "notions": [
+    "protostomiens-deuterostomiens"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Cinq bras, jusqu’à 30 cm de diamètre, de couleur orange à violacée. Sous chaque bras courent des rangées de **pieds ambulacraires** à ventouse, mis en mouvement par la pression hydraulique du système aquifère, dont l’entrée est la **plaque madréporique**.",
+    "details": "Elle n’a ni cerveau ni sang : son système nerveux est en anneau (**cycloneurie**), et ses organes des sens sont diffus. Un petit œil rouge au bout de chaque bras perçoit lumière et formes grossières. Elle peut **régénérer** des bras perdus."
+  },
+  "comportement": {
+    "essentiel": "Pour manger une moule, elle tire sur les valves avec ses pieds ambulacraires jusqu’à créer un entrebâillement de moins d’un millimètre. Elle y glisse ensuite son **estomac évaginé** et digère la moule dans sa coquille.",
+    "details": "Ses déplacements sont lents, mais elle répond chimiquement aux proies à distance. Des agrégations se forment sur les bancs de moules.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Fonds sableux et rocheux de la mer du Nord, brise-lames, épaves, bancs de moules.",
+    "details": "Ses proches parentes jouent un rôle de **clé de voûte** (expérience de Paine avec *Pisaster*). Elle contrôle les bivalves. Ses pullulations peuvent nuire à la mytiliculture.",
+    "uicn": "NE",
+    "menaces": [
+      "Maladie de dépérissement des étoiles de mer (sea star wasting, surtout Pacifique)",
+      "Pollution"
+    ]
+  },
+  "terrain": {
+    "ou": "Laisse de mer après les tempêtes, brise-lames à marée basse, aquariums de Nieuport/Ostende.",
+    "quand": "Toute l’année ; échouages massifs après les tempêtes d’hiver.",
+    "criteres": [
+      "Cinq bras orange à violacés",
+      "Ligne de petites épines blanches au milieu de chaque bras",
+      "Pieds ambulacraires sous les bras"
+    ],
+    "sosies": [
+      {
+        "espece": "Étoile de mer glaciaire (Marthasterias glacialis)",
+        "distinguer": "Plus épineuse, plus grosse, verdâtre ; côtes rocheuses plus au sud."
+      },
+      {
+        "espece": "Ophiures",
+        "distinguer": "Bras fins et serpentiformes nettement séparés d’un disque central."
+      }
+    ]
+  }
+}

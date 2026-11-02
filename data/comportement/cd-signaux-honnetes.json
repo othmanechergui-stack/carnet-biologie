@@ -1,0 +1,32 @@
+{
+  "id": "cd-signaux-honnetes",
+  "titre": "Signaux honnêtes",
+  "module": "ethologie",
+  "source": "comportement animal/Cours Eco-Ethologie_22-23.pdf",
+  "essentiel": "Un signal reste **fiable** quand tricher coûte trop cher (principe du handicap), quand il est physiquement lié à la qualité (signal d’index), ou quand les intérêts de l’émetteur et du receveur convergent. On retrouve ces trois solutions dans des contextes très variés : choix sexuel, prédation, combats.",
+  "details": "Les signaux coûteux ne sont honnêtes que si le **coût marginal** est plus élevé pour un individu de mauvaise qualité. Les signaux d’index (formants vocaux, taille) n’ont pas besoin d’être coûteux.",
+  "question": "Le brame du cerf est-il un handicap ou un signal d’index ? Justifie.",
+  "reponse": "Les deux aspects coexistent. Les **formants** (résonances du conduit vocal) dépendent de la longueur de ce conduit, donc de la **taille** du cerf : c’est un **signal d’index**, impossible à truquer. En plus, le **rythme** des brames est épuisant : seuls les mâles en bonne condition peuvent maintenir une cadence élevée pendant le rut, ce qui relève du **handicap**. Les rivaux évaluent ces signaux avant d’engager un combat coûteux.",
+  "pieges": [
+    "Supposer que tous les signaux honnêtes sont coûteux.",
+    "Oublier le receveur : le signal est honnête parce qu’il est fiable EN MOYENNE pour lui."
+  ],
+  "exemples": [
+    {
+      "espece": "pavo-cristatus",
+      "texte": "Les femelles préfèrent les mâles aux traînes riches en ocelles ; leurs petits grandissent et survivent mieux (Petrie, 1994)."
+    },
+    {
+      "espece": "eudorcas-thomsonii",
+      "texte": "Le stotting signale au guépard une bonne condition physique : poursuite inutile."
+    },
+    {
+      "espece": "cervus-elaphus",
+      "texte": "Brame : formants liés à la taille (index) et cadence épuisante (handicap)."
+    }
+  ],
+  "liens": [
+    "signal-honnete",
+    "signal-indice"
+  ]
+}

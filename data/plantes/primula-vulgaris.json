@@ -1,0 +1,156 @@
+{
+  "id": "primula-vulgaris",
+  "nom": "Primevère acaule",
+  "latin": "Primula vulgaris",
+  "type": "fleur",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "haie"
+  ],
+  "belgique": true,
+  "clade": "ericales",
+  "saison": [
+    2,
+    3,
+    4
+  ],
+  "resume": "Fleur jaune pâle des talus et des sous-bois au début du printemps. C’est le modèle classique d’**hétérostylie** étudié par Darwin : deux formes de fleurs qui favorisent la pollinisation croisée.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Éricales",
+      []
+    ],
+    [
+      "Famille",
+      "Primulacées",
+      []
+    ],
+    [
+      "Genre",
+      "Primula",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Digitalis purpurea",
+    "parents": [
+      "Primula veris",
+      "Primula elatior"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Les populations ont deux morphes. Les fleurs **« pin »** (longistyles) ont un style long et des étamines basses. Les fleurs **« thrum »** (brévistyles) ont un style court et des étamines hautes. Un système d’**auto-incompatibilité** hétéromorphe empêche les croisements entre fleurs du même type.",
+    "details": "L’hétérostylie est contrôlée par un **supergène**, le locus S. Les plantes thrum sont **hémizygotes** pour une région de quelques gènes absente chez les pin (Li et al., 2016). Darwin y consacre un livre (1877). Les graines portent un **élaïosome** et sont dispersées par les fourmis : c’est la **myrmécochorie**."
+  },
+  "identification": {
+    "feuille": "Rosette de feuilles gaufrées, rétrécies en pétiole, duveteuses dessous",
+    "fleur": "Jaune pâle à gorge orangée, solitaire sur pédicelle partant de la rosette (pas de hampe commune)",
+    "fruit": "Capsule",
+    "ecorce": "—",
+    "port": "Herbacée basse en rosette",
+    "periode": "Février-avril"
+  },
+  "ecologie": {
+    "essentiel": "Talus, haies, sous-bois clairs, plutôt dans l’ouest et le sud de la Belgique.",
+    "details": "Elle est pollinisée par les bourdons et les grands bombyles. Les fourmis dispersent ses graines.",
+    "uicn": "LC",
+    "menaces": [
+      "Arrachage pour les jardins",
+      "Disparition des talus et haies"
+    ]
+  },
+  "usages": {
+    "essentiel": "Les fleurs et les jeunes feuilles sont comestibles en petite quantité. Ne pas cueillir dans la nature : elle est protégée dans certaines régions.",
+    "details": "Les primevères horticoles colorées sont souvent des hybrides de *P. vulgaris*."
+  },
+  "facts": [
+    "Darwin a montré que les deux morphes de fleurs favorisent les croisements entre eux.",
+    "L’hétérostylie est contrôlée par un supergène dont une partie manque chez la forme pin.",
+    "Ses graines portent un appât gras qui attire les fourmis.",
+    "Les primevères de jardin colorées en descendent."
+  ],
+  "anecdote": "Regarde au cœur d’une primevère : si tu vois une tête d’épingle, c’est une « pin » ; si tu vois un bouquet d’étamines, c’est une « thrum », et elles ont besoin l’une de l’autre.",
+  "indices_quiz": [
+    "Primulacée hétérostyle (morphes pin et thrum).",
+    "Supergène S hémizygote chez les thrum.",
+    "Graines dispersées par les fourmis."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/56136",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Primula_vulgaris"
+  },
+  "notions": [
+    "autogamie-allogamie"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Talus et sous-bois clairs, haies (Flandre, Condroz).",
+    "quand": "Février à avril.",
+    "criteres": [
+      "Fleurs jaune pâle solitaires sur la rosette",
+      "Feuilles gaufrées",
+      "Odeur légère"
+    ],
+    "sosies": [
+      {
+        "espece": "Coucou (Primula veris)",
+        "distinguer": "Fleurs jaune vif en ombelle pendante au sommet d’une hampe ; prairies calcaires."
+      },
+      {
+        "espece": "Primevère élevée (Primula elatior)",
+        "distinguer": "Fleurs jaune pâle en ombelle sur une hampe ; bois humides."
+      }
+    ]
+  }
+}

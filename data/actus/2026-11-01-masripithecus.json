@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-01-masripithecus",
+  "date": "2026-11-01",
+  "titre": "Un singe fossile d’Égypte relance la question du berceau des grands singes",
+  "resume": "Masripithecus moghraensis (≈ 17–18 Ma, Wadi Moghra) : premier grand singe fossile indiscutable d’Afrique du Nord, connu par des mâchoires inférieures. Les analyses le placent plus près des grands singes actuels que les espèces d’Afrique de l’Est du même âge ; les auteurs proposent que l’ancêtre commun des grands singes ait vécu en Afrique du Nord/Moyen-Orient — sans en faire un ancêtre humain. Article paru dans Science en mars 2026, relayé le 1er novembre.",
+  "source": {
+    "nom": "Science 391:1383 (Mansoura Univ., USC) — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
+  },
+  "themes": [
+    "paleontologie",
+    "evolution"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "mâchoires inférieures seulement",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "fort"
+  },
+  "quiz": {
+    "question": "Masripithecus est-il présenté par ses auteurs comme un ancêtre direct de l’humain ?",
+    "choix": [
+      "Oui, explicitement",
+      "Non : ils parlent du berceau des grands singes, pas d’un ancêtre humain",
+      "L’étude porte sur un poisson"
+    ],
+    "bonne": 1
+  },
+  "module": "module5"
+}

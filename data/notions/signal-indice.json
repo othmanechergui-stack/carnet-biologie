@@ -1,0 +1,19 @@
+{
+  "id": "signal-indice",
+  "titre": "Signal, indice et manipulation",
+  "module": "ethologie",
+  "source": "comportement animal/Cours Eco-Ethologie_22-23.pdf",
+  "essentiel": "Un **signal** est un acte ou une structure qui modifie le comportement d’un receveur, qui a **évolué pour cette fonction**, et qui est efficace parce que la réponse du receveur a elle aussi évolué. Un **indice** (*cue*) est une information utilisée par le receveur mais qui n’a **pas évolué pour informer**. Exemple : le CO₂ expiré qui guide le moustique.",
+  "details": "Cette distinction suit Maynard Smith & Harper. Quand l’émetteur tire profit d’une réponse qui nuit au receveur, on parle de **manipulation** ou de **tromperie**. Exemples : les lucioles *Photuris* qui imitent le code lumineux des femelles *Photinus* pour attirer et manger les mâles, ou le coucou.\n\nUn indice peut devenir un signal par **ritualisation** : le comportement est exagéré, stéréotypé et sélectionné pour sa fonction de communication. Un **signal d’index** est fiable par construction : sa forme est liée physiquement à la qualité, par exemple la fréquence d’un cri liée à la taille du corps.",
+  "question": "La trace de phéromone laissée par une fourmi qui revient d’une source de nourriture est-elle un signal ou un indice ? Et l’odeur de sueur qu’un moustique détecte ?",
+  "reponse": "La piste de phéromone est un **signal**. Elle a évolué pour recruter des nestmates, et la réponse des ouvrières (suivre la piste) a coévolué ; la fourmi émettrice et la colonie en bénéficient.\n\nL’odeur de sueur ou le CO₂ humains sont des **indices** pour le moustique : ils n’ont pas évolué pour informer le moustique, et leur émission ne profite pas à l’humain.",
+  "pieges": [
+    "Appeler « signal » toute information perçue.",
+    "Oublier que la tromperie existe mais reste limitée par la fréquence-dépendance (si les tricheurs sont trop fréquents, les receveurs cessent de répondre)."
+  ],
+  "liens": [
+    "signal-honnete",
+    "exploitation-sensorielle",
+    "recrutement-fourmis"
+  ]
+}

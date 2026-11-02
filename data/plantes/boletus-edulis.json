@@ -1,0 +1,131 @@
+{
+  "id": "boletus-edulis",
+  "nom": "Cèpe de Bordeaux",
+  "latin": "Boletus edulis",
+  "type": "champignon",
+  "regne": "champignon",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "boletales",
+  "saison": [
+    8,
+    9,
+    10
+  ],
+  "resume": "Le roi des champignons comestibles, à chapeau brun et à **tubes** blancs puis jaune-vert sous le chapeau, sans lames. Il est ectomycorhizien et **impossible à cultiver**.",
+  "phylogenie": [
+    [
+      "Règne",
+      "Champignons (Fungi)",
+      [
+        "Hétérotrophie par absorption",
+        "Paroi chitineuse",
+        "Hyphes"
+      ]
+    ],
+    [
+      "Division",
+      "Basidiomycètes",
+      [
+        "Baside à 4 spores"
+      ]
+    ],
+    [
+      "Classe",
+      "Agaricomycètes",
+      []
+    ],
+    [
+      "Ordre",
+      "Boletales",
+      [
+        "Tubes et pores"
+      ]
+    ],
+    [
+      "Famille",
+      "Bolétacées",
+      []
+    ],
+    [
+      "Genre",
+      "Boletus",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Amanita muscaria",
+    "parents": [
+      "Boletus aereus",
+      "Boletus reticulatus",
+      "Tylopilus felleus"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Il porte des **tubes** sous le chapeau, qui s’ouvrent par des **pores**, au lieu de lames. Ils sont blancs puis jaune verdâtre. Son pied est ventru et couvert d’un fin **réseau** blanc dans le haut. Sa chair est blanche et immuable : elle ne bleuit pas à la coupe.",
+    "details": "C’est un **ectomycorhizien obligatoire** de l’épicéa, du hêtre, du chêne, du pin et du bouleau. Le mycélium vit sous terre pendant des années. Le sporophore n’en est que l’organe reproducteur. Les poussées suivent les pluies chaudes d’août-septembre."
+  },
+  "identification": {
+    "chapeau": "Brun noisette, bord plus clair, 8–25 cm, un peu gras",
+    "lames": "Pas de lames : tubes et pores blancs puis jaune-vert",
+    "pied": "Ventru, clair, réseau blanc en haut",
+    "chair": "Blanche, immuable",
+    "habitat": "Hêtraies, chênaies, pessières",
+    "periode": "Août-octobre"
+  },
+  "ecologie": {
+    "essentiel": "Forêts de feuillus et de conifères : Ardenne, Fagne.",
+    "details": "Ectomycorhizien : il dépend de son arbre hôte.",
+    "uicn": "NE",
+    "menaces": [
+      "Surcueillette locale",
+      "Piétinement"
+    ]
+  },
+  "usages": {
+    "essentiel": "Excellent comestible, frais ou séché. En Wallonie, la cueillette est réglementée (quantités, interdite dans certaines réserves).",
+    "details": "Couper ou tourner le pied, recouvrir le trou, et ne prendre que des spécimens sains et identifiés.",
+    "cueillette": "Août-octobre, en respectant la réglementation forestière.",
+    "confusions_dangereuses": [
+      "Bolet amer (Tylopilus felleus) : pores ROSES et réseau brun foncé sur le pied ; immangeable (amer)",
+      "Bolet Satan (Rubroboletus satanas) : pores rouges, chair bleuissante ; toxique"
+    ]
+  },
+  "facts": [
+    "Le cèpe n’a pas de lames mais des tubes.",
+    "On ne sait pas le cultiver, car il a besoin d’un arbre partenaire.",
+    "Ce qu’on cueille n’est que la fructification d’un mycélium souterrain.",
+    "Sa chair ne bleuit pas à la coupe, contrairement à beaucoup de bolets."
+  ],
+  "anecdote": "Personne n’a jamais réussi à cultiver le cèpe : sans son arbre partenaire, le mycélium ne fructifie pas.",
+  "indices_quiz": [
+    "Bolet comestible à tubes blanchâtres et réseau sur le pied.",
+    "Ectomycorhizien obligatoire.",
+    "Impossible à cultiver."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/48701",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Boletus_edulis"
+  },
+  "notions": [
+    "mycorhizes"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Hêtraies et pessières ardennaises.",
+    "quand": "Août-octobre, après des pluies chaudes.",
+    "criteres": [
+      "Tubes blancs puis jaune-vert (pas de lames)",
+      "Pied ventru à réseau blanc",
+      "Chair blanche immuable"
+    ],
+    "sosies": [
+      {
+        "espece": "Bolet amer (Tylopilus felleus)",
+        "distinguer": "Pores roses, réseau brun foncé ; goûte : amertume extrême."
+      }
+    ]
+  }
+}

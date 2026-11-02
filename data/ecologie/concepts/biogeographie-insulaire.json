@@ -1,0 +1,18 @@
+{
+  "id": "biogeographie-insulaire",
+  "titre": "Biogéographie insulaire",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "La **théorie de la biogéographie insulaire** (MacArthur & Wilson, 1967) dit que le nombre d’espèces d’une île résulte d’un **équilibre dynamique** entre **immigration** et **extinction**. L’immigration diminue avec l’**éloignement** du continent. L’extinction diminue avec la **taille** de l’île. Les grandes îles proches ont donc plus d’espèces que les petites îles lointaines.",
+  "details": "Relation aire–espèces : S = c·A^z, avec z ≈ 0,2 à 0,35 pour des îles vraies. Diviser la surface par 10 divise donc environ la richesse par 2.\n\nLa théorie s’applique aux **îles d’habitat** : fragments forestiers, lacs, sommets montagneux, et réserves naturelles entourées de terres cultivées.\n\nLe **renouvellement** des espèces (*turnover*) est continu, même à l’équilibre. Expérience de défaunation des îlots de mangrove de Floride (Simberloff & Wilson) : la richesse se rétablit, mais avec d’autres espèces.\n\nLes îles sont des **hotspots d’endémisme** et aussi d’**invasions** (module 4).",
+  "question": "Si l’on réduit une réserve naturelle de 1 000 ha à 100 ha, combien d’espèces perd-on approximativement, d’après la relation aire–espèces avec z = 0,3 ?",
+  "reponse": "S est proportionnel à A^z. Le rapport des richesses vaut (100/1 000)^0,3 = 0,1^0,3 ≈ **0,50**. On s’attend à conserver environ **la moitié** des espèces à long terme, et à perdre donc de l’ordre de 50 %. Ces extinctions ne sont pas immédiates : elles s’étalent dans le temps, c’est la **dette d’extinction**. C’est une approximation : la qualité de l’habitat, la connectivité et la composition comptent aussi.",
+  "pieges": [
+    "Croire que les extinctions sont immédiates après la réduction de surface.",
+    "Appliquer z des îles vraies à des fragments connectés sans nuance."
+  ],
+  "liens": [
+    "fragmentation-habitats",
+    "metapopulations"
+  ]
+}

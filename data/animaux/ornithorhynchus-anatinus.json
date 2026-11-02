@@ -1,0 +1,100 @@
+{
+  "id": "ornithorhynchus-anatinus",
+  "nom": "Ornithorynque",
+  "latin": "Ornithorhynchus anatinus",
+  "groupe": "mammifere",
+  "milieu": [
+    "riviere"
+  ],
+  "belgique": false,
+  "clade": "monotremata",
+  "resume": "Mammifère **qui pond des œufs**, au bec de canard, à la queue de castor et aux éperons venimeux. Il chasse dans l’eau les yeux fermés grâce à l’**électroréception**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Monotrèmes",
+      "synapomorphies": [
+        "Oviparité",
+        "Cloaque"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Ornithorhynchidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Ornithorhynchus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Didelphis virginiana",
+    "parents": [
+      "Tachyglossus aculeatus",
+      "Zaglossus bruijnii"
+    ]
+  },
+  "facts": [
+    "Il pond des œufs mais allaite ses petits, avec du lait qui suinte de la peau sans mamelons.",
+    "Il possède dix chromosomes sexuels.",
+    "Il chasse les yeux fermés grâce aux électrorécepteurs de son bec.",
+    "Les premiers naturalistes européens ont cru à un canular : un bec de canard cousu sur une peau de mammifère."
+  ],
+  "anecdote": "Quand le premier ornithorynque naturalisé est arrivé à Londres, George Shaw a cherché les points de couture, persuadé qu’on lui faisait une farce.",
+  "indices_quiz": [
+    "Mammifère monotrème qui pond des œufs.",
+    "Il détecte ses proies par électroréception.",
+    "Le mâle a un éperon venimeux."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/43236",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Ornithorhynchus_anatinus"
+  },
+  "notions": [
+    "mammiferes-synapomorphies"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il pèse 0,7 à 2,4 kg. Son « bec » est un museau souple couvert de milliers d’**électrorécepteurs** et de mécanorécepteurs, qui détectent les champs électriques des muscles des proies. Le mâle porte un **éperon venimeux** sur les pattes postérieures, actif surtout pendant la saison de reproduction.",
+    "details": "La femelle pond 1 à 3 œufs à coquille parcheminée, puis allaite les petits : le lait suinte de zones de la peau, **sans mamelons**. Les monotrèmes ont **10 chromosomes sexuels** (5X et 5Y chez le mâle), un système unique. Son pelage est biofluorescent sous UV (Anich et al., 2020)."
+  },
+  "comportement": {
+    "essentiel": "Il est solitaire, crépusculaire et nocturne. Il plonge les yeux, oreilles et narines fermés.",
+    "details": "Le venin du mâle sert probablement à la **compétition entre mâles** pendant le rut, comme le suggère sa production saisonnière. C’est une arme de sélection intrasexuelle.",
+    "concepts": [
+      "bateman-selection-sexuelle"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Rivières et lacs d’Australie de l’Est et de Tasmanie.",
+    "details": "Prédateur d’invertébrés benthiques. Ses populations déclinent avec les sécheresses et les barrages.",
+    "uicn": "NT",
+    "menaces": [
+      "Sécheresses",
+      "Barrages et dégradation des rivières",
+      "Filets de pêche"
+    ]
+  }
+}

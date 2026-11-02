@@ -1,0 +1,18 @@
+{
+  "id": "metazoaires-synapomorphies",
+  "titre": "Synapomorphies des Métazoaires",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Le cours retient trois synapomorphies des Métazoaires : la **multicellularité** (apparue aussi de façon convergente chez d’autres eucaryotes), une **matrice extracellulaire** (riche en collagène) et des **jonctions cellulaires** formant de vrais épithéliums, posés sur une **lame basale**. Le groupe frère des Métazoaires est celui des **choanoflagellés**, dont les cellules ressemblent aux choanocytes des éponges.",
+  "details": "Les premiers métazoaires apparaissent dans la faune d’Édiacara (≈ −635 à −542 Ma), puis l’**explosion cambrienne** (≈ −535 à −525 Ma) met en place la plupart des plans d’organisation actuels.\n\nLe rapport surface/volume diminue quand la taille augmente : les grands animaux ont besoin de replis et de cavités (branchies, poumons, intestin) pour garder une surface d’échange suffisante. Les placozoaires (*Trichoplax adhaerens*) sont une exception notable : ils sont dépourvus de matrice extracellulaire selon le cours.",
+  "question": "Pourquoi l’étude des choanoflagellés est-elle si importante pour comprendre l’origine des animaux ?",
+  "reponse": "Ce sont le **groupe frère** des Métazoaires : comparer leurs génomes à ceux des animaux permet de reconstituer la « boîte à outils » génétique de l’ancêtre commun. Beaucoup de gènes d’adhésion et de signalisation cellulaire que l’on croyait propres aux animaux (cadhérines, tyrosine kinases) existent déjà chez eux. La multicellularité animale a donc recyclé des outils déjà présents chez un ancêtre unicellulaire ou colonial.",
+  "pieges": [
+    "Prendre la multicellularité comme caractère exclusif des animaux (elle est convergente chez les plantes, les champignons, les algues).",
+    "Croire que les éponges descendent des choanoflagellés actuels : ils partagent un ancêtre commun."
+  ],
+  "liens": [
+    "eponges-organisation",
+    "cnidaires-diploblastes"
+  ]
+}

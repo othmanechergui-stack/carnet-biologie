@@ -1,0 +1,18 @@
+{
+  "id": "classification-ecoles",
+  "titre": "Trois écoles de classification",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "La **classification linnéenne** range les êtres vivants dans une hiérarchie de rangs (règne, embranchement, classe, ordre, famille, genre, espèce) sur base de ressemblances globales, avec la nomenclature binomiale. L’**école évolutionniste** (Simpson, Mayr) tient compte de la généalogie mais aussi du degré de divergence : elle accepte des groupes paraphylétiques comme les « Reptiles ». La **cladistique** (Hennig) ne reconnaît que des groupes monophylétiques, définis par des synapomorphies.",
+  "details": "En cladistique, un taxon valide = un ancêtre et **tous** ses descendants. Les rangs linnéens n’ont pas de valeur absolue : une « classe » d’oiseaux n’est pas comparable à une « classe » d’insectes en âge ou en diversité. Les groupes paraphylétiques (Reptiles sans les Oiseaux, Poissons sans les Tétrapodes, « Invertébrés ») sont fondés sur des plésiomorphies et ne sont pas des clades. Les groupes polyphylétiques (ex. « animaux à sang chaud » = Mammifères + Oiseaux) sont fondés sur des convergences.\n\nLe cours insiste sur la lecture d’un cladogramme : seule la topologie (qui est plus proche de qui) compte, pas l’ordre des feuilles ni la longueur des branches dans un cladogramme non calibré.",
+  "question": "Pourquoi les « Reptiles » au sens classique ne sont-ils pas un taxon valide en cladistique, et comment la cladistique résout-elle le problème ?",
+  "reponse": "Les Reptiles classiques (tortues, lézards, serpents, crocodiles) excluent les Oiseaux alors que ceux-ci descendent de l’ancêtre commun de ce groupe (les Oiseaux sont des archosaures, groupe frère des crocodiles). Le groupe est donc **paraphylétique**, défini par l’absence des caractères dérivés des oiseaux (plumes…), c’est-à-dire par des plésiomorphies. La cladistique soit inclut les Oiseaux dans les Reptiles (Reptilia = Sauropsida), soit abandonne le terme.",
+  "pieges": [
+    "Confondre paraphylétique (ancêtre + une partie des descendants) et polyphylétique (sans l’ancêtre commun).",
+    "Croire que l’ordre des feuilles d’un cladogramme indique un degré d’évolution."
+  ],
+  "liens": [
+    "caracteres-cladistique",
+    "oiseaux-dinosaures"
+  ]
+}

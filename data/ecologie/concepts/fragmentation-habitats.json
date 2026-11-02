@@ -1,0 +1,18 @@
+{
+  "id": "fragmentation-habitats",
+  "titre": "Fragmentation des habitats",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "La **fragmentation** est la division d’un habitat continu en **fragments** plus petits et **isolés**, entourés d’une matrice hostile (cultures, routes, zones bâties). Il faut la distinguer de la simple **perte d’habitat**. Elle entraîne des **effets de lisière** (microclimat, prédation, espèces invasives), une réduction des populations, de l’isolement génétique et des extinctions locales.",
+  "details": "Le débat de Fahrig (2003, 2017) montre que la perte d’habitat a des effets massivement négatifs. Les effets de la fragmentation **per se**, à surface égale, sont plus variables. On en arrive au débat **SLOSS** : *Single Large Or Several Small* reserves.\n\nRéponses de gestion :\n- **corridors écologiques** et passages à faune : écoducs en Belgique, par exemple sur le Ring de Bruxelles en forêt de Soignes ;\n- **réseau Natura 2000** ;\n- trame verte et bleue.\n\nEn Belgique, la densité routière très élevée en fait l’un des paysages les plus fragmentés d’Europe.",
+  "question": "Pourquoi un fragment forestier de 10 ha peut-il perdre des espèces de forêt profonde même si sa surface semble suffisante pour elles ?",
+  "reponse": "À cause des **effets de lisière**. Sur des dizaines de mètres depuis le bord, il y a plus de lumière, de vent et de variations de température et d’humidité. On y trouve aussi plus de prédateurs et d’espèces généralistes ou exotiques. Dans un petit fragment, la **zone de cœur** réellement « forestière » est très réduite. Ajoute à cela l’**isolement**, qui empêche les recolonisations après une extinction locale et provoque une dérive génétique : les espèces sensibles disparaissent.",
+  "pieges": [
+    "Confondre fragmentation et perte d’habitat.",
+    "Oublier les effets de lisière."
+  ],
+  "liens": [
+    "metapopulations",
+    "vortex-extinction"
+  ]
+}

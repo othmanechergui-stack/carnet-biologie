@@ -1,0 +1,18 @@
+{
+  "id": "adaptations-terrestres",
+  "titre": "Mise en place des adaptations à la vie terrestre",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Selon le syllabus, les adaptations à la vie terrestre sont apparues **par étapes** le long de l’arbre :\n1. Spores résistantes : tous les Embryophytes.\n2. Épiderme, cuticule et stomates : **Stomatophytes** (tous sauf les hépatiques).\n3. Cellules conductrices : **Hémitrachéophytes** (mousses + plantes vasculaires).\n4. Sporophyte dominant et ramifié, avec plusieurs sporanges : **Polysporangiophytes**.\n5. Vraies racines, feuilles et tissus vasculaires lignifiés : plantes vasculaires actuelles.",
+  "details": "Les **hépatiques** (Marchantiophytes) n’ont ni épiderme vrai, ni stomates, ni cellules conductrices. Les **anthocérotes** ont des stomates mais pas de cellules conductrices. Les **mousses** ont des cellules conductrices (hydroïdes, leptoïdes), mais leur sporophyte reste dépendant du gamétophyte et ne porte qu’un sporange.\n\nLes fossiles *Cooksonia*, *Rhynia* et *Aglaophyton* ont un sporophyte indépendant et ramifié, mais sans racines ni feuilles.\n\n**Mise à jour** : les phylogénomiques récentes soutiennent plutôt des **bryophytes monophylétiques** (hépatiques + mousses + anthocérotes). Cela implique des pertes secondaires (les stomates chez les hépatiques). La séquence du syllabus reste un bon modèle fonctionnel.",
+  "question": "Dans quel ordre, selon ton syllabus, apparaissent les stomates et les cellules conductrices, et quels clades délimitent-ils ?",
+  "reponse": "D’abord les **stomates** (avec épiderme et cuticule), qui définissent les **Stomatophytes** : anthocérotes + mousses + plantes vasculaires. Ensuite les **cellules conductrices**, qui définissent les **Hémitrachéophytes** : mousses + plantes vasculaires. Les vraies racines et feuilles n’arrivent qu’avec les plantes vasculaires (Trachéophytes), où le sporophyte devient dominant.",
+  "pieges": [
+    "Présenter les « bryophytes » comme un grade primitif uniforme : hépatiques, anthocérotes et mousses diffèrent beaucoup.",
+    "Oublier de signaler que la topologie (paraphylie vs monophylie des bryophytes) est révisée par les données récentes."
+  ],
+  "liens": [
+    "embryophytes-apomorphies",
+    "heterosporie-graine"
+  ]
+}

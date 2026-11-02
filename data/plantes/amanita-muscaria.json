@@ -1,0 +1,133 @@
+{
+  "id": "amanita-muscaria",
+  "nom": "Amanite tue-mouches",
+  "latin": "Amanita muscaria",
+  "type": "champignon",
+  "regne": "champignon",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "agaricales",
+  "saison": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "resume": "Le champignon des contes, à chapeau **rouge** couvert de flocons blancs. Il est **toxique** et psychoactif, et vit en **symbiose** avec les bouleaux et les épicéas.",
+  "phylogenie": [
+    [
+      "Règne",
+      "Champignons (Fungi)",
+      [
+        "Hétérotrophie par absorption",
+        "Paroi chitineuse",
+        "Hyphes"
+      ]
+    ],
+    [
+      "Division",
+      "Basidiomycètes",
+      [
+        "Baside à 4 spores"
+      ]
+    ],
+    [
+      "Classe",
+      "Agaricomycètes",
+      []
+    ],
+    [
+      "Ordre",
+      "Agaricales",
+      [
+        "Lames"
+      ]
+    ],
+    [
+      "Famille",
+      "Amanitacées",
+      [
+        "Volve et anneau (voile universel et partiel)"
+      ]
+    ],
+    [
+      "Genre",
+      "Amanita",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Boletus edulis",
+    "parents": [
+      "Amanita pantherina",
+      "Amanita phalloides",
+      "Amanita caesarea"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Le sporophore (la partie visible) se développe dans un **voile universel**. En se déchirant, il laisse des **flocons** blancs sur le chapeau et une volve en bourrelets à la base du pied. Le **voile partiel** laisse un anneau. Les **lames** sont blanches et portent les basides, chacune avec **4 basidiospores**.",
+    "details": "Toxines : l’**acide iboténique** et le **muscimol**, des agonistes des récepteurs au GABA et au glutamate. Ils provoquent confusion, délire et troubles digestifs. Ce n’est pas la muscarine, malgré le nom, car celle-ci est présente en quantité minime. Elle forme des **ectomycorhizes** avec les bouleaux, les épicéas et les pins."
+  },
+  "identification": {
+    "chapeau": "Rouge vif à orangé, flocons blancs (peuvent disparaître sous la pluie), 8–20 cm",
+    "lames": "Blanches, libres",
+    "pied": "Blanc, anneau membraneux, base bulbeuse à bourrelets de volve",
+    "chair": "Blanche, jaune sous la cuticule",
+    "habitat": "Sous bouleaux, épicéas, pins ; sols acides",
+    "periode": "Août-novembre"
+  },
+  "ecologie": {
+    "essentiel": "Bois de bouleaux et de conifères sur sols acides : Campine, Ardenne.",
+    "details": "Symbiote ectomycorhizien : il échange de l’azote et du phosphore contre les sucres de l’arbre.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "**Toxique** et psychoactif, avec des intoxications graves possibles. Son usage chamanique en Sibérie est documenté. Son nom vient de son usage traditionnel comme piège à mouches dans du lait sucré.",
+    "details": "Ne pas consommer.",
+    "confusions_dangereuses": [
+      "Amanite panthère (A. pantherina) : chapeau brun à flocons blancs, plus toxique",
+      "Amanite des Césars (A. caesarea, comestible, sud de l’Europe) : lames et pied JAUNES, volve en sac blanc"
+    ]
+  },
+  "facts": [
+    "Ses flocons blancs sont des restes du voile universel qui enveloppait le jeune champignon.",
+    "Sa toxine principale est le muscimol, pas la muscarine.",
+    "Elle vit en symbiose avec les racines de bouleaux et de conifères.",
+    "On la mettait dans du lait sucré pour assommer les mouches."
+  ],
+  "anecdote": "L’amanite tue-mouches n’est pas mortelle pour les mouches par sa muscarine : c’est surtout l’acide iboténique qui les étourdit dans un bol de lait sucré.",
+  "indices_quiz": [
+    "Basidiomycète rouge à flocons blancs.",
+    "Ectomycorhizien des bouleaux.",
+    "Toxines : acide iboténique et muscimol."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/48715",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Amanita_muscaria"
+  },
+  "notions": [
+    "mycorhizes",
+    "champignons-opisthocontes"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Bois de bouleaux et pessières (Campine, Ardenne, Hautes Fagnes).",
+    "quand": "Septembre-novembre.",
+    "criteres": [
+      "Chapeau rouge à flocons blancs",
+      "Lames blanches",
+      "Anneau et volve en bourrelets"
+    ],
+    "sosies": [
+      {
+        "espece": "Amanite panthère (A. pantherina)",
+        "distinguer": "Chapeau brun à flocons blancs, volve à rebord net ; plus toxique."
+      }
+    ]
+  }
+}

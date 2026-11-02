@@ -1,0 +1,20 @@
+{
+  "id": "conflits-coloniaux",
+  "titre": "Conflits dans les sociétés d’insectes et policing",
+  "module": "societes",
+  "source": "animal societies/Biology of Animal Societies (2017-2018).pdf",
+  "essentiel": "Même dans une colonie « harmonieuse », les intérêts génétiques divergent. Le **sex-ratio** optimal n’est pas le même pour la reine (1:1) et pour les ouvrières (3:1 en faveur des femelles si la reine a un seul partenaire). Il y a aussi un conflit sur **qui produit les mâles**, car les ouvrières peuvent pondre des œufs haploïdes non fécondés.",
+  "details": "**Worker policing** (Ratnieks, 1988) : quand la reine est **polyandre**, une ouvrière est plus apparentée aux fils de la reine (ses frères, r = 0,25) qu’aux fils d’une autre ouvrière (ses neveux, souvent demi-neveux, r ≈ 0,125). Les ouvrières détruisent donc les œufs pondus par leurs sœurs. Chez l’abeille domestique, plus de 99 % des œufs d’ouvrières sont éliminés.\n\nLes ouvrières peuvent aussi biaiser le sex-ratio en éliminant des larves mâles. Des données sur les fourmis *Formica* montrent des sex-ratios qui dépendent de la structure génétique de la colonie (Sundström et al., 1996).",
+  "question": "Pourquoi les ouvrières d’abeille domestique détruisent-elles les œufs pondus par d’autres ouvrières ?",
+  "reponse": "La reine s’accouple avec de nombreux mâles. Deux ouvrières sont donc le plus souvent **demi-sœurs**. Pour une ouvrière, un fils d’une autre ouvrière (un demi-neveu, r ≈ 0,125) vaut moins qu’un fils de la reine (un frère, r = 0,25). La sélection favorise les ouvrières qui éliminent les œufs d’ouvrières : c’est le *worker policing*. Cette police rend la reproduction des ouvrières peu rentable, ce qui favorise en retour leur stérilité.",
+  "pieges": [
+    "Croire que le policing est un comportement « pour le bien de la colonie » : il s’explique par les intérêts génétiques individuels (même s’il améliore aussi l’efficacité collective).",
+    "Oublier le rôle de la polyandrie."
+  ],
+  "liens": [
+    "haplodiploidie-trois-quarts"
+  ],
+  "especes": [
+    "apis-mellifera"
+  ]
+}

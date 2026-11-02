@@ -1,0 +1,18 @@
+{
+  "id": "reseaux-trophiques",
+  "titre": "Réseaux trophiques",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "Un **réseau trophique** représente qui mange qui dans une communauté. On y distingue :\n- les **producteurs primaires** (autotrophes) ;\n- les **consommateurs** primaires, secondaires et tertiaires ;\n- les **décomposeurs** et détritivores, qui recyclent la matière.\n\nOn parle plutôt de **réseau** que de chaîne, à cause de l’omnivorie et des liens multiples.",
+  "details": "Propriétés étudiées : la **connectance** (fraction des liens possibles qui sont réalisés), la longueur des chaînes (rarement plus de 4 à 5 niveaux) et la modularité.\n\nUne grande part de l’énergie passe par la **chaîne détritique** : en forêt, plus de 90 % de la production primaire n’est pas broutée et finit dans la litière, décomposée par les champignons, les bactéries, les lombrics et les cloportes.\n\nLes **interactions faibles** stabilisent les réseaux (McCann, 1998).",
+  "question": "Pourquoi les chaînes trophiques dépassent-elles rarement 4 ou 5 maillons ?",
+  "reponse": "Parce qu’à chaque transfert entre niveaux trophiques, seule une **petite fraction de l’énergie** (de l’ordre de 10 %, avec une grande variation) est convertie en biomasse du niveau suivant. Le reste est perdu en respiration, en chaleur, en parties non consommées ou non assimilées. Après 4 ou 5 niveaux, l’énergie disponible ne suffit plus à entretenir une population viable de prédateurs supérieurs. Ces derniers sont de grande taille, avec de grands domaines vitaux et de faibles densités.",
+  "pieges": [
+    "Oublier la chaîne détritique.",
+    "Croire qu’un réseau plus complexe est automatiquement plus stable (débat May vs empirie)."
+  ],
+  "liens": [
+    "transfert-energie-lindeman",
+    "cascade-trophique"
+  ]
+}

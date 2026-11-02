@@ -1,0 +1,18 @@
+{
+  "id": "angiospermes-double-fecondation",
+  "titre": "Angiospermes : carpelle et double fécondation",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Les **Angiospermes** se définissent par leurs ovules enfermés dans un **carpelle**, qui devient le **fruit**, et par la **double fécondation**. Un gamète mâle féconde l’oosphère, ce qui donne l’embryon (2n). L’autre fusionne avec les deux noyaux polaires, ce qui donne l’**albumen** (3n), le tissu de réserve.",
+  "details": "Le gamétophyte femelle est très réduit : c’est le **sac embryonnaire**, typiquement à 7 cellules et 8 noyaux. Le gamétophyte mâle se résume au grain de pollen à 2 ou 3 cellules.\n\nLe syllabus cite aussi les **vrais vaisseaux** du xylème. Nuance : *Amborella*, le groupe frère de toutes les autres angiospermes, n’en possède pas. Les vaisseaux ont donc été acquis après la divergence d’*Amborella*.\n\nLa fleur rassemble les organes reproducteurs. Les tendances évolutives vont de l’état archaïque (pièces nombreuses, libres, spiralées, carpelles libres) vers l’état dérivé (pièces soudées, en nombre réduit, ovaire infère, symétrie bilatérale).",
+  "question": "Qu’est-ce que la double fécondation et quel est son intérêt adaptatif supposé ?",
+  "reponse": "Le tube pollinique apporte deux gamètes mâles. L’un féconde l’**oosphère** et donne le zygote, puis l’embryon (2n). L’autre fusionne avec la **cellule centrale** (deux noyaux polaires) et donne l’**albumen** triploïde. Intérêt : les réserves ne sont produites **qu’après la fécondation**. La plante n’investit donc pas dans des réserves pour des ovules qui ne seront jamais fécondés, contrairement aux gymnospermes où le gamétophyte femelle accumule les réserves à l’avance.",
+  "pieges": [
+    "Dire que l’albumen est diploïde.",
+    "Généraliser les vaisseaux à toutes les angiospermes (exception Amborella)."
+  ],
+  "liens": [
+    "heterosporie-graine",
+    "eudicots-monocots"
+  ]
+}

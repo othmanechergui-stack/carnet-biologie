@@ -1,0 +1,17 @@
+{
+  "id": "successions-ecologiques",
+  "titre": "Successions écologiques",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "Une **succession** est le remplacement directionnel des communautés au cours du temps sur un même site. La succession **primaire** démarre sur un substrat nu, sans sol : coulée de lave, moraine, dune. La succession **secondaire** suit une perturbation qui laisse le sol en place : champ abandonné, chablis. Les espèces **pionnières** (stratégie r, héliophiles) sont remplacées par des espèces **tolérantes à l’ombre**.",
+  "details": "Connell & Slatyer (1977) proposent trois mécanismes :\n- la **facilitation** : les pionniers améliorent le milieu, par exemple en fixant l’azote ;\n- la **tolérance** ;\n- l’**inhibition**.\n\nLe « **climax** » unique (Clements) est aujourd’hui vu comme une simplification. On parle plutôt de dynamiques de **mosaïque** et de régimes de perturbation.\n\nExemple belge : sur les **dunes de la côte**, on passe des oyats sur la dune blanche à la dune grise (mousses, lichens), puis aux fourrés d’argousier et à la forêt. Dans une prairie de fauche abandonnée, on voit un enfrichement par les ronces et les prunelliers, puis l’arrivée du bouleau et du chêne.",
+  "question": "Pourquoi l’abandon d’une prairie de fauche riche en fleurs entraîne-t-il souvent une perte de diversité végétale ?",
+  "reponse": "La fauche est une **perturbation régulière** qui maintient la succession à un stade herbacé ouvert. Sans fauche, la **succession secondaire** reprend : les graminées hautes et compétitives, puis les arbustes (ronces, prunelliers), puis les arbres ferment le milieu. Les espèces héliophiles de petite taille (orchidées, rhinanthes, etc.) sont exclues par l’ombre et la litière. La diversité spécifique de la prairie chute.",
+  "pieges": [
+    "Considérer le climax comme un état fixe et « naturellement meilleur ».",
+    "Confondre succession primaire et secondaire."
+  ],
+  "liens": [
+    "perturbation-intermediaire"
+  ]
+}

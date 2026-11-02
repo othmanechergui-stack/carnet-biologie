@@ -1,0 +1,17 @@
+{
+  "id": "indices-diversite",
+  "titre": "Indices de diversité",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "La **richesse spécifique** (S) compte les espèces. L’**indice de Shannon** H′ = −Σ pᵢ ln pᵢ combine richesse et **équitabilité**. L’**indice de Simpson** (D = Σ pᵢ², ou 1 − D) mesure la probabilité que deux individus tirés au hasard appartiennent à la même espèce. Whittaker distingue la diversité **α** (locale), **β** (renouvellement entre sites) et **γ** (régionale).",
+  "details": "Les **nombres de Hill** unifient ces indices sous la forme ⁰D (richesse), ¹D (exp H′) et ²D (1/Σpᵢ²). Ils s’expriment en « nombre effectif d’espèces » et sont plus intuitifs.\n\nLa richesse dépend fortement de **l’effort d’échantillonnage**. On compare donc via des **courbes de raréfaction** ou d’accumulation, ou avec des estimateurs comme **Chao1**. C’est la même logique que la richesse allélique raréfiée du module 4.\n\nLa diversité β est essentielle en conservation : beaucoup de petites réserves différentes peuvent abriter plus d’espèces qu’une seule grande.",
+  "question": "Deux prairies ont chacune 10 espèces. Dans la première, une espèce représente 91 % des individus et les 9 autres 1 % chacune. Dans la seconde, les espèces sont à 10 % chacune. Laquelle est la plus diverse selon Shannon, et pourquoi ?",
+  "reponse": "La **seconde**. La richesse est identique (S = 10), mais l’**équitabilité** y est maximale. Shannon vaut alors ln(10) ≈ 2,30, ce qui correspond à 10 espèces effectives. Dans la première, la dominance d’une espèce abaisse fortement H′ (≈ 0,50, soit environ 1,6 espèce effective). Tirer deux individus au hasard y donne presque toujours la même espèce.",
+  "pieges": [
+    "Comparer des richesses issues d’efforts d’échantillonnage différents.",
+    "Confondre α, β et γ."
+  ],
+  "liens": [
+    "paradoxe-genetique-invasions"
+  ]
+}

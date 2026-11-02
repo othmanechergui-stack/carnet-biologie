@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-12-acai-abeilles-indigenes",
+  "date": "2026-10-12",
+  "titre": "Açaí : ce sont les abeilles sans dard indigènes qui pollinisent",
+  "resume": "Dans une plantation d’Amazonie centrale, deux abeilles sans dard indigènes (Trigona williana, Partamona ferreirai) visitent fleurs mâles et femelles en portant beaucoup de pollen, alors que l’abeille domestique visite surtout les fleurs mâles et que les charançons, pollinisateurs supposés des palmiers, comptent peu. Les auteurs plaident pour conserver la forêt autour des cultures.",
+  "source": {
+    "nom": "Neotropical Entomology 55:35 (via Botany One)",
+    "url": "https://www.botany.one/the-true-pollinators-of-the-amazons-purple-gold/"
+  },
+  "themes": [
+    "botanique",
+    "ecologie"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "« des milliers de fleurs » (1 plantation)",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "Selon l’étude sur l’açaí, quels insectes sont les pollinisateurs efficaces ?",
+    "choix": [
+      "Des charançons",
+      "L’abeille domestique",
+      "Deux abeilles sans dard indigènes"
+    ],
+    "bonne": 2
+  },
+  "module": "ecologie"
+}

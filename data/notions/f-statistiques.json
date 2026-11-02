@@ -1,0 +1,19 @@
+{
+  "id": "f-statistiques",
+  "titre": "Les F-statistiques de Wright",
+  "module": "module2",
+  "source": "module 2/Résumé module 2.docx",
+  "essentiel": "Les **F-statistiques** découpent l’écart à la panmixie en trois niveaux :\n- **F_IS = 1 − Ho/Hs** : écart à la panmixie **au sein** des populations ;\n- **F_ST = 1 − Hs/Ht** : **différenciation** entre populations ;\n- **F_IT = 1 − Ho/Ht** : écart global.\n\nElles sont liées par **(1 − F_IT) = (1 − F_IS)(1 − F_ST)**.",
+  "details": "Valeurs extrêmes :\n- F_ST = 0 si toutes les populations ont les mêmes fréquences alléliques ;\n- F_ST = 1 si chaque population est fixée pour un allèle différent ;\n- F_IS et F_IT vont de −1 (tous les individus hétérozygotes pour les deux mêmes allèles) à +1 (tous homozygotes).\n\nInterprétation par la **coalescence**, d’après ta synthèse : F_ST = 1 − T(intra-pop) / T(inter-pop). Les copies prises dans une même population ont un ancêtre commun plus récent que des copies de populations différentes.\n\nSi chaque population est panmictique mais que leurs fréquences diffèrent, F_IS = 0, F_ST > 0 et F_IT = F_ST.",
+  "question": "Deux populations panmictiques sont chacune à l’équilibre HW, mais leurs fréquences alléliques diffèrent. Que valent F_IS, F_ST et F_IT ?",
+  "reponse": "**F_IS = 0**, puisque chaque population est en panmixie (Ho = Hs). **F_ST > 0**, puisque les fréquences diffèrent (Hs < Ht). Et comme (1 − F_IT) = (1 − 0)(1 − F_ST), on obtient **F_IT = F_ST**. Tout le déficit global en hétérozygotes vient de la structuration : c’est l’effet Wahlund.",
+  "pieges": [
+    "Mélanger les hétérozygoties : Ho (observée), Hs (attendue moyenne intra-pop), Ht (attendue totale).",
+    "Croire que F_IS peut prendre des valeurs négatives seulement par erreur : un excès d’hétérozygotes est possible."
+  ],
+  "liens": [
+    "fst-nm",
+    "effet-wahlund",
+    "hardy-weinberg"
+  ]
+}

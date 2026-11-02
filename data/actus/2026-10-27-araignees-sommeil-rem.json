@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-27-araignees-sommeil-rem",
+  "date": "2026-10-27",
+  "titre": "Les araignées sauteuses auraient deux stades de sommeil, dont un « REM »",
+  "resume": "Chez Portia fimbriata, vidéo infrarouge, tests de réactivité et privation de sommeil révèlent deux stades de sommeil et un état proche du REM (mouvements des yeux, secousses), avec rebond après privation. Les stades sont définis sur le comportement seul, sans mesure cérébrale ; rien ne dit que les araignées rêvent.",
+  "source": {
+    "nom": "PNAS 123(45) — Geiger, Rößler et al. (Univ. Bonn) — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm"
+  },
+  "themes": [
+    "comportement",
+    "zoologie",
+    "neurosciences"
+  ],
+  "grille": {
+    "modele": "animal",
+    "echantillon": "non précisé, 1 espèce",
+    "publication": "revue",
+    "design": "causalite",
+    "ecart_titre": "moyen"
+  },
+  "quiz": {
+    "question": "Sur quelle base l’étude identifie-t-elle un sommeil « REM » chez l’araignée Portia ?",
+    "choix": [
+      "Électroencéphalogramme",
+      "Comportement seul (vidéo, réactivité, rebond)",
+      "Imagerie par IRM"
+    ],
+    "bonne": 1
+  },
+  "module": "ethologie"
+}

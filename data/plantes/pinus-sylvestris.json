@@ -1,0 +1,142 @@
+{
+  "id": "pinus-sylvestris",
+  "nom": "Pin sylvestre",
+  "latin": "Pinus sylvestris",
+  "type": "arbre",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "lande"
+  ],
+  "belgique": true,
+  "clade": "pinaceae",
+  "saison": [
+    5,
+    6
+  ],
+  "resume": "Le pin des landes de Campine, au tronc **orangé** dans sa partie haute. C’est un conifère pionnier des sols pauvres et sableux, à aiguilles **groupées par deux**.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Gymnospermes",
+      [
+        "Ovules nus"
+      ]
+    ],
+    [
+      "Ordre",
+      "Pinales",
+      [
+        "Siphonogamie",
+        "Canaux résinifères"
+      ]
+    ],
+    [
+      "Famille",
+      "Pinacées",
+      [
+        "Cônes ligneux"
+      ]
+    ],
+    [
+      "Genre",
+      "Pinus",
+      [
+        "Aiguilles en faisceaux (brachyblastes)"
+      ]
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Taxus baccata",
+    "parents": [
+      "Pinus nigra",
+      "Picea abies"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ses aiguilles sont regroupées par **2** sur des rameaux courts (brachyblastes). Il est monoïque. Les cônes mâles libèrent au printemps un pollen à deux **ballonnets** d’air. Les cônes femelles mettent **deux ans** à mûrir : la pollinisation a lieu un an, la fécondation l’année suivante.",
+    "details": "Son bois est formé de **trachéides**, sans vrais vaisseaux, avec des **canaux résinifères**. Le pollen germe sur l’ovule et forme un tube pollinique (siphonogamie). Ses gamètes mâles ne sont pas flagellés."
+  },
+  "identification": {
+    "feuille": "Aiguilles par 2, 4–7 cm, souvent tordues, vert-bleuté",
+    "fleur": "Cônes mâles jaunes en grappes (mai), cônes femelles rougeâtres",
+    "fruit": "Cône ovoïde 3–7 cm, mûrit en 2 ans",
+    "ecorce": "Orange saumon et écailleuse dans la partie haute, gris-brun crevassé en bas",
+    "port": "Cime en parasol chez les vieux arbres",
+    "periode": "Pollen en mai-juin (« pluie de soufre »)"
+  },
+  "ecologie": {
+    "essentiel": "Landes et sols sableux acides (Campine, Hautes Fagnes plantées), dunes.",
+    "details": "Espèce **indigène** en Belgique, mais surtout plantée. Elle forme des **ectomycorhizes** (bolets, lactaires délicieux). Ses pinèdes abritent l’engoulevent et la fourmi rousse.",
+    "uicn": "LC",
+    "menaces": [
+      "Sécheresses",
+      "Incendies"
+    ]
+  },
+  "usages": {
+    "essentiel": "Bois de construction et poteaux. Sa **résine** donne la térébenthine et la colophane (archets de violon).",
+    "details": "Les bourgeons servaient en infusions et en sirops contre la toux."
+  },
+  "facts": [
+    "Son cône met deux ans à mûrir.",
+    "Ses grains de pollen ont deux ballonnets d’air pour voler loin.",
+    "Le pollen de pin couvre parfois les flaques d’une « pluie de soufre » jaune en mai.",
+    "C’est le conifère à la plus vaste aire naturelle au monde, de l’Écosse à la Sibérie."
+  ],
+  "anecdote": "La « pluie de soufre » jaune qui couvre les voitures en mai, ce sont des milliards de grains de pollen de pin munis de petits ballons d’air.",
+  "indices_quiz": [
+    "Conifère à aiguilles par deux et tronc orangé en haut.",
+    "Cône mûr en deux ans.",
+    "Pollen à ballonnets d’air."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/58722",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Pinus_sylvestris"
+  },
+  "notions": [
+    "heterosporie-graine"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Campine, landes, dunes boisées, Hautes Fagnes (plantations).",
+    "quand": "Toute l’année ; pollen en mai.",
+    "criteres": [
+      "Aiguilles par 2 bleutées",
+      "Tronc orange vif dans le haut",
+      "Petits cônes à pointe tournée vers l’arrière"
+    ],
+    "sosies": [
+      {
+        "espece": "Pin noir d’Autriche (Pinus nigra)",
+        "distinguer": "Aiguilles par 2 aussi, mais plus longues (8–15 cm), vert foncé, raides ; écorce grise sans orange."
+      }
+    ]
+  }
+}

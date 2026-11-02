@@ -1,0 +1,99 @@
+{
+  "id": "pavo-cristatus",
+  "nom": "Paon bleu",
+  "latin": "Pavo cristatus",
+  "groupe": "oiseau",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": false,
+  "clade": "galliformes",
+  "resume": "Le mâle porte une **traîne** de plus de 150 plumes ornées d’**ocelles**, qu’il déploie en roue. C’est l’exemple canonique de la **sélection sexuelle**. Darwin écrivait que sa vue le rendait malade.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Oiseaux",
+      "synapomorphies": [
+        "Plumes",
+        "Furcula",
+        "Bec corné",
+        "Hallux retourné"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Galliformes",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Phasianidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Pavo",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Anas platyrhynchos",
+    "parents": [
+      "Pavo muticus",
+      "Afropavo congensis",
+      "Phasianus colchicus"
+    ]
+  },
+  "facts": [
+    "La « queue » du paon est faite de plumes sus-caudales, pas de rectrices.",
+    "Le bleu du paon est une couleur structurale, sans pigment bleu.",
+    "Les mâles font vibrer leur traîne et émettent des infrasons.",
+    "Darwin écrivait qu’une plume de paon le rendait malade, car elle défiait la sélection naturelle."
+  ],
+  "anecdote": "« La vue d’une plume de queue de paon me rend malade », écrivait Darwin : c’est ce qui l’a poussé à formuler la sélection sexuelle.",
+  "indices_quiz": [
+    "Galliforme dont le mâle porte une traîne de sus-caudales ocellées.",
+    "Couleurs structurales sans pigment bleu.",
+    "Exemple canonique du handicap et de la sélection sexuelle."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/1204",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Pavo_cristatus"
+  },
+  "notions": [
+    "signal-honnete"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "La traîne n’est pas la queue : ce sont les **sus-caudales** allongées, soutenues par les vraies rectrices. Les couleurs sont **structurales** : elles viennent d’une interférence de la lumière sur des nanostructures de mélanine et de kératine, et non de pigments bleus.",
+    "details": "La femelle est brune et discrète. Le mâle perd sa traîne chaque année après la saison de reproduction."
+  },
+  "comportement": {
+    "essentiel": "Au lek, les mâles paradent et font **vibrer** leur traîne (*train rattling*). Ils produisent ainsi des infrasons que les femelles perçoivent.",
+    "details": "Petrie (1994) a montré que les femelles préfèrent les mâles aux traînes riches en ocelles, et que leurs petits grandissent et survivent mieux : c’est l’hypothèse des **bons gènes** et du handicap. D’autres études (Takahashi et al., 2008, au Japon) n’ont pas retrouvé cette préférence pour le nombre d’ocelles : le débat reste ouvert.",
+    "concepts": [
+      "signal-honnete",
+      "bateman-selection-sexuelle",
+      "cd-signaux-honnetes"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Forêts claires d’Inde et du Sri Lanka ; introduit et domestiqué partout.",
+    "details": "Oiseau national de l’Inde, protégé.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  }
+}

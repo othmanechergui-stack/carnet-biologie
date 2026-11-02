@@ -1,0 +1,150 @@
+{
+  "id": "corylus-avellana",
+  "nom": "Noisetier (coudrier)",
+  "latin": "Corylus avellana",
+  "type": "arbuste",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "haie"
+  ],
+  "belgique": true,
+  "clade": "fagales",
+  "saison": [
+    1,
+    2,
+    3,
+    9
+  ],
+  "resume": "Arbuste des haies et des sous-bois qui fleurit **en plein hiver**. Ses chatons jaunes pendants libèrent leur pollen dès janvier. Il donne les noisettes en septembre.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Rosidées",
+      []
+    ],
+    [
+      "Ordre",
+      "Fagales",
+      [
+        "Chatons"
+      ]
+    ],
+    [
+      "Famille",
+      "Bétulacées",
+      []
+    ],
+    [
+      "Genre",
+      "Corylus",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Fagus sylvatica",
+    "parents": [
+      "Corylus maxima",
+      "Carpinus betulus"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Il est monoïque et **anémophile**. Les **chatons mâles** pendent, et les fleurs femelles sont minuscules : on ne voit que leurs **stigmates rouges** dépasser d’un bourgeon. La fécondation est **retardée** de 4 à 5 mois après la pollinisation : le tube pollinique attend que l’ovule mûrisse.",
+    "details": "Le fruit est un **akène**, la noisette, entouré d’un involucre foliacé. Il est auto-incompatible : il faut plusieurs génotypes pour avoir des noisettes. Il rejette vigoureusement de souche, ce qui explique le recépage en taillis."
+  },
+  "identification": {
+    "feuille": "Ronde, doublement dentée, pointe courte, duveteuse",
+    "fleur": "Chatons jaunes pendants (janv.-mars), stigmates rouges minuscules",
+    "fruit": "Noisette dans une cupule foliacée frangée",
+    "ecorce": "Brun luisant à lenticelles",
+    "port": "Arbuste multitige",
+    "periode": "Floraison dès janvier ; noisettes en septembre"
+  },
+  "ecologie": {
+    "essentiel": "Haies, lisières, sous-bois clairs, taillis.",
+    "details": "Il nourrit le muscardin, les écureuils, les geais et le balanin des noisettes (charançon).",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Noisettes comestibles. Les baguettes de coudrier servaient à la vannerie, aux clôtures tressées et… à la sourcellerie.",
+    "details": "Son pollen précoce est la première allergie de l’année (janvier-février).",
+    "cueillette": "Noisettes mûres en septembre ; laisse-en aux muscardins."
+  },
+  "facts": [
+    "Il fleurit en janvier, avant tout le monde.",
+    "La fécondation a lieu 4 à 5 mois après la pollinisation.",
+    "Ses fleurs femelles ne sont que de minuscules pinceaux rouges.",
+    "Les noisettes rongées révèlent l’animal : trou net et rond pour le muscardin, coquille fendue en deux pour l’écureuil."
+  ],
+  "anecdote": "Une noisette percée d’un trou rond aux bords lisses et striés a été mangée par un muscardin, petit rongeur discret des haies.",
+  "indices_quiz": [
+    "Bétulacée qui fleurit dès janvier en chatons pendants.",
+    "Fécondation retardée de plusieurs mois.",
+    "Ses fleurs femelles sont de petits pinceaux rouges."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/54491",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Corylus_avellana"
+  },
+  "notions": [],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Haies, lisières, taillis.",
+    "quand": "Chatons de janvier à mars ; noisettes en septembre.",
+    "criteres": [
+      "Chatons jaunes en hiver",
+      "Feuilles rondes et duveteuses",
+      "Port en cépée"
+    ],
+    "sosies": [
+      {
+        "espece": "Charme (Carpinus betulus)",
+        "distinguer": "Feuilles plus allongées et plissées, tronc unique cannelé, fruits ailés à bractée."
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "tajima-neutralite",
+  "titre": "Tests de neutralité : D de Tajima et McDonald-Kreitman",
+  "module": "module3",
+  "source": "module 3/VariationGeÌneÌtique_seÌlection - copie.pdf",
+  "essentiel": "Le **D de Tajima** (1989) compare deux estimateurs de θ = 4Neμ : la diversité nucléotidique **π** (sensible aux variants de fréquence intermédiaire) et **θ_W**, tiré du nombre de sites polymorphes (sensible aux variants rares). Sous neutralité et effectif constant, D ≈ 0. Le **test de McDonald-Kreitman** compare les rapports non synonymes / synonymes entre polymorphisme intra-spécifique et divergence inter-spécifique.",
+  "details": "Interprétation du D de Tajima :\n- **D < 0** : excès de variants rares, signe d’une **expansion démographique** ou d’un **balayage sélectif** ;\n- **D > 0** : excès de variants intermédiaires, signe d’une **sélection balancée**, d’un **goulet d’étranglement** récent ou d’une **structure** de population.\n\nPiège : la démographie et la sélection laissent des signatures similaires. On les distingue en comparant de nombreux loci : la démographie affecte tout le génome, la sélection seulement certains loci.\n\nTest MK : un excès de divergence non synonyme par rapport à ce que prédit le polymorphisme indique une **sélection positive** récurrente.",
+  "question": "Tu trouves un D de Tajima fortement négatif sur tous les loci étudiés chez une espèce. Sélection ou démographie ?",
+  "reponse": "Plutôt la **démographie**. Un D négatif sur **tout le génome** signe une **expansion démographique** récente, avec un excès de mutations rares apparues pendant la croissance. Un balayage sélectif ne toucherait que le locus sélectionné et les régions liées. Pour invoquer la sélection, il faudrait un locus **aberrant** par rapport à la distribution génomique.",
+  "pieges": [
+    "Interpréter un D significatif comme une preuve directe de sélection.",
+    "Oublier que les goulets peuvent donner D > 0."
+  ],
+  "liens": [
+    "coalescence",
+    "selection-dominance"
+  ]
+}

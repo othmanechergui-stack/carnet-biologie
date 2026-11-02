@@ -1,0 +1,144 @@
+{
+  "id": "solanum-tuberosum",
+  "nom": "Pomme de terre",
+  "latin": "Solanum tuberosum",
+  "type": "assiette",
+  "regne": "plante",
+  "milieu": [
+    "culture"
+  ],
+  "belgique": true,
+  "clade": "solanales",
+  "saison": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "resume": "Une **tige souterraine** gonflée (tubercule), pas une racine. Originaire des Andes, elle est au cœur de la cuisine belge, mais toutes ses parties vertes sont **toxiques**.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Solanales",
+      []
+    ],
+    [
+      "Famille",
+      "Solanacées",
+      [
+        "Alcaloïdes (solanine)"
+      ]
+    ],
+    [
+      "Genre",
+      "Solanum",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Digitalis purpurea",
+    "parents": [
+      "Solanum lycopersicum",
+      "Solanum melongena",
+      "Solanum dulcamara"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Le **tubercule** est un rameau souterrain (stolon) renflé. Ses « yeux » sont des **bourgeons** à l’aisselle de petites feuilles réduites, et il verdit à la lumière. Ce sont donc des caractères de **tige**, pas de racine. La fleur est blanche ou mauve, à étamines jaunes en cône. Le fruit est une baie verte toxique.",
+    "details": "La pomme de terre cultivée est surtout **tétraploïde** et multipliée **végétativement**, par clonage des tubercules. Cette faible diversité génétique l’a rendue vulnérable au **mildiou** (*Phytophthora infestans*, un oomycète, donc un straménopile et non un champignon), à l’origine de la Grande Famine d’Irlande (1845-1852), qui a aussi touché la Belgique."
+  },
+  "identification": {
+    "feuille": "Composée, folioles inégales",
+    "fleur": "Blanche à mauve, étamines en cône jaune",
+    "fruit": "Baie verte (toxique)",
+    "ecorce": "—",
+    "port": "Herbacée 0,5–1 m",
+    "periode": "Floraison juin-juillet ; récolte été-automne"
+  },
+  "ecologie": {
+    "essentiel": "Champs cultivés. Domestiquée dans les **Andes** (Pérou, Bolivie) il y a environ 8 000 ans.",
+    "details": "Le mildiou reste la principale maladie. La Belgique est l’un des premiers exportateurs mondiaux de frites surgelées.",
+    "uicn": "NE",
+    "menaces": [
+      "Mildiou",
+      "Doryphore"
+    ]
+  },
+  "usages": {
+    "essentiel": "Les frites belges cuites deux fois, la purée, le stoemp. Les parties vertes, les germes et les tubercules verdis contiennent de la **solanine** : il faut les éplucher largement ou les jeter.",
+    "details": "Patate douce (Convolvulacée) et pomme de terre ne sont pas parentes proches.",
+    "confusions_dangereuses": [
+      "Tubercules verdis et germes : solanine toxique",
+      "Baies vertes de la plante : toxiques (enfants)"
+    ]
+  },
+  "facts": [
+    "Le tubercule est une tige : ses « yeux » sont des bourgeons.",
+    "La Grande Famine d’Irlande a été causée par un oomycète, pas par un champignon.",
+    "Tomate, aubergine et pomme de terre sont du même genre, Solanum.",
+    "Un tubercule verdi signale aussi la présence de solanine."
+  ],
+  "anecdote": "Une pomme de terre n’est pas une racine mais une tige : la preuve, ses yeux sont des bourgeons et elle verdit à la lumière.",
+  "indices_quiz": [
+    "Solanacée à tubercules (tiges souterraines).",
+    "Clonée végétativement, donc vulnérable au mildiou.",
+    "Même genre que la tomate."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/53858",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Solanum_tuberosum"
+  },
+  "notions": [
+    "endosymbiose-algues"
+  ],
+  "ajoute_le": "2026-11-02"
+}

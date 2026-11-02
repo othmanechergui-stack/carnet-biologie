@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-23-retrovirus-chimpanze-organoides",
+  "date": "2026-10-23",
+  "titre": "Un vieux rétrovirus éteint un gène cérébral chez le chimpanzé",
+  "resume": "Un reste de rétrovirus endogène (PTERV1), méthylé dans le génome du chimpanzé, réduit au silence le gène LINC00662, actif dans les organoïdes cérébraux humains. L’enlever par CRISPR rétablit l’expression ; éteindre le gène chez l’humain réduit l’expression de gènes de développement neuronal et de synapses. Modèle : organoïdes, simplification du cerveau.",
+  "source": {
+    "nom": "Science Advances — Gerdes, Jakobsson (Univ. Lund) — Phys.org",
+    "url": "https://phys.org/news/2026-10-ancient-virus-chimpanzee-dna-gene.html"
+  },
+  "themes": [
+    "genetique",
+    "evolution",
+    "neurosciences"
+  ],
+  "grille": {
+    "modele": "in vitro",
+    "echantillon": "non précisé (organoïdes)",
+    "publication": "revue",
+    "design": "causalite",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "Comment le rétrovirus PTERV1 réduit-il au silence LINC00662 chez le chimpanzé ?",
+    "choix": [
+      "Par mutation du gène lui-même",
+      "L’insertion virale est méthylée et éteint le gène voisin",
+      "En détruisant les neurones"
+    ],
+    "bonne": 1
+  },
+  "module": "transcriptomique"
+}

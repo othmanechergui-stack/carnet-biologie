@@ -1,0 +1,18 @@
+{
+  "id": "chordes-synapomorphies",
+  "titre": "Les cinq synapomorphies des Chordés",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Les Chordés (Céphalocordés, Urochordés ou tuniciers, et Crâniates) partagent cinq caractères dérivés : la **chorde dorsale** (d’origine mésodermique), le **tube neural dorsal** (épineuriens), le **pharynx percé de fentes**, la **queue post-anale** et l’**endostyle** (gouttière ciliée, homologue de la thyroïde). Les **tuniciers**, et non les céphalocordés, sont le groupe frère des vertébrés : c’est le clade des **Olfactores**.",
+  "details": "On rapprochait autrefois céphalocordés et vertébrés, réunis dans les « Myomérozoaires », à cause de leur musculature segmentée en myomères issus des somites. Les phylogénies moléculaires ont renversé cette idée. Les tuniciers adultes, fixés et filtreurs, ont perdu la chorde et la queue, qui ne subsistent que chez la larve « têtard ». Cela explique qu’on les ait mal classés.\n\nCertains caractères peuvent n’apparaître que chez l’embryon : les fentes pharyngiennes, par exemple, chez l’humain.",
+  "question": "Comment expliquer qu’une ascidie adulte, fixée et en forme de sac, soit plus proche de nous que l’amphioxus qui ressemble à un petit poisson ?",
+  "reponse": "La ressemblance de l’amphioxus avec un « poisson » repose sur des caractères **ancestraux** des chordés (chorde, myomères, nage ondulante). Ce sont des symplésiomorphies, inutiles pour établir une parenté. L’ascidie adulte est très **dérivée** : elle a perdu chorde et queue lors de la métamorphose. Mais sa larve possède tous les caractères de chordé, et les données moléculaires (gènes, génomes) placent les tuniciers comme **groupe frère des vertébrés** (Olfactores).",
+  "pieges": [
+    "Prendre la ressemblance globale (forme de poisson) pour un signe de parenté.",
+    "Oublier l’endostyle dans la liste des synapomorphies."
+  ],
+  "liens": [
+    "cretes-neurales-craniates",
+    "caracteres-cladistique"
+  ]
+}

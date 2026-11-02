@@ -1,0 +1,158 @@
+{
+  "id": "hedera-helix",
+  "nom": "Lierre grimpant",
+  "latin": "Hedera helix",
+  "type": "liane",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "urbain",
+    "jardin"
+  ],
+  "belgique": true,
+  "clade": "apiales",
+  "saison": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2
+  ],
+  "resume": "La liane toujours verte de nos murs et de nos arbres. Elle **fleurit en automne** (septembre à novembre) et fructifie en hiver. C’est une ressource cruciale pour les insectes en fin de saison.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Apiales",
+      []
+    ],
+    [
+      "Famille",
+      "Araliacées",
+      [
+        "Ombelles"
+      ]
+    ],
+    [
+      "Genre",
+      "Hedera",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Daucus carota",
+    "parents": [
+      "Hedera hibernica",
+      "Fatsia japonica"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Il présente une **hétérophyllie** liée à l’âge. Les rameaux **juvéniles** rampants ou grimpants portent des feuilles lobées et des **racines-crampons**. Les rameaux **adultes** fertiles, dressés à la lumière, portent des feuilles entières en losange et des **ombelles** de fleurs vert-jaune.",
+    "details": "Il n’est **pas un parasite** : ses crampons ne servent qu’à l’ancrage, et il puise l’eau dans le sol. Ses fruits, des baies noires, mûrissent en fin d’hiver. Une bouture d’un rameau adulte donne un arbuste non grimpant, le « lierre arborescent » : la phase est stable, un exemple de changement de phase (juvénile → adulte)."
+  },
+  "identification": {
+    "feuille": "Persistante ; lobée (3–5 lobes) sur rameaux juvéniles, entière en losange sur rameaux fleuris",
+    "fleur": "Ombelles globuleuses vert-jaune, riches en nectar",
+    "fruit": "Baies noires en ombelles (janvier-mars)",
+    "ecorce": "—",
+    "port": "Liane à racines-crampons",
+    "periode": "Floraison septembre-novembre ; fruits fin d’hiver"
+  },
+  "ecologie": {
+    "essentiel": "Forêts, haies, murs, arbres.",
+    "details": "Sa floraison tardive nourrit les abeilles, les syrphes, les papillons et surtout l’**abeille du lierre** (*Colletes hederae*), une spécialiste qui a colonisé la Belgique ces dernières décennies. Ses fruits nourrissent les grives et les ramiers en hiver, et son feuillage abrite les nids et les insectes hivernants.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Toxique pour l’humain : saponines dans les baies et les feuilles. Utilisé en extrait standardisé comme antitussif.",
+    "details": "Ses saponines ont des propriétés moussantes : on a lavé du linge avec des feuilles bouillies.",
+    "confusions_dangereuses": [
+      "Baies toxiques (saponines), surtout pour les enfants"
+    ]
+  },
+  "facts": [
+    "Il fleurit de septembre à novembre, quand presque plus rien ne fleurit.",
+    "Ce n’est pas un parasite : ses crampons ne font que s’accrocher.",
+    "Ses feuilles changent de forme quand la plante devient adulte et fertile.",
+    "L’abeille du lierre (Colletes hederae), spécialiste de sa floraison, a colonisé la Belgique ces dernières décennies."
+  ],
+  "anecdote": "En novembre, le lierre en fleur bourdonne : c’est le dernier restaurant ouvert pour les abeilles, syrphes et papillons.",
+  "indices_quiz": [
+    "Araliacée lianescente à floraison automnale.",
+    "Feuilles lobées (juvénile) et entières (adulte fertile).",
+    "Ce n’est pas un parasite."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/55882",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Hedera_helix"
+  },
+  "notions": [],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Murs, troncs, sous-bois ; les rameaux fleuris sont en hauteur, côté soleil.",
+    "quand": "Floraison en octobre-novembre : observe les insectes à midi par beau temps.",
+    "criteres": [
+      "Feuilles persistantes lobées",
+      "Racines-crampons",
+      "Ombelles globuleuses vert-jaune en automne"
+    ],
+    "sosies": [
+      {
+        "espece": "Lierre d’Irlande (Hedera hibernica)",
+        "distinguer": "Feuilles plus grandes ; poils en étoile à rayons aplatis (à la loupe) ; souvent planté."
+      }
+    ]
+  }
+}

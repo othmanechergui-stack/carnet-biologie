@@ -1,0 +1,124 @@
+{
+  "id": "marchantia-polymorpha",
+  "nom": "Marchantie polymorphe",
+  "latin": "Marchantia polymorpha",
+  "type": "mousse",
+  "regne": "plante",
+  "milieu": [
+    "jardin",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "marchantiophyta",
+  "saison": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "resume": "Une **hépatique** à thalle aplati qui envahit les pots de fleurs et les joints humides. Elle porte de curieuses « coupes » à propagules et des « parasols ». C’est un **organisme modèle** pour l’évolution des plantes terrestres.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Division",
+      "Hépatiques (Marchantiophytes)",
+      [
+        "Pas de stomates vrais",
+        "Sporange sans columelle",
+        "Élatères"
+      ]
+    ],
+    [
+      "Classe",
+      "Marchantiopsida",
+      [
+        "Thalle à pores aérifères"
+      ]
+    ],
+    [
+      "Famille",
+      "Marchantiacées",
+      []
+    ],
+    [
+      "Genre",
+      "Marchantia",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Polytrichum commune",
+    "parents": [
+      "Lunularia cruciata",
+      "Conocephalum conicum"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Le **thalle** dichotome est percé de **pores** (pas de vrais stomates : ils ne se ferment pas) qui s’ouvrent sur des chambres aérifères. Il porte des **corbeilles à propagules** (multiplication asexuée par éclaboussure de pluie). Les plantes sont **dioïques** : des « parasols » mâles (anthéridiophores) et des parasols femelles en étoile (archégoniophores) portent les gamétanges.",
+    "details": "Le sporophyte est minuscule, sous les rayons des parasols femelles. Les spores sont accompagnées d’**élatères** hygroscopiques qui les dispersent. Son génome, séquencé en 2017, montre une faible redondance des gènes de régulation. C’est un modèle de « plante terrestre minimale »."
+  },
+  "identification": {
+    "feuille": "Pas de feuilles : thalle vert ruban, bifurqué, à losanges et pores",
+    "fleur": "Parasols mâles (disques) et femelles (étoiles) sur pédicelles",
+    "fruit": "Sporophytes pendants sous les étoiles",
+    "ecorce": "—",
+    "port": "Thalle rampant",
+    "periode": "Propagules toute l’année ; parasols au printemps-été"
+  },
+  "ecologie": {
+    "essentiel": "Sols nus humides, pots de pépinières, joints de pavés, sites brûlés.",
+    "details": "C’est une pionnière après les incendies.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Mauvaise herbe des pépinières, sans usage alimentaire. Utilisée historiquement (théorie des signatures) pour le foie, d’où le nom d’« hépatique », sans effet démontré.",
+    "details": "Modèle de laboratoire très utilisé (MarpolBase)."
+  },
+  "facts": [
+    "Ses « pores » ne se ferment pas : ce ne sont pas de vrais stomates.",
+    "Elle se clone par des propagules projetées hors de petites coupes par la pluie.",
+    "Les hépatiques n’ont pas de cellules conductrices.",
+    "Son génome a été séquencé en 2017 comme modèle de plante terrestre."
+  ],
+  "anecdote": "Les petites coupes vertes sur la marchantie sont des catapultes : une goutte de pluie y tombe et projette des clones à plus d’un mètre.",
+  "indices_quiz": [
+    "Hépatique à thalle et parasols.",
+    "Corbeilles à propagules dispersées par la pluie.",
+    "Pores aérifères qui ne se ferment pas."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/56406",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Marchantia_polymorpha"
+  },
+  "notions": [
+    "adaptations-terrestres"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Pots de fleurs, jardineries, joints de pavés humides.",
+    "quand": "Toute l’année.",
+    "criteres": [
+      "Thalle vert aplati bifurqué",
+      "Petites coupes à propagules",
+      "Parasols en étoile au printemps"
+    ],
+    "sosies": [
+      {
+        "espece": "Lunulaire (Lunularia cruciata)",
+        "distinguer": "Corbeilles à propagules en croissant de lune (et non en coupe ronde)."
+      }
+    ]
+  }
+}

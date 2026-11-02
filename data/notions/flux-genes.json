@@ -1,0 +1,18 @@
+{
+  "id": "flux-genes",
+  "titre": "Flux de gènes et structure spatiale",
+  "module": "module3",
+  "source": "module 3/Flux gènes.pdf",
+  "essentiel": "Le **flux de gènes**, c’est-à-dire le mouvement d’individus ou de gamètes entre populations, **homogénéise** les fréquences alléliques. La **dérive** dans chaque dème les fait diverger. À l’**équilibre dérive-migration**, le F_ST est prévisible (≈ 1/(4Nm+1) dans le modèle en îles). Quand la dispersion est limitée dans l’espace, on observe un **isolement par la distance** : la différenciation augmente avec la distance géographique.",
+  "details": "Modèles de structure :\n- **continent-île** : migration à sens unique ;\n- **en îles** : tous les dèmes échangent également ;\n- **stepping-stone** : échanges entre voisins seulement ;\n- **isolement par la distance** continu (Wright, Rousset) : on régresse F_ST/(1−F_ST) sur le logarithme de la distance en deux dimensions.\n\nLe flux de gènes peut **freiner l’adaptation locale** (*migration load*) mais aussi apporter de la diversité et sauver des populations : c’est le **sauvetage génétique**, comme chez la panthère de Floride.",
+  "question": "Des populations de grenouilles montrent un F_ST qui augmente régulièrement avec la distance entre mares. Quel modèle de structure cela suggère-t-il ?",
+  "reponse": "Un **isolement par la distance**. La dispersion est limitée : les individus migrent surtout entre mares **voisines**, comme dans un modèle stepping-stone. Les populations proches échangent beaucoup de gènes et se ressemblent. Les populations éloignées échangent peu et divergent par dérive. On le teste par la corrélation entre différenciation génétique et distance géographique, avec un test de Mantel.",
+  "pieges": [
+    "Appliquer sans précaution la conversion F_ST → Nm du modèle en îles à un système structuré dans l’espace.",
+    "Oublier que le flux de gènes peut contrer l’adaptation locale."
+  ],
+  "liens": [
+    "fst-nm",
+    "derive-genetique"
+  ]
+}

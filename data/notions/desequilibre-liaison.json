@@ -1,0 +1,17 @@
+{
+  "id": "desequilibre-liaison",
+  "titre": "Déséquilibre de liaison",
+  "module": "module2",
+  "source": "module 2/Résumé module 2.docx",
+  "essentiel": "Deux loci sont en **déséquilibre de liaison (DL)** quand leurs allèles s’associent de façon non aléatoire dans les gamètes : **D = x₁₁ − p₁q₁**, où x₁₁ est la fréquence de l’haplotype et p₁, q₁ les fréquences des allèles. Sous panmixie, D diminue de **(1 − r)** à chaque génération, où r est le taux de recombinaison. Les loci proches restent donc longtemps en DL.",
+  "details": "Causes du DL :\n- le **mélange de populations** différenciées : hybridation, migration ;\n- une **nouvelle mutation**, qui apparaît sur un seul haplotype ;\n- la sélection, y compris l’auto-stop génétique ;\n- les goulets d’étranglement et la dérive dans les petites populations.\n\nApplications :\n- la **cartographie génétique** et les **GWAS**, où un SNP marqueur en DL avec la mutation causale est associé au trait ;\n- la datation de mutations ;\n- la détection de balayages sélectifs (longs haplotypes).",
+  "question": "Pourquoi un SNP associé à une maladie dans une GWAS n’est-il souvent pas la mutation responsable ?",
+  "reponse": "Parce que les GWAS utilisent des SNP **marqueurs** génotypés à densité limitée. Un SNP détecté peut simplement être en **fort déséquilibre de liaison** avec le variant causal voisin, non génotypé : ils sont hérités ensemble sur le même bloc d’haplotype car la recombinaison entre eux est rare. Il faut ensuite une **cartographie fine** (séquençage, études fonctionnelles, comparaison entre populations aux structures de DL différentes) pour trouver le vrai variant.",
+  "pieges": [
+    "Confondre liaison physique (même chromosome) et déséquilibre de liaison (association statistique, qui peut exister entre loci non liés après un mélange).",
+    "Oublier le facteur (1 − r) par génération."
+  ],
+  "liens": [
+    "hardy-weinberg"
+  ]
+}

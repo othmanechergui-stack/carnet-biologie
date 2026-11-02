@@ -1,0 +1,18 @@
+{
+  "id": "norme-reaction-gxe",
+  "titre": "Norme de réaction et interaction G×E",
+  "module": "module1",
+  "source": "module 1/1_Variation intraspÃ©cifique - copie.pdf",
+  "essentiel": "La **norme de réaction** d’un génotype est la fonction qui associe à chaque environnement le phénotype produit. On la représente par une courbe phénotype = f(environnement). Si les normes de plusieurs génotypes sont **parallèles**, il n’y a pas d’interaction. Si elles ont des **pentes différentes** ou se **croisent**, il y a une **interaction génotype × environnement (G×E)** : le meilleur génotype dépend du milieu.",
+  "details": "La pente mesure la **plasticité** : une pente nulle correspond à un trait canalisé. Une variation génétique des pentes signifie que la plasticité elle-même est **héritable** et peut évoluer.\n\nLa variance phénotypique se décompose ainsi : VP = VG + VE + VG×E (+ covariance).\n\nExemple classique : les clones d’*Achillea* (Clausen, Keck & Hiesey) cultivés à différentes altitudes. Leur classement de taille change selon le site : les normes se croisent.\n\nConséquence pratique : une héritabilité estimée dans un seul environnement ne se transpose pas à un autre.",
+  "question": "On cultive deux clones de plantain à 0 m et à 1 500 m. A mesure 30 cm puis 10 cm, B mesure 20 cm puis 15 cm. Y a-t-il de la plasticité ? Une interaction G×E ? Lequel est « le meilleur » ?",
+  "reponse": "**Plasticité** : oui, les deux génotypes changent de phénotype avec l’altitude (A : −20 cm ; B : −5 cm).\n\n**Interaction G×E** : oui, les pentes diffèrent et les normes **se croisent** (A > B en plaine, B > A en altitude).\n\nIl n’y a donc pas de « meilleur » génotype dans l’absolu : la supériorité dépend du milieu. C’est ce qui peut maintenir la variation génétique dans un environnement hétérogène.",
+  "pieges": [
+    "Confondre plasticité (pente ≠ 0) et interaction G×E (pentes différentes entre génotypes).",
+    "Croire qu’un trait plastique n’est pas génétique : la norme de réaction est le génotype."
+  ],
+  "liens": [
+    "plasticite-phenotypique",
+    "qst-fst"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cd-inversion-roles",
+  "titre": "Inversion des rôles sexuels",
+  "module": "ethologie",
+  "source": "comportement animal/Cours Eco-Ethologie_22-23.pdf",
+  "essentiel": "Ce n’est pas le sexe en soi mais l’**investissement parental relatif** qui détermine qui entre en compétition et qui choisit. Quand les mâles investissent plus que les femelles, les rôles s’**inversent** : les femelles deviennent plus colorées, plus compétitives, et les mâles plus sélectifs.",
+  "details": "Le **sex-ratio opérationnel** biaisé vers les femelles est le facteur prédictif clé. Ces exceptions confirment la théorie de Trivers plutôt qu’elles ne la contredisent.",
+  "question": "Pourquoi les femelles phalaropes sont-elles plus colorées que les mâles ?",
+  "reponse": "Chez les phalaropes, ce sont les **mâles qui couvent et élèvent** seuls les poussins. Les mâles disponibles sont la ressource limitante. Les femelles **entrent en compétition** pour eux, et certaines pondent pour plusieurs mâles successivement (polyandrie). La sélection sexuelle agit donc plus fortement sur les femelles, qui portent le plumage nuptial le plus vif.",
+  "pieges": [
+    "Croire que la parure vive est un attribut « masculin ».",
+    "Oublier le sex-ratio opérationnel."
+  ],
+  "exemples": [
+    {
+      "espece": "hippocampus-hippocampus",
+      "texte": "Le mâle porte les œufs dans sa poche incubatrice ; la femelle parade activement."
+    },
+    {
+      "espece_libre": "Phalaropes (Phalaropus spp.)",
+      "texte": "Les mâles couvent ; les femelles, plus colorées, sont polyandres."
+    },
+    {
+      "espece_libre": "Jacanas",
+      "texte": "Les femelles défendent des territoires contenant plusieurs mâles qui couvent."
+    }
+  ],
+  "liens": [
+    "bateman-selection-sexuelle"
+  ]
+}

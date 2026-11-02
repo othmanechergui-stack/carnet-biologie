@@ -1,0 +1,110 @@
+{
+  "id": "anguilla-anguilla",
+  "nom": "Anguille européenne",
+  "latin": "Anguilla anguilla",
+  "groupe": "poisson",
+  "milieu": [
+    "riviere",
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "teleostei",
+  "resume": "Poisson migrateur au cycle mystérieux : il naît en **mer des Sargasses**, grandit dans nos rivières pendant des années, puis repart pondre à plus de 5 000 km. L’espèce est **en danger critique**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Actinoptérygiens",
+      "synapomorphies": [
+        "Nageoires rayonnées"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Anguilliformes",
+      "synapomorphies": [
+        "Larve leptocéphale"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Anguillidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Anguilla",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Conger conger",
+    "parents": [
+      "Anguilla rostrata",
+      "Anguilla japonica"
+    ]
+  },
+  "facts": [
+    "Personne n’a jamais observé la ponte d’anguilles européennes en mer des Sargasses.",
+    "Les larves leptocéphales étaient d’abord décrites comme une espèce de poisson différente.",
+    "Le recrutement de civelles a chuté d’environ 90 % ou plus depuis 1980.",
+    "Aristote pensait que les anguilles naissaient de la boue."
+  ],
+  "anecdote": "On n’a jamais vu une anguille européenne se reproduire : on déduit le lieu de ponte, la mer des Sargasses, de la taille des larves de plus en plus petites trouvées en s’en approchant.",
+  "indices_quiz": [
+    "Poisson catadrome qui naît en mer des Sargasses.",
+    "Sa larve transparente en forme de feuille a d’abord été décrite comme une autre espèce.",
+    "Ses civelles ont chuté d’environ 90 % depuis les années 1980."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/94105",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Anguilla_anguilla"
+  },
+  "notions": [],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Le corps est serpentiforme, avec des nageoires dorsale, caudale et anale soudées et pas de nageoires pelviennes. Elle passe par plusieurs stades : **leptocéphale** (larve transparente en feuille de saule), **civelle**, anguille jaune, puis **anguille argentée** avant la migration de retour.",
+    "details": "Lors de l’argenture, les yeux grossissent, le tube digestif régresse et la peau devient argentée : c’est une préparation à la vie océanique. Le sexe est influencé par la **densité** (déterminisme environnemental), avec plus de mâles à forte densité. Personne n’a encore observé la reproduction en nature."
+  },
+  "comportement": {
+    "essentiel": "Elle est **catadrome** : elle grandit en eau douce et se reproduit en mer, à l’inverse du saumon, qui est anadrome.",
+    "details": "Les larves dérivent avec le Gulf Stream. Les anguilles adultes s’orientent probablement grâce au champ magnétique : des civelles réagissent à des variations magnétiques (Naisbett-Jones et al., 2017).",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Cours d’eau, étangs, estuaires de toute l’Europe.",
+    "details": "Le recrutement de civelles a chuté d’environ **90 à 99 %** depuis les années 1980, selon les régions. Les causes sont multiples : barrages, turbines, pêche des civelles (trafic vers l’Asie), parasites introduits (*Anguillicola crassus*), pollution.",
+    "uicn": "CR",
+    "menaces": [
+      "Barrages et turbines",
+      "Pêche et trafic des civelles",
+      "Parasite introduit Anguillicola crassus",
+      "Pollution (PCB)"
+    ]
+  },
+  "terrain": {
+    "ou": "Rivières et canaux, pertuis de l’Yser, Escaut ; passes à civelles au printemps.",
+    "quand": "Remontée des civelles au printemps ; dévalaison des argentées par nuits sombres d’automne.",
+    "criteres": [
+      "Corps de serpent visqueux",
+      "Nageoires impaires soudées",
+      "Mâchoire inférieure proéminente"
+    ],
+    "sosies": [
+      {
+        "espece": "Lamproie (Lampetra spp.)",
+        "distinguer": "Pas de mâchoire mais un disque buccal ; 7 orifices branchiaux de chaque côté."
+      }
+    ]
+  }
+}

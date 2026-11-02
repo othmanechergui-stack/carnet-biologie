@@ -1,0 +1,18 @@
+{
+  "id": "cnidaires-diploblastes",
+  "titre": "Cnidaires : deux feuillets et des cnidocytes",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Les Cnidaires possèdent deux épithéliums, l’**épiderme** et le **gastroderme**, séparés par une matrice extracellulaire, la **mésoglée**. Leur cavité gastrovasculaire n’a **qu’un seul orifice**, qui sert de bouche et d’anus. Leur synapomorphie est le **cnidocyte**, une cellule urticante qui contient un nématocyste. On les rencontre sous deux formes : le **polype**, fixé, et la **méduse**, libre.",
+  "details": "Le cours décrit quatre groupes.\n- **Hydrozoaires** : alternance polype asexué et méduse sexuée.\n- **Scyphozoaires** : formation des méduses par **strobilation**. Le polype (scyphistome) se segmente en disques empilés qui se libèrent sous forme d’éphyrules.\n- **Cubozoaires** : très toxiques, avec des yeux complexes.\n- **Anthozoaires** : coraux et anémones, sans forme méduse, à symétrie biradiale.\n\nLes **Cténaires** ont longtemps été rapprochés des Cnidaires, mais leur position reste débattue. Ils n’ont pas de cnidocytes et possèdent des pores anaux distincts de la bouche.",
+  "question": "Une méduse de Scyphozoaire naît-elle d’un œuf ? Décris le cycle de vie typique.",
+  "reponse": "Pas directement. Le cycle se déroule ainsi :\n1. Les méduses adultes (sexuées) libèrent des gamètes.\n2. Le zygote donne une **larve planula** ciliée.\n3. La planula se fixe et devient un petit **polype**, le scyphistome.\n4. Le polype se reproduit de façon asexuée par **strobilation** : il se segmente en disques empilés.\n5. Chaque disque se libère sous forme d’éphyrule, une jeune méduse qui grandit en méduse adulte.",
+  "pieges": [
+    "Dire que les cnidaires sont triploblastiques : la mésoglée n’est pas un feuillet embryonnaire.",
+    "Croire que tous les cnidaires ont une phase méduse (les Anthozoaires n’en ont pas)."
+  ],
+  "liens": [
+    "metazoaires-synapomorphies",
+    "triploblastes-coelome"
+  ]
+}

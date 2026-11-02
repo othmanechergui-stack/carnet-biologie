@@ -1,0 +1,153 @@
+{
+  "id": "reynoutria-japonica",
+  "nom": "Renouée du Japon",
+  "latin": "Reynoutria japonica",
+  "type": "fleur",
+  "regne": "plante",
+  "milieu": [
+    "riviere",
+    "friche",
+    "urbain"
+  ],
+  "belgique": true,
+  "clade": "caryophyllales",
+  "saison": [
+    8,
+    9,
+    10
+  ],
+  "resume": "L’une des pires **plantes invasives** d’Europe. Ses tiges creuses en « bambou » atteignent 3 m en quelques semaines et forment des fourrés denses le long des rivières et des routes. En Europe, elle se propage presque uniquement par **clonage**.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Ordre",
+      "Caryophyllales",
+      []
+    ],
+    [
+      "Famille",
+      "Polygonacées",
+      [
+        "Ochréa (gaine membraneuse à la base des feuilles)"
+      ]
+    ],
+    [
+      "Genre",
+      "Reynoutria (Fallopia)",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Urtica dioica",
+    "parents": [
+      "Reynoutria sachalinensis",
+      "Fallopia convolvulus"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Elle a un **rhizome** puissant qui peut s’étendre sur plusieurs mètres et descendre à 2 m de profondeur. Ses tiges sont creuses, tachées de rouge. Ses feuilles sont tronquées à la base, et la plante porte une **ochréa**. Ses petites fleurs blanches sont en grappes en septembre.",
+    "details": "En Europe, la quasi-totalité des pieds de *R. japonica* appartient à un **seul clone femelle** (mâle-stérile), introduit au XIXᵉ siècle (Hollingsworth & Bailey, 2000). L’invasion se fait par **fragments** : un fragment de rhizome de quelques grammes suffit. L’hybridation avec la renouée de Sakhaline donne *R. × bohemica*, qui produit des graines viables et est très envahissante."
+  },
+  "identification": {
+    "feuille": "Grande, ovale, base tronquée droite, pointe courte",
+    "fleur": "Petites fleurs blanches en grappes (septembre-octobre)",
+    "fruit": "Akène trigone ailé (rarement viable chez R. japonica en Europe)",
+    "ecorce": "—",
+    "port": "Fourrés de tiges creuses en zigzag, 2–3 m",
+    "periode": "Pousse avril-juin ; floraison fin d’été ; tiges sèches brunes en hiver"
+  },
+  "ecologie": {
+    "essentiel": "Berges, talus, friches, bords de route ; toute la Belgique.",
+    "details": "Elle **étouffe** la végétation indigène, appauvrit les berges et favorise leur érosion en hiver, quand les tiges meurent. Ses exsudats racinaires sont **allélopathiques**. Elle est inscrite sur les listes d’espèces invasives en Belgique.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Les jeunes pousses sont comestibles (goût de rhubarbe acidulée). Elle contient du **resvératrol**. Ne jamais déplacer de terre ni de fragments : c’est le moteur de l’invasion.",
+    "details": "La lutte est très difficile : fauche répétée, bâchage, et des essais de lutte biologique avec le psylle *Aphalara itadori* au Royaume-Uni.",
+    "cueillette": "Jeunes pousses < 20 cm au printemps, sans jamais disperser de fragments."
+  },
+  "facts": [
+    "En Europe, la renouée du Japon est essentiellement un seul clone femelle.",
+    "Un fragment de rhizome de quelques grammes suffit à démarrer une colonie.",
+    "Son hybride avec la renouée de Sakhaline produit des graines et pose encore plus de problèmes.",
+    "Philipp von Siebold l’a introduite comme plante ornementale et fourragère au XIXᵉ siècle."
+  ],
+  "anecdote": "La renouée du Japon qui envahit les berges de toute l’Europe est, génétiquement, presque une seule et même plante femelle, clonée à l’infini.",
+  "indices_quiz": [
+    "Polygonacée invasive à tiges creuses en bambou.",
+    "Un seul clone femelle en Europe.",
+    "Son hybride produit des graines viables."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/914922",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Reynoutria_japonica"
+  },
+  "notions": [
+    "hybridation-invasions",
+    "invasions-impacts",
+    "etapes-invasion"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Berges de rivières, talus de chemin de fer, friches urbaines.",
+    "quand": "Pousse explosive en mai-juin ; floraison en septembre.",
+    "criteres": [
+      "Tiges creuses tachetées de rouge, en zigzag",
+      "Feuilles à base tronquée droite",
+      "Ochréa à la base des pétioles"
+    ],
+    "sosies": [
+      {
+        "espece": "Renouée de Sakhaline (R. sachalinensis)",
+        "distinguer": "Feuilles bien plus grandes (jusqu’à 40 cm) à base en cœur."
+      },
+      {
+        "espece": "Bambous",
+        "distinguer": "Tiges ligneuses persistantes à nœuds pleins ; feuilles étroites (Poacées)."
+      }
+    ]
+  }
+}

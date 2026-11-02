@@ -1,0 +1,29 @@
+{
+  "id": "2026-10-12-mare",
+  "semaine": "2026-10-12",
+  "nom": "La mare",
+  "lieu": "Belgique (jardins, prairies, forêts)",
+  "fonctionnement": {
+    "essentiel": "Petit plan d’eau stagnant peu profond, sans courant, où la lumière atteint le fond. Production primaire par les algues et les plantes aquatiques, chaîne détritique alimentée par les feuilles mortes. Les mares temporaires, sans poissons, sont des refuges précieux pour les amphibiens.",
+    "details": "Zonation : ceinture de végétation de berge (joncs, iris), plantes à feuilles flottantes, plantes immergées. Les **poissons** introduits mangent les œufs et les larves d’amphibiens et d’insectes : une mare sans poissons est souvent plus riche. Les mares forment des **métapopulations** pour les tritons et les libellules : la connectivité entre mares compte autant que chaque mare. Elles s’atterrissent naturellement (succession) et doivent être curées partiellement."
+  },
+  "especes_cles": [
+    "bufo-bufo",
+    "gasterosteus-aculeatus",
+    "spongilla-lacustris",
+    "salamandra-salamandra"
+  ],
+  "especes_texte": "Larves de libellules, dytiques, notonectes, tritons alpestres et ponctués, gerris à la surface.",
+  "menaces": [
+    "Comblement et drainage",
+    "Introduction de poissons et d’écrevisses exotiques",
+    "Pesticides et engrais",
+    "Chytrides (Bd, Bsal)"
+  ],
+  "a_observer": "En octobre : derniers tritons qui quittent l’eau pour hiverner, larves de libellules actives sous l’eau, feuilles mortes qui alimentent la chaîne détritique. C’est la saison pour creuser une mare au jardin (sans poissons !).",
+  "notions": [
+    "metapopulations",
+    "successions-ecologiques",
+    "reseaux-trophiques"
+  ]
+}

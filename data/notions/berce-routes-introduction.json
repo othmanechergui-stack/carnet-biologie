@@ -1,0 +1,21 @@
+{
+  "id": "berce-routes-introduction",
+  "titre": "Retracer les routes d’introduction : la berce de Perse",
+  "module": "module4",
+  "source": "module 4/Les invasions biologiques - Routes introduction Heracleum persicum.pdf",
+  "essentiel": "Les **routes d’introduction** se reconstituent grâce à la génétique des populations. On compare les populations introduites à des populations sources possibles, avec des marqueurs comme les microsatellites, puis on utilise l’**assignation**, les **allèles privés**, des analyses de type **ABC** (*Approximate Bayesian Computation*) et des archives historiques. Ton cours étudie le cas de la **berce de Perse** (*Heracleum persicum*), introduite comme plante ornementale en Europe du Nord.",
+  "details": "La berce de Perse a été introduite au XIXᵉ siècle en Norvège, en Suède, au Danemark et au Royaume-Uni. Elle est connue en Norvège sous le nom de « palme de Tromsø ». Elle est proche de la **berce du Caucase** (*H. mantegazzianum*), envahissante en Belgique.\n\nL’étude génétique de ces populations (Rijal et al., 2015, *Mol. Ecol.*) a cherché à savoir si les populations nordiques venaient d’une même introduction, éventuellement via des jardins botaniques britanniques, et quel rôle avaient joué les échanges de graines.\n\nCette démarche est générale : elle permet de cibler la **prévention** (voies d’entrée) et de distinguer une population source unique d’introductions multiples.\n\nLes sèves des berces géantes contiennent des **furocoumarines phototoxiques**, qui provoquent des brûlures cutanées au soleil.",
+  "question": "À quoi sert concrètement de connaître la route d’introduction d’une espèce envahissante ?",
+  "reponse": "À **cibler la prévention** : identifier la voie d’entrée (commerce horticole, jardins botaniques, eaux de ballast) et la contrôler. Cela permet aussi de savoir si l’invasion vient d’une **seule** population source ou d’**introductions multiples**, ce qui renseigne sur la diversité génétique et le potentiel adaptatif. On peut aussi repérer d’éventuelles populations « tête de pont » secondaires. Enfin, cela oriente la **lutte biologique** : rechercher des ennemis naturels dans la région d’origine exacte.",
+  "pieges": [
+    "Supposer que la population source est forcément celle de l’aire native (cas des têtes de pont).",
+    "Confondre berce de Perse, berce du Caucase et berce commune."
+  ],
+  "liens": [
+    "etapes-invasion",
+    "paradoxe-genetique-invasions"
+  ],
+  "especes": [
+    "heracleum-sphondylium"
+  ]
+}

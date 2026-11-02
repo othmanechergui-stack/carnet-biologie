@@ -1,0 +1,133 @@
+{
+  "id": "amanita-phalloides",
+  "nom": "Amanite phalloïde",
+  "latin": "Amanita phalloides",
+  "type": "champignon",
+  "regne": "champignon",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "agaricales",
+  "saison": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "resume": "**Le champignon le plus mortel** : il est responsable de la grande majorité des décès par intoxication fongique. Il a un chapeau vert-olive, des lames **blanches**, un anneau et une **volve en sac**.",
+  "phylogenie": [
+    [
+      "Règne",
+      "Champignons (Fungi)",
+      [
+        "Hétérotrophie par absorption",
+        "Paroi chitineuse",
+        "Hyphes"
+      ]
+    ],
+    [
+      "Division",
+      "Basidiomycètes",
+      [
+        "Baside à 4 spores"
+      ]
+    ],
+    [
+      "Classe",
+      "Agaricomycètes",
+      []
+    ],
+    [
+      "Ordre",
+      "Agaricales",
+      [
+        "Lames"
+      ]
+    ],
+    [
+      "Famille",
+      "Amanitacées",
+      [
+        "Volve et anneau"
+      ]
+    ],
+    [
+      "Genre",
+      "Amanita",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Boletus edulis",
+    "parents": [
+      "Amanita virosa",
+      "Amanita muscaria"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Chapeau vert-olive à jaunâtre, parfois blanchâtre, à fibrilles radiales. **Lames blanches**, libres. Anneau blanc. **Volve membraneuse en sac** à la base, souvent enterrée : il faut **dégager toute la base** pour la voir.",
+    "details": "Ses toxines sont les **amatoxines** (α-amanitine). Elles inhibent l’**ARN polymérase II** et bloquent la transcription. Le **foie** est détruit. Les premiers symptômes apparaissent tardivement (6 à 24 h), ce qui fait croire à une guérison, puis survient l’insuffisance hépatique. Environ 30 g de champignon peuvent tuer un adulte. Elle est ectomycorhizienne des chênes et des hêtres."
+  },
+  "identification": {
+    "chapeau": "Vert-olive à jaunâtre, fibrilleux, 5–15 cm",
+    "lames": "Blanches, libres",
+    "pied": "Blanc chiné de vert, anneau blanc",
+    "chair": "Blanche, odeur faible puis de rose fanée",
+    "habitat": "Sous chênes et hêtres",
+    "periode": "Juillet-octobre"
+  },
+  "ecologie": {
+    "essentiel": "Chênaies et hêtraies, parcs.",
+    "details": "Introduite en Amérique du Nord et en Australie avec des arbres européens : elle y provoque des intoxications.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "**MORTELLE**. Ne jamais consommer de champignon blanc à lames sans identification par un expert : c’est la règle. Au moindre doute : centre antipoison (Belgique : 070 245 245).",
+    "details": "La silibinine (chardon-Marie) et la greffe de foie font partie des traitements des intoxications graves.",
+    "confusions_dangereuses": [
+      "Russule verdoyante (comestible) : PAS d’anneau ni de volve, chair cassante",
+      "Rosé des prés / agarics : lames ROSES puis brunes, pas de volve",
+      "Tricholome équestre : lames jaunes, pas de volve"
+    ]
+  },
+  "facts": [
+    "Son α-amanitine bloque l’ARN polymérase II, l’enzyme de la transcription des ARNm.",
+    "Les symptômes sont retardés de 6 à 24 h, avec une fausse rémission avant l’atteinte du foie.",
+    "La volve en sac est souvent enterrée : il faut dégager toute la base.",
+    "La cuisson ne détruit pas les amatoxines."
+  ],
+  "anecdote": "L’amanite phalloïde tue en bloquant la machine qui lit tes gènes : l’α-amanitine s’attaque à l’ARN polymérase II, et la cuisson n’y change rien.",
+  "indices_quiz": [
+    "Amanite vert-olive à lames blanches et volve en sac.",
+    "L’α-amanitine inhibe l’ARN polymérase II.",
+    "Symptômes retardés, foie détruit."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/52135",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Amanita_phalloides"
+  },
+  "notions": [
+    "epigenomique",
+    "mycorhizes"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Chênaies et hêtraies, parcs, partout.",
+    "quand": "Juillet-octobre.",
+    "criteres": [
+      "Chapeau vert-olive fibrilleux",
+      "Lames blanches + anneau",
+      "Volve en sac (dégager la base !)"
+    ],
+    "sosies": [
+      {
+        "espece": "Russule verdoyante (Russula virescens)",
+        "distinguer": "Chapeau vert craquelé, pas d’anneau ni de volve, chair cassante comme de la craie."
+      }
+    ]
+  }
+}

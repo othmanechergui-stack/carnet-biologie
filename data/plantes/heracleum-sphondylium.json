@@ -1,0 +1,167 @@
+{
+  "id": "heracleum-sphondylium",
+  "nom": "Berce commune",
+  "latin": "Heracleum sphondylium",
+  "type": "fleur",
+  "regne": "plante",
+  "milieu": [
+    "prairie",
+    "friche"
+  ],
+  "belgique": true,
+  "clade": "apiales",
+  "saison": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "resume": "La grande ombellifère blanche des prairies et des talus. Elle attire de nombreux insectes. C’est la cousine indigène des **berces géantes invasives**, dont il faut savoir la distinguer.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Apiales",
+      []
+    ],
+    [
+      "Famille",
+      "Apiacées",
+      [
+        "Ombelle composée",
+        "Fruit sec à 2 méricarpes"
+      ]
+    ],
+    [
+      "Genre",
+      "Heracleum",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Hedera helix",
+    "parents": [
+      "Heracleum mantegazzianum",
+      "Heracleum persicum",
+      "Pastinaca sativa"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Elle a des **ombelles composées** de 15 à 30 rayons. Les fleurs du bord de l’ombelle ont des pétales externes plus grands : l’ombelle est rayonnante. Ses fruits sont aplatis et ailés. Ses tiges sont creuses et cannelées, poilues, et ses feuilles sont grandes et découpées.",
+    "details": "Comme d’autres Apiacées, elle contient des **furocoumarines** : au contact de la peau puis au soleil, elles peuvent provoquer une **phytophotodermatose**. L’effet est bien plus fort chez les berces géantes."
+  },
+  "identification": {
+    "feuille": "Grande, pennatiséquée à lobes larges, rude",
+    "fleur": "Ombelles blanches 10–20 cm, 15–30 rayons",
+    "fruit": "Méricarpes aplatis ovales ailés",
+    "ecorce": "—",
+    "port": "Herbacée 0,5–2 m, tige creuse poilue",
+    "periode": "Juin-septembre"
+  },
+  "ecologie": {
+    "essentiel": "Prairies de fauche, talus, lisières, bords de chemins.",
+    "details": "Ses ombelles sont un **buffet** pour les coléoptères (lepture), les syrphes et les guêpes. Elle est souvent couverte de punaises arlequin (*Graphosoma*).",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Les jeunes pousses sont comestibles cuites (goût de mandarine et de coriandre). Attention aux confusions potentiellement mortelles avec la **ciguë** et à la sève photosensibilisante.",
+    "details": "Porte des gants : la sève + le soleil = brûlures.",
+    "cueillette": "Jeunes pousses au printemps, avec gants, seulement si l’identification est certaine.",
+    "confusions_dangereuses": [
+      "Grande ciguë (Conium maculatum) : tige lisse tachée de pourpre, odeur de souris, MORTELLE",
+      "Berce du Caucase (H. mantegazzianum) : 2–5 m, ombelles jusqu’à 50 cm, tige tachée de rouge, brûlures graves",
+      "Œnanthe safranée : mortelle, milieux humides"
+    ]
+  },
+  "facts": [
+    "Sa sève rend la peau photosensible : brûlures au soleil.",
+    "Les berces géantes invasives (Caucase, Perse) sont ses cousines.",
+    "Ses ombelles sont parmi les fleurs les plus visitées par les insectes en été.",
+    "Les jeunes pousses ont un goût étonnant d’agrume."
+  ],
+  "anecdote": "La berce commune a une cousine géante, la berce du Caucase : arrivée comme plante ornementale, elle mesure jusqu’à 5 m et brûle la peau au soleil.",
+  "indices_quiz": [
+    "Apiacée à grandes ombelles blanches rayonnantes.",
+    "Sa sève est photosensibilisante (furocoumarines).",
+    "Cousine indigène des berces géantes invasives."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/163682",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Heracleum_sphondylium"
+  },
+  "notions": [
+    "berce-routes-introduction",
+    "invasions-impacts"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Prairies, talus, lisières.",
+    "quand": "Juin-septembre.",
+    "criteres": [
+      "Ombelles blanches rayonnantes",
+      "Tige creuse poilue, cannelée",
+      "Grandes feuilles rudes découpées"
+    ],
+    "sosies": [
+      {
+        "espece": "Berce du Caucase (H. mantegazzianum)",
+        "distinguer": "Gigantesque (2–5 m), tige épaisse tachée de pourpre, ombelles jusqu’à 50 cm : invasive et dangereuse."
+      },
+      {
+        "espece": "Grande ciguë (Conium maculatum)",
+        "distinguer": "Tige LISSE glabre tachée de pourpre, odeur de souris, feuilles très finement découpées : mortelle."
+      }
+    ]
+  }
+}

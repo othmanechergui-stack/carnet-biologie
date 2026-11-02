@@ -1,0 +1,104 @@
+{
+  "id": "aphelocoma-coerulescens",
+  "nom": "Geai buissonnier de Floride",
+  "latin": "Aphelocoma coerulescens",
+  "groupe": "oiseau",
+  "milieu": [
+    "broussailles"
+  ],
+  "belgique": false,
+  "clade": "passeriformes",
+  "resume": "Geai bleu et gris, endémique des broussailles de chênes de Floride, et cas d’école de la **reproduction coopérative** : les jeunes restent aider leurs parents pendant des années.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Oiseaux",
+      "synapomorphies": [
+        "Plumes",
+        "Furcula",
+        "Bec corné",
+        "Hallux retourné"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Passériformes",
+      "synapomorphies": [
+        "Pied de perchoir"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Corvidés",
+      "synapomorphies": [
+        "Grand cerveau, mémoire spatiale"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Aphelocoma",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Erithacus rubecula",
+    "parents": [
+      "Aphelocoma californica",
+      "Garrulus glandarius"
+    ]
+  },
+  "facts": [
+    "Les jeunes peuvent rester aider leurs parents plusieurs années.",
+    "Les aides mâles héritent parfois d’un morceau du territoire familial.",
+    "Son habitat dépend de feux réguliers.",
+    "Il est étudié individuellement depuis plus de 50 ans."
+  ],
+  "anecdote": "Chez le geai buissonnier, rester aider papa-maman est un plan de carrière : on hérite parfois d’un bout du territoire familial.",
+  "indices_quiz": [
+    "Corvidé endémique de Floride à reproduction coopérative.",
+    "Ses aides héritent parfois du territoire.",
+    "Son habitat dépend de feux réguliers."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/7829",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Aphelocoma_coerulescens"
+  },
+  "notions": [
+    "contraintes-ecologiques-cooperation"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il mesure environ 25 cm, sans huppe, avec une tête et des ailes bleues et un dos gris-brun. Il cache des **milliers de glands** en automne et en retrouve une large part grâce à sa mémoire spatiale.",
+    "details": "Il dépend des **feux** naturels réguliers, qui maintiennent des broussailles basses de chênes nains. Sans feu, l’habitat se ferme."
+  },
+  "comportement": {
+    "essentiel": "Les groupes familiaux sont formés d’un couple reproducteur et de 1 à 6 **aides**, généralement ses jeunes des années précédentes. Les aides gardent le territoire, nourrissent les oisillons et alertent des prédateurs.",
+    "details": "L’étude à long terme de Woolfenden & Fitzpatrick (Archbold Biological Station, depuis 1969) a montré trois choses. Les territoires libres sont **saturés** (contraintes écologiques). Les aides augmentent le succès des parents. Les aides mâles héritent souvent d’une partie du territoire, un **bénéfice direct**. Fitness indirecte et directe se combinent.",
+    "concepts": [
+      "contraintes-ecologiques-cooperation",
+      "regle-hamilton",
+      "cd-altruisme-parentele"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Broussailles de chênes nains sur sols sableux de Floride centrale : endémique.",
+    "details": "Il disperse les glands, qu’il plante en partie.",
+    "uicn": "VU",
+    "menaces": [
+      "Urbanisation de son habitat",
+      "Suppression des feux",
+      "Fragmentation"
+    ]
+  }
+}

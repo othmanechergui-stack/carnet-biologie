@@ -1,0 +1,101 @@
+{
+  "id": "hippocampus-hippocampus",
+  "nom": "Hippocampe à museau court",
+  "latin": "Hippocampus hippocampus",
+  "groupe": "poisson",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": false,
+  "clade": "teleostei",
+  "resume": "Petit poisson à tête de cheval qui nage à la verticale. Chez lui, c’est **le mâle qui porte les petits** dans une poche ventrale : un cas d’école d’**inversion des rôles parentaux**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Actinoptérygiens",
+      "synapomorphies": [
+        "Nageoires rayonnées"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Syngnathiformes",
+      "synapomorphies": [
+        "Museau tubulaire",
+        "Plaques osseuses"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Syngnathidés",
+      "synapomorphies": [
+        "Incubation par le mâle"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Hippocampus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Gasterosteus aculeatus",
+    "parents": [
+      "Hippocampus guttulatus",
+      "Syngnathus acus"
+    ]
+  },
+  "facts": [
+    "C’est le mâle qui est « enceint » et met au monde les petits.",
+    "La poche incubatrice régule l’oxygène et la salinité comme un placenta.",
+    "Les couples se saluent chaque matin par une petite danse.",
+    "Sa queue préhensile lui permet de s’ancrer aux algues."
+  ],
+  "anecdote": "Chez l’hippocampe, c’est le père qui accouche : la femelle pond dans sa poche et il porte la grossesse.",
+  "indices_quiz": [
+    "Poisson syngnathidé dont le mâle porte les petits.",
+    "Sa poche incubatrice fonctionne comme un placenta.",
+    "Les couples se saluent chaque matin."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/84969",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Hippocampus_hippocampus"
+  },
+  "notions": [
+    "bateman-selection-sexuelle"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Il mesure jusqu’à environ 15 cm. Il a une **queue préhensile** sans nageoire caudale, des yeux indépendants et un museau-pipette qui aspire les petits crustacés. Il nage lentement grâce à sa nageoire dorsale.",
+    "details": "La femelle dépose ses ovules dans la **poche incubatrice** du mâle, où ils sont fécondés. La poche fonctionne comme un « placenta » : elle régule les échanges gazeux et osmotiques et apporte même quelques nutriments. Le mâle « accouche » de dizaines à centaines de petits."
+  },
+  "comportement": {
+    "essentiel": "Les couples sont souvent **monogames** pendant une saison, avec des **salutations** matinales quotidiennes : danses et changements de couleur.",
+    "details": "La grossesse masculine fait du mâle la ressource limitante. Chez beaucoup de syngnathidés (syngnathes), les femelles sont plus colorées et compétitives : la **sélection sexuelle s’inverse**. Chez les hippocampes monogames, l’inversion est moins marquée.",
+    "concepts": [
+      "bateman-selection-sexuelle",
+      "cd-inversion-roles"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Herbiers et fonds côtiers de l’Atlantique Est et de la Méditerranée. Observé rarement en mer du Nord méridionale.",
+    "details": "Menacé par la régression des herbiers, le chalutage et le commerce (médecine traditionnelle, aquariophilie). Tous les hippocampes sont à l’annexe II de la CITES.",
+    "uicn": "DD",
+    "menaces": [
+      "Destruction des herbiers",
+      "Chalutage",
+      "Commerce (CITES Annexe II)"
+    ]
+  }
+}

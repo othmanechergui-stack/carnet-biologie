@@ -1,0 +1,164 @@
+{
+  "id": "daucus-carota",
+  "nom": "Carotte sauvage",
+  "latin": "Daucus carota",
+  "type": "assiette",
+  "regne": "plante",
+  "milieu": [
+    "prairie",
+    "friche",
+    "culture"
+  ],
+  "belgique": true,
+  "clade": "apiales",
+  "saison": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "resume": "Ancêtre de la carotte cultivée, très commune sur les talus. Son ombelle blanche porte souvent une **fleur centrale pourpre**. Attention, c’est une Apiacée : la famille des **ciguës** mortelles.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Apiales",
+      []
+    ],
+    [
+      "Famille",
+      "Apiacées",
+      [
+        "Ombelle composée",
+        "Méricarpes"
+      ]
+    ],
+    [
+      "Genre",
+      "Daucus",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Hedera helix",
+    "parents": [
+      "Daucus carota subsp. sativus",
+      "Heracleum sphondylium",
+      "Conium maculatum"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ses **ombelles composées** sont entourées de **bractées découpées** en lanières. Elles se referment en « nid d’oiseau » à la fructification. Les fruits sont épineux et s’accrochent aux poils des animaux (**épizoochorie**). La racine est pivotante, blanche chez la forme sauvage.",
+    "details": "La **fleur pourpre centrale**, stérile, attirerait les pollinisateurs en imitant un insecte posé. Des expériences le suggèrent, avec des résultats variables. La carotte **orange** a été sélectionnée aux Pays-Bas au XVIIᵉ siècle. Les premières carottes cultivées (Asie centrale) étaient **violettes** ou jaunes. Le pigment orange est le **β-carotène**."
+  },
+  "identification": {
+    "feuille": "Finement découpée (2–3 fois pennée), poilue",
+    "fleur": "Ombelle blanche avec souvent 1 fleur centrale pourpre ; bractées découpées sous l’ombelle",
+    "fruit": "Méricarpes à épines crochues, ombelle en nid",
+    "ecorce": "—",
+    "port": "Bisannuelle 30–100 cm, tige pleine et poilue",
+    "periode": "Juin-septembre"
+  },
+  "ecologie": {
+    "essentiel": "Talus, prairies sèches, dunes, friches.",
+    "details": "Elle nourrit les chenilles du machaon. Ses ombelles sont visitées par de nombreux insectes.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "La racine sauvage est comestible, mais **ne jamais récolter d’Apiacée sauvage sans certitude absolue**. La grande ciguë, l’œnanthe safranée et la petite ciguë sont mortelles.",
+    "details": "Odeur de carotte au froissement, tige poilue et pleine : ce sont des indices, pas des garanties.",
+    "cueillette": "Seulement avec un botaniste expérimenté.",
+    "confusions_dangereuses": [
+      "Petite ciguë (Aethusa cynapium) : feuilles luisantes, bractéoles pendantes d’un seul côté, odeur désagréable : MORTELLE",
+      "Grande ciguë (Conium maculatum) : tige lisse tachée de pourpre, odeur de souris : MORTELLE"
+    ]
+  },
+  "facts": [
+    "La carotte orange a été sélectionnée aux Pays-Bas ; les premières carottes cultivées étaient violettes ou jaunes.",
+    "Sa fleur centrale pourpre imiterait un insecte posé pour attirer les pollinisateurs.",
+    "Son ombelle se referme en nid d’oiseau en fruit.",
+    "Elle est de la même famille que les ciguës mortelles."
+  ],
+  "anecdote": "La petite fleur pourpre au centre de l’ombelle de la carotte sauvage ferait croire aux insectes qu’un congénère est déjà en train de butiner.",
+  "indices_quiz": [
+    "Apiacée à ombelle blanche et fleur centrale pourpre.",
+    "Ancêtre de la carotte cultivée.",
+    "Famille des ciguës mortelles."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/76610",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Daucus_carota"
+  },
+  "notions": [],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Talus, prairies maigres, dunes.",
+    "quand": "Juin-septembre ; ombelles en nid en automne.",
+    "criteres": [
+      "Fleur pourpre au centre (souvent)",
+      "Bractées découpées sous l’ombelle",
+      "Tige poilue et pleine, odeur de carotte"
+    ],
+    "sosies": [
+      {
+        "espece": "Petite ciguë (Aethusa cynapium)",
+        "distinguer": "Pas de bractées mais 3 bractéoles pendantes d’un côté, feuilles luisantes : mortelle."
+      },
+      {
+        "espece": "Berce commune",
+        "distinguer": "Bien plus grande, feuilles larges et rudes, sans fleur pourpre centrale."
+      }
+    ]
+  }
+}

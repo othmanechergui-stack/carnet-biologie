@@ -1,0 +1,18 @@
+{
+  "id": "bipedie",
+  "titre": "Bipédie et adaptations du squelette",
+  "module": "module5",
+  "source": "module 5/Anthropologie biologique.docx",
+  "essentiel": "La bipédie est l’un des caractères qui définissent les **hominines**. Ta synthèse liste les adaptations squelettiques :\n- une colonne à **4 courbures** ;\n- un **bassin** court, large et évasé, avec un sacrum robuste ;\n- un **fémur** long avec un long col, et un angle qui ramène les genoux sous le centre de gravité (angle bicondylaire) ;\n- un **trou occipital** placé sous le crâne ;\n- un pied avec un **gros orteil aligné** non préhensile, et des voûtes plantaires.",
+  "details": "Ton cours défend l’idée que la bipédie « descend des arbres ». La morphologie des bras et des épaules découle d’ancêtres adaptés à grimper et à se suspendre, et les muscles de la hanche sollicités pour grimper sont ceux de la marche.\n\nIndices fossiles :\n- *Sahelanthropus* (≈ 7 Ma) : trou occipital, débattu ;\n- *Orrorin* (≈ 6 Ma) : fémur ;\n- *Ardipithecus* (≈ 4,4 Ma) : bipède facultatif avec un gros orteil opposable ;\n- les **empreintes de Laetoli** (≈ 3,66 Ma) ;\n- **Lucy** (*Australopithecus afarensis*, ≈ 3,2 Ma).\n\nCoût : accouchement difficile, à cause du compromis entre bassin étroit pour la marche et gros cerveau du bébé (le « dilemme obstétrical », débattu).",
+  "question": "Sur un crâne fossile isolé, quel indice permet de suspecter la bipédie, et pourquoi ?",
+  "reponse": "La **position du trou occipital** (foramen magnum). Chez un bipède, la colonne vertébrale est verticale sous le crâne : le trou occipital est **avancé, sous la base du crâne**, et orienté vers le bas. Chez un quadrupède ou un grimpeur comme le chimpanzé, il est plus **reculé** et orienté vers l’arrière. C’est l’argument avancé pour *Sahelanthropus*, même s’il reste débattu en l’absence d’os des membres sans ambiguïté.",
+  "pieges": [
+    "Associer automatiquement bipédie et gros cerveau : la bipédie précède de plusieurs millions d’années l’encéphalisation.",
+    "Croire que la bipédie est apparue en savane ouverte uniquement (plusieurs hominines anciens vivaient en milieu boisé)."
+  ],
+  "liens": [
+    "neotenie-humaine",
+    "australopitheques"
+  ]
+}

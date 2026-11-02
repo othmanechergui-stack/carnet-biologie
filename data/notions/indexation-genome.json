@@ -1,0 +1,17 @@
+{
+  "id": "indexation-genome",
+  "titre": "Indexation du génome",
+  "module": "transcriptomique",
+  "source": "Transcriptomic/L02.pdf",
+  "essentiel": "Indexer un génome, c’est construire une structure de données qui permet de retrouver **rapidement toutes les positions d’un motif**. Il existe trois grandes familles :\n- les **tables de hachage** de k-mers (Subread, BLAT) ;\n- les **tableaux de suffixes** (STAR) ;\n- le **FM-index** fondé sur la **transformée de Burrows-Wheeler** (BWA, Bowtie, HISAT2), très compact en mémoire.",
+  "details": "Le compromis se joue entre mémoire, vitesse et sensibilité. Une table de hachage est rapide mais gourmande en mémoire pour un grand génome. Le FM-index tient le génome humain en quelques Go. STAR, avec son tableau de suffixes, demande environ 30 Go de RAM pour l’humain, mais il est très rapide et gère bien l’épissage.\n\nL’index dépend de la **version d’assemblage** (dm6, hg38, etc.). Il faut que l’annotation GTF utilisée pour le comptage corresponde à la même version, sinon les coordonnées ne concordent pas.\n\nEn TP : `buildindex()` de Rsubread, puis `align(index = \"dm6_index\", …)`.",
+  "question": "Pourquoi faut-il impérativement utiliser la même version d’assemblage pour l’index et pour le fichier d’annotation GTF ?",
+  "reponse": "Parce que les **coordonnées** (chromosome, début, fin) des gènes dans le GTF sont définies par rapport à **une version précise** de l’assemblage. Entre deux versions (hg19 et hg38, dm3 et dm6), les séquences, les positions et parfois les noms des chromosomes changent. Les lectures mappées sur une version et comptées avec l’annotation d’une autre tomberaient sur de **mauvais gènes** ou nulle part. Le résultat serait des comptages faux, souvent sans message d’erreur.",
+  "pieges": [
+    "Mélanger les conventions de noms de chromosomes (« chr2L » vs « 2L »).",
+    "Croire que l’index est universel pour un organisme."
+  ],
+  "liens": [
+    "mapping-reads"
+  ]
+}

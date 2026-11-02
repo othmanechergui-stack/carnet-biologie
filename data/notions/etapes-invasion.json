@@ -1,0 +1,20 @@
+{
+  "id": "etapes-invasion",
+  "titre": "Étapes et barrières d’une invasion biologique",
+  "module": "module4",
+  "source": "module 4/Résumé module 4.docx",
+  "essentiel": "Une invasion biologique comprend plusieurs étapes.\n1. **Introduction** : franchissement de la barrière géographique (prélèvement, transport, relâchement), souvent avec un **goulet d’étranglement**.\n2. **Établissement** : survie aux conditions physiques et biotiques, puis reproduction (**naturalisation**).\n3. **Expansion** : franchissement de la barrière de dispersion, prolifération démographique et spatiale.\n\nLes invasions sont la **2ᵉ cause d’érosion de la biodiversité**.",
+  "details": "Facteurs de succès :\n- la **pression d’introduction** : nombre d’individus et nombre d’introductions indépendantes ;\n- la proximité climatique entre aire d’origine et aire d’introduction ;\n- une vaste aire d’origine ;\n- les traits d’histoire de vie : stratégie r, autofécondation, apomixie ;\n- la **plasticité** ;\n- la **libération des ennemis naturels** ;\n- les niches vacantes.\n\nLors d’une expansion par sauts successifs, les **effets fondateurs en série** réduisent la diversité génétique au front.\n\nExemples du cours : le lapin en Australie, le moustique tigre (vecteur de dengue et Zika), la fourmi de feu, l’ambroisie (pollen allergisant), la berce du Caucase et la berce de Perse (*Heracleum persicum*).",
+  "question": "Pourquoi les introductions multiples à partir de régions différentes de l’aire d’origine favorisent-elles le succès d’une invasion ?",
+  "reponse": "Elles augmentent la **pression de propagules**, donc la taille effective de départ, ce qui réduit l’effet Allee et la stochasticité démographique. Elles **mélangent des lignées différenciées**, ce qui restaure, voire dépasse, la diversité génétique de l’aire d’origine. Cette **admixture** limite la perte de potentiel adaptatif due au goulet d’étranglement. Elle peut produire de nouvelles combinaisons d’allèles et de la vigueur hybride. C’est une solution au « paradoxe génétique » des invasions.",
+  "pieges": [
+    "Croire que toute espèce exotique est envahissante.",
+    "Oublier le rôle du goulet d’étranglement génétique lors de l’introduction."
+  ],
+  "liens": [
+    "effet-allee",
+    "regle-dix-pourcent",
+    "paradoxe-genetique-invasions",
+    "liberation-ennemis"
+  ]
+}

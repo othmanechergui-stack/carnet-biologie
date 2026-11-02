@@ -1,0 +1,18 @@
+{
+  "id": "australopitheques",
+  "titre": "Les australopithèques",
+  "module": "module5",
+  "source": "module 5/Anthropologie biologique.docx",
+  "essentiel": "Les **australopithèques** (environ 4,2 à 2 Ma) sont des « grands singes bipèdes » d’Afrique de l’Est et du Sud. Le nom signifie « singe du sud », car les premiers ont été découverts en Afrique du Sud (enfant de Taung, 1924). Ils avaient un **cerveau de taille simienne** (≈ 400 à 500 cm³), une bipédie habituelle mais des **bras longs** encore adaptés à grimper, et une dentition intermédiaire (canines réduites).",
+  "details": "Espèces classiques :\n- *A. anamensis* (≈ 4,2 Ma) ;\n- *A. afarensis* (Lucy, ≈ 3,2 Ma ; empreintes de Laetoli) ;\n- *A. africanus* (Afrique du Sud) ;\n- *A. sediba* (≈ 2 Ma).\n\nLes **paranthropes** (*Paranthropus boisei*, *P. robustus*), « australopithèques robustes », avaient d’énormes molaires et une crête sagittale pour des muscles masticateurs puissants. Ils ont coexisté avec les premiers *Homo*.\n\nLes premiers outils de pierre connus (Lomekwi, ≈ 3,3 Ma) **précèdent** le genre *Homo*. Cela suggère que des australopithèques fabriquaient déjà des outils.",
+  "question": "Lucy était-elle bipède, arboricole, ou les deux ? Argumente.",
+  "reponse": "**Les deux**. Son bassin court et évasé, l’angle de son fémur ramenant le genou sous le corps et son pied (cf. Laetoli) montrent une **bipédie habituelle** au sol. Mais ses **bras relativement longs**, ses phalanges courbes et une ceinture scapulaire orientée vers le haut indiquent qu’elle **grimpait encore** souvent, pour se nourrir ou dormir à l’abri. Une étude de la structure interne de ses os (Ruff et al., 2016) suggère des bras très sollicités.",
+  "pieges": [
+    "Croire que les australopithèques sont nos ancêtres directs en ligne droite : l’arbre est buissonnant.",
+    "Leur attribuer un gros cerveau."
+  ],
+  "liens": [
+    "bipedie",
+    "genre-homo"
+  ]
+}

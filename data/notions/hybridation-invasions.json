@@ -1,0 +1,22 @@
+{
+  "id": "hybridation-invasions",
+  "titre": "Hybridation et invasions",
+  "module": "module4",
+  "source": "module 4/invasions 4.pdf",
+  "essentiel": "L’hybridation peut favoriser l’invasion de trois façons :\n- elle **atténue l’effet Allee**, en offrant des partenaires parmi les espèces locales ;\n- elle génère de **nouvelles combinaisons** d’allèles et des phénotypes transgressifs ;\n- elle permet l’**introgression d’allèles adaptatifs « prêts à l’emploi »** depuis une espèce locale déjà adaptée.\n\nElle peut aussi créer de **nouvelles espèces envahissantes**, par allopolyploïdie.",
+  "details": "Exemples :\n- *Spartina anglica* : allopolyploïde né de *S. alterniflora* (introduite d’Amérique) × *S. maritima* (indigène). Elle a envahi les vasières européennes.\n- Les renouées asiatiques : *Reynoutria × bohemica* (*R. japonica × R. sachalinensis*).\n- Le canard à tête rousse (*Oxyura jamaicensis*) qui s’hybride avec l’érismature à tête blanche, menacée en Espagne : un risque d’**extinction par hybridation**.\n\nLe glossaire du cours définit aussi l’**admixture** (mélange génomique entre groupes distincts), l’androgenèse et la gynogenèse.",
+  "question": "Comment l’hybridation entre une espèce introduite et une espèce indigène peut-elle menacer l’espèce indigène ?",
+  "reponse": "Par **introgression génétique** : des rétrocroisements répétés diluent le génome indigène. Ils peuvent aboutir à une **extinction par hybridation** (*genetic swamping*), même sans compétition directe. C’est le cas de l’érismature à tête blanche face à l’érismature rousse, du chat forestier face au chat domestique et de certaines truites indigènes. Les hybrides peuvent aussi être plus compétitifs que l’espèce indigène et la remplacer.",
+  "pieges": [
+    "Voir l’hybridation uniquement comme un frein aux invasions.",
+    "Oublier l’exemple de la spartine allopolyploïde."
+  ],
+  "liens": [
+    "hybridation-transgressive",
+    "effet-allee",
+    "polyploidie"
+  ],
+  "especes": [
+    "reynoutria-japonica"
+  ]
+}

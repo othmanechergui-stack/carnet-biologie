@@ -1,0 +1,36 @@
+{
+  "id": "2026-10-14-abeilles-domestiques-competition",
+  "date": "2026-10-14",
+  "titre": "Les abeilles domestiques chassent les pollinisateurs sauvages des fleurs",
+  "resume": "Deux ans d’observations (93 h, 5 sites près de Cambridge, ronce et lierre) : quand la densité d’abeilles domestiques double, les bourdons sont 14 % moins abondants sur la ronce ; les autres pollinisateurs évitent les abeilles dans 28 à 36 % des rencontres. Résultats corrélationnels, sans preuve de causalité ; les interactions augmentent par temps chaud.",
+  "source": {
+    "nom": "Ecological Entomology (Anglia Ruskin University)",
+    "url": "https://www.aru.ac.uk/news/honeybees-exert-flower-power-over-other-species"
+  },
+  "themes": [
+    "ecologie",
+    "comportement",
+    "zoologie"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "5 sites, 93 h d’observation",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "moyen"
+  },
+  "quiz": {
+    "question": "Dans l’étude de Cambridge, quel lien a-t-on observé quand la densité d’abeilles domestiques double sur la ronce ?",
+    "choix": [
+      "+14 % de bourdons",
+      "−14 % de bourdons (association, pas causalité)",
+      "Aucun effet"
+    ],
+    "bonne": 1
+  },
+  "module": "ethologie",
+  "source_presse": {
+    "nom": "ScienceDaily (22/10)",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261021231227.htm"
+  }
+}

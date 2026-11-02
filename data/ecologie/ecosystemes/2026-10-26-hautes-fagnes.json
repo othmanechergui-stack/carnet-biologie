@@ -1,0 +1,30 @@
+{
+  "id": "2026-10-26-hautes-fagnes",
+  "semaine": "2026-10-26",
+  "nom": "Les Hautes Fagnes",
+  "lieu": "Province de Liège (plateau à ≈ 600–690 m)",
+  "fonctionnement": {
+    "essentiel": "Plateau froid et pluvieux où des **tourbières hautes** se sont formées depuis la fin de la dernière glaciation. Les **sphaignes** acidifient l’eau, retiennent l’eau et la matière organique ne se décompose pas : la tourbe s’accumule (≈ 1 mm/an). C’est un énorme **stock de carbone**.",
+    "details": "Les tourbières ont été drainées et plantées d’épicéas au XIXᵉ–XXᵉ siècle ; de grands projets LIFE restaurent aujourd’hui les milieux (comblement des drains, déboisement). Espèces rares relictes glaciaires : tétras lyre (en grand danger), droséra, linaigrette, canneberge. Les incendies (comme en 2011) et les sécheresses menacent la tourbe."
+  },
+  "especes_cles": [
+    "polytrichum-commune",
+    "pinus-sylvestris",
+    "betula-pendula",
+    "amanita-muscaria",
+    "cervus-elaphus"
+  ],
+  "especes_texte": "Sphaignes, linaigrettes, molinie, droséra à feuilles rondes ; tétras lyre, pie-grièche grise ; lézard vivipare.",
+  "menaces": [
+    "Drainage historique",
+    "Sécheresses et incendies",
+    "Envahissement par la molinie",
+    "Fréquentation hors caillebotis"
+  ],
+  "a_observer": "Fin octobre : brame qui se termine en lisière, molinie dorée, bouleaux jaunes, amanites tue-mouches, premiers gels nocturnes. Reste sur les caillebotis (zones C fermées).",
+  "notions": [
+    "services-ecosystemiques",
+    "successions-ecologiques",
+    "fragmentation-habitats"
+  ]
+}

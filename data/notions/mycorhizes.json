@@ -1,0 +1,17 @@
+{
+  "id": "mycorhizes",
+  "titre": "Mycorhizes",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 2 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Une **mycorhize** est une symbiose entre les racines d’une plante et un champignon. La plante fournit des sucres, et le champignon de l’eau et des minéraux, surtout du **phosphore**, grâce à son réseau d’hyphes qui explore un volume de sol bien plus grand. Les **endomycorhizes** à arbuscules, formées par des Gloméromycètes, concernent au moins **80 % des Spermatophytes**.",
+  "details": "Dans les **endomycorhizes**, les hyphes pénètrent dans les cellules du cortex et y forment des arbuscules ou des vésicules. Elles ne pénètrent pas dans la stèle. Peu de familles en sont dépourvues : Brassicacées, Chénopodiacées, Cypéracées.\n\nLes **ectomycorhizes** sont formées par des Basidiomycètes (bolets, amanites, lactaires) et des Ascomycètes (truffes) avec les arbres des forêts tempérées : hêtre, chêne, pin, bouleau. Les hyphes forment un manchon autour de la racine et un réseau entre les cellules corticales (réseau de Hartig), sans pénétrer les cellules.\n\nC’est pourquoi beaucoup de champignons forestiers sont liés à un arbre hôte précis.",
+  "question": "Pourquoi trouve-t-on des cèpes surtout sous les chênes, les hêtres ou les épicéas, et pas au milieu d’une prairie ?",
+  "reponse": "Le cèpe (*Boletus edulis*) est un champignon **ectomycorhizien obligatoire** : il vit en symbiose avec les racines de certains arbres. Il reçoit d’eux des sucres et leur fournit eau et minéraux. Sans arbre partenaire, son mycélium ne peut pas se maintenir ni fructifier. C’est aussi pour cela qu’on ne sait pas cultiver le cèpe.",
+  "pieges": [
+    "Confondre endo- (hyphes dans les cellules) et ecto- (hyphes autour et entre les cellules).",
+    "Croire que les mycorhizes sont rares : c’est la règle chez les plantes terrestres."
+  ],
+  "liens": [
+    "champignons-opisthocontes"
+  ]
+}

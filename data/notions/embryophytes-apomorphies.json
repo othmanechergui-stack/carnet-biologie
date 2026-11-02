@@ -1,0 +1,18 @@
+{
+  "id": "embryophytes-apomorphies",
+  "titre": "Apomorphies des Embryophytes",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 3 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Les **Embryophytes** (plantes terrestres) partagent quatre caractères dérivés :\n- un cycle avec une **phase diploïde multicellulaire** ;\n- des **gamétanges** multicellulaires protégés par une enveloppe de cellules stériles (archégones et anthéridies) ;\n- des **sporanges** multicellulaires, eux aussi protégés ;\n- des **spores à paroi de sporopollénine**, résistantes au dessèchement.\n\nL’**embryon** se développe sur le gamétophyte, qui le nourrit.",
+  "details": "L’archégone, en forme de bouteille, ne contient qu’une oosphère. Son col retient une goutte d’eau où nagent les gamètes mâles : la **fécondation reste aquatique**.\n\nLes plantes terrestres sont proches des **Charophytes / Coléochétophytes** : même pigments (chlorophylles a + b), amidon, cellulose, phragmoplaste, plasmodesmes. Chez *Coleochaete*, le zygote reste fixé et nourri sur le gamétophyte. Cela préfigure l’embryon.\n\nLes datations moléculaires placent leur origine vers −515 à −480 Ma. Les plus anciens fossiles sont des spores trilètes de l’Ordovicien moyen (≈ −460 Ma).",
+  "question": "Pourquoi la sporopollénine a-t-elle été une innovation décisive pour la vie terrestre ?",
+  "reponse": "La sporopollénine est un polymère extrêmement **résistant**, chimiquement et à la dessiccation. Elle permet aux spores, la phase de dispersion, de survivre dans l’air sec, aux UV et au transport, puis de germer plus tard en milieu favorable. Sans elle, la dispersion aérienne serait impossible. Sa résistance explique aussi que les spores et les pollens se fossilisent si bien : ce sont les premiers témoins de la colonisation terrestre.",
+  "pieges": [
+    "Dire que la fécondation des mousses et des fougères est aérienne (elle exige de l’eau liquide).",
+    "Oublier que la phase diploïde multicellulaire est une apomorphie (les algues vertes proches ont un cycle haplobiontique)."
+  ],
+  "liens": [
+    "adaptations-terrestres",
+    "endosymbiose-algues"
+  ]
+}

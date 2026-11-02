@@ -1,0 +1,113 @@
+{
+  "id": "gasterosteus-aculeatus",
+  "nom": "Épinoche à trois épines",
+  "latin": "Gasterosteus aculeatus",
+  "groupe": "poisson",
+  "milieu": [
+    "riviere",
+    "mare",
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "teleostei",
+  "resume": "Petit poisson de 5 à 8 cm dont le mâle à gorge rouge construit un nid et garde les œufs. C’est à la fois un modèle fondateur de l’**éthologie** (Tinbergen) et de l’**évolution parallèle**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Actinoptérygiens",
+      "synapomorphies": [
+        "Nageoires rayonnées"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Perciformes (Gastérostéiformes)",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Gastérostéidés",
+      "synapomorphies": [
+        "Épines dorsales libres"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Gasterosteus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Pungitius pungitius",
+    "parents": [
+      "Gasterosteus wheatlandi"
+    ]
+  },
+  "facts": [
+    "Tinbergen a fait attaquer à des épinoches des leurres à ventre rouge très grossiers.",
+    "Le mâle colle son nid avec une glu produite par ses reins.",
+    "La perte des plaques osseuses en eau douce s’est produite indépendamment dans des milliers de lacs, grâce au même allèle Eda.",
+    "Le père ventile les œufs en battant des nageoires pectorales."
+  ],
+  "anecdote": "Une épinoche mâle attaquait un camion rouge qui passait derrière la vitre de l’aquarium de Tinbergen : il suffit de rouge en bas pour faire un rival.",
+  "indices_quiz": [
+    "Petit poisson dont le mâle à gorge rouge garde le nid.",
+    "Modèle des stimulus-signaux de Tinbergen.",
+    "Évolution parallèle de la perte des plaques grâce à un même allèle."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/48403",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Gasterosteus_aculeatus"
+  },
+  "notions": [
+    "tinbergen-quatre-questions"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Trois épines dorsales et deux épines pelviennes, avec des plaques osseuses latérales en nombre variable. Les formes **marines et migratrices** sont très cuirassées ; les formes **d’eau douce** sont souvent peu cuirassées.",
+    "details": "La réduction des plaques en eau douce repose surtout sur un allèle du gène ***Eda***. Cet allèle est déjà présent à faible fréquence dans les populations marines : c’est de la **variation préexistante**. Il a été sélectionné **indépendamment** dans des milliers de lacs post-glaciaires : c’est un cas d’évolution parallèle (Colosimo et al., 2005)."
+  },
+  "comportement": {
+    "essentiel": "Au printemps, le mâle prend une **gorge rouge** et des yeux bleus. Il construit un nid de végétaux collés par une sécrétion rénale, attire les femelles par une **danse en zigzag** puis ventile et garde les œufs.",
+    "details": "Tinbergen a montré qu’un **leurre grossier à ventre rouge** déclenche plus d’attaques qu’une réplique fidèle sans rouge. C’est le **stimulus-signal** à l’origine de la notion de mécanisme déclencheur inné, aujourd’hui nuancée. Les femelles préfèrent les mâles au rouge vif, un signal lié aux caroténoïdes et à la santé.",
+    "concepts": [
+      "tinbergen-quatre-questions",
+      "signal-honnete"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Fossés, mares, rivières lentes, estuaires et côte.",
+    "details": "Proie de nombreux oiseaux et poissons. C’est un modèle de génomique évolutive et d’écotoxicologie.",
+    "uicn": "LC",
+    "menaces": [
+      "Pollution",
+      "Comblement des fossés et mares"
+    ]
+  },
+  "terrain": {
+    "ou": "Fossés et mares à végétation, rivières lentes, polders, estuaires.",
+    "quand": "Parades d’avril à juin.",
+    "criteres": [
+      "Trois épines dorsales",
+      "Mâle nuptial à gorge rouge et yeux bleus",
+      "Taille 5–8 cm"
+    ],
+    "sosies": [
+      {
+        "espece": "Épinochette (Pungitius pungitius)",
+        "distinguer": "Neuf à dix petites épines dorsales ; mâle nuptial à gorge noire."
+      }
+    ]
+  }
+}

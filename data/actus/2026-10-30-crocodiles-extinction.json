@@ -1,0 +1,33 @@
+{
+  "id": "2026-10-30-crocodiles-extinction",
+  "date": "2026-10-30",
+  "titre": "Comment les crocodiles ont survécu à l’astéroïde : des refuges chauds à l’équateur",
+  "resume": "Plus de 7 000 fossiles et données sur ≈ 400 espèces de la lignée crocodilienne, combinés à des modèles paléoclimatiques sur 245 Ma : les crocodiliens suivent les climats chauds. Après l’impact, des refuges équatoriaux seraient restés habitables sauf scénario extrême (−15 % de lumière, jugé improbable). Les autrices et auteurs y ajoutent petite taille, ectothermie et régime flexible.",
+  "source": {
+    "nom": "Science Advances 12(43) — Chiarenza, Mannion (UCL) — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm"
+  },
+  "themes": [
+    "evolution",
+    "paleontologie",
+    "climat"
+  ],
+  "grille": {
+    "modele": "modelisation",
+    "echantillon": "> 7 000 fossiles, ≈ 400 espèces",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible",
+    "grand_echantillon": true
+  },
+  "quiz": {
+    "question": "Quelle hypothèse explique la survie des crocodiliens à l’extinction K-Pg selon l’étude d’UCL ?",
+    "choix": [
+      "Ils sont devenus endothermes",
+      "Des refuges climatiques chauds sont restés près de l’équateur",
+      "Ils vivaient uniquement en eau profonde"
+    ],
+    "bonne": 1
+  },
+  "module": "zoologie"
+}

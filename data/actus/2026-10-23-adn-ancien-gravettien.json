@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-23-adn-ancien-gravettien",
+  "date": "2026-10-23",
+  "titre": "ADN ancien : l’Europe glaciaire restait connectée d’est en ouest",
+  "resume": "Génome d’une femme d’Isturitz (France, ≈ 30 000 ans) et ADN humain extrait des sédiments d’El Mirón (Espagne, ≈ 22 000 ans) : un flux de gènes est-ouest daté par modélisation vers 32 500–31 500 ans, et une ascendance ouest-européenne qui persiste dans le refuge ibérique pendant le dernier maximum glaciaire.",
+  "source": {
+    "nom": "Science Advances — Gelabert, Pinhasi et al. (Univ. Vienne) — Phys.org",
+    "url": "https://phys.org/news/2026-10-paleolithic-human-dna-reveals-east.html"
+  },
+  "themes": [
+    "evolution",
+    "genetique",
+    "paleontologie"
+  ],
+  "grille": {
+    "modele": "humain",
+    "echantillon": "quelques individus + 1 couche de sédiment",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "Qu’a-t-on extrait de la grotte d’El Mirón sans aucun os ni dent ?",
+    "choix": [
+      "Du pollen fossile",
+      "De l’ADN humain présent dans les sédiments",
+      "Des protéines de collagène"
+    ],
+    "bonne": 1
+  },
+  "module": "module5"
+}

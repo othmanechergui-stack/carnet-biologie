@@ -1,0 +1,18 @@
+{
+  "id": "encephalisation",
+  "titre": "Encéphalisation",
+  "module": "module5",
+  "source": "module 5/Anthropologie biologique.docx",
+  "essentiel": "L’**encéphalisation** est l’augmentation de la taille du cerveau **relativement** à la taille du corps. On la mesure par le **quotient d’encéphalisation** (QE), le rapport entre la masse cérébrale observée et la masse attendue pour un mammifère de même masse corporelle. Ta synthèse compare les volumes : environ **1 400 cm³** chez l’humain moderne, environ **350 à 400 cm³** chez les grands singes.",
+  "details": "Évolution du volume cérébral : environ 450 cm³ chez les australopithèques, 600 à 700 cm³ chez *H. habilis*, 800 à 1 100 cm³ chez *H. erectus*, environ 1 500 cm³ chez Néandertal.\n\nLe cerveau humain représente environ 2 % de la masse corporelle mais consomme environ **20 %** de l’énergie au repos. Hypothèses sur la façon dont ce coût a été financé :\n- un régime riche (viande, moelle) ;\n- la **cuisson** (Wrangham) ;\n- un intestin réduit, l’hypothèse du « tissu coûteux » (Aiello & Wheeler) ;\n- la coopération à l’élevage des jeunes.\n\nChez *H. sapiens*, la taille du cerveau a même légèrement **diminué** depuis environ 20 000 ans. La forme est devenue plus globuleuse.",
+  "question": "Pourquoi ne peut-on pas comparer directement les volumes cérébraux de deux espèces de tailles très différentes ?",
+  "reponse": "Parce que la taille du cerveau augmente avec la taille du corps selon une **allométrie** (pente d’environ 0,67 à 0,75 chez les mammifères). Un éléphant a un cerveau bien plus gros que le nôtre sans être « plus encéphalisé ». Il faut corriger par la masse corporelle : le **quotient d’encéphalisation** compare le cerveau observé au cerveau attendu pour la masse corporelle. L’humain a un QE d’environ 7, le chimpanzé d’environ 2,5.",
+  "pieges": [
+    "Confondre volume cérébral absolu et relatif.",
+    "Croire que Néandertal était moins encéphalisé (son cerveau était en moyenne aussi grand)."
+  ],
+  "liens": [
+    "neotenie-humaine",
+    "genre-homo"
+  ]
+}

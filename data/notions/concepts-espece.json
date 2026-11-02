@@ -1,0 +1,22 @@
+{
+  "id": "concepts-espece",
+  "titre": "Concepts d’espèce",
+  "module": "module1",
+  "source": "module 1/synthèse.docx",
+  "essentiel": "Le **concept biologique** (Mayr) définit l’espèce comme un groupe de populations naturelles qui se reproduisent entre elles, effectivement ou potentiellement, et qui sont **isolées reproductivement** des autres groupes. En pratique, on reconnaît les espèces par des **discontinuités** dans la variation des caractères. Il existe des espèces **cryptiques** (morphologiquement semblables mais isolées) et des espèces morphologiques distinctes qui s’hybrident.",
+  "details": "Autres concepts :\n- **phylogénétique** : le plus petit groupe monophylétique diagnosable ;\n- **écologique** : une niche distincte ;\n- **morphologique** ;\n- **concept général de lignée** (de Queiroz) : une espèce est une lignée métapopulationnelle qui évolue séparément ; les autres concepts deviennent des critères de reconnaissance.\n\nLe concept biologique ne s’applique pas aux organismes asexués ni aux fossiles, et il est mis en difficulté par l’hybridation fréquente chez les plantes.\n\nLes barrières reproductives sont **prézygotiques** (habitat, temporelles, comportementales, mécaniques, gamétiques) ou **postzygotiques** (inviabilité, stérilité des hybrides, dépression en F2).",
+  "question": "Pourquoi le concept biologique de l’espèce est-il difficile à appliquer aux chênes européens ou aux bdelloïdes ?",
+  "reponse": "Les chênes pédonculé et sessile (*Quercus robur* et *Q. petraea*) **s’hybrident** régulièrement et échangent des gènes, tout en restant distincts écologiquement et morphologiquement : l’isolement reproductif est incomplet. Les rotifères bdelloïdes sont **asexués** : l’interfécondation ne peut pas servir de critère. Dans ces cas, on s’appuie sur des critères phylogénétiques, écologiques ou génomiques, et sur la délimitation par méthodes moléculaires.",
+  "pieges": [
+    "Croire qu’une hybridation possible signifie qu’il s’agit d’une seule espèce.",
+    "Oublier les espèces cryptiques."
+  ],
+  "liens": [
+    "modes-speciation",
+    "delimitation-especes",
+    "renforcement-wallace"
+  ],
+  "especes": [
+    "quercus-robur"
+  ]
+}

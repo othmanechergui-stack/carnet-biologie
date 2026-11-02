@@ -1,0 +1,18 @@
+{
+  "id": "mapping-reads",
+  "titre": "Mapping des lectures : seed-and-extend et multi-reads",
+  "module": "transcriptomique",
+  "source": "Transcriptomic/L02.pdf",
+  "essentiel": "Le **mapping** consiste à trouver la position de chaque lecture courte sur un génome de référence. L’algorithme naïf compare chaque lecture à chaque position, une complexité en O(n·|G|) : environ 10⁸ lectures × 10⁹ positions, c’est infaisable. On utilise donc la stratégie **seed-and-extend** : on cherche d’abord des **graines** (*seeds*, de courts k-mers exacts) dans un **index** du génome, puis on **étend** l’alignement autour, en tolérant mésappariements et indels.",
+  "details": "Une lecture peut être **unique** (*uni-read*, une seule position) ou **multiple** (*multi-read*, plusieurs positions à cause de répétitions ou de familles de gènes). Le cours cite trois stratégies pour les multi-reads :\n- les **écarter** ;\n- garder **toutes** les positions (déconseillé) ;\n- en choisir **une au hasard**.\n\nEn paired-end, la paire contraint la position : distance et orientation attendues.\n\nTon TP (L03) avec `align()` de **Rsubread** sur *Drosophila* (dm6) : 848 237 lectures, dont 97,5 % mappées et 18 632 multi-mappées. Les paramètres incluaient « Min votes 3/10 », car Subread est un aligneur fondé sur des votes de sous-lectures.",
+  "question": "Pourquoi indexe-t-on le génome plutôt que les lectures, et que gagne-t-on ?",
+  "reponse": "Le génome est **constant** et réutilisé pour chaque lecture, alors que les lectures changent à chaque expérience. On le prétraite **une fois** (index : table de hachage de k-mers, tableau de suffixes ou FM-index / transformée de Burrows-Wheeler). On peut ensuite trouver les positions d’une graine en temps quasi **indépendant de la taille du génome**. La complexité passe de O(n·|G|) à environ O(n·α), où α est le coût d’une recherche dans l’index. Le mapping de centaines de millions de lectures devient faisable.",
+  "pieges": [
+    "Oublier le traitement des multi-reads, qui biaise les comptages des gènes répétés.",
+    "Croire qu’un taux de mapping élevé garantit la qualité (contaminants, duplicats)."
+  ],
+  "liens": [
+    "indexation-genome",
+    "formats-sequencage"
+  ]
+}

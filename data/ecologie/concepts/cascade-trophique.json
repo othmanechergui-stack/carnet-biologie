@@ -1,0 +1,21 @@
+{
+  "id": "cascade-trophique",
+  "titre": "Cascades trophiques",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "Une **cascade trophique** se produit quand un prédateur influence indirectement les niveaux inférieurs. En contrôlant les herbivores, il **libère la végétation**. C’est le **contrôle descendant** (*top-down*), qui s’oppose au contrôle **ascendant** (*bottom-up*) par les ressources.",
+  "details": "Exemples classiques :\n- les **loutres de mer**, les oursins et les forêts de kelp (Estes) ;\n- *Pisaster* sur la côte rocheuse (Paine) ;\n- les **loups de Yellowstone** (réintroduits en 1995) : moins de wapitis et changement de leur comportement, d’où une repousse partielle de saules et de trembles. L’ampleur de cette cascade est **débattue** et sa présentation populaire est souvent exagérée.\n\nLes effets peuvent passer par la **densité** des proies ou par leur **comportement**, via le « paysage de la peur ».\n\nEn Belgique, le retour du loup (depuis 2018) et la gestion des cervidés relancent la question.",
+  "question": "Comment le retour d’un prédateur peut-il favoriser des arbres qu’il ne consomme pas ?",
+  "reponse": "Par un **effet indirect descendant**. Le prédateur réduit le **nombre** d’herbivores (prédation) et modifie leur **comportement** : ils évitent les zones à risque et restent moins longtemps au même endroit, c’est le paysage de la peur. La pression d’abroutissement sur les jeunes arbres diminue, la régénération reprend. Ces effets dépendent du contexte et sont souvent plus modestes que dans les récits médiatiques.",
+  "pieges": [
+    "Présenter Yellowstone comme une démonstration incontestée.",
+    "Oublier les effets comportementaux (non létaux)."
+  ],
+  "liens": [
+    "reseaux-trophiques",
+    "especes-cles-ingenieurs"
+  ],
+  "especes": [
+    "cervus-elaphus"
+  ]
+}

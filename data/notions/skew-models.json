@@ -1,0 +1,18 @@
+{
+  "id": "skew-models",
+  "titre": "Modèles de partage de la reproduction (skew models)",
+  "module": "societes",
+  "source": "animal societies/Biology of Animal Societies (2017-2018).pdf",
+  "essentiel": "Les **skew models** cherchent à prédire comment la reproduction se répartit entre les membres d’un groupe. On parle de *reproductive skew*, élevé quand un seul individu monopolise la reproduction.\n- **Modèles transactionnels** (Vehrencamp) : le dominant contrôle la reproduction et cède des « concessions » aux subordonnés pour qu’ils restent (*staying incentives*). On peut y ajouter des « incitations à la paix ».\n- **Modèles de compromis** (*tug-of-war*, Reeve) : aucun ne contrôle totalement. La répartition résulte d’une lutte coûteuse.",
+  "details": "Prédictions des modèles de concessions : le skew est **plus élevé** quand les **contraintes écologiques** sont fortes (le subordonné a peu d’options dehors), quand l’**apparentement** entre dominant et subordonné est élevé (il gagne déjà en fitness indirecte) et quand la **contribution** du subordonné au groupe est faible.\n\nLes tests empiriques (guêpes *Polistes*, oiseaux et mammifères coopératifs) sont **mitigés**. On observe souvent peu de concessions et un contrôle imparfait par le dominant.\n\nCe sont des questions classiques de ton examen (voir *Réponses Q exam*).",
+  "question": "D’après les modèles transactionnels, comment devrait varier la part de reproduction concédée au subordonné quand il est le frère du dominant plutôt qu’un individu non apparenté ?",
+  "reponse": "Elle devrait **diminuer**. Un subordonné apparenté tire déjà un bénéfice indirect de la reproduction du dominant, qui produit ses neveux et nièces. Il faut donc moins le « payer » en reproduction directe pour qu’il reste. Le skew attendu est plus élevé entre apparentés. À l’inverse, un non-apparenté exige une plus grande concession, sinon il part.",
+  "pieges": [
+    "Inverser le sens de l’effet de l’apparentement.",
+    "Présenter les skew models comme largement confirmés : le soutien empirique est partiel."
+  ],
+  "liens": [
+    "regle-hamilton",
+    "haplodiploidie-trois-quarts"
+  ]
+}

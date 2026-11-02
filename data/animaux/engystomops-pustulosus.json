@@ -1,0 +1,101 @@
+{
+  "id": "engystomops-pustulosus",
+  "nom": "Grenouille túngara",
+  "latin": "Engystomops pustulosus",
+  "groupe": "amphibien",
+  "milieu": [
+    "foret",
+    "mare"
+  ],
+  "belgique": false,
+  "clade": "anura",
+  "resume": "Petite grenouille d’Amérique centrale dont le chant « whine-chuck » est le modèle le plus célèbre d’**exploitation sensorielle**. Le chuck attire les femelles… et aussi les **chauves-souris** prédatrices.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Amphibiens (Lissamphibiens)",
+      "synapomorphies": [
+        "Dents bicuspides pédicellées",
+        "Peau respiratoire perméable"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Anoures",
+      "synapomorphies": [
+        "Pas de queue adulte"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Leptodactylidés",
+      "synapomorphies": [
+        "Nids d’écume"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Engystomops",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Bufo bufo",
+    "parents": [
+      "Engystomops petersi",
+      "Engystomops coloradorum"
+    ]
+  },
+  "facts": [
+    "Les femelles d’espèces voisines sans chuck préfèrent aussi les chants avec chuck : la préférence a précédé le signal.",
+    "Une chauve-souris (Trachops cirrhosus) chasse les mâles en écoutant leurs chucks.",
+    "Le couple fabrique un nid d’écume flottant pour les œufs.",
+    "Les mâles chantent plus « sobrement » quand des chauves-souris rôdent."
+  ],
+  "anecdote": "Chez la grenouille túngara, chanter sexy est dangereux : la note qui séduit les femelles guide aussi les chauves-souris qui les mangent.",
+  "indices_quiz": [
+    "Petite grenouille au chant « whine-chuck ».",
+    "Modèle de l’exploitation sensorielle (Ryan).",
+    "Le chuck attire aussi des chauves-souris prédatrices."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/65448",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Engystomops_pustulosus"
+  },
+  "notions": [
+    "exploitation-sensorielle"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Elle mesure environ 3 cm et a une peau pustuleuse. Le mâle chante grâce à un grand sac vocal. Les couples battent la gelée de ponte avec leurs pattes pour en faire un **nid d’écume** flottant.",
+    "details": "Le « whine » est un gémissement descendant, suffisant pour attirer les femelles. Le mâle peut y ajouter 1 à 7 **« chucks »**, qui rendent le chant plus attractif."
+  },
+  "comportement": {
+    "essentiel": "Les femelles préfèrent les chants avec chuck. Leur **oreille interne** (papille basilaire) est accordée à des fréquences proches de celles du chuck.",
+    "details": "Ryan et al. (1990) : des femelles d’espèces sœurs dont les mâles ne font **pas** de chuck préfèrent aussi un chuck ajouté artificiellement. La préférence a donc précédé le signal : c’est l’**exploitation sensorielle**. Coût : la chauve-souris *Trachops cirrhosus* et des moucherons hématophages localisent plus facilement les mâles qui font des chucks. Les mâles réduisent leurs chucks quand le risque de prédation augmente.",
+    "concepts": [
+      "exploitation-sensorielle",
+      "cd-biais-sensoriels",
+      "signal-honnete"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Forêts et zones ouvertes humides du Mexique à la Colombie (Panama : île de Barro Colorado).",
+    "details": "Proie de chauves-souris, de serpents et de crabes.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  }
+}

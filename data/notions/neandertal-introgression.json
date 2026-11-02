@@ -1,0 +1,19 @@
+{
+  "id": "neandertal-introgression",
+  "titre": "Néandertal et introgression",
+  "module": "module5",
+  "source": "module 5/LHomme de NÃ©andertal.pdf",
+  "essentiel": "***Homo neanderthalensis*** a vécu en Europe et en Asie occidentale d’environ **400 000 à 40 000 ans**. Il était adapté au froid (corps trapu, gros nez), avait un **cerveau aussi gros, voire plus gros, que le nôtre**, enterrait parfois ses morts et produisait l’industrie **moustérienne**. Le séquençage de son génome (Green et al., 2010) a montré que les populations non africaines actuelles portent environ **1 à 2 %** d’ADN néandertalien, preuve d’**hybridations** avec *H. sapiens*.",
+  "details": "L’introgression a été détectée par le **test ABBA-BABA (D de Patterson)**. Les non-Africains partagent plus d’allèles dérivés avec Néandertal que les Africains, ce que ne peut pas expliquer le seul tri incomplet. La datation par la longueur des segments place le métissage principal vers 50 à 45 000 ans.\n\nLes **Dénisoviens**, connus surtout par leur ADN (grotte de Denisova, Altaï, 2010), ont laissé jusqu’à environ 4 à 6 % d’ADN chez les Papous.\n\nCertains segments introgressés sont **adaptatifs** : immunité, pigmentation, *EPAS1* (altitude, chez les Tibétains, venu des Dénisoviens). D’autres ont été **contre-sélectionnés**, d’où les déserts d’introgression, notamment sur le chromosome X.\n\nLa Belgique a livré des fossiles néandertaliens majeurs : **Engis** (1829, premier fossile néandertalien découvert), **Spy** (1886) et la grotte Scladina.",
+  "question": "Comment sait-on que les Eurasiens actuels ont des ancêtres néandertaliens et que ce n’est pas un simple héritage commun ancien ?",
+  "reponse": "Grâce au **test ABBA-BABA**. Si la ressemblance venait seulement d’un polymorphisme ancestral partagé (tri incomplet), Africains et non-Africains devraient partager **autant** d’allèles dérivés avec Néandertal. Or les **non-Africains en partagent significativement plus**, ce qui donne un D de Patterson > 0. De plus, les segments partagés sont **longs**, donc récents, car la recombinaison les fragmente au fil des générations. C’est la signature d’un métissage récent, vers 50 000 ans, et non d’un héritage ancien.",
+  "pieges": [
+    "Dire que Néandertal est notre ancêtre direct : c’est une lignée sœur avec laquelle il y a eu des échanges.",
+    "Oublier les Dénisoviens."
+  ],
+  "liens": [
+    "genealogies-tri-incomplet",
+    "genre-homo",
+    "hybridation-transgressive"
+  ]
+}

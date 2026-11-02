@@ -1,0 +1,134 @@
+{
+  "id": "pteridium-aquilinum",
+  "nom": "Fougère aigle",
+  "latin": "Pteridium aquilinum",
+  "type": "fougere",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "lande"
+  ],
+  "belgique": true,
+  "clade": "filicophyta",
+  "saison": [
+    5,
+    6,
+    9,
+    10,
+    11
+  ],
+  "resume": "La grande fougère qui couvre les landes et les clairières acides, brun-roux en automne. Elle est **cosmopolite** et **toxique**, et forme de vastes clones par rhizomes.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Euphyllophytes",
+      [
+        "Mégaphylles"
+      ]
+    ],
+    [
+      "Division",
+      "Filicophytes (Fougères)",
+      [
+        "Crosses",
+        "Sores"
+      ]
+    ],
+    [
+      "Famille",
+      "Dennstaedtiacées",
+      []
+    ],
+    [
+      "Genre",
+      "Pteridium",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Equisetum arvense",
+    "parents": [
+      "Dryopteris filix-mas",
+      "Polypodium vulgare"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ses grandes frondes sont tripennées et partent d’un **rhizome** souterrain profond et étendu. Les **sporanges** sont protégés par le bord enroulé de la feuille (**fausse indusie**). La spore donne un **prothalle** (gamétophyte) libre, et la fécondation se fait dans l’eau, avec des anthérozoïdes multiflagellés.",
+    "details": "Une coupe du pétiole à la base montre un motif de faisceaux qui évoque un **aigle** à deux têtes, d’où son nom. Elle est **allélopathique** et produit des composés cyanogènes et du **ptaquiloside**, cancérigène."
+  },
+  "identification": {
+    "feuille": "Fronde unique, 1–2 m, tripennée, triangulaire, sur pétiole raide",
+    "fleur": "— (spores sous le bord enroulé)",
+    "fruit": "—",
+    "ecorce": "—",
+    "port": "Peuplements denses par rhizomes",
+    "periode": "Crosses en mai ; brun-roux d’octobre à l’hiver"
+  },
+  "ecologie": {
+    "essentiel": "Landes, coupes forestières, bois clairs sur sols acides.",
+    "details": "Elle **envahit** les landes et les pâturages abandonnés, ce qui ferme le milieu. Elle est gérée par fauche ou pâturage dans les réserves.",
+    "uicn": "LC",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Ses crosses sont consommées en Asie (Japon, Corée) après traitement, mais elles contiennent du **ptaquiloside**, associé à des cancers digestifs : ce n’est **pas recommandé**. Elle est toxique pour le bétail (thiaminase, ptaquiloside).",
+    "details": "Elle servait de litière et d’isolant dans les étables.",
+    "confusions_dangereuses": [
+      "Crosses : ptaquiloside cancérigène, déconseillé"
+    ]
+  },
+  "facts": [
+    "C’est l’une des plantes les plus répandues au monde (sauf déserts et pôles).",
+    "La coupe de son pétiole dessine un aigle.",
+    "Un même clone peut couvrir des hectares et avoir des siècles.",
+    "Elle contient un cancérigène, le ptaquiloside."
+  ],
+  "anecdote": "Coupe le pied d’une fougère aigle en biais : les faisceaux vasculaires dessinent un petit aigle, d’où son nom.",
+  "indices_quiz": [
+    "Fougère cosmopolite à grande fronde unique.",
+    "Spores sous le bord enroulé de la feuille.",
+    "Toxique et cancérigène (ptaquiloside)."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/52681",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Pteridium_aquilinum"
+  },
+  "notions": [
+    "adaptations-terrestres"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Landes de Campine, clairières ardennaises, bois clairs acides.",
+    "quand": "Crosses en mai ; brun-roux en automne-hiver.",
+    "criteres": [
+      "Fronde unique sur pétiole raide (pas de touffe)",
+      "Tripennée triangulaire",
+      "Brun-roux en automne"
+    ],
+    "sosies": [
+      {
+        "espece": "Fougère mâle (Dryopteris filix-mas)",
+        "distinguer": "Frondes en touffe (couronne), bipennées, sores ronds à indusie en rein."
+      }
+    ]
+  }
+}

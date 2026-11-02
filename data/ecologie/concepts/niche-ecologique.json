@@ -1,0 +1,18 @@
+{
+  "id": "niche-ecologique",
+  "titre": "Niche écologique",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "La **niche fondamentale** (Hutchinson, 1957) est l’« hypervolume » à n dimensions des conditions et ressources où une espèce peut maintenir une population. La **niche réalisée** est la partie effectivement occupée, réduite par la compétition, la prédation et les limites de dispersion. Elle peut aussi être élargie par la facilitation.",
+  "details": "Grinnell (1917) parlait de la niche comme d’un **habitat** (les conditions). Elton (1927) en faisait un **rôle** dans la communauté. Hutchinson a formalisé l’hypervolume.\n\nOn modélise aujourd’hui la niche par des **modèles de distribution d’espèces** (SDM) qui croisent occurrences et variables climatiques. Ces modèles servent notamment à prédire les invasions et les effets du changement climatique.\n\nLe **conservatisme de niche** désigne la tendance des espèces proches à garder des niches similaires. Mais les espèces envahissantes montrent parfois des **décalages de niche** entre aire native et aire d’introduction.",
+  "question": "Pourquoi une espèce envahissante peut-elle occuper, dans sa nouvelle aire, des conditions climatiques qu’elle n’occupe pas dans son aire d’origine ?",
+  "reponse": "Dans l’aire native, sa **niche réalisée** était réduite par des compétiteurs, des ennemis naturels ou des barrières de dispersion. Libérée de ces contraintes, elle exprime une plus grande partie de sa **niche fondamentale**. Une évolution rapide (adaptation locale, hybridation) peut aussi élargir sa niche. Les modèles calibrés uniquement sur l’aire native **sous-estiment** alors le risque d’invasion.",
+  "pieges": [
+    "Confondre habitat (lieu) et niche (rôle/conditions).",
+    "Croire que la niche réalisée est toujours plus petite (la facilitation peut l’étendre)."
+  ],
+  "liens": [
+    "exclusion-competitive",
+    "liberation-ennemis"
+  ]
+}

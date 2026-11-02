@@ -1,0 +1,100 @@
+{
+  "id": "petromyzon-marinus",
+  "nom": "Lamproie marine",
+  "latin": "Petromyzon marinus",
+  "groupe": "agnathe",
+  "milieu": [
+    "mer",
+    "riviere"
+  ],
+  "belgique": false,
+  "clade": "petromyzontida",
+  "resume": "Vertébré **sans mâchoire**, avec une bouche en ventouse armée de dents cornées. C’est l’un des derniers représentants des **cyclostomes**, lignée sœur de tous les vertébrés à mâchoires.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Cyclostomes (Hyperoartiens)",
+      "synapomorphies": [
+        "Pas de mâchoires",
+        "Narine unique",
+        "4 familles de microARN propres"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Pétromyzontiformes",
+      "synapomorphies": [
+        "Disque buccal"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Pétromyzontidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Petromyzon",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Squalus acanthias",
+    "parents": [
+      "Lampetra fluviatilis",
+      "Myxine glutinosa"
+    ]
+  },
+  "facts": [
+    "Elle n’a pas de mâchoires : elle se fixe par ventouse et râpe avec sa langue cornée.",
+    "Sa larve filtre l’eau pendant des années enfouie dans le sable.",
+    "Dans les Grands Lacs américains, c’est une invasive combattue avec ses propres phéromones.",
+    "Elle partage avec les myxines quatre familles de microARN qui prouvent la monophylie des cyclostomes."
+  ],
+  "anecdote": "La lamproie choisit sa rivière à l’odeur des larves qui y vivent : les gestionnaires des Grands Lacs utilisent ce parfum pour la piéger.",
+  "indices_quiz": [
+    "Vertébré sans mâchoires à bouche en ventouse.",
+    "Sa larve ammocète filtre avec un endostyle.",
+    "Invasive dans les Grands Lacs, piégée avec ses phéromones."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/49223",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Petromyzon_marinus"
+  },
+  "notions": [
+    "cretes-neurales-craniates",
+    "chordes-synapomorphies"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Elle mesure jusqu’à environ 1 m. Elle a **7 orifices branchiaux** de chaque côté, un squelette cartilagineux, pas de nageoires paires. Sa larve, l’**ammocète**, vit enfouie dans le sédiment des rivières pendant plusieurs années et filtre l’eau grâce à un **endostyle**, l’homologue de la thyroïde.",
+    "details": "L’ammocète est un **modèle de chordé « basal »** : endostyle, fentes pharyngiennes, notochorde persistante. L’adulte est **hématophage** : il se fixe sur des poissons et sécrète des anticoagulants."
+  },
+  "comportement": {
+    "essentiel": "Elle est **anadrome** : elle grandit en mer et remonte les rivières pour frayer. Les adultes creusent un nid de galets en déplaçant les pierres avec leur ventouse, puis meurent après la ponte.",
+    "details": "Les adultes repèrent les rivières de frai grâce à une **phéromone** émise par les larves (des acides biliaires), un indice chimique de qualité de l’habitat.",
+    "concepts": [
+      "signal-indice"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Atlantique Nord et rivières côtières ; rare dans les fleuves belges (Escaut, Meuse) à cause des barrages.",
+    "details": "Invasive dans les Grands Lacs américains, où elle a décimé les truites grises après l’ouverture des canaux. On y lutte avec des lampricides et avec des **phéromones** de piégeage.",
+    "uicn": "LC",
+    "menaces": [
+      "Barrages (Europe)",
+      "Pollution des frayères"
+    ]
+  }
+}

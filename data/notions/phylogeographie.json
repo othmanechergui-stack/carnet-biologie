@@ -1,0 +1,18 @@
+{
+  "id": "phylogeographie",
+  "titre": "Phylogéographie et réseaux d’allèles",
+  "module": "module2",
+  "source": "module 2/7qY10q-ReÌseauxphylogeÌographie - copie.pdf",
+  "essentiel": "La **phylogéographie** étudie la répartition géographique des **lignées généalogiques** de gènes (souvent l’ADN mitochondrial ou chloroplastique) pour reconstituer l’histoire des populations : refuges glaciaires, routes de recolonisation, barrières. Les **réseaux d’haplotypes** (median-joining, TCS) relient les allèles par des pas de mutation. Ils sont mieux adaptés que des arbres aux faibles divergences intraspécifiques, car des haplotypes ancestraux y sont encore présents.",
+  "details": "Le modèle européen classique (Hewitt) : pendant le dernier maximum glaciaire, les espèces se sont repliées dans les péninsules du sud (ibérique, italienne, balkanique). Elles ont ensuite recolonisé le nord depuis ces refuges. On le voit par une **diversité génétique plus élevée au sud** et par des **zones de suture** où des lignées se rencontrent. C’est le cas chez le hérisson, l’ours brun et le chêne.\n\nDans un réseau, un haplotype **central et fréquent** est probablement ancestral. Une **topologie en étoile** (de nombreux haplotypes rares à un pas d’un haplotype central) signale une **expansion démographique** récente.",
+  "question": "Un réseau d’haplotypes mitochondriaux montre un haplotype central très fréquent entouré de nombreux haplotypes rares, chacun à une mutation de distance. Que suggère ce motif ?",
+  "reponse": "Une topologie **en étoile**, qui signale une **expansion démographique ou spatiale récente** à partir d’une petite population fondatrice. L’haplotype central, fréquent et répandu, est probablement **ancestral**. Les haplotypes rares périphériques sont des mutations récentes, apparues pendant l’expansion, qui n’ont pas encore dérivé en fréquence. On peut le confirmer par une distribution des différences par paires unimodale (*mismatch distribution*) ou par un D de Tajima négatif.",
+  "pieges": [
+    "Lire un réseau comme un arbre enraciné (le réseau n’est pas enraciné a priori).",
+    "Confondre la diversité génétique élevée d’un refuge avec une population récente."
+  ],
+  "liens": [
+    "coalescence",
+    "genealogies-tri-incomplet"
+  ]
+}

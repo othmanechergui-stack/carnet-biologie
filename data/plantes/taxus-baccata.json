@@ -1,0 +1,149 @@
+{
+  "id": "taxus-baccata",
+  "nom": "If commun",
+  "latin": "Taxus baccata",
+  "type": "arbre",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "jardin"
+  ],
+  "belgique": true,
+  "clade": "taxaceae",
+  "saison": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "resume": "Conifère sombre des haies et des cimetières, presque entièrement **toxique**. Son « fruit » rouge n’est pas un fruit mais un **arille** charnu autour d’une graine nue. Il peut vivre plusieurs siècles, peut-être plus d’un millénaire.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Gymnospermes",
+      [
+        "Ovules nus"
+      ]
+    ],
+    [
+      "Ordre",
+      "Coniférophytes (Pinales s.l.)",
+      [
+        "Siphonogamie"
+      ]
+    ],
+    [
+      "Famille",
+      "Taxacées",
+      [
+        "Graine solitaire entourée d’un arille"
+      ]
+    ],
+    [
+      "Genre",
+      "Taxus",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Ginkgo biloba",
+    "parents": [
+      "Taxus cuspidata",
+      "Pinus sylvestris"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Il est **dioïque** : on trouve des pieds mâles et des pieds femelles. Les femelles portent des ovules solitaires. Après fécondation, un **arille** rouge charnu se développe autour de la graine. Il n’y a pas d’ovaire : ce n’est donc pas un fruit, puisque c’est une gymnosperme.",
+    "details": "Toute la plante (aiguilles, graine, écorce) contient des **taxines**, des alcaloïdes cardiotoxiques, **sauf la chair de l’arille**. Son bois très élastique, sans canaux résinifères, servait à faire les arcs longs anglais. Il rejette de souche et supporte la taille, d’où son usage en topiaire."
+  },
+  "identification": {
+    "feuille": "Aiguilles plates, souples, vert foncé dessus, plus claires dessous, sans bandes blanches nettes, disposées en deux rangs",
+    "fleur": "Petits cônes mâles jaunes (février-mars) ; ovules discrets",
+    "fruit": "Arille rouge en coupe ouverte laissant voir la graine (septembre-novembre)",
+    "ecorce": "Brun-rouge, se détachant en plaques fines",
+    "port": "Arbuste ou petit arbre sombre, dense",
+    "periode": "Arilles en automne"
+  },
+  "ecologie": {
+    "essentiel": "Sous-bois calcaires (vallées mosanes), haies, parcs, cimetières.",
+    "details": "Les **grives** et les merles mangent les arilles et dispersent les graines, qu’ils ne digèrent pas. L’if est rare à l’état spontané en Belgique.",
+    "uicn": "LC",
+    "menaces": [
+      "Rare à l’état sauvage en Belgique",
+      "Abroutissement par les cervidés"
+    ]
+  },
+  "usages": {
+    "essentiel": "Le **paclitaxel** (Taxol), un anticancéreux, a été isolé de l’if du Pacifique. On produit aujourd’hui des précurseurs à partir des aiguilles d’if européen. L’arc long anglais du Moyen Âge était en if.",
+    "details": "Ne jamais consommer : la graine et les aiguilles sont mortelles (quelques dizaines de grammes d’aiguilles peuvent tuer un adulte). Les chevaux y sont très sensibles.",
+    "confusions_dangereuses": [
+      "La graine dans l’arille est très toxique : ne jamais croquer",
+      "Aiguilles mortelles pour le bétail et les chevaux"
+    ]
+  },
+  "facts": [
+    "L’arille rouge est la seule partie non toxique, mais la graine qu’il entoure est mortelle.",
+    "C’est un conifère sans cône ligneux.",
+    "Un médicament anticancéreux majeur, le paclitaxel, vient des ifs.",
+    "L’arc long anglais de la bataille d’Azincourt était taillé dans l’if."
+  ],
+  "anecdote": "L’if fabrique une « fausse cerise » sucrée pour les oiseaux, mais cache au centre une graine mortelle qu’ils avalent sans la digérer.",
+  "indices_quiz": [
+    "Gymnosperme dioïque à arille rouge.",
+    "Toxique partout sauf la chair de l’arille.",
+    "Source d’un médicament anticancéreux."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/47553",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Taxus_baccata"
+  },
+  "notions": [
+    "heterosporie-graine"
+  ],
+  "ajoute_le": "2026-11-02",
+  "terrain": {
+    "ou": "Parcs, cimetières, haies taillées ; spontané dans les sous-bois calcaires de Meuse.",
+    "quand": "Arilles de septembre à novembre.",
+    "criteres": [
+      "Aiguilles plates sans bande blanche",
+      "Arille rouge ouvert",
+      "Écorce brun-rouge en plaques"
+    ],
+    "sosies": [
+      {
+        "espece": "Sapin pectiné (Abies alba)",
+        "distinguer": "Aiguilles à deux bandes blanches dessous, cônes dressés ; pas d’arille."
+      },
+      {
+        "espece": "Épicéa (Picea abies)",
+        "distinguer": "Aiguilles piquantes à section carrée, cônes pendants."
+      }
+    ]
+  }
+}

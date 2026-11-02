@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-28",
+  "revision": "exploitation-sensorielle",
+  "bonus": {
+    "titre": "Les fleurs qui exploitent les biais sensoriels des insectes",
+    "essentiel": "L’exploitation sensorielle ne concerne pas que la sélection sexuelle : beaucoup de fleurs « trompeuses » exploitent les préférences des pollinisateurs. Les orchidées *Ophrys* imitent l’odeur (phéromone) et l’aspect des femelles d’abeilles solitaires : les mâles tentent de s’accoupler et emportent les pollinies.",
+    "details": "Chez *Ophrys*, la pollinisation par pseudocopulation repose sur une imitation chimique très précise des phéromones sexuelles (alcènes et alcanes). La spécificité de l’imitation crée un isolement reproductif entre espèces d’Ophrys : un changement d’odeur peut suffire à changer de pollinisateur et amorcer une spéciation. L’ophrys abeille, présente en Belgique, est surtout autogame dans nos régions.",
+    "lien_notion": "cd-biais-sensoriels"
+  },
+  "animal": "engystomops-pustulosus",
+  "animaux_reserve": [
+    "pavo-cristatus",
+    "coccinella-septempunctata",
+    "branchiostoma-lanceolatum"
+  ],
+  "plante": "amanita-muscaria",
+  "plantes_reserve": [
+    "betula-pendula",
+    "pteridium-aquilinum"
+  ],
+  "digest": [
+    "2026-10-27-araignees-sommeil-rem",
+    "2026-10-27-fourmis-transposons-asteroide",
+    "2026-10-27-paludohadros"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "exploitation-sensorielle"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "amanita-muscaria"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-23-retrovirus-chimpanze-organoides"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-20-belemnite-wyoming"
+    }
+  ]
+}

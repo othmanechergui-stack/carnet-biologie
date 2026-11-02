@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-02-foret-de-soignes",
+  "semaine": "2026-11-02",
+  "nom": "La forêt de Soignes",
+  "lieu": "Bruxelles, Flandre et Wallonie (≈ 4 400 ha)",
+  "fonctionnement": {
+    "essentiel": "Grande **hêtraie cathédrale** plantée sur sols limoneux, gérée depuis des siècles, aux portes de Bruxelles. Une partie de ses réserves intégrales est inscrite au patrimoine mondial de l’UNESCO (forêts anciennes de hêtres, 2017). Les vieux arbres et le bois mort hébergent une grande biodiversité cachée.",
+    "details": "Le hêtre, espèce fondatrice, crée un sous-bois sombre ; au printemps, les géophytes vernales (anémones, jacinthes, ail des ours dans les vallons) profitent de la lumière avant la feuillaison. Les sécheresses récentes affaiblissent les hêtres : les gestionnaires diversifient les essences. La forêt est **fragmentée** par le Ring et les routes ; des écoducs ont été construits. Les réserves intégrales laissent le bois mort se décomposer : coléoptères saproxyliques, champignons, pics."
+  },
+  "especes_cles": [
+    "fagus-sylvatica",
+    "quercus-robur",
+    "salamandra-salamandra",
+    "anemone-nemorosa",
+    "castor-fiber",
+    "pipistrellus-pipistrellus"
+  ],
+  "especes_texte": "Pic noir, pic mar, chauves-souris arboricoles, salamandres dans les vallons humides, castor dans la vallée de la Woluwe.",
+  "menaces": [
+    "Fragmentation (Ring, routes)",
+    "Sécheresses et dépérissement du hêtre",
+    "Sur-fréquentation",
+    "Bsal chez les salamandres"
+  ],
+  "a_observer": "Début novembre : hêtres cuivrés, tapis de faines (année de masting ?), champignons sur le bois mort, dernières fleurs de lierre bourdonnantes. Écoute le pic noir.",
+  "notions": [
+    "fragmentation-habitats",
+    "especes-cles-ingenieurs",
+    "services-ecosystemiques"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "qst-fst",
+  "titre": "Q_ST vs F_ST : détecter la sélection sur un trait",
+  "module": "module2",
+  "source": "module 2/Résumé module 2.docx",
+  "essentiel": "Le **Q_ST** mesure la différenciation **génétique** d’un trait quantitatif entre populations : Q_ST = V_B / (V_B + 2V_W), avec les variances additives inter- et intra-populations, estimées en jardin commun. Sous neutralité, **Q_ST ≈ F_ST** (marqueurs neutres).\n- **Q_ST > F_ST** indique une **sélection divergente** (adaptation locale).\n- **Q_ST < F_ST** indique une **sélection stabilisatrice** (le même optimum partout).",
+  "details": "Le F_ST de marqueurs neutres sert de **référence** : il reflète ce que la dérive et la migration seules produiraient. La formule rigoureuse comporte un facteur 2 sur V_W pour des diploïdes. Ta synthèse donne la version simplifiée Vb / (Vw + Vb).\n\nIl faut éliminer les effets environnementaux, donc mesurer en **jardin commun**, sinon on obtient un **P_ST** phénotypique.\n\nConstat général : les caractères quantitatifs montrent plus souvent une sélection divergente que les marqueurs moléculaires.",
+  "question": "Entre populations de pins, F_ST (microsatellites) = 0,02, mais Q_ST de la date de débourrement = 0,45. Qu’en conclus-tu ?",
+  "reponse": "Q_ST (0,45) est **bien supérieur** à F_ST (0,02). Les populations sont presque homogènes pour les marqueurs neutres, car le flux de gènes pollinique est important. Pourtant, elles sont fortement différenciées pour la phénologie. Seule une **sélection divergente** liée au climat local peut maintenir cette différenciation malgré le flux de gènes : c’est une **adaptation locale** de la date de débourrement.",
+  "pieges": [
+    "Comparer un P_ST mesuré en milieu naturel avec F_ST (les effets environnementaux biaisent).",
+    "Inverser l’interprétation de Q_ST < F_ST."
+  ],
+  "liens": [
+    "f-statistiques",
+    "norme-reaction-gxe"
+  ]
+}

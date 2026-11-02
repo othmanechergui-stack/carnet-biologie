@@ -1,0 +1,17 @@
+{
+  "id": "ecdysozoaires-mue",
+  "titre": "Ecdysozoaires : cuticule et mue",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Les **Ecdysozoaires** (arthropodes, nématodes, tardigrades, onychophores…) partagent une **cuticule** acellulaire en trois couches, contenant de la chitine et sécrétée par l’épiderme. Cette cuticule est renouvelée lors de la **mue** (ecdysis), contrôlée par des hormones stéroïdes, les **ecdystéroïdes**.",
+  "details": "La mue se déroule en trois étapes :\n1. L’épiderme se détache de l’ancienne cuticule (**apolyse**).\n2. Il sécrète un fluide qui digère l’endocuticule, puis produit une nouvelle cuticule.\n3. L’ancienne exocuticule, trop résistante pour être digérée, est rejetée.\n\nJuste après la mue, l’animal est **vulnérable** tant que la nouvelle cuticule n’a pas durci. Chez les hexapodes, l’**épicuticule** cireuse limite les pertes d’eau, ce qui est clé pour la vie terrestre.\n\nLe cours cite aussi une synapomorphie moins intuitive : un épitope du système nerveux reconnu par un anticorps anti-peroxydase de raifort (anti-HRP).",
+  "question": "Qu’est-ce qui unit un nématode et un papillon, et pourquoi ce regroupement a-t-il surpris ?",
+  "reponse": "Ce sont tous deux des **Ecdysozoaires**. Ils ont une cuticule qu’ils renouvellent par **mue** sous contrôle des ecdystéroïdes. Ce clade, mis en évidence par les phylogénies moléculaires (Aguinaldo et al., 1997), a surpris car on rapprochait traditionnellement les arthropodes des annélides (les « Articulés »), à cause de leur corps segmenté. La segmentation est donc apparue indépendamment, ou a été perdue plusieurs fois.",
+  "pieges": [
+    "Croire que la segmentation prouve la parenté arthropodes–annélides.",
+    "Oublier que la chitine existe aussi ailleurs : chez les champignons, et chez les mollusques dans la radula."
+  ],
+  "liens": [
+    "protostomiens-deuterostomiens"
+  ]
+}

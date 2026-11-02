@@ -1,0 +1,17 @@
+{
+  "id": "plasticite-phenotypique",
+  "titre": "Plasticité phénotypique adaptative",
+  "module": "module1",
+  "source": "module 1/1_Variation intraspÃ©cifique - copie.pdf",
+  "essentiel": "La **plasticité phénotypique** est la capacité d’un génotype à produire des phénotypes différents selon l’environnement. Elle est **adaptative** si le phénotype produit dans chaque milieu y augmente la fitness. Elle peut être **réversible** (acclimatation physiologique) ou **irréversible** (polyphénisme développemental), et elle se distingue de la variation génétique entre populations.",
+  "details": "Exemples :\n- les daphnies qui développent un casque et des épines en présence de kairomones de prédateurs ;\n- l’hétérophyllie des renoncules aquatiques (feuilles immergées découpées, feuilles aériennes entières) ;\n- les morphes de saison chez *Araschnia levana*, la Carte géographique.\n\nLimites et coûts : maintenir la capacité de détecter et de répondre, fiabilité des indices environnementaux, décalage temporel.\n\nPour distinguer plasticité et adaptation locale, on utilise des **jardins communs** et des **transplantations réciproques**. Si les différences disparaissent en jardin commun, elles sont plastiques.",
+  "question": "Des chênes de plaine et de montagne diffèrent par leur date de débourrement. Quelle expérience permet de savoir si la différence est génétique ou plastique ?",
+  "reponse": "Une **expérience en jardin commun** : on fait pousser des glands des deux origines dans un même environnement. Si la différence persiste, elle a une base **génétique** (adaptation locale ou dérive). Si elle disparaît, elle était **plastique**. L’idéal est la **transplantation réciproque** ou plusieurs jardins communs à différentes altitudes. On estime alors les normes de réaction et l’interaction G×E, en tenant compte des effets maternels via des graines de deuxième génération.",
+  "pieges": [
+    "Conclure à une adaptation génétique à partir de différences observées en milieu naturel.",
+    "Oublier les effets maternels en jardin commun."
+  ],
+  "liens": [
+    "norme-reaction-gxe"
+  ]
+}

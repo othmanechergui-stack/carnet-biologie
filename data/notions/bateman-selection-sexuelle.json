@@ -1,0 +1,17 @@
+{
+  "id": "bateman-selection-sexuelle",
+  "titre": "Anisogamie, principe de Bateman et sélection sexuelle",
+  "module": "ethologie",
+  "source": "comportement animal/Cours Eco-Ethologie_22-23.pdf",
+  "essentiel": "L’**anisogamie** (gros gamètes femelles coûteux, petits gamètes mâles nombreux) crée une asymétrie. Le succès reproducteur des mâles augmente souvent avec le nombre de partenaires, beaucoup moins celui des femelles : c’est le **principe de Bateman** (1948). La variance du succès reproducteur est alors plus forte chez les mâles. La sélection sexuelle agit par **compétition intrasexuelle** (armes) et par **choix du partenaire** (ornements).",
+  "details": "Le sexe qui investit le plus dans les descendants devient la ressource limitante pour l’autre (Trivers 1972, investissement parental). Le **sex-ratio opérationnel** (rapport des individus prêts à se reproduire) prédit l’intensité de la compétition.\n\nOn connaît des **inversions de rôles** : chez les syngnathes (hippocampes) ou les phalaropes, les mâles couvent. Les femelles y sont plus colorées et entrent en compétition.\n\nBateman a été critiqué pour des problèmes méthodologiques chez la drosophile, mais le principe reste soutenu par des méta-analyses (Janicke et al., 2016).",
+  "question": "Chez les hippocampes, ce sont les femelles qui paradent le plus et les mâles qui choisissent. Comment la théorie de l’investissement parental l’explique-t-elle ?",
+  "reponse": "Chez les hippocampes, le **mâle porte les œufs** dans sa poche incubatrice : c’est lui qui fait l’investissement parental le plus lourd et le plus long après l’accouplement. Les mâles disponibles deviennent la **ressource limitante**. Le sex-ratio opérationnel est biaisé vers les femelles, qui entrent en compétition. Le choix du partenaire passe aux mâles. Ce n’est pas le sexe en soi qui détermine les rôles, mais l’**asymétrie d’investissement**.",
+  "pieges": [
+    "Croire que les mâles sont toujours le sexe en compétition.",
+    "Oublier le sex-ratio opérationnel."
+  ],
+  "liens": [
+    "signal-honnete"
+  ]
+}

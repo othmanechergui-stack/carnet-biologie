@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-20-belemnite-wyoming",
+  "date": "2026-10-20",
+  "titre": "Le bélemnite le plus « gros » jamais trouvé, dans le Jurassique du Wyoming",
+  "resume": "Wyoteuthis linsterorum (≈ 160 Ma, Sundance Formation), décrit à partir de deux spécimens : un rostre de 10 × 6 cm, le plus trapu connu. Le CT-scan le rattache à une famille qu’on croyait disparue bien plus tôt ; l’animal entier aurait mesuré ≈ 60 cm et chassé d’autres bélemnites.",
+  "source": {
+    "nom": "Papers in Palaeontology (Univ. Manchester) — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm"
+  },
+  "themes": [
+    "paleontologie",
+    "zoologie"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "2 spécimens",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "À quel groupe appartient Wyoteuthis linsterorum ?",
+    "choix": [
+      "Aux bélemnites, des céphalopodes éteints",
+      "Aux ammonites à coquille externe",
+      "Aux trilobites"
+    ],
+    "bonne": 0
+  },
+  "module": "zoologie"
+}

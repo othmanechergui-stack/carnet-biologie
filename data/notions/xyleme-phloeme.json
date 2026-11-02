@@ -1,0 +1,19 @@
+{
+  "id": "xyleme-phloeme",
+  "titre": "Xylème et phloème",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 1 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Le **xylème** conduit la sève brute (eau et sels minéraux) des racines vers les feuilles. Il est formé de cellules **mortes** à parois lignifiées : les **trachéides**, et chez la plupart des angiospermes les **vaisseaux**. Le **phloème** conduit la sève élaborée (sucres). Il est formé de **tubes criblés vivants** mais sans noyau, accompagnés de **cellules compagnes** chez les angiospermes.",
+  "details": "Les trachéides communiquent par des ponctuations. Les éléments de vaisseaux sont des cellules mises bout à bout dont les parois terminales sont perforées : la conduction est plus efficace, mais le risque d’**embolie** (bulle d’air) est plus élevé.\n\nLe moteur de la sève brute est la **tension créée par la transpiration** (théorie cohésion-tension), et non une pompe. La sève élaborée circule par **flux de masse** dû à une différence de pression osmotique entre les organes sources et les organes puits (hypothèse de Münch).\n\nLe xylème contient aussi des fibres et du parenchyme.",
+  "question": "Pourquoi peut-on dire que le xylème fonctionnel est un tissu « mort », et en quoi est-ce un avantage ?",
+  "reponse": "À maturité, les trachéides et les éléments de vaisseaux ont perdu leur contenu cellulaire : il ne reste que des **tubes de paroi lignifiée**. Le passage de l’eau n’est gêné ni par un cytoplasme ni par des membranes. La lignine donne la rigidité nécessaire pour résister à la **forte tension négative** créée par la transpiration, sans que les conduits s’effondrent.",
+  "pieges": [
+    "Dire que le phloème est formé de cellules mortes (les tubes criblés sont vivants, anucléés).",
+    "Croire que la racine « pompe » la sève brute : la force motrice principale est la transpiration."
+  ],
+  "categorie": "botanique-base",
+  "liens": [
+    "meristemes-tissus",
+    "tige-dicot-monocot"
+  ]
+}

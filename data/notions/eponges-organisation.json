@@ -1,0 +1,17 @@
+{
+  "id": "eponges-organisation",
+  "titre": "Plan d’organisation des éponges",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Les éponges (Spongiaires) sont formées d’un **mésohyle** (mésenchyme) pris entre deux épithéliums : le **pinacoderme** à l’extérieur et le **choanoderme** à l’intérieur, tapissé de **choanocytes** dont le flagelle crée un courant d’eau. L’eau entre par les **ostioles** et ressort par l’**osculum**. Elles n’ont ni vrais tissus nerveux ni musculaires.",
+  "details": "Le cours distingue : les **Démosponges** (spicules siliceux et spongine, ≈ 90 % des espèces, forme leucon), les **Hexactinellides** (spicules siliceux à six pointes, choanosyncytium), les **Calcisponges** (spicules calcaires, formes ascon, sycon et leucon) et les **Homoscléromorphes** (≈ 85 espèces).\n\nLes échanges gazeux et l’élimination des déchets azotés se font par diffusion, aidés par le courant d’eau. Reproduction asexuée (gemmules, bourgeonnement) et sexuée.",
+  "question": "Explique comment une éponge se nourrit et respire alors qu’elle n’a ni bouche, ni système circulatoire, ni muscles.",
+  "reponse": "Les flagelles des choanocytes créent un **courant d’eau continu** à travers le corps : entrée par les nombreux ostioles, traversée des chambres choanocytaires, sortie par l’osculum. Les choanocytes capturent les particules alimentaires (bactéries) par leur collerette de microvillosités ; la digestion est intracellulaire. Les échanges gazeux et l’excrétion azotée se font par **diffusion** au contact de ce flux permanent.",
+  "pieges": [
+    "Dire que les éponges n’ont pas de cellules spécialisées : choanocytes, pinacocytes et cellules du mésohyle sont spécialisés.",
+    "Confondre ostioles (entrées, nombreuses) et osculum (sortie)."
+  ],
+  "liens": [
+    "metazoaires-synapomorphies"
+  ]
+}

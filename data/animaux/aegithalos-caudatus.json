@@ -1,0 +1,120 @@
+{
+  "id": "aegithalos-caudatus",
+  "nom": "Mésange à longue queue",
+  "latin": "Aegithalos caudatus",
+  "groupe": "oiseau",
+  "milieu": [
+    "foret",
+    "jardin"
+  ],
+  "belgique": true,
+  "clade": "passeriformes",
+  "resume": "Petite boule de plumes rose et blanc munie d’une queue plus longue que le corps, qui voyage en bandes familiales. En cas d’échec de leur nichée, les adultes **aident à nourrir les petits de leurs apparentés**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Oiseaux",
+      "synapomorphies": [
+        "Plumes",
+        "Furcula",
+        "Bec corné",
+        "Hallux retourné"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Passériformes",
+      "synapomorphies": [
+        "Pied anisodactyle de perchoir"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Aegithalidés",
+      "synapomorphies": [
+        "Nid en boule fermée"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Aegithalos",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Parus major",
+    "parents": [
+      "Aegithalos glaucogularis",
+      "Psaltriparus minimus"
+    ]
+  },
+  "facts": [
+    "Son nid peut contenir plus de 1 500 plumes.",
+    "Les toiles d’araignée rendent le nid élastique : il grandit avec les oisillons.",
+    "Les adultes qui ont perdu leur nichée aident de préférence leurs frères et sœurs, reconnus au cri.",
+    "En hiver, la bande dort en rang serré sur une même branche."
+  ],
+  "anecdote": "La mésange à longue queue tricote un nid élastique avec des toiles d’araignée, garni de plus de 1 500 plumes.",
+  "indices_quiz": [
+    "Passereau à queue plus longue que le corps qui vit en bandes familiales.",
+    "Son nid élastique est cousu de toiles d’araignée.",
+    "Les adultes en échec aident les nids de leurs apparentés."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/7278",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Aegithalos_caudatus"
+  },
+  "notions": [
+    "contraintes-ecologiques-cooperation",
+    "regle-hamilton"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Environ 14 cm, dont 7 à 9 de queue, et seulement 7 à 9 g. Ce n’est pas une vraie mésange : elle n’appartient pas aux Paridés. Les oiseaux d’Europe de l’Ouest ont un sourcil noir ; la sous-espèce nordique *caudatus* a la tête toute blanche.",
+    "details": "Son nid est un chef-d’œuvre : une **boule élastique** de mousses et de toiles d’araignée, camouflée de lichens et garnie de plus de **1 500 plumes**. Les toiles d’araignée lui permettent de s’étirer à mesure que les jeunes grandissent."
+  },
+  "comportement": {
+    "essentiel": "En hiver, elle vit en **bandes familiales** d’une dizaine d’individus, qui dorment serrés sur une branche pour limiter les pertes de chaleur.",
+    "details": "Au printemps, beaucoup de nichées échouent par prédation. Les adultes concernés deviennent des **aides** au nid d’un autre couple, et choisissent préférentiellement des **apparentés**, reconnus par leurs cris appris (Sharp et al., 2005). C’est un cas d’école de **sélection de parentèle** : le coût de l’aide est quasi nul, puisque le reproduction directe a échoué pour cette saison.",
+    "concepts": [
+      "contraintes-ecologiques-cooperation",
+      "regle-hamilton",
+      "cd-altruisme-parentele"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Bois clairs, haies, parcs et jardins. Elle visite les mangeoires en hiver.",
+    "details": "Insectivore spécialiste des petits arthropodes sur les rameaux. Ses populations chutent lors des hivers rigoureux mais récupèrent vite.",
+    "uicn": "LC",
+    "menaces": [
+      "Hivers rigoureux",
+      "Disparition des haies et fourrés"
+    ]
+  },
+  "terrain": {
+    "ou": "Haies, lisières, parcs ; en bandes bruyantes qui passent d’arbre en arbre.",
+    "quand": "Toute l’année ; nid dès mars.",
+    "criteres": [
+      "Silhouette minuscule à très longue queue",
+      "Rose, noir et blanc",
+      "Cris fins « tsi-tsi-tsi » et roulés « tserr »"
+    ],
+    "sosies": [
+      {
+        "espece": "Bergeronnette grise",
+        "distinguer": "Longue queue aussi, mais oiseau plus gros, au sol, hochant la queue ; noir, gris et blanc sans rose."
+      }
+    ]
+  }
+}

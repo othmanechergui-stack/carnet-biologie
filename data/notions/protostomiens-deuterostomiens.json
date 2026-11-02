@@ -1,0 +1,19 @@
+{
+  "id": "protostomiens-deuterostomiens",
+  "titre": "Protostomiens et Deutérostomiens",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Chez les **Protostomiens**, le blastopore donne classiquement la bouche ; chez les **Deutérostomiens**, il donne l’anus et la bouche se forme secondairement. Les Protostomiens ont souvent un clivage **spiral** et un système nerveux **ventral** (hyponeuriens) ; les Deutérostomiens un clivage radial et, chez les chordés, un système nerveux **dorsal** (épineuriens).",
+  "details": "Les Protostomiens comprennent deux grands clades :\n- les **Lophotrochozoaires**, ou Spiraliens : mollusques, annélides, plathelminthes, rotifères ;\n- les **Ecdysozoaires** : arthropodes, nématodes, tardigrades.\n\nLes Deutérostomiens regroupent les **Ambulacraires** (échinodermes + hémichordés) et les **Chordés**.\n\nLe cours signale une limite : certains protostomiens peuvent avoir un développement de type « deutérostomien ». Le devenir du blastopore varie donc et n’est pas un caractère infaillible. Les deux clades sont aujourd’hui définis surtout par des données moléculaires.",
+  "question": "Une étoile de mer adulte a une symétrie pentaradiée. Pourquoi la range-t-on quand même parmi les Bilatériens, et dans quel grand groupe ?",
+  "reponse": "Sa **larve** (bipinnaria) est bilatérale. La symétrie pentaradiée de l’adulte est donc **secondaire**, acquise à la métamorphose ; le cours note d’ailleurs que la plaque madréporique rend l’adulte en partie bilatéral. Les échinodermes sont des **Deutérostomiens** (Ambulacraires), groupe frère des hémichordés, et donc plus proches des chordés que des cnidaires, malgré l’apparence.",
+  "pieges": [
+    "Croire que la règle du blastopore est absolue.",
+    "Classer les échinodermes près des cnidaires à cause de la symétrie radiale."
+  ],
+  "liens": [
+    "triploblastes-coelome",
+    "ecdysozoaires-mue",
+    "chordes-synapomorphies"
+  ]
+}

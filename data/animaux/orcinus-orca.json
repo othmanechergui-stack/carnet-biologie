@@ -1,0 +1,104 @@
+{
+  "id": "orcinus-orca",
+  "nom": "Orque",
+  "latin": "Orcinus orca",
+  "groupe": "mammifere",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": false,
+  "clade": "cetartiodactyla",
+  "resume": "Le plus grand dauphin et le **superprédateur** des océans. Les orques vivent en groupes **matrilinéaires** stables avec des **dialectes** et des techniques de chasse transmis culturellement. Les femelles connaissent la **ménopause**.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Mammifères",
+      "synapomorphies": [
+        "Articulation dento-squamosale",
+        "Poils",
+        "Glandes mammaires"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Cétartiodactyles (Cétacés)",
+      "synapomorphies": [
+        "Astragale à double poulie (ancêtres)",
+        "Évent"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Delphinidés",
+      "synapomorphies": [
+        "Melon pour l’écholocation"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Orcinus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Hippopotamus amphibius",
+    "parents": [
+      "Globicephala melas",
+      "Tursiops truncatus"
+    ]
+  },
+  "facts": [
+    "La ménopause n’existe que chez l’humain et quelques cétacés à dents, dont l’orque.",
+    "Les grands-mères ménopausées guident le groupe vers les zones de pêche en période de disette.",
+    "Les écotypes « résidents » et « Bigg’s » ne se croisent pas et ne mangent pas les mêmes proies.",
+    "Le plus proche parent vivant des cétacés est l’hippopotame."
+  ],
+  "anecdote": "La ménopause n’est pas propre à l’humain : chez les orques, ce sont les grands-mères qui savent où trouver le saumon les mauvaises années.",
+  "indices_quiz": [
+    "Plus grand delphinidé, superprédateur.",
+    "Les femelles connaissent la ménopause et guident le groupe.",
+    "Ses écotypes sympatriques ont des cultures distinctes."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/41521",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Orcinus_orca"
+  },
+  "notions": [
+    "regle-hamilton"
+  ],
+  "ajoute_le": "2026-11-02",
+  "caracteristiques": {
+    "essentiel": "Les mâles mesurent jusqu’à environ 8-9 m pour 6 t, avec une nageoire dorsale qui peut dépasser 1,8 m. Elle écholoque grâce au **melon** et produit des cris pulsés propres à chaque groupe.",
+    "details": "Les cétacés sont des **artiodactyles** : leur plus proche parent actuel est l’hippopotame. Leurs ancêtres terrestres (*Pakicetus*, Éocène) avaient l’astragale à double poulie typique du groupe."
+  },
+  "comportement": {
+    "essentiel": "Les **écotypes** vivent en sympatrie sans se mélanger : les « résidents » mangent des poissons (saumon), les « Bigg’s » (transients) chassent des mammifères marins. Ils diffèrent par leurs vocalisations, leur génétique et leur culture. Certains auteurs proposent d’en faire des espèces distinctes.",
+    "details": "Les femelles vivent jusqu’à 80-90 ans et cessent de se reproduire vers 40 ans. Les grands-mères **ménopausées** guident le groupe vers le saumon les années de disette (Brent et al., 2015). C’est un avantage de **fitness inclusive**, et la ménopause n’existe que chez quelques cétacés et chez l’humain. En plus, les mères aident leurs **fils** adultes, ce qui augmente leur survie.",
+    "concepts": [
+      "regle-hamilton",
+      "concepts-espece"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Tous les océans, des pôles aux tropiques. Observée exceptionnellement en mer du Nord.",
+    "details": "Prédateur au sommet : poissons, phoques, autres cétacés, requins. Certains groupes ibériques « interagissent » avec les voiliers depuis 2020.",
+    "uicn": "DD",
+    "menaces": [
+      "Polluants (PCB) accumulés",
+      "Raréfaction des proies (saumon)",
+      "Bruit sous-marin",
+      "Captivité"
+    ]
+  }
+}

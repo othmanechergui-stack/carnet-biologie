@@ -1,0 +1,19 @@
+{
+  "id": "derive-genetique",
+  "titre": "Dérive génétique",
+  "module": "module3",
+  "source": "module 3/Derive genet.pdf",
+  "essentiel": "La **dérive génétique** est la variation **aléatoire** des fréquences alléliques d’une génération à l’autre dans une population de taille finie, due à l’échantillonnage des gamètes. Elle mène à terme à la **fixation ou à la perte** des allèles, d’autant plus vite que la population est petite. Elle **réduit la diversité** intra-population et **différencie** les populations entre elles.",
+  "details": "Pour un allèle neutre :\n- sa probabilité de fixation est égale à sa fréquence initiale ;\n- l’hétérozygotie diminue en moyenne d’un facteur (1 − 1/2N) par génération ;\n- le temps moyen avant fixation d’une nouvelle mutation neutre est d’environ 4N générations.\n\nConséquences de la dérive : la consanguinité de la population augmente, la diversité génétique est perdue, et la dérive détermine le temps de coalescence des gènes neutres.\n\nLa **mutation** recrée de la diversité. La **migration** homogénéise les populations.",
+  "question": "Deux populations de 20 et de 2 000 individus partent toutes deux avec p = 0,5 pour un allèle neutre. Que prédit la dérive pour chacune après 100 générations ?",
+  "reponse": "Dans la population de **20 individus**, la dérive est forte. La perte d’hétérozygotie par génération vaut 1/(2N) = 1/40. Après 100 générations, il reste environ (1 − 1/40)¹⁰⁰ ≈ 8 % de l’hétérozygotie initiale : l’allèle a de fortes chances d’être fixé ou perdu (chance de fixation = 0,5). Dans la population de **2 000 individus**, la perte est de 1/4 000 par génération, donc environ 2,5 % seulement en 100 générations : p reste proche de 0,5.",
+  "pieges": [
+    "Croire que la dérive a une direction (elle est aléatoire).",
+    "Raisonner avec N recensé au lieu de Ne."
+  ],
+  "liens": [
+    "taille-efficace",
+    "coalescence",
+    "fst-nm"
+  ]
+}

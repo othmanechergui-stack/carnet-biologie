@@ -1,0 +1,18 @@
+{
+  "id": "mammiferes-synapomorphies",
+  "titre": "Synapomorphies des Mammifères",
+  "module": "zoologie",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "essentiel": "Le cours retient trois synapomorphies des Mammifères :\n- une **articulation dento-squamosale** : l’os dentaire de la mandibule s’articule directement sur le squamosal du crâne ;\n- des **poils** : ce sont des phanères, au même titre que les plumes et les écailles ;\n- des **glandes mammaires** : sans forcément de mamelles chez les monotrèmes, où le lait suinte directement sur la peau.",
+  "details": "Les Mammifères sont des **Synapsides**, reconnaissables à une seule fosse temporale. Leurs ancêtres fossiles, pélycosaures puis thérapsides (membres plus redressés, dentition de plus en plus différenciée), ont longtemps été appelés « reptiles mammaliens ». Ce nom est trompeur : ce sont des synapsides et non des reptiles.\n\nL’articulation de la mâchoire des autres amniotes se fait entre l’os articulaire et l’os carré. Chez les mammifères, ces deux os sont devenus le **marteau** et l’**enclume** de l’oreille moyenne.",
+  "question": "Pourquoi les paléontologues utilisent-ils l’articulation de la mâchoire, plutôt que les poils ou les glandes mammaires, pour décider si un fossile est un mammifère ?",
+  "reponse": "Les poils et les glandes mammaires sont des tissus mous qui **ne se fossilisent presque jamais**. L’articulation dento-squamosale est osseuse et donc observable sur les fossiles. Elle s’accompagne de la migration de l’articulaire et du carré vers l’oreille moyenne (marteau, enclume). C’est un critère squelettique fiable, qui permet de suivre la transition des thérapsides vers les mammifères.",
+  "pieges": [
+    "Appeler les thérapsides des « reptiles » : ce sont des synapsides.",
+    "Penser que tous les mammifères ont des mamelles (pas les monotrèmes)."
+  ],
+  "liens": [
+    "cretes-neurales-craniates",
+    "oiseaux-dinosaures"
+  ]
+}

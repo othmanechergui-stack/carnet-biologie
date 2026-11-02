@@ -1,0 +1,17 @@
+{
+  "id": "tinbergen-quatre-questions",
+  "titre": "Les quatre questions de Tinbergen",
+  "module": "ethologie",
+  "source": "comportement animal/Cours Eco-Ethologie_22-23.pdf",
+  "essentiel": "Tinbergen (1963) propose d’expliquer un comportement à quatre niveaux. Deux sont **proximaux** : la **causalité** (mécanismes) et l’**ontogenèse** (développement). Deux sont **ultimes** : la **fonction** (valeur adaptative) et la **phylogenèse** (histoire évolutive). Ces niveaux sont complémentaires, pas concurrents.",
+  "details": "Exemple : pourquoi le rouge-gorge chante-t-il au printemps ?\n- **Causalité** : l’allongement des jours fait monter la testostérone, qui active les noyaux du chant.\n- **Ontogenèse** : le jeune apprend en écoutant des adultes pendant une période sensible.\n- **Fonction** : le chant défend le territoire et attire une partenaire.\n- **Phylogenèse** : il hérite du chant appris des oiseaux chanteurs (Passeri).\n\nBeaucoup de débats en éthologie viennent d’une confusion entre ces niveaux. Une réponse proximale ne réfute pas une réponse ultime.",
+  "question": "« Les oiseaux migrent parce que la durée du jour change. » « Les oiseaux migrent parce que cela augmente leur survie hivernale. » Ces deux phrases se contredisent-elles ?",
+  "reponse": "Non. La première répond à la question de la **causalité proximale** : le déclencheur photopériodique et les mécanismes hormonaux. La seconde répond à la question de la **fonction ultime** : la valeur sélective. Ce sont deux niveaux d’explication complémentaires. Une explication complète ajouterait l’ontogenèse (direction innée chez la fauvette à tête noire, par exemple) et la phylogenèse (comment la migration est apparue dans la lignée).",
+  "pieges": [
+    "Opposer « inné » et « appris » comme deux causes exclusives.",
+    "Croire qu’expliquer le mécanisme épuise la question du « pourquoi »."
+  ],
+  "liens": [
+    "signal-indice"
+  ]
+}

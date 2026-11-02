@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-29",
+  "revision": "norme-reaction-gxe",
+  "bonus": {
+    "titre": "Plasticité et changement climatique : suffit-elle ?",
+    "essentiel": "Face au réchauffement, beaucoup d’espèces avancent leur phénologie (floraison, ponte) surtout par **plasticité**, pas par évolution génétique. Mais la plasticité a des limites : si les indices utilisés (photopériode, température) se découplent des conditions optimales, la réponse devient inadaptée.",
+    "details": "Chez la mésange charbonnière d’Hoge Veluwe (Pays-Bas), la date de ponte avance moins vite que le pic de chenilles : décalage trophique. Les normes de réaction diffèrent entre individus (variation G×E), donc la plasticité elle-même peut évoluer. Les méta-analyses (Radchuk et al., 2019) concluent que les réponses de nombreuses populations d’oiseaux sont insuffisantes pour suivre le rythme du changement.",
+    "lien_notion": "plasticite-phenotypique"
+  },
+  "animal": "salamandra-salamandra",
+  "animaux_reserve": [
+    "bufo-bufo",
+    "ambystoma-mexicanum",
+    "ciona-intestinalis"
+  ],
+  "plante": "fagus-sylvatica",
+  "plantes_reserve": [
+    "anemone-nemorosa",
+    "allium-ursinum"
+  ],
+  "digest": [
+    "2026-10-28-salamandre-fluorescence",
+    "2026-10-28-orangs-outans-feux",
+    "2026-10-27-araignees-sommeil-rem"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "norme-reaction-gxe"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "fagus-sylvatica"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-23-retrovirus-chimpanze-organoides"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-22-bonobos-femelles-chasse"
+    }
+  ]
+}

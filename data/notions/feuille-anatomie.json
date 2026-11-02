@@ -1,0 +1,18 @@
+{
+  "id": "feuille-anatomie",
+  "titre": "Anatomie de la feuille",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 1 - PM + SB - nouvelle version.pdf",
+  "essentiel": "Une feuille typique de dicotylédone est **dorsiventrale**. On y trouve :\n- un épiderme couvert de cuticule ;\n- un **parenchyme palissadique** sous la face supérieure, riche en chloroplastes ;\n- un **parenchyme lacuneux** vers la face inférieure, avec de grands espaces aériens ;\n- des nervures (faisceaux cribro-vasculaires), le xylème étant tourné vers la face supérieure.\n\nLes **stomates**, souvent plus nombreux à la face inférieure, règlent les échanges gazeux.",
+  "details": "L’ouverture des stomates dépend de la turgescence des deux **cellules de garde**. Elle se fait par entrée d’ions K⁺, suivie d’un afflux d’eau. Elle est déclenchée par la lumière bleue et un CO₂ interne bas. La fermeture est induite par l’**acide abscissique** en cas de sécheresse.\n\nLa forme des feuilles varie selon l’habitat :\n- **xérophytes** : cuticule épaisse, stomates enfoncés dans des cryptes, feuilles enroulées ;\n- **hydrophytes** : aérenchyme développé ;\n- **feuilles d’ombre** : plus minces que les feuilles de lumière.\n\nChez les plantes en **C4**, l’anatomie de Kranz (gaine périvasculaire) concentre le CO₂.",
+  "question": "Pourquoi la plante doit-elle constamment arbitrer entre photosynthèse et perte d’eau, et quel organe gère ce compromis ?",
+  "reponse": "Pour faire entrer le CO₂ nécessaire à la photosynthèse, les **stomates** doivent être ouverts. Mais l’atmosphère interne de la feuille est saturée en vapeur d’eau : ouvrir les stomates fait donc perdre de l’eau par transpiration. Les cellules de garde ajustent l’ouverture en fonction de la lumière, du CO₂ et de l’état hydrique (acide abscissique) pour gérer ce compromis eau/carbone.",
+  "pieges": [
+    "Placer le xylème vers la face inférieure dans la nervure (il est vers la face supérieure).",
+    "Oublier le rôle de l’acide abscissique dans la fermeture."
+  ],
+  "categorie": "botanique-base",
+  "liens": [
+    "xyleme-phloeme"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cd-reciprocite",
+  "titre": "Coopération entre non-apparentés : réciprocité et mutualisme",
+  "module": "ethologie",
+  "source": "comportement animal/Cours Eco-Ethologie_22-23.pdf",
+  "essentiel": "Entre individus **non apparentés**, la coopération peut évoluer par plusieurs voies :\n- la **réciprocité** (Trivers, 1971 : je t’aide, tu m’aideras), qui exige des interactions répétées, une reconnaissance individuelle et la sanction des tricheurs ;\n- le **mutualisme par sous-produit**, où chacun gagne immédiatement ;\n- la **manipulation**.",
+  "details": "Le **dilemme du prisonnier itéré** montre que la stratégie « donnant-donnant » (*tit-for-tat*) est robuste (Axelrod). Les vrais cas de réciprocité chez les animaux sont **moins nombreux** qu’on ne l’a cru : beaucoup d’exemples s’expliquent par la parenté ou par le mutualisme.",
+  "question": "Le partage de sang chez les vampires communs est-il de la réciprocité ou de la sélection de parentèle ?",
+  "reponse": "Les deux interviennent, mais Carter & Wilkinson (2013) ont montré que la **réciprocité** (avoir reçu du sang de cet individu) prédit le don **mieux que l’apparentement**. Une chauve-souris qui ne mange pas pendant environ 2 nuits risque de mourir. Partager le surplus coûte peu au donneur et sauve le receveur. Les relations de partage se maintiennent sur des années entre individus qui se connaissent.",
+  "pieges": [
+    "Appeler « réciprocité » toute coopération entre non-apparentés.",
+    "Oublier les conditions (interactions répétées, mémoire)."
+  ],
+  "exemples": [
+    {
+      "espece_libre": "Vampire commun (Desmodus rotundus)",
+      "texte": "Régurgitation de sang aux congénères affamés, liée aux dons reçus auparavant."
+    },
+    {
+      "espece_libre": "Labre nettoyeur (Labroides dimidiatus)",
+      "texte": "Nettoyage des clients ; les tricheurs (qui mordent le mucus) sont punis ou abandonnés."
+    },
+    {
+      "espece": "pan-troglodytes",
+      "texte": "Échanges de toilettage et soutien dans les coalitions entre mâles."
+    }
+  ],
+  "liens": [
+    "regle-hamilton",
+    "mutualismes"
+  ]
+}

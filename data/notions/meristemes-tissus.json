@@ -1,0 +1,19 @@
+{
+  "id": "meristemes-tissus",
+  "titre": "Méristèmes et grands types de tissus",
+  "module": "botanique",
+  "source": "Botanique/Syllabus BIOL-F-201 - 2020 - vol. 1 - PM + SB - nouvelle version.pdf",
+  "essentiel": "La croissance des plantes repose sur des **méristèmes**, des massifs de cellules indifférenciées qui se divisent. Les méristèmes **primaires** (apicaux de tige et de racine) allongent la plante. Les méristèmes **secondaires** (cambium et phellogène) l’épaississent. Ces méristèmes produisent les tissus de revêtement, les parenchymes, les tissus de soutien et les tissus conducteurs.",
+  "details": "Les grands types de tissus :\n- **Revêtement** : épiderme avec cuticule et stomates (structure primaire), liège ou suber (structure secondaire).\n- **Parenchymes** : chlorophyllien, de réserve, aquifère.\n- **Soutien** : le **collenchyme**, formé de cellules vivantes à parois cellulosiques épaissies, souple, typique des organes en croissance. Le **sclérenchyme**, formé de cellules souvent mortes à parois lignifiées (fibres, sclérites).\n- **Conducteurs** : xylème et phloème.\n\nLa plante a une croissance **indéfinie et modulaire** : un même plan (nœud, entre-nœud, feuille, bourgeon) se répète.",
+  "question": "Une tige jeune de céleri plie sans casser, alors que la coque d’une noix est dure et cassante. Quels tissus de soutien expliquent cette différence ?",
+  "reponse": "Le céleri doit sa souplesse au **collenchyme**. Ses cellules sont vivantes, avec des parois cellulosiques épaissies, souvent aux angles : il soutient tout en permettant la croissance en longueur. La coque de noix est faite de **sclérenchyme** (sclérites), des cellules à parois lignifiées très épaisses, souvent mortes à maturité, rigides mais non extensibles.",
+  "pieges": [
+    "Dire que le collenchyme est lignifié (il ne l’est pas).",
+    "Confondre méristèmes primaires (en longueur) et secondaires (en épaisseur)."
+  ],
+  "categorie": "botanique-base",
+  "liens": [
+    "xyleme-phloeme",
+    "croissance-secondaire"
+  ]
+}

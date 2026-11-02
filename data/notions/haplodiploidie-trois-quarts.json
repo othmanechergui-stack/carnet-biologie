@@ -1,0 +1,22 @@
+{
+  "id": "haplodiploidie-trois-quarts",
+  "titre": "Haplodiploïdie et hypothèse des 3/4",
+  "module": "societes",
+  "source": "animal societies/Biology of Animal Societies (2017-2018).pdf",
+  "essentiel": "Chez les Hyménoptères, les mâles sont **haploïdes** (issus d’œufs non fécondés) et les femelles **diploïdes**. Si la reine s’est accouplée avec **un seul mâle**, deux sœurs partagent en moyenne **r = 0,75**, plus qu’avec leurs propres filles (0,5). Hamilton y voyait un facteur favorisant l’aide des ouvrières : c’est l’**hypothèse des 3/4**.",
+  "details": "Calcul : deux sœurs reçoivent du père le même génome haploïde complet (r = 1 sur la moitié paternelle). Côté maternel, elles partagent en moyenne 0,5. Donc r = ½ × 1 + ½ × 0,5 = 0,75. En revanche, une ouvrière n’est apparentée à ses frères qu’à **r = 0,25**.\n\nLa moyenne sur un couvain à sex-ratio 1:1 retombe donc à 0,5 : l’avantage disparaît, sauf si les ouvrières **biaisent le sex-ratio** vers les femelles. Trivers & Hare (1976) prédisent un investissement de 3:1 en faveur des femelles du point de vue des ouvrières, contre 1:1 du point de vue de la reine. C’est le conflit reine–ouvrières.\n\nLa **polyandrie** (abeille domestique, 10 à 20 pères environ) fait chuter r entre sœurs vers 0,25 à 0,3.",
+  "question": "Si r = 0,75 entre sœurs, pourquoi l’haplodiploïdie ne suffit-elle pas à expliquer l’eusocialité des Hyménoptères ?",
+  "reponse": "Trois raisons :\n1) Les ouvrières élèvent aussi des **frères** (r = 0,25). Avec un sex-ratio 1:1, l’apparentement moyen au couvain revient à 0,5, le même qu’avec leurs propres enfants.\n2) La **polyandrie**, fréquente chez les fourmis et l’abeille domestique, abaisse fortement r entre sœurs.\n3) Les analyses phylogénétiques montrent que la **monogamie ancestrale** (un seul père, Hughes et al., 2008) est le facteur clé : elle garantit un r élevé. De plus, l’eusocialité existe chez des diploïdes (termites, rat-taupe nu) et beaucoup d’Hyménoptères haplodiploïdes sont solitaires.",
+  "pieges": [
+    "Oublier les frères (r = 0,25) dans le calcul.",
+    "Ignorer l’effet de la polyandrie."
+  ],
+  "liens": [
+    "regle-hamilton",
+    "conflits-coloniaux",
+    "skew-models"
+  ],
+  "especes": [
+    "apis-mellifera"
+  ]
+}

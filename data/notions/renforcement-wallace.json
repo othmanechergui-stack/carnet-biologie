@@ -1,0 +1,18 @@
+{
+  "id": "renforcement-wallace",
+  "titre": "Renforcement (effet Wallace)",
+  "module": "module1",
+  "source": "module 1/synthèse.docx",
+  "essentiel": "Le **renforcement** (ou effet Wallace) se produit lorsque deux populations partiellement divergées entrent en **contact secondaire** et que leurs hybrides ont une **fitness réduite**. La sélection favorise alors les individus qui s’accouplent avec leur propre type. L’**isolement prézygotique** se renforce, surtout dans la **zone de contact**.",
+  "details": "Signature attendue : un **déplacement de caractère reproducteur**. L’isolement prézygotique est plus fort en **sympatrie** qu’en allopatrie entre les mêmes espèces. Coyne & Orr (1989) l’ont montré chez les drosophiles. Autre exemple : les gobe-mouches noir et à collier, dont la couleur du plumage du mâle diverge davantage en sympatrie (Sætre et al., 1997).\n\nCondition : la sélection contre les hybrides doit être plus rapide que le **flux de gènes** et la recombinaison, qui tendent à fusionner les populations.\n\nTa synthèse dit que le renforcement « explique la stérilité des hybrides ». C’est l’inverse : il **part** de la faible fitness des hybrides et renforce l’isolement **avant** la fécondation.",
+  "question": "Deux espèces de drosophiles s’hybrident en produisant des hybrides peu viables. Où t’attends-tu à trouver la plus forte préférence pour les partenaires conspécifiques : là où elles coexistent, ou là où elles vivent séparément ? Pourquoi ?",
+  "reponse": "**Là où elles coexistent** (en sympatrie). Dans la zone de contact, les individus qui s’accouplent avec l’autre espèce gaspillent leurs gamètes dans des hybrides peu viables. La sélection y favorise une discrimination plus forte : c’est le renforcement. En allopatrie, il n’y a pas de contact, donc pas de pression de sélection pour éviter l’autre espèce. L’isolement prézygotique y reste plus faible.",
+  "pieges": [
+    "Dire que le renforcement crée la stérilité des hybrides : il part d’une fitness hybride déjà réduite et renforce l’isolement prézygotique.",
+    "Oublier que le flux de gènes peut empêcher le renforcement."
+  ],
+  "liens": [
+    "modes-speciation",
+    "hybridation-transgressive"
+  ]
+}

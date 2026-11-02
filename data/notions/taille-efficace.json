@@ -1,0 +1,17 @@
+{
+  "id": "taille-efficace",
+  "titre": "Taille efficace (Ne)",
+  "module": "module3",
+  "source": "module 3/Synthèse module 3.docx",
+  "essentiel": "La **taille efficace Ne** est l’effectif d’une population idéale de Wright-Fisher qui subirait **la même intensité de dérive** que la population réelle. Elle correspond à la même variance des fréquences alléliques, au même gain de consanguinité et au même temps de coalescence. **1/Ne** mesure l’intensité de la dérive. En général **Ne < N**.",
+  "details": "Facteurs qui réduisent Ne :\n- la **variance de fécondité** entre individus ;\n- un **sex-ratio déséquilibré**, avec Ne = 4·Nm·Nf / (Nm + Nf) ;\n- les **fluctuations d’effectif**. Ne est alors la **moyenne harmonique** des Nᵢ, dominée par les générations de faible effectif, d’où l’effet durable des **goulets d’étranglement** ;\n- les générations chevauchantes et la consanguinité.\n\nÀ l’inverse, un élevage où chaque individu laisse exactement un descendant donne Ne > N.\n\nEn conservation, un ordre de grandeur souvent cité est Ne ≥ 50 à court terme et Ne ≥ 500 (ou plus) à long terme, mais ces seuils sont débattus.",
+  "question": "Une population de cerfs compte 100 mâles adultes, mais seuls 10 se reproduisent, avec 100 femelles. Calcule Ne et commente.",
+  "reponse": "Ne = 4 × Nm × Nf / (Nm + Nf) = 4 × 10 × 100 / 110 ≈ **36**. Alors qu’on compte 200 adultes et 110 reproducteurs, la population dérive comme une population idéale de 36 individus. Le **sex-ratio efficace très biaisé** par la polygynie (harem) réduit fortement Ne. Cela accroît la perte de diversité et la consanguinité.",
+  "pieges": [
+    "Utiliser la moyenne arithmétique des effectifs au lieu de la moyenne harmonique.",
+    "Croire que Ne = nombre d’adultes."
+  ],
+  "liens": [
+    "derive-genetique"
+  ]
+}

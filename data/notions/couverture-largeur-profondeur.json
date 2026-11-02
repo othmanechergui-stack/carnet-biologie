@@ -1,0 +1,18 @@
+{
+  "id": "couverture-largeur-profondeur",
+  "titre": "Couverture : largeur et profondeur",
+  "module": "transcriptomique",
+  "source": "Transcriptomic/P04.pdf",
+  "essentiel": "La **profondeur de couverture** (*depth*) est le nombre moyen de lectures qui recouvrent chaque base, par exemple « 30× ». La **largeur de couverture** (*breadth*) est la **fraction de la référence** couverte par au moins une lecture, ou par au moins k lectures. Ces deux mesures sont **indépendantes** : on peut avoir une profondeur moyenne élevée avec une largeur faible si les lectures s’empilent sur quelques régions.",
+  "details": "Profondeur théorique attendue = (nombre de lectures × longueur des lectures) / taille du génome. C’est la formule de Lander-Waterman. Elle donne aussi la fraction attendue non couverte, environ e^(−C).\n\nEn **RNA-seq**, la couverture est par nature très **inégale**. Elle reflète le niveau d’expression : les gènes très exprimés sont très profonds, les gènes peu exprimés à peine couverts. La couverture « moyenne » n’a donc guère de sens. On regarde plutôt la couverture **par gène** et le biais 5′/3′.\n\nEn TP (P04), tu as calculé la **couverture locale** avec `coverage()` de GenomicAlignments. Elle est stockée en **Rle** (*run-length encoding*), qui compresse les longues séries de valeurs identiques.",
+  "question": "Un séquençage donne une profondeur moyenne de 50× mais une largeur de couverture de 60 %. Comment est-ce possible et que faut-il vérifier ?",
+  "reponse": "Les lectures sont **très inégalement réparties** : elles s’empilent sur une partie de la référence, à une profondeur bien supérieure à 50×, tandis que 40 % de la référence n’est pas couverte du tout. Il faut vérifier :\n- des **duplicats de PCR** ;\n- une **contamination** ou une mauvaise référence ;\n- des régions **répétées ou riches en GC** mal séquencées ;\n- en RNA-seq, c’est attendu, puisque seuls les gènes exprimés sont couverts ;\n- en séquençage ciblé, c’est voulu.",
+  "pieges": [
+    "Confondre profondeur (combien de fois) et largeur (quelle proportion).",
+    "Interpréter une couverture moyenne en RNA-seq comme en séquençage génomique."
+  ],
+  "liens": [
+    "rnaseq-principe",
+    "mapping-reads"
+  ]
+}

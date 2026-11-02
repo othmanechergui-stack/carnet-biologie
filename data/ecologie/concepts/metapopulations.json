@@ -1,0 +1,18 @@
+{
+  "id": "metapopulations",
+  "titre": "Métapopulations",
+  "module": "ecologie",
+  "source": "Hors cours — synthèse de référence (écologie générale)",
+  "essentiel": "Une **métapopulation** (Levins, 1969) est un ensemble de **populations locales** reliées par la dispersion, dans un paysage de taches d’habitat. Les populations locales s’**éteignent** et des taches vides sont **recolonisées**. La métapopulation persiste si la colonisation compense l’extinction. Dans le modèle de Levins : dp/dt = c·p(1 − p) − e·p, ce qui donne à l’équilibre p* = 1 − e/c.",
+  "details": "Le modèle de Levins ne fait pas de différence entre taches. Le modèle **source–puits** en tient compte : des taches productives exportent des individus vers des taches déficitaires. Le **modèle continent–île** suppose une grande population quasi permanente.\n\nCas d’étude célèbre : la mélitée du plantain (*Melitaea cinxia*) dans les îles Åland (Hanski).\n\nConséquences : une espèce peut être absente d’une tache favorable, simplement parce qu’elle n’a pas encore été recolonisée. La **connectivité** compte autant que la qualité des taches. Il existe aussi une **dette d’extinction** : une métapopulation qui passe sous le seuil peut s’éteindre lentement, avec un délai.\n\nLien avec la génétique (modules 2 et 3) : les extinctions-recolonisations augmentent la différenciation et réduisent la taille efficace globale.",
+  "question": "Dans le modèle de Levins, que se passe-t-il si la destruction d’habitat fait passer le taux de colonisation c sous le taux d’extinction e ?",
+  "reponse": "La fraction de taches occupées à l’équilibre vaut p* = 1 − e/c. Si c < e, p* devient **négatif** : la colonisation ne compense plus les extinctions. La **métapopulation s’éteint**, même s’il reste des taches d’habitat favorables et inoccupées. Cette extinction peut prendre du temps, c’est la dette d’extinction. D’où l’importance de maintenir la **connectivité** (corridors, taches relais) et pas seulement des taches isolées.",
+  "pieges": [
+    "Conclure qu’une tache vide est un habitat défavorable.",
+    "Négliger la connectivité au profit de la seule surface."
+  ],
+  "liens": [
+    "fragmentation-habitats",
+    "flux-genes"
+  ]
+}

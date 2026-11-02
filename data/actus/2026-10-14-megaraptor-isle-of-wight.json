@@ -1,0 +1,32 @@
+{
+  "id": "2026-10-14-megaraptor-isle-of-wight",
+  "date": "2026-10-14",
+  "titre": "Un mégaraptor européen dormait dans un tiroir depuis 1924",
+  "resume": "Un fragment de crâne de l’île de Wight, collecté il y a plus d’un siècle et conservé au Natural History Museum, décrit Invictibellatrix amberina (≈ 120 Ma) : premier mégaraptoran d’Europe et le plus petit connu. Analyse au CT-scan ; taille et plumes sont des estimations d’après des espèces proches.",
+  "source": {
+    "nom": "Royal Society Open Science (UCL) — via EarthSky",
+    "url": "https://earthsky.org/earth/new-dinosaur-species-invictibellatrix-amberina/"
+  },
+  "themes": [
+    "paleontologie",
+    "evolution",
+    "zoologie"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "1 spécimen fragmentaire",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "moyen"
+  },
+  "quiz": {
+    "question": "D’où vient le fossile d’Invictibellatrix amberina décrit en octobre 2026 ?",
+    "choix": [
+      "D’un tiroir de musée où il dormait depuis 1924",
+      "D’une fouille de 2025 en Belgique",
+      "D’un forage pétrolier en mer du Nord"
+    ],
+    "bonne": 0
+  },
+  "module": "zoologie"
+}
