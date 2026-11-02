@@ -25,6 +25,28 @@
     plantes: { data: D.plantes, carte: 'plante', arbre: D.arbres.vegetal, label: 'plante', titre: 'Plantes', emoji: '🌿' }
   };
 
+  // ---------- glossaire : termes techniques cliquables ----------
+  const GLO = D.glossaire || [];
+  const formes = new Map();
+  GLO.forEach((g, i) => [g.terme, ...(g.variantes || [])].forEach(f => formes.set(f.toLowerCase(), i)));
+  const motif = [...formes.keys()].sort((a, b) => b.length - a.length).map(f => f.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/’/g, '[’\']')).join('|');
+  const RE_T = motif ? new RegExp(`(?<![\\p{L}\\p{N}_])(${motif})(?![\\p{L}\\p{N}_])`, 'giu') : null;
+  // Entoure la 1re occurrence de chaque terme (hors liens/boutons) ; `deja` évite de répéter un terme dans un même bloc.
+  function lier(html, deja = new Set()) {
+    if (!RE_T || !html) return html;
+    let dansLien = 0;
+    return html.split(/(<[^>]+>)/).map(part => {
+      if (part.startsWith('<')) { if (/^<(a|button)\b/.test(part)) dansLien++; else if (/^<\/(a|button)>/.test(part)) dansLien--; return part; }
+      if (dansLien) return part;
+      return part.replace(RE_T, m => {
+        const i = formes.get(m.toLowerCase().replace(/'/g, '’')); if (i === undefined || deja.has(i)) return m;
+        deja.add(i); return `<button type="button" class="terme" data-action="terme" data-i="${i}">${m}</button>`;
+      });
+    }).join('');
+  }
+  const fmtG = (s, deja) => lier(fmt(s), deja);
+  const photoHTML = (f, cls = '') => f && f.photo ? `<figure class="photo ${cls}"><img src="${esc(f.photo.url)}" alt="Photo : ${esc(f.nom)} (${esc(f.latin)})" loading="lazy" decoding="async"><figcaption>📷 ${esc(f.photo.credit)}${f.photo.credit.includes(f.photo.licence) ? '' : ' · ' + esc(f.photo.licence)} · <a href="${esc(f.photo.source)}" target="_blank" rel="noopener">iNaturalist</a></figcaption></figure>` : '';
+
   // Fiches « à revoir » fournies par les données → boîte 1 de Leitner.
   for (const n of vals(NOTIONS)) if (n.a_revoir) Store.semer('notion:' + n.id, n.a_revoir.erreur);
 
@@ -79,7 +101,7 @@
         <p class="question">${esc(n.question)}</p>
         <textarea class="rep" rows="4" placeholder="Ta réponse…">${esc(opts.cle ? Store.reponse(opts.date, opts.cle) : '')}</textarea>
         <button data-action="voir">Voir la correction</button>
-        <div class="corr" hidden><h4>Réponse modèle</h4>${fmt(n.reponse)}
+        <div class="corr" hidden><h4>Réponse modèle</h4>${fmtG(n.reponse)}
           ${n.pieges && n.pieges.length ? `<h4>Pièges courants</h4><ul>${n.pieges.map(p => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}</div>
         ${notesHTML(true)}</div>`;
     }
@@ -102,7 +124,7 @@
         <ol class="indices">${indices.map((x, k) => `<li${k ? ' hidden' : ''}>${esc(x)}</li>`).join('')}</ol>
         ${indices.length > 1 ? '<button data-action="indice" class="lien">Indice suivant</button>' : ''}
         <div class="choix">${choix.map((o, k) => `<button data-action="choix" data-k="${k}">${esc(o.nom)}</button>`).join('')}</div>
-        <div class="corr" hidden><p>C’était <a href="#/${kind}/${f.id}"><strong>${esc(f.nom)}</strong> (<em>${esc(f.latin)}</em>)</a>.</p></div>
+        <div class="corr" hidden><p>C’était <a href="#/${kind}/${f.id}"><strong>${esc(f.nom)}</strong> (<em>${esc(f.latin)}</em>)</a>.</p>${photoHTML(f, 'petite')}</div>
         ${notesHTML(false)}</div>`;
     }
     if (t === 'sosie') {
@@ -119,7 +141,7 @@
   }
 
   // ---------- vues ----------
-  const sec = (titre, o, extra = '') => o ? `<section class="bloc"><h3>${titre}</h3>${fmt(o.essentiel)}<div class="deep">${fmt(o.details)}</div>${extra}</section>` : '';
+  const sec = (titre, o, extra = '') => { if (!o) return ''; const d = new Set(); return `<section class="bloc"><h3>${titre}</h3>${fmtG(o.essentiel, d)}<div class="deep">${fmtG(o.details, d)}</div>${extra}</section>`; };
   const liensExt = f => f.liens ? `<div class="liens">${f.liens.inaturalist ? `<a href="${esc(f.liens.inaturalist)}" target="_blank" rel="noopener">iNaturalist ↗</a>` : ''}${f.liens.commons ? `<a href="${esc(f.liens.commons)}" target="_blank" rel="noopener">Wikimedia Commons ↗</a>` : ''}</div>` : '';
   const lienNotion = id => NOTIONS[id] ? `<a class="pill" href="#/notion/${id}">${esc(NOTIONS[id].titre)}</a>` : '';
   const lienEspece = id => D.animaux[id] ? `<a class="pill" href="#/animaux/${id}">🦁 ${esc(D.animaux[id].nom)}</a>` : D.plantes[id] ? `<a class="pill" href="#/plantes/${id}">🌿 ${esc(D.plantes[id].nom)}</a>` : '';
@@ -128,8 +150,10 @@
     const K = KINDS[kind], f = K.data[id];
     if (!f) return '<p class="vide">Fiche introuvable.</p>';
     Store.marquerLu(kind, id);
+    const dejaPhylo = new Set();
     const phylo = `<section class="bloc"><h3>🧬 Phylogénie</h3><ol class="phylo">${(f.phylogenie || []).map(p =>
-      `<li><span class="rang">${esc(p.rang)}</span> <strong>${esc(p.nom)}</strong>${p.synapomorphies && p.synapomorphies.length ? `<div class="syn">${p.synapomorphies.map(esc).join(' · ')}</div>` : ''}</li>`).join('')}</ol>
+      `<li><span class="rang">${esc(p.rang)}</span> <strong>${esc(p.nom)}</strong>${p.synapomorphies && p.synapomorphies.length ? `<div class="syn">${lier(p.synapomorphies.map(esc).join(' · '), dejaPhylo)}</div>` : ''}</li>`).join('')}</ol>
+      <p class="petit">💡 Touche un terme souligné pour sa définition · <a href="#/glossaire">Glossaire</a></p>
       ${f.mini_arbre ? `<div class="scroll-x">${Arbre.mini(f.latin, f.mini_arbre)}</div>` : ''}
       ${f.clade ? `<p><a href="#/${kind}/arbre?c=${esc(f.clade)}">Voir dans l’arbre du vivant →</a></p>` : ''}</section>`;
     const ident = f.identification ? `<section class="bloc"><h3>🔍 Identification</h3><dl class="ident">${Object.entries(f.identification).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></section>` : '';
@@ -143,6 +167,7 @@
     return `<article class="fiche">
       <header class="fiche-tete"><p class="sur">${K.emoji} ${esc(grp(f.groupe || f.type))}${f.belgique ? ' · 🇧🇪 présent en Belgique' : ''}</p>
         <h2>${esc(f.nom)}</h2><p class="latin">${esc(f.latin)}</p>${liensExt(f)}</header>
+      ${photoHTML(f)}
       ${phylo}${sec('🔬 Caractéristiques', f.caracteristiques)}${sec('🔬 Anatomie & reproduction', f.anatomie)}${ident}${comp}${eco}${usages}
       <section class="bloc"><h3>✨ Facts marquants</h3><ul>${(f.facts || []).map(x => `<li>${esc(x)}</li>`).join('')}</ul>
         ${f.anecdote ? `<p class="anecdote">💬 ${esc(f.anecdote)}</p>` : ''}</section>
@@ -171,7 +196,7 @@
     const mode = Store.prefs().mode;
     document.body.classList.toggle('express', mode === 'express');
     const i = SESSIONS.indexOf(s.date), prev = SESSIONS[i - 1], next = SESSIONS[i + 1];
-    const n = NOTIONS[s.revision], a = D.animaux[s.animal], p = D.plantes[s.plante];
+    const n = NOTIONS[s.revision], a = D.animaux[s.animal], p = D.plantes[s.plante], dRev = new Set();
     const quiz = []; for (const q of s.quiz || []) {
       if (q.type === 'leitner') { const c = choisirLeitner(quiz); if (c) quiz.push(c); }
       else if (q.type === 'notion') quiz.push('notion:' + q.ref);
@@ -186,14 +211,14 @@
       <div class="mode" role="group" aria-label="Durée"><button data-action="mode" data-m="express" class="${mode === 'express' ? 'on' : ''}">⚡ Express ≈10 min</button><button data-action="mode" data-m="approfondi" class="${mode !== 'express' ? 'on' : ''}">📖 Approfondi ≈25 min</button></div>
 
       ${n ? `<section class="bloc"><h3>🔬 Révision du cours</h3><p class="petit">${esc(modNom(n.module))} · <span class="source">${esc(n.source)}</span></p>
-        <h4>${esc(n.titre)}</h4>${fmt(n.essentiel)}<div class="deep">${fmt(n.details)}</div>
+        <h4>${esc(n.titre)}</h4>${fmtG(n.essentiel, dRev)}<div class="deep">${fmtG(n.details, dRev)}</div>
         ${carteHTML('notion:' + n.id, { cle: 'revision', date: s.date })}</section>` : ''}
 
-      ${s.bonus ? `<section class="bloc"><h3>🧠 Concept bonus</h3><h4>${esc(s.bonus.titre)}</h4>${fmt(s.bonus.essentiel)}<div class="deep">${fmt(s.bonus.details)}</div>${s.bonus.lien_notion ? `<p class="pills">${lienNotion(s.bonus.lien_notion)}</p>` : ''}</section>` : ''}
+      ${s.bonus ? `<section class="bloc"><h3>🧠 Concept bonus</h3><h4>${esc(s.bonus.titre)}</h4>${fmtG(s.bonus.essentiel)}<div class="deep">${fmtG(s.bonus.details)}</div>${s.bonus.lien_notion ? `<p class="pills">${lienNotion(s.bonus.lien_notion)}</p>` : ''}</section>` : ''}
 
       <div class="duo">
-        ${a ? `<section class="bloc"><h3>🦁 Animal du jour</h3><h4>${esc(a.nom)} <em class="latin">${esc(a.latin)}</em></h4>${fmt(a.resume)}<a class="btn" href="#/animaux/${a.id}">Fiche complète →</a></section>` : ''}
-        ${p ? `<section class="bloc"><h3>🌿 Plante du jour</h3><h4>${esc(p.nom)} <em class="latin">${esc(p.latin)}</em></h4>${fmt(p.resume)}<a class="btn" href="#/plantes/${p.id}">Fiche complète →</a></section>` : ''}
+        ${a ? `<section class="bloc"><h3>🦁 Animal du jour</h3><h4>${esc(a.nom)} <em class="latin">${esc(a.latin)}</em></h4>${photoHTML(a, 'moyenne')}${fmt(a.resume)}<a class="btn" href="#/animaux/${a.id}">Fiche complète →</a></section>` : ''}
+        ${p ? `<section class="bloc"><h3>🌿 Plante du jour</h3><h4>${esc(p.nom)} <em class="latin">${esc(p.latin)}</em></h4>${photoHTML(p, 'moyenne')}${fmt(p.resume)}<a class="btn" href="#/plantes/${p.id}">Fiche complète →</a></section>` : ''}
       </div>
 
       <section class="bloc"><h3>📰 Digest</h3>${(s.digest || []).map(id => actuHTML(D.actus[id])).join('')}</section>
@@ -246,7 +271,7 @@
       ${kind === 'plantes' ? `<label><input type="checkbox" data-action="filtre" data-kind="${kind}" data-champ="saison"${F.saison ? ' checked' : ''}> Visible ce mois-ci</label>` : ''}
       <select data-action="filtre" data-kind="${kind}" data-champ="lu"><option value="">Lu et à lire</option><option value="lu"${F.lu === 'lu' ? ' selected' : ''}>Déjà lu</option><option value="alire"${F.lu === 'alire' ? ' selected' : ''}>À lire</option></select></div>
       <p class="petit">${liste.length} fiche(s)</p>
-      <div class="grille">${liste.map(f => `<a class="tuile${Store.estLu(kind, f.id) ? ' lu' : ''}" href="#/${kind}/${f.id}"><strong>${esc(f.nom)}</strong><em>${esc(f.latin)}</em><small>${esc(grp(f.groupe || f.type))}${f.belgique ? ' · 🇧🇪' : ''}${Store.estLu(kind, f.id) ? ' · ✓ lu' : ''}</small></a>`).join('')}</div>`;
+      <div class="grille">${liste.map(f => `<a class="tuile${Store.estLu(kind, f.id) ? ' lu' : ''}" href="#/${kind}/${f.id}">${f.photo ? `<img class="vignette" src="${esc(f.photo.url)}" alt="" loading="lazy" decoding="async">` : ''}<strong>${esc(f.nom)}</strong><em>${esc(f.latin)}</em><small>${esc(grp(f.groupe || f.type))}${f.belgique ? ' · 🇧🇪' : ''}${Store.estLu(kind, f.id) ? ' · ✓ lu' : ''}</small></a>`).join('')}</div>`;
   }
 
   // Clades explorés = clade de chaque fiche lue + tous ses ancêtres.
@@ -265,10 +290,11 @@
     if (sel) {
       const ids = new Set(Arbre.aplatir(sel.n).map(x => x.n.id));
       const esp = vals(K.data).filter(f => ids.has(f.clade));
+      const dArb = new Set();
       const autre = kind === 'plantes' ? vals(D.animaux).filter(f => ids.has(f.clade)) : [];
       panneau = `<section class="bloc"><p class="petit">${sel.chemin.map(n => esc(n.nom)).join(' › ')}</p><h3>${esc(sel.n.nom)}</h3>
-        ${sel.n.synapomorphies && sel.n.synapomorphies.length ? `<h4>Synapomorphies</h4><ul>${sel.n.synapomorphies.map(s => `<li>${esc(s)}</li>`).join('')}</ul>` : ''}
-        ${fmt(sel.n.texte)}${sel.n.source ? `<p class="petit source">Source : ${esc(sel.n.source)}</p>` : ''}
+        ${sel.n.synapomorphies && sel.n.synapomorphies.length ? `<h4>Synapomorphies</h4><ul>${sel.n.synapomorphies.map(s => `<li>${lier(esc(s), dArb)}</li>`).join('')}</ul>` : ''}
+        ${fmtG(sel.n.texte, dArb)}${sel.n.source ? `<p class="petit source">Source : ${esc(sel.n.source)}</p>` : ''}
         <h4>Fiches rattachées (${esp.length + autre.length})</h4><p class="pills">${esp.concat(autre).map(f => lienEspece(f.id)).join(' ') || '<span class="petit">Aucune pour l’instant.</span>'}</p></section>`;
     }
     return `${sousNav(kind, 'arbre')}<p>Couverture : <strong>${set.size}/${total}</strong> clades explorés <span class="barre"><span style="width:${Math.round(100 * set.size / total)}%"></span></span></p>
@@ -277,7 +303,7 @@
 
   function vueComportement() {
     return `${sousNav('animaux', 'comportement')}${vals(D.comportement).sort((a, b) => a.titre.localeCompare(b.titre, 'fr')).map(c => `
-      <section class="bloc"><h3>${esc(c.titre)}</h3><p class="petit">${esc(modNom(c.module))} · <span class="source">${esc(c.source)}</span></p>${fmt(c.essentiel)}<div class="deep">${fmt(c.details)}</div>
+      <section class="bloc"><h3>${esc(c.titre)}</h3><p class="petit">${esc(modNom(c.module))} · <span class="source">${esc(c.source)}</span></p>${fmtG(c.essentiel)}<div class="deep">${fmtG(c.details)}</div>
       <ul class="exemples">${(c.exemples || []).map(e => `<li>${e.espece ? lienEspece(e.espece) : `<strong>${esc(e.espece_libre)}</strong>`} — ${esc(e.texte)}</li>`).join('')}</ul>
       <a href="#/notion/${c.id}">Fiche & question →</a></section>`).join('')}`;
   }
@@ -381,6 +407,7 @@
     }
     return `<h2>Révision</h2>
       <a class="btn grand" href="#/revision/leitner">🗂️ Réviser les fiches dues (${dues.length})</a>
+      <p><a href="#/glossaire">📖 Glossaire des termes techniques (${GLO.length})</a></p>
       <section class="bloc"><h3>Maîtrise par module</h3>${tableMaitrise()}</section>
       <div class="filtres"><input type="search" data-action="rech" placeholder="Rechercher une notion…" value="${esc(rech)}" aria-label="Rechercher">
         <select data-action="modrev"><option value="">Tous les modules</option>${D.modules.map(x => `<option value="${x.id}"${m === x.id ? ' selected' : ''}>${esc(x.nom)}</option>`).join('')}</select></div>
@@ -398,8 +425,9 @@
   function vueNotion(id) {
     const n = NOTIONS[id]; if (!n) return '<p class="vide">Notion introuvable.</p>';
     Store.marquerLu('notions', id);
+    const dN = new Set();
     return `<article class="fiche"><header class="fiche-tete"><p class="sur"><a href="#/revision?m=${esc(n.module)}">${esc(modNom(n.module))}</a></p><h2>${esc(n.titre)}</h2><p class="petit source">📄 ${esc(n.source)}</p></header>
-      <section class="bloc">${fmt(n.essentiel)}${fmt(n.details)}</section>
+      <section class="bloc">${fmtG(n.essentiel, dN)}${fmtG(n.details, dN)}<p class="petit">💡 Touche un terme souligné pour sa définition · <a href="#/glossaire">Glossaire</a></p></section>
       ${n.exemples ? `<section class="bloc"><h3>Exemples</h3><ul class="exemples">${n.exemples.map(e => `<li>${e.espece ? lienEspece(e.espece) : `<strong>${esc(e.espece_libre)}</strong>`} — ${esc(e.texte)}</li>`).join('')}</ul></section>` : ''}
       ${(n.liens || []).length || (n.especes || []).length ? `<p class="pills">${(n.liens || []).map(lienNotion).join(' ')} ${(n.especes || []).map(lienEspece).join(' ')}</p>` : ''}
       ${carteHTML('notion:' + id)}</article>`;
@@ -430,8 +458,21 @@
         <div class="row"><button data-action="exporter">⬇️ Exporter (JSON)</button><label class="btn">⬆️ Importer<input type="file" accept="application/json,.json" data-action="importer" hidden></label></div></section>`;
   }
 
+  let rechG = '';
+  function vueGlossaire() {
+    const q = rechG.toLowerCase(), groupes = {};
+    GLO.forEach((g, i) => {
+      if (q && !(g.terme + ' ' + (g.variantes || []).join(' ') + ' ' + g.definition).toLowerCase().includes(q)) return;
+      (groupes[g.domaine] = groupes[g.domaine] || []).push(g);
+    });
+    return `<p><a href="#/revision">← Révision</a></p><h2>Glossaire</h2>
+      <p class="petit">${GLO.length} termes techniques. Dans les fiches, ces termes sont soulignés en pointillé : touche-les pour un rappel.</p>
+      <div class="filtres"><input type="search" data-action="rechG" placeholder="Chercher un terme…" value="${esc(rechG)}" aria-label="Chercher un terme"></div>
+      <div id="res-glo">${Object.keys(groupes).sort().map(d => `<h3>${esc(d.charAt(0).toUpperCase() + d.slice(1))}</h3><dl class="glossaire">${groupes[d].sort((a, b) => a.terme.localeCompare(b.terme, 'fr')).map(g => `<dt>${esc(g.terme)}${g.variantes && g.variantes.length ? ` <small>(${g.variantes.map(esc).join(', ')})</small>` : ''}</dt><dd>${lier(esc(g.definition), new Set([GLO.indexOf(g)]))}</dd>`).join('')}</dl>`).join('') || '<p class="vide">Aucun terme.</p>'}</div>`;
+  }
+
   function vuePlus() {
-    return `<h2>Plus</h2><div class="liste">${[['ecologie', '🌍 Écologie & biodiversité'], ['actus', '📰 Actus'], ['progres', '📈 Progrès']].map(([k, l]) => `<a class="item" href="#/${k}"><strong>${l}</strong></a>`).join('')}</div>`;
+    return `<h2>Plus</h2><div class="liste">${[['ecologie', '🌍 Écologie & biodiversité'], ['actus', '📰 Actus'], ['glossaire', '📖 Glossaire'], ['progres', '📈 Progrès']].map(([k, l]) => `<a class="item" href="#/${k}"><strong>${l}</strong></a>`).join('')}</div>`;
   }
 
   // ---------- routeur ----------
@@ -453,9 +494,11 @@
     else if (onglet === 'notion') html = vueNotion(a);
     else if (onglet === 'progres') html = vueProgres();
     else if (onglet === 'plus') html = vuePlus();
+    else if (onglet === 'glossaire') html = vueGlossaire();
     else html = vueAujourdhui(a);
     $app.innerHTML = html;
-    const actif = onglet === 'notion' ? 'revision' : onglet;
+    document.getElementById('def').hidden = true;
+    const actif = onglet === 'notion' || onglet === 'glossaire' ? 'revision' : onglet;
     document.querySelectorAll('[data-onglet]').forEach(el => el.classList.toggle('on', el.dataset.onglet === actif || (el.dataset.onglet === 'plus' && ['ecologie', 'actus', 'progres', 'plus'].includes(actif))));
     if (!keepScroll) window.scrollTo(0, 0);
     keepScroll = false;
@@ -506,7 +549,9 @@ ${JSON.stringify(exemple, null, 1)}`;
   }
 
   document.addEventListener('click', async e => {
-    const el = e.target.closest('[data-action]'); if (!el) return;
+    const el = e.target.closest('[data-action]');
+    if (!e.target.closest('#def') && !(el && el.dataset.action === 'terme')) document.getElementById('def').hidden = true;
+    if (!el) return;
     const act = el.dataset.action, carte = el.closest('.carte');
     if (act === 'voir') {
       const rep = carte.querySelector('.rep');
@@ -544,10 +589,17 @@ ${JSON.stringify(exemple, null, 1)}`;
       location.hash = location.hash.split('?')[0] + '?c=' + encodeURIComponent(el.dataset.id);
     } else if (act === 'rejouer') {
       rerendre();
+    } else if (act === 'terme') {
+      const g = GLO[+el.dataset.i], d = document.getElementById('def');
+      d.innerHTML = `<button class="fermer" data-action="fermerDef" aria-label="Fermer">✕</button><p class="def-terme">${esc(g.terme)} <small>${esc(g.domaine)}</small></p><p>${esc(g.definition)}</p><a href="#/glossaire" data-action="fermerDef">Tout le glossaire →</a>`;
+      d.hidden = false; return;
+    } else if (act === 'fermerDef') {
+      document.getElementById('def').hidden = true;
     } else if (act === 'exporter') Store.exporter();
   });
 
-  document.addEventListener('keydown', e => { if ((e.key === 'Enter' || e.key === ' ') && e.target.dataset && e.target.dataset.action === 'clade') { e.preventDefault(); e.target.dispatchEvent(new MouseEvent('click', { bubbles: true })); } });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') document.getElementById('def').hidden = true; if ((e.key === 'Enter' || e.key === ' ') && e.target.dataset && e.target.dataset.action === 'clade') { e.preventDefault(); e.target.dispatchEvent(new MouseEvent('click', { bubbles: true })); } });
 
   document.addEventListener('change', e => {
     const el = e.target, act = el.dataset.action;
@@ -564,6 +616,10 @@ ${JSON.stringify(exemple, null, 1)}`;
   });
 
   document.addEventListener('input', e => {
+    if (e.target.dataset.action === 'rechG') {
+      rechG = e.target.value; const pos = e.target.selectionStart; rerendre();
+      const i = document.querySelector('[data-action="rechG"]'); i.focus(); i.setSelectionRange(pos, pos); return;
+    }
     if (e.target.dataset.action === 'rech') {
       rech = e.target.value; const pos = e.target.selectionStart; rerendre();
       const i = document.querySelector('[data-action="rech"]'); i.focus(); i.setSelectionRange(pos, pos);

@@ -89,5 +89,11 @@
       "Extraction de sable",
       "Pollution"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/14958565/medium.jpg",
+    "credit": "(c) Hans Hillewaert, some rights reserved (CC BY-SA)",
+    "licence": "CC BY-SA",
+    "source": "https://www.inaturalist.org/photos/14958565"
   }
 }

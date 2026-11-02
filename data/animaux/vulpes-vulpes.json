@@ -123,5 +123,11 @@
         "distinguer": "Empreinte ronde sans griffes, alors que le renard laisse une empreinte ovale avec des griffes marquées."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6568074/medium.jpg",
+    "credit": "(c) Joanne Muis Redwood, some rights reserved (CC BY-NC), uploaded by Joanne Muis Redwood",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/6568074"
   }
 }

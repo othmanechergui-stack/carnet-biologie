@@ -97,5 +97,11 @@
       "Chalutage",
       "Commerce (CITES Annexe II)"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6144946/medium.jpg",
+    "credit": "(c) Stefan, some rights reserved (CC BY-NC), uploaded by Stefan",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/6144946"
   }
 }

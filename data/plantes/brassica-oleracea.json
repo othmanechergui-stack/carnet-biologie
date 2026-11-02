@@ -137,5 +137,11 @@
   "notions": [
     "polyploidie"
   ],
-  "ajoute_le": "2026-11-02"
+  "ajoute_le": "2026-11-02",
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2057374/medium.jpg",
+    "credit": "(c) JJ Johnson, some rights reserved (CC BY-NC), uploaded by JJ Johnson",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/2057374"
+  }
 }

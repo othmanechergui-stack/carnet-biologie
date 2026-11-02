@@ -147,5 +147,11 @@
         "distinguer": "Feuilles rudes (non duveteuses) décurrentes sur la tige ; fleurs en crosse ; milieux humides."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179728943/medium.jpeg",
+    "credit": "(c) z7nikon, some rights reserved (CC BY-NC), uploaded by z7nikon",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/179728943"
   }
 }

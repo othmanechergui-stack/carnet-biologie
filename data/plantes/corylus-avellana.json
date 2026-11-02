@@ -146,5 +146,11 @@
         "distinguer": "Feuilles plus allongées et plissées, tronc unique cannelé, fruits ailés à bractée."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/249644515/medium.jpg",
+    "credit": "(c) David Ballesteros, some rights reserved (CC BY-NC), uploaded by David Ballesteros",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/249644515"
   }
 }

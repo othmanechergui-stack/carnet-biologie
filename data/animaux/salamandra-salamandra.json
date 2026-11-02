@@ -114,5 +114,11 @@
         "distinguer": "Plus petit, ventre orange vif uni, dos gris-bleu ; souvent dans l’eau."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/159805189/medium.jpg",
+    "credit": "(c) Frank Vassen, some rights reserved (CC BY)",
+    "licence": "CC BY",
+    "source": "https://www.inaturalist.org/photos/159805189"
   }
 }

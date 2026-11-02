@@ -100,5 +100,11 @@
       "Bruit sous-marin",
       "Captivité"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/223550594/medium.jpg",
+    "credit": "(c) Sherry Kirkvold, some rights reserved (CC BY-NC), uploaded by Sherry Kirkvold",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/223550594"
   }
 }

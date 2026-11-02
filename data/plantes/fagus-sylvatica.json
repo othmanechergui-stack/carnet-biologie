@@ -153,5 +153,11 @@
         "distinguer": "Écorce lisse mais cannelée (« muscles ») ; feuilles doublement dentées, plissées ; fruits ailés à bractée trilobée."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335978296/medium.jpeg",
+    "credit": "(c) sabine-g, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/335978296"
   }
 }

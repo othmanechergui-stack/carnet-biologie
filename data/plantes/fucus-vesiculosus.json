@@ -135,5 +135,11 @@
         "distinguer": "Pas de vésicules, thalle souvent vrillé ; tout en haut de l’estran."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/121028378/medium.jpg",
+    "credit": "(c) Hans Hillewaert, some rights reserved (CC BY-NC-ND)",
+    "licence": "CC BY-NC-ND",
+    "source": "https://www.inaturalist.org/photos/121028378"
   }
 }

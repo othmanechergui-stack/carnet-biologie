@@ -120,5 +120,11 @@
         "distinguer": "Rose-rouge et non orange, calotte noire, gros bec conique de granivore."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104940884/medium.jpeg",
+    "credit": "(c) naturpel, some rights reserved (CC BY-NC), uploaded by naturpel",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/104940884"
   }
 }

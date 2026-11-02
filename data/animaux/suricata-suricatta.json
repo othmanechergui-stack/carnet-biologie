@@ -99,5 +99,11 @@
       "Sécheresses (changement climatique)",
       "Tuberculose"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/626719914/medium.jpg",
+    "credit": "(c) 魔笛, some rights reserved (CC BY-NC), uploaded by 魔笛",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/626719914"
   }
 }

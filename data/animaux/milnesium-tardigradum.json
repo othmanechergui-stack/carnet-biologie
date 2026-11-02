@@ -99,5 +99,11 @@
         "distinguer": "Pas de pattes ; couronne ciliée rotative à l’avant ; se déplacent comme des chenilles arpenteuses."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78182630/medium.png",
+    "credit": "(c) \nSchokraie E, Warnken U, Hotz-Wagenblatt A, Grohme MA, Hengherr S, et al. (2012), some rights reserved (CC BY)",
+    "licence": "CC BY",
+    "source": "https://www.inaturalist.org/photos/78182630"
   }
 }

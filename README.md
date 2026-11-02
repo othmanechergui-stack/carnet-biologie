@@ -77,6 +77,7 @@ Pour lancer l’agent automatiquement chaque matin, on peut créer une **tâche 
 ## Outils
 - `python3 build.py` — vérifie et construit `data/bundle.js` (`--check` pour vérifier seulement).
 - `python3 etat.py` — résumé du contenu (modules récents, espèces, branches peu couvertes, saison).
+- `python3 photos.py` — ajoute une photo iNaturalist sous licence libre aux fiches qui n’en ont pas.
 
 ## Crédits
-Textes rédigés à partir des cours de l’ULB (zoologie BIOL-F-202, botanique BIOL-F-201, éthologie, sociétés animales, modules BIOL-F-450, transcriptomique) et de sources citées. Aucune image n’est copiée : chaque espèce renvoie vers iNaturalist et Wikimedia Commons. Les arbres sont dessinés en SVG par le site.
+Textes rédigés à partir des cours de l’ULB (zoologie BIOL-F-202, botanique BIOL-F-201, éthologie, sociétés animales, modules BIOL-F-450, transcriptomique) et de sources citées. Aucune image n’est copiée : les photos sont affichées depuis iNaturalist, uniquement sous licence Creative Commons, avec leur auteur et leur licence ; chaque espèce renvoie aussi vers iNaturalist et Wikimedia Commons. Le glossaire (`data/glossaire.json`) fournit les rappels de termes techniques. Les arbres sont dessinés en SVG par le site.

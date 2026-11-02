@@ -83,5 +83,11 @@
     "menaces": [
       "—"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28187914/medium.jpg",
+    "credit": "(c) AJC1, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/28187914"
   }
 }

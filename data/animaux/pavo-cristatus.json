@@ -95,5 +95,11 @@
     "menaces": [
       "—"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165318600/medium.jpg",
+    "credit": "(c) Cloudtail the Snow Leopard, some rights reserved (CC BY-NC-ND)",
+    "licence": "CC BY-NC-ND",
+    "source": "https://www.inaturalist.org/photos/165318600"
   }
 }

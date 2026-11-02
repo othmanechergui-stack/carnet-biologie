@@ -127,5 +127,11 @@
         "distinguer": "Souvent plus petites, solitaires, nichant dans le sol ; pas de corbeille à pollen mais des brosses de poils."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/389898647/medium.jpeg",
+    "credit": "(c) Lê Thanh Hoa, some rights reserved (CC BY-NC), uploaded by Lê Thanh Hoa",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/389898647"
   }
 }

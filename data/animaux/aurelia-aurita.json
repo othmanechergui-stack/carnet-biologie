@@ -104,5 +104,11 @@
         "distinguer": "Grosse ombrelle blanche bordée de violet, bras oraux épais, sans tentacules marginaux."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/492583365/medium.jpg",
+    "credit": "(c) Bianca Bahlert, some rights reserved (CC BY-NC), uploaded by Bianca Bahlert",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/492583365"
   }
 }

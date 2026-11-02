@@ -96,5 +96,11 @@
       "Barrages (Europe)",
       "Pollution des frayères"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/449161/medium.jpg",
+    "credit": "(c) NOAA Great Lakes Environmental Research Laboratory, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/449161"
   }
 }

@@ -120,5 +120,11 @@
         "distinguer": "Pic vers 39 kHz, migratrice, passage en automne."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6156906/medium.jpeg",
+    "credit": "(c) Jakob Fahr, some rights reserved (CC BY-NC), uploaded by Jakob Fahr",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/6156906"
   }
 }

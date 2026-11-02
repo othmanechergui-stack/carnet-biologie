@@ -94,5 +94,11 @@
       "Poissons introduits (tilapias, carpes)",
       "Assèchement"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/87949947/medium.jpg",
+    "credit": "(c) Seánín Óg, some rights reserved (CC BY-NC-ND)",
+    "licence": "CC BY-NC-ND",
+    "source": "https://www.inaturalist.org/photos/87949947"
   }
 }

@@ -104,5 +104,11 @@
         "distinguer": "Colonies en tubes ramifiés munis de lophophores rétractiles, pas de spicules."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/220192693/medium.jpeg",
+    "credit": "(c) Eva Šmerdová, some rights reserved (CC BY-NC), uploaded by Eva Šmerdová",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/220192693"
   }
 }

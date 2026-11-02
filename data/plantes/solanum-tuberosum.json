@@ -140,5 +140,11 @@
   "notions": [
     "endosymbiose-algues"
   ],
-  "ajoute_le": "2026-11-02"
+  "ajoute_le": "2026-11-02",
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171954168/medium.jpeg",
+    "credit": "(c) dmitry tretjakov, some rights reserved (CC BY-NC), uploaded by dmitry tretjakov",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/171954168"
+  }
 }

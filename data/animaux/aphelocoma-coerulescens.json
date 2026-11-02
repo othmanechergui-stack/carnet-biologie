@@ -100,5 +100,11 @@
       "Suppression des feux",
       "Fragmentation"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/180030608/medium.jpeg",
+    "credit": "(c) JeffreyGammon, some rights reserved (CC BY-NC), uploaded by JeffreyGammon",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/180030608"
   }
 }

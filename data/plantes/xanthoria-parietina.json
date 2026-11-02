@@ -130,5 +130,11 @@
         "distinguer": "Lichens foliacés gris-blanc, souvent avec la Xanthorie."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242377236/medium.jpg",
+    "credit": "(c) viktoria1111, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/242377236"
   }
 }

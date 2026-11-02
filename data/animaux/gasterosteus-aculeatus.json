@@ -109,5 +109,11 @@
         "distinguer": "Neuf à dix petites épines dorsales ; mâle nuptial à gorge noire."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/244775846/medium.jpg",
+    "credit": "(c) Riccardo Novaga, some rights reserved (CC BY-NC), uploaded by Riccardo Novaga",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/244775846"
   }
 }

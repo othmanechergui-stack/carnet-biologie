@@ -158,5 +158,11 @@
         "distinguer": "Feuilles à lobes pointus terminés par des soies, grandes ; espèce plantée."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110607739/medium.jpeg",
+    "credit": "(c) Felix Riegel, some rights reserved (CC BY-NC), uploaded by Felix Riegel",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/110607739"
   }
 }

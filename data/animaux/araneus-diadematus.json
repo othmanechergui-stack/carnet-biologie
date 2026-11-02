@@ -112,5 +112,11 @@
         "distinguer": "Abdomen très rond avec quatre grosses taches blanches en carré."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/156036389/medium.jpg",
+    "credit": "(c) hedera.baltica, some rights reserved (CC BY-SA)",
+    "licence": "CC BY-SA",
+    "source": "https://www.inaturalist.org/photos/156036389"
   }
 }

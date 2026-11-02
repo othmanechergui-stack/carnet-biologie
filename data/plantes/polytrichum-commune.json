@@ -141,5 +141,11 @@
         "distinguer": "Feuilles ondulées transversalement, plus molles, sans coiffe poilue."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/172315396/medium.jpg",
+    "credit": "(c) gaforestwatch, some rights reserved (CC BY-NC), uploaded by gaforestwatch",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/172315396"
   }
 }

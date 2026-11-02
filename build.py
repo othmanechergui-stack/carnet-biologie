@@ -53,6 +53,13 @@ def main():
     arbres = {k: charger(DATA / 'arbres' / f'{k}.json') for k in ('animal', 'vegetal')}
     calendrier = charger(DATA / 'ecologie' / 'calendrier.json') or []
     biodiversite = charger(DATA / 'ecologie' / 'biodiversite.json') or []
+    glossaire = charger(DATA / 'glossaire.json') or []
+    vus = set()
+    for g in glossaire:
+        if not g.get('terme') or not g.get('definition'): err(f'glossaire.json : entrée sans "terme" ou "definition" ({g})')
+        for forme in [g.get('terme', '')] + g.get('variantes', []):
+            if forme.lower() in vus: err(f'glossaire.json : forme en double « {forme} »')
+            vus.add(forme.lower())
 
     # Identifiants
     for nom, d in [('notions', notions), ('comportement', comportement), ('ecologie/concepts', concepts),
@@ -103,6 +110,9 @@ def main():
             liens = f.get('liens') or {}
             if not str(liens.get('inaturalist', '')).startswith('https://www.inaturalist.org/taxa/'): err(f'{ou} : lien iNaturalist manquant ou mal formé')
             if not str(liens.get('commons', '')).startswith('https://commons.wikimedia.org/'): err(f'{ou} : lien Wikimedia Commons manquant ou mal formé')
+            ph = f.get('photo')
+            if ph and not (str(ph.get('url', '')).startswith('https://') and ph.get('licence') and ph.get('credit')):
+                err(f'{ou} : photo incomplète (url https, licence et credit obligatoires)')
 
     # Actus
     for i, a in actus.items():
@@ -154,7 +164,7 @@ def main():
         'animaux': animaux, 'plantes': plantes, 'arbres': arbres,
         'ecologie': {'concepts': concepts, 'ecosystemes': sorted(ecosystemes.values(), key=lambda e: e['semaine']),
                      'calendrier': calendrier, 'biodiversite': biodiversite},
-        'actus': actus, 'decryptages': sorted(decryptages.values(), key=lambda d: d['id']), 'sessions': sessions,
+        'glossaire': glossaire, 'actus': actus, 'decryptages': sorted(decryptages.values(), key=lambda d: d['id']), 'sessions': sessions,
     }
     print(f'✓ {len(toutes_notions)} notions, {len(animaux)} animaux, {len(plantes)} plantes, {len(actus)} actus, '
           f'{len(sessions)} sessions, {len(clades)} clades')

@@ -129,5 +129,11 @@
         "distinguer": "Chapeau brun à flocons blancs, volve à rebord net ; plus toxique."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111494893/medium.jpg",
+    "credit": "(c) Federico Calledda, some rights reserved (CC BY-NC), uploaded by Federico Calledda",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/111494893"
   }
 }

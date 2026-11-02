@@ -98,5 +98,11 @@
       "Clôtures",
       "Braconnage"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345585066/medium.jpg",
+    "credit": "(c) Peter Steward, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/345585066"
   }
 }

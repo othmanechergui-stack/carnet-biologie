@@ -101,5 +101,11 @@
     "menaces": [
       "—"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2764911/medium.JPG",
+    "credit": "(c) James Bailey, some rights reserved (CC BY-NC), uploaded by James Bailey",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/2764911"
   }
 }

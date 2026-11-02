@@ -120,5 +120,11 @@
         "distinguer": "Corbeilles à propagules en croissant de lune (et non en coupe ronde)."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97970288/medium.jpg",
+    "credit": "(c) Ryzhkov Oleg, some rights reserved (CC BY-NC), uploaded by Ryzhkov Oleg",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/97970288"
   }
 }

@@ -161,5 +161,11 @@
         "distinguer": "Feuilles poilues rudes, hampe ramifiée et pleine avec de petites écailles."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/23575133/medium.jpg",
+    "credit": "(c) Paul Reeves, some rights reserved (CC BY-NC-SA), uploaded by Paul Reeves",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/23575133"
   }
 }

@@ -97,5 +97,11 @@
     "menaces": [
       "—"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/185963189/medium.jpg",
+    "credit": "(c) Julian Alzate, some rights reserved (CC BY-NC), uploaded by Julian Alzate",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/185963189"
   }
 }

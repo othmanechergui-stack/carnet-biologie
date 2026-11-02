@@ -145,5 +145,11 @@
         "distinguer": "Aiguilles piquantes à section carrée, cônes pendants."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8502/medium.jpg",
+    "credit": "(c) Jonathan Tyler, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/8502"
   }
 }

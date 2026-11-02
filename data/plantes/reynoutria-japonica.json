@@ -149,5 +149,11 @@
         "distinguer": "Tiges ligneuses persistantes à nœuds pleins ; feuilles étroites (Poacées)."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/86730924/medium.jpg",
+    "credit": "(c) JODY HSIEH, some rights reserved (CC BY-NC), uploaded by JODY HSIEH",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/86730924"
   }
 }

@@ -116,5 +116,11 @@
         "distinguer": "Longue queue aussi, mais oiseau plus gros, au sol, hochant la queue ; noir, gris et blanc sans rose."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/115550098/medium.jpg",
+    "credit": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/115550098"
   }
 }

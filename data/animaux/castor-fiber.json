@@ -118,5 +118,11 @@
         "distinguer": "Bien plus petit (1 kg), queue aplatie latéralement."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/262862372/medium.jpg",
+    "credit": "(c) jamesbot, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/262862372"
   }
 }

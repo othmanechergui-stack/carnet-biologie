@@ -130,5 +130,11 @@
         "distinguer": "Frondes en touffe (couronne), bipennées, sores ronds à indusie en rein."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64559686/medium.jpg",
+    "credit": "(c) c michael hogan, some rights reserved (CC BY-NC-SA), uploaded by c michael hogan",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/64559686"
   }
 }

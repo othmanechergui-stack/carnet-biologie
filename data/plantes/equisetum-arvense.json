@@ -133,5 +133,11 @@
         "distinguer": "Bien plus grande, tige stérile blanchâtre ivoire ; suintements calcaires."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72597295/medium.jpg",
+    "credit": "(c) gwenbezodis, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/72597295"
   }
 }

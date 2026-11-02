@@ -113,5 +113,11 @@
         "distinguer": "Coquille plus grosse, brune et marbrée, ridée."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/6050328/medium.jpg",
+    "credit": "(c) Gary Yankech, some rights reserved (CC BY-NC-SA), uploaded by Gary Yankech",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/6050328"
   }
 }

@@ -148,5 +148,11 @@
         "distinguer": "Feuilles semblables mais NE PIQUE PAS ; grandes fleurs blanches en casque (Lamiacée)."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136152034/medium.jpg",
+    "credit": "no rights reserved, uploaded by Kathy Daniel",
+    "licence": "CC0",
+    "source": "https://www.inaturalist.org/photos/136152034"
   }
 }

@@ -89,5 +89,11 @@
     "menaces": [
       "—"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/175647677/medium.jpeg",
+    "credit": "(c) Tara McEvoy-Wilding, some rights reserved (CC BY-NC), uploaded by Tara McEvoy-Wilding",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/175647677"
   }
 }

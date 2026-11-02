@@ -152,5 +152,11 @@
         "distinguer": "Fleurs jaune pâle en ombelle sur une hampe ; bois humides."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/10618/medium.jpg",
+    "credit": "(c) CÃ©cile Bassaglia, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/10618"
   }
 }

@@ -90,5 +90,11 @@
       "Prises accessoires",
       "Pêche profonde"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242640271/medium.png",
+    "credit": "(c) wrecklessmarine, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/242640271"
   }
 }

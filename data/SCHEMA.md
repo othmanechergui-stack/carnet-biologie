@@ -60,6 +60,7 @@ Même format pour `ecologie/concepts/<id>.json` et `comportement/<id>.json`. **L
   "terrain?": { "ou": "…", "quand": "…", "criteres": ["…"], "sosies": [{ "espece": "Nom (latin)", "distinguer": "…" }] },
   "liens": { "inaturalist": "https://www.inaturalist.org/taxa/<NUMÉRO>", "commons": "https://commons.wikimedia.org/wiki/Category:Genre_espece" },
   "notions": ["id-notion"],
+  "photo?": { "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/…/medium.jpg", "credit": "(c) Auteur, some rights reserved (CC BY-NC)", "licence": "CC BY-NC", "source": "https://www.inaturalist.org/photos/<id>" },
   "sources?": [{ "nom": "…", "url": "…" }],
   "ajoute_le": "AAAA-MM-JJ"
 }
@@ -70,6 +71,7 @@ Même format pour `ecologie/concepts/<id>.json` et `comportement/<id>.json`. **L
 - `mini_arbre.parents` : du **plus proche au plus éloigné** ; le site dessine `(externe, (parentN, … (parent1, espèce)))`. `externe` = juste le nom (le site ajoute « (externe) »).
 - `uicn` : `EX, EW, CR, EN, VU, NT, LC, DD, NE` (statut mondial).
 - `terrain` : pour les espèces de Belgique ; `sosies` alimente le jeu « Sosies ».
+- `photo` : **ne pas écrire à la main** — lancer `python3 photos.py` qui choisit une photo iNaturalist sous licence Creative Commons (jamais « tous droits réservés ») ; l’image n’est pas copiée, elle est affichée depuis sa source avec auteur et licence.
 - `liens.inaturalist` : **vrai numéro de taxon**, à vérifier via `https://api.inaturalist.org/v1/taxa?q=Genre%20espece&rank=species`.
 
 ## Plante / champignon / algue — `plantes/<id>.json`
@@ -161,6 +163,16 @@ Mettre à jour un élément existant (et `maj`) plutôt qu’en dupliquer.
 }
 ```
 `leitner` : le site pioche une fiche due de l’utilisateur (ou une notion jamais vue).
+
+---
+
+## `glossaire.json` (termes techniques cliquables)
+```json
+[{ "terme": "synapomorphie", "variantes": ["synapomorphies"], "definition": "1–2 phrases", "domaine": "phylogénie" }]
+```
+- `domaine` : `phylogénie, zoologie, botanique, génétique, éthologie, écologie, transcriptomique`.
+- Le site souligne automatiquement (1re occurrence par bloc) chaque `terme` ou `variante` trouvé dans les notions, la phylogénie, l’arbre et la page du jour ; un toucher affiche la définition. Page complète : `#/glossaire`.
+- Une forme (terme ou variante, sans tenir compte des majuscules) ne peut apparaître qu’une fois dans tout le fichier. Éviter les mots courants ambigus (« ne », « classe », « ordre »…).
 
 ---
 

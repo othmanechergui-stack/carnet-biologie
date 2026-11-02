@@ -93,5 +93,11 @@
       "Surpêche locale",
       "Projets d’élevage intensif"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/166419253/medium.jpeg",
+    "credit": "(c) Susanne Spindler, some rights reserved (CC BY-NC-ND), uploaded by Susanne Spindler",
+    "licence": "CC BY-NC-ND",
+    "source": "https://www.inaturalist.org/photos/166419253"
   }
 }

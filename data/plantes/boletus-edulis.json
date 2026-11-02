@@ -127,5 +127,11 @@
         "distinguer": "Pores roses, réseau brun foncé ; goûte : amertume extrême."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/328303120/medium.jpg",
+    "credit": "(c) wp-polzin, some rights reserved (CC BY-NC)",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/328303120"
   }
 }

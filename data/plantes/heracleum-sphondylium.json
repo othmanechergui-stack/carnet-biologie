@@ -163,5 +163,11 @@
         "distinguer": "Tige LISSE glabre tachée de pourpre, odeur de souris, feuilles très finement découpées : mortelle."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/212470781/medium.jpg",
+    "credit": "(c) Florian Adelsberger, some rights reserved (CC BY-NC), uploaded by Florian Adelsberger",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/212470781"
   }
 }

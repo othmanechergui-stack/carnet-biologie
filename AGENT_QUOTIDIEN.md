@@ -48,6 +48,8 @@ Tu crées **4 nouvelles fiches animaux** (`data/animaux/`) et **3 nouvelles fich
   ```
   Commons : `https://commons.wikimedia.org/wiki/Category:Genre_espece`.
 - `ajoute_le` = date du jour.
+- **Photos** : n’écris pas le champ `photo`. Après avoir créé les fiches, lance `python3 photos.py` : il ajoute à chaque nouvelle fiche une photo iNaturalist sous licence libre (auteur + licence). Si une espèce n’a aucune photo libre, la fiche reste sans photo (c’est permis).
+- **Glossaire** : si une fiche ou une notion introduit un terme technique absent de `data/glossaire.json`, ajoute-le (définition d’1–2 phrases, `domaine`, variantes utiles comme le pluriel). Vérifie qu’aucune forme n’existe déjà.
 
 ### 4. Actus (digest de 3 à 5)
 1. Cherche sur le web des études **publiées ou relayées dans les 7 derniers jours** : zoologie, botanique, comportement, écologie/biodiversité, évolution, génétique, neurosciences, paléontologie, santé (en lien avec la biologie). Sources à privilégier : communiqués d’universités/instituts (MPI, CNRS, INRAE…), EurekAlert, ScienceDaily, Phys.org, Nature/Science news, The Conversation, Botany One, presse belge (Le Soir, RTBF, La Libre) pour la Belgique. Varie les thèmes.
@@ -76,6 +78,7 @@ Toujours 5 entrées, dans cet ordre :
 ### 8. Vérifier, construire, publier
 ```bash
 cd ~/carnet-biologie
+python3 photos.py           # photos libres des nouvelles fiches
 python3 build.py            # doit afficher ✓ … et « data/bundle.js écrit »
 git add -A
 git commit -m "Session du AAAA-MM-JJ : <animal>, <plante>, <n> actus"

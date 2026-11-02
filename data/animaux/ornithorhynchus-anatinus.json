@@ -96,5 +96,11 @@
       "Barrages et dégradation des rivières",
       "Filets de pêche"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/430934363/medium.jpeg",
+    "credit": "(c) Alec Karcz, some rights reserved (CC BY-NC), uploaded by Alec Karcz",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/430934363"
   }
 }

@@ -97,5 +97,11 @@
     "menaces": [
       "Peu menacé"
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/129234581/medium.jpg",
+    "credit": "(c) Smithsonian's National Zoo, some rights reserved (CC BY-NC-ND)",
+    "licence": "CC BY-NC-ND",
+    "source": "https://www.inaturalist.org/photos/129234581"
   }
 }

@@ -125,5 +125,11 @@
         "distinguer": "Petite, uniformément sombre, sans dôme d’aiguilles ; nid sous les pierres et dalles."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/152889803/medium.jpg",
+    "credit": "(c) Татьяна Дензанова, some rights reserved (CC BY-NC), uploaded by Татьяна Дензанова",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/152889803"
   }
 }

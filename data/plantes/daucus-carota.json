@@ -160,5 +160,11 @@
         "distinguer": "Bien plus grande, feuilles larges et rudes, sans fleur pourpre centrale."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7663971/medium.jpeg",
+    "credit": "(c) Nancy Phillips, some rights reserved (CC BY-NC), uploaded by Nancy Phillips",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/7663971"
   }
 }

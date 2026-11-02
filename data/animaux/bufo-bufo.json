@@ -122,5 +122,11 @@
         "distinguer": "Peau lisse, tache temporale sombre derrière l’œil, longues pattes sauteuses."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/410732465/medium.jpg",
+    "credit": "(c) Manuel Raab, some rights reserved (CC BY-NC), uploaded by Manuel Raab",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/410732465"
   }
 }

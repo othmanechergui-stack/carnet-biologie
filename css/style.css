@@ -140,3 +140,23 @@ details.bloc summary { cursor: pointer; list-style: none; } details.bloc summary
 .arbre-zone { border: 1px solid var(--ligne); border-radius: 12px; background: var(--carte); max-height: 70vh; overflow: auto; }
 
 .toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(80px + env(safe-area-inset-bottom)); background: var(--texte); color: var(--fond); padding: .6em 1em; border-radius: 10px; z-index: 10; max-width: 90vw; font-size: .92rem; }
+
+/* Photos (iNaturalist, licence libre, chargées depuis leur source) */
+.photo { margin: .6em 0 1em; }
+.photo img { display: block; width: 100%; max-height: 420px; object-fit: cover; border-radius: 14px; background: var(--ligne); aspect-ratio: 4 / 3; }
+.photo.moyenne img { max-height: 220px; }
+.photo.petite img { max-height: 160px; max-width: 240px; }
+.photo figcaption { font-size: .72rem; color: var(--doux); margin-top: .25em; }
+.tuile .vignette { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 8px; margin-bottom: .35em; background: var(--ligne); }
+
+/* Termes techniques cliquables + fenêtre de définition */
+.terme { font: inherit; color: inherit; background: none; border: 0; padding: 0; min-height: 0; border-radius: 0; cursor: help; border-bottom: 1.5px dotted var(--accent); text-align: inherit; display: inline; }
+.terme:hover { color: var(--accent); }
+.def { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(76px + env(safe-area-inset-bottom)); width: min(92vw, 520px); z-index: 20; background: var(--carte); border: 1px solid var(--accent); border-radius: 14px; padding: .8em 1em; box-shadow: 0 8px 30px rgba(0,0,0,.25); font-size: .95rem; }
+@media (min-width: 900px) { .def { bottom: 24px; } }
+.def .def-terme { font-family: var(--serif); font-weight: 700; font-size: 1.1rem; margin: 0 2em .3em 0; }
+.def .def-terme small { font-family: var(--sans); font-weight: normal; font-size: .75rem; color: var(--doux); }
+.def .fermer { position: absolute; top: .3em; right: .3em; border: 0; background: none; min-height: 36px; font-size: 1.1rem; }
+.glossaire dt { font-weight: 700; margin-top: .7em; }
+.glossaire dt small { font-weight: normal; color: var(--doux); }
+.glossaire dd { margin: .15em 0 0; }

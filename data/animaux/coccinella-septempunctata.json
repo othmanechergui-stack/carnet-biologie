@@ -116,5 +116,11 @@
         "distinguer": "Plus petite (4–5 mm), rouge à deux points ou noire à taches rouges."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/267168450/medium.jpg",
+    "credit": "(c) Thomas Shahan, some rights reserved (CC BY-NC), uploaded by Thomas Shahan",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/267168450"
   }
 }

@@ -116,5 +116,11 @@
         "distinguer": "Plus à l’est (Europe centrale) : poitrine claire contrastée ; absent de Belgique."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/132296376/medium.jpg",
+    "credit": "(c) Michael Gäbler, some rights reserved (CC BY-SA)",
+    "licence": "CC BY-SA",
+    "source": "https://www.inaturalist.org/photos/132296376"
   }
 }

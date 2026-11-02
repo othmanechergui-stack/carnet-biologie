@@ -138,5 +138,11 @@
         "distinguer": "Aiguilles par 2 aussi, mais plus longues (8–15 cm), vert foncé, raides ; écorce grise sans orange."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/171073483/medium.jpg",
+    "credit": "(c) vyatka, some rights reserved (CC BY-NC), uploaded by vyatka",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/171073483"
   }
 }

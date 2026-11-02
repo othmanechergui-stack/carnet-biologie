@@ -149,5 +149,11 @@
         "distinguer": "Feuilles en trèfle, fleurs blanches veinées de mauve, 5 pétales."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/732011/medium.jpg",
+    "credit": "(c) Anne SORBES, some rights reserved (CC BY-NC-SA), uploaded by Anne SORBES",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/732011"
   }
 }

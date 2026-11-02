@@ -112,5 +112,11 @@
         "distinguer": "Dos mat et granuleux, sans marbrures claires."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5656249/medium.jpg",
+    "credit": "(c) Katja Schulz, some rights reserved (CC BY)",
+    "licence": "CC BY",
+    "source": "https://www.inaturalist.org/photos/5656249"
   }
 }

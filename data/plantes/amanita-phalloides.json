@@ -129,5 +129,11 @@
         "distinguer": "Chapeau vert craquelé, pas d’anneau ni de volve, chair cassante comme de la craie."
       }
     ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111266235/medium.jpg",
+    "credit": "(c) Federico Calledda, some rights reserved (CC BY-NC), uploaded by Federico Calledda",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/111266235"
   }
 }
