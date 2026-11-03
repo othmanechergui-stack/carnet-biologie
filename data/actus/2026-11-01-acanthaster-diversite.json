@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-01-acanthaster-diversite",
+  "date": "2026-11-01",
+  "titre": "L’acanthaster, mangeuse de corail, pourrait favoriser la diversité… à faible densité",
+  "resume": "Sur la Grande Barrière (One Tree Island, zones protégées à faible densité d’étoiles), du tissu corallien vivant subsiste après ≈ 75 % des repas d’acanthaster. Les Acropora à croissance rapide ne repoussent pas, alors que les Montipora et Porites plus lents régénèrent. Les auteurs proposent qu’une prédation modérée limite les dominants et augmente la diversité (perturbations intermédiaires). Les pullulations restent une menace majeure.",
+  "source": {
+    "nom": "Ecology and Evolution 16(9) — Foo et al. (Univ. Sydney) — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261030002957.htm"
+  },
+  "themes": [
+    "ecologie",
+    "zoologie",
+    "conservation"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "non précisé (sites protégés)",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "moyen"
+  },
+  "quiz": {
+    "question": "Après combien de repas d’acanthaster observés reste-t-il du tissu corallien vivant ?",
+    "choix": [
+      "≈ 10 %",
+      "≈ 75 %",
+      "100 %"
+    ],
+    "bonne": 1
+  },
+  "module": "ecologie"
+}

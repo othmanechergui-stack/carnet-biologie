@@ -1642,5 +1642,155 @@
   ],
   "definition": "Mini-tissu 3D cultivé à partir de cellules souches, modèle simplifié d’un organe.",
   "domaine": "transcriptomique"
+ },
+ {
+  "terme": "byssus",
+  "variantes": [],
+  "definition": "Faisceau de fils protéiques sécrétés par le pied de certains bivalves (moules) pour s’ancrer au substrat ; adhère sous l’eau grâce à la DOPA.",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "filtreur",
+  "variantes": [
+   "filtreurs",
+   "filtration"
+  ],
+  "definition": "Animal qui se nourrit en retenant des particules en suspension dans l’eau (éponges, moules, ascidies).",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "trochophore",
+  "variantes": [
+   "larve trochophore"
+  ],
+  "definition": "Larve planctonique ciliée des Lophotrochozoaires (annélides, mollusques).",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "véligère",
+  "variantes": [],
+  "definition": "Larve des mollusques munie d’un voile cilié (velum), qui suit le stade trochophore.",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "forcipules",
+  "variantes": [
+   "forcipule"
+  ],
+  "definition": "Première paire de pattes du tronc des chilopodes, transformée en crochets à venin.",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "anamorphose",
+  "variantes": [
+   "anamorphe"
+  ],
+  "definition": "Développement où des segments et des paires de pattes s’ajoutent à chaque mue (myriapodes).",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "écailles placoïdes",
+  "variantes": [
+   "écaille placoïde",
+   "denticules"
+  ],
+  "definition": "Écailles des chondrichthyens, faites de dentine et d’émail : homologues des dents.",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "ampoules de Lorenzini",
+  "variantes": [],
+  "definition": "Électrorécepteurs des requins et raies, qui détectent les champs électriques des proies.",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "ptérygopodes",
+  "variantes": [],
+  "definition": "Organes copulateurs des chondrichthyens mâles, dérivés des nageoires pelviennes.",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "colloblastes",
+  "variantes": [
+   "colloblaste"
+  ],
+  "definition": "Cellules collantes des tentacules des cténophores, qui capturent les proies (à la place des cnidocytes).",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "cténes",
+  "variantes": [
+   "palettes ciliées"
+  ],
+  "definition": "Palettes de cils soudés disposées en 8 rangées chez les cténophores, servant à nager.",
+  "domaine": "zoologie"
+ },
+ {
+  "terme": "microphylle",
+  "variantes": [
+   "microphylles"
+  ],
+  "definition": "Petite feuille à une seule nervure non ramifiée, caractéristique des lycophytes.",
+  "domaine": "botanique"
+ },
+ {
+  "terme": "mégaphylle",
+  "variantes": [
+   "mégaphylles"
+  ],
+  "definition": "Feuille à nervation ramifiée des euphyllophytes (fougères, prêles, plantes à graines).",
+  "domaine": "botanique"
+ },
+ {
+  "terme": "strobile",
+  "variantes": [
+   "strobiles"
+  ],
+  "definition": "Épi de sporophylles portant des sporanges (lycopodes, prêles) ; équivalent d’un cône.",
+  "domaine": "botanique"
+ },
+ {
+  "terme": "homosporie",
+  "variantes": [
+   "homosporé",
+   "homosporée"
+  ],
+  "definition": "Production d’un seul type de spores (opposé : hétérosporie).",
+  "domaine": "botanique"
+ },
+ {
+  "terme": "pourriture blanche",
+  "variantes": [],
+  "definition": "Décomposition du bois par des champignons capables de dégrader la lignine (le bois devient blanc et fibreux).",
+  "domaine": "botanique"
+ },
+ {
+  "terme": "saprotrophe",
+  "variantes": [
+   "saprotrophes",
+   "saprophyte"
+  ],
+  "definition": "Organisme qui se nourrit de matière organique morte (décomposeur).",
+  "domaine": "botanique"
+ },
+ {
+  "terme": "hétérophyllie",
+  "variantes": [],
+  "definition": "Présence de feuilles de formes différentes sur une même plante (lierre, houx).",
+  "domaine": "botanique"
+ },
+ {
+  "terme": "défense induite",
+  "variantes": [
+   "défenses induites"
+  ],
+  "definition": "Défense qui n’est produite qu’après détection d’une attaque ou d’un risque (épines du houx, coquille des moules).",
+  "domaine": "écologie"
+ },
+ {
+  "terme": "mycohétérotrophe",
+  "variantes": [],
+  "definition": "Plante (ou gamétophyte) qui tire son carbone d’un champignon symbiotique au lieu de la photosynthèse.",
+  "domaine": "botanique"
  }
 ]

@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-03",
+  "revision": "mollusques-synapomorphies",
+  "bonus": {
+    "titre": "La colle des moules : quand le byssus inspire la chirurgie",
+    "essentiel": "Le byssus des moules adhère à presque toutes les surfaces mouillées. Le secret : des protéines (Mfp) riches en **DOPA**, un acide aminé modifié dont les groupes catéchols forment des liaisons avec les surfaces et des ponts avec des ions métalliques (fer). Les chimistes s’en inspirent pour des colles biomédicales et des revêtements (polydopamine).",
+    "details": "Chaque fil de byssus est un gradient de matériau : rigide près de la plaque d’ancrage, élastique vers la moule, ce qui amortit les chocs des vagues. Les complexes catéchol–Fe³⁺ sont des liaisons « sacrificielles » réversibles qui se reforment après étirement : un matériau auto-réparant. Ces travaux (H. Waite, J. Israelachvili) relient la biologie des mollusques à la science des matériaux. En lien avec ton cours : le pied et ses glandes sont des dérivés de la masse viscéro-pédieuse du plan mollusque.",
+    "lien_notion": "mollusques-synapomorphies"
+  },
+  "animal": "mytilus-edulis",
+  "animaux_reserve": [
+    "lithobius-forficatus",
+    "scyliorhinus-canicula",
+    "mnemiopsis-leidyi"
+  ],
+  "plante": "ilex-aquifolium",
+  "plantes_reserve": [
+    "trametes-versicolor",
+    "lycopodium-clavatum"
+  ],
+  "digest": [
+    "2026-11-01-acanthaster-diversite",
+    "2026-10-31-shanidar-lance",
+    "2026-10-29-faux-hippocampes"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "mollusques-synapomorphies"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "asterias-rubens"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-31-shanidar-lance"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-27-araignees-sommeil-rem"
+    }
+  ]
+}

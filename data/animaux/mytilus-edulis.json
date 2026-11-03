@@ -1,0 +1,126 @@
+{
+  "id": "mytilus-edulis",
+  "nom": "Moule commune",
+  "latin": "Mytilus edulis",
+  "groupe": "mollusque",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "bivalvia",
+  "resume": "La moule des brise-lames et des moules-frites. C’est un **bivalve filtreur** qui s’ancre au rocher par des fils de **byssus**, une colle qui tient sous l’eau. Elle n’a pas de tête et a perdu la **radula** de ses ancêtres mollusques.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Mollusques",
+      "synapomorphies": [
+        "Manteau",
+        "Radula",
+        "Cténidies"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Bivalves",
+      "synapomorphies": [
+        "Coquille à deux valves",
+        "Perte de la radula",
+        "Branchies lamellaires filtrantes"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Mytilida",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Mytilidés",
+      "synapomorphies": [
+        "Byssus chez l’adulte"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Mytilus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Cepaea nemoralis",
+    "parents": [
+      "Mytilus galloprovincialis",
+      "Mytilus trossulus",
+      "Modiolus modiolus"
+    ]
+  },
+  "facts": [
+    "Son byssus colle sous l’eau grâce à un acide aminé modifié, la DOPA, qui inspire des colles chirurgicales.",
+    "Les moules épaississent leur coquille quand elles « sentent » des crabes dans l’eau.",
+    "Les bivalves sont les seuls mollusques sans radula ni tête différenciée.",
+    "Les moules sont utilisées comme sentinelles de la pollution marine dans le monde entier."
+  ],
+  "anecdote": "La colle du byssus de moule tient sous l’eau, ce que presque aucune colle humaine ne sait faire : les chirurgiens s’en inspirent pour recoller des tissus.",
+  "indices_quiz": [
+    "Mollusque bivalve sans radula, filtreur.",
+    "Elle s’ancre par des fils de byssus riches en DOPA.",
+    "Elle épaissit sa coquille en présence de crabes."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/117650",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Mytilus_edulis"
+  },
+  "notions": [
+    "mollusques-synapomorphies",
+    "plasticite-phenotypique"
+  ],
+  "ajoute_le": "2026-11-03",
+  "caracteristiques": {
+    "essentiel": "La coquille mesure 5 à 10 cm. Elle est bleu-noir à l’extérieur et nacrée à l’intérieur. Les deux valves sont fermées par des **muscles adducteurs** et ouvertes par un **ligament** élastique. Les **cténidies**, devenues de grandes branchies lamellaires, servent à la fois à respirer et à **filtrer** la nourriture : les cils créent le courant, le mucus capture les particules. Le **byssus** est sécrété par une glande du pied.",
+    "details": "Une moule filtre de l’ordre de plusieurs litres d’eau par heure, selon sa taille et la température. Les protéines du byssus contiennent de la **DOPA** (dihydroxyphénylalanine), qui permet l’adhésion sur surface mouillée. Elles inspirent des colles chirurgicales. Les sexes sont séparés : la gonade est orange chez la femelle, plus blanchâtre chez le mâle. La fécondation est externe et la larve **trochophore** devient une **véligère** planctonique."
+  },
+  "comportement": {
+    "essentiel": "La moule est sessile, mais les juvéniles peuvent se détacher et se refixer. Elle sécrète de nouveaux fils de byssus pour se déplacer de quelques centimètres et éviter d’être enfouie dans un banc.",
+    "details": "Face aux prédateurs (crabes, étoiles de mer), elle **épaissit sa coquille et renforce son byssus** quand elle détecte des signaux chimiques de prédateurs dans l’eau. C’est un cas classique de **plasticité phénotypique induite** : la même moule produit un phénotype différent selon le risque perçu.",
+    "concepts": [
+      "plasticite-phenotypique",
+      "norme-reaction-gxe"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Zone intertidale et infralittorale sur substrat dur : brise-lames, digues, épaves et parcs à moules. Bancs naturels et cultures en mer du Nord (Zélande), sur bouchots en Normandie.",
+    "details": "C’est une **ingénieure** : ses bancs forment des récifs biogéniques qui abritent de nombreuses espèces. Elle épure l’eau par filtration. C’est la proie des étoiles de mer, des crabes, des goélands et des eiders. Elle accumule les polluants et les toxines d’algues, ce qui en fait un **bioindicateur** (« Mussel Watch »).",
+    "uicn": "NE",
+    "menaces": [
+      "Réchauffement des eaux",
+      "Acidification (coquilles)",
+      "Pathogènes",
+      "Hybridation avec M. galloprovincialis"
+    ]
+  },
+  "terrain": {
+    "ou": "Brise-lames et digues de la côte belge à marée basse ; laisse de mer après les tempêtes.",
+    "quand": "Toute l’année.",
+    "criteres": [
+      "Coquille bleu-noir allongée, en forme de goutte",
+      "Fils de byssus",
+      "Intérieur nacré bleuté"
+    ],
+    "sosies": [
+      {
+        "espece": "Moule méditerranéenne (Mytilus galloprovincialis)",
+        "distinguer": "Très semblable, bord plus anguleux ; s’hybride avec M. edulis : souvent indiscernable sans analyse génétique."
+      },
+      {
+        "espece": "Modiole (Modiolus modiolus)",
+        "distinguer": "Plus grande et brune, sommet (umbo) décalé de la pointe ; plus profonde."
+      }
+    ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/340131446/medium.jpg",
+    "credit": "(c) Allie K., some rights reserved (CC BY-NC-ND), uploaded by Allie K.",
+    "licence": "CC BY-NC-ND",
+    "source": "https://www.inaturalist.org/photos/340131446"
+  }
+}

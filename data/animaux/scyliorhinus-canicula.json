@@ -1,0 +1,123 @@
+{
+  "id": "scyliorhinus-canicula",
+  "nom": "Petite roussette",
+  "latin": "Scyliorhinus canicula",
+  "groupe": "poisson",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "chondrichthyes",
+  "resume": "Le petit requin tacheté le plus commun de la mer du Nord, souvent vu dans les aquariums de la côte. Ses œufs sont des **« bourses de sirène »** que l’on trouve échouées sur les plages belges.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Chondrichthyens",
+      "synapomorphies": [
+        "Squelette cartilagineux (secondaire)",
+        "Écailles placoïdes",
+        "Fécondation interne (ptérygopodes)"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Carcharhiniformes",
+      "synapomorphies": [
+        "Membrane nictitante"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Scyliorhinidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Scyliorhinus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Gasterosteus aculeatus",
+    "parents": [
+      "Scyliorhinus stellaris",
+      "Galeus melastomus",
+      "Mustelus asterias"
+    ]
+  },
+  "facts": [
+    "Ses « écailles » sont de minuscules dents : même composition (dentine, émail) et même origine.",
+    "Les « bourses de sirène » échouées sur les plages sont ses capsules d’œufs.",
+    "Elle détecte les champs électriques des proies enfouies grâce aux ampoules de Lorenzini.",
+    "Les requins n’ont pas de vessie natatoire : leur foie huileux les fait flotter."
+  ],
+  "anecdote": "La « bourse de sirène » ramassée sur une plage belge est souvent une coque d’œuf de petite roussette, un vrai requin de la mer du Nord.",
+  "indices_quiz": [
+    "Chondrichthyen à écailles placoïdes et squelette cartilagineux.",
+    "Elle pond des capsules à vrilles (« bourses de sirène »).",
+    "Électroréception par les ampoules de Lorenzini."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/112372",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Scyliorhinus_canicula"
+  },
+  "notions": [
+    "cretes-neurales-craniates"
+  ],
+  "ajoute_le": "2026-11-03",
+  "caracteristiques": {
+    "essentiel": "Elle mesure 60 à 80 cm, avec une peau rugueuse couverte d’**écailles placoïdes** (des « denticules » faits de dentine et d’émail, homologues des dents). Le squelette est **cartilagineux**, légèrement calcifié. Elle n’a pas de vessie natatoire : un grand **foie** riche en huile assure la flottabilité. Elle a 5 fentes branchiales et des **spiracles**.",
+    "details": "Les **ampoules de Lorenzini** sont des électrorécepteurs sur le museau qui détectent les champs électriques des proies enfouies. La fécondation est interne : les mâles portent des **ptérygopodes**. Elle est **ovipare** : la femelle pond des capsules cornées à vrilles, accrochées aux algues, où l’embryon se développe 5 à 11 mois. C’est un modèle en biologie du développement (évolution des nageoires et des mâchoires)."
+  },
+  "comportement": {
+    "essentiel": "Elle est nocturne et benthique : elle chasse crabes, mollusques et petits poissons sur le fond, par l’odorat et l’électroréception.",
+    "details": "Les sexes ségrègent selon l’habitat : en Irlande, les femelles se regroupent le jour dans des grottes peu profondes, à l’écart des mâles, ce qui serait une stratégie pour éviter leur harcèlement (Sims et al., 2001) — un **conflit sexuel**. La morsure du mâle sur la nageoire pectorale de la femelle pendant l’accouplement a mené à une peau plus épaisse chez les femelles (dimorphisme sexuel).",
+    "concepts": [
+      "bateman-selection-sexuelle"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Fonds sableux et rocheux du plateau continental de l’Atlantique Nord-Est et de la mer du Nord, y compris les eaux belges.",
+    "details": "Prédatrice des invertébrés benthiques. Souvent capturée accessoirement par les chaluts, mais elle survit bien au rejet. Ses populations sont stables, voire en hausse.",
+    "uicn": "LC",
+    "menaces": [
+      "Prises accessoires (chalutage)"
+    ]
+  },
+  "terrain": {
+    "ou": "Aquariums de la côte (Ostende, Sea Life Blankenberge) ; capsules d’œufs dans la laisse de mer après les tempêtes.",
+    "quand": "Toute l’année ; capsules surtout au printemps et en été.",
+    "criteres": [
+      "Petit requin tacheté de brun sur fond clair",
+      "Peau très rugueuse",
+      "Capsules brunes rectangulaires à longues vrilles"
+    ],
+    "sosies": [
+      {
+        "espece": "Grande roussette (Scyliorhinus stellaris)",
+        "distinguer": "Plus grande, taches plus grosses et moins nombreuses ; narines séparées de la bouche."
+      },
+      {
+        "espece": "Capsule de raie",
+        "distinguer": "Sans vrilles, avec 4 « cornes » courtes ; plus noire."
+      }
+    ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/265483574/medium.jpg",
+    "credit": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B.",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/265483574"
+  }
+}

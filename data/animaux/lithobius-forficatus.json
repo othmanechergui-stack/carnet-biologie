@@ -1,0 +1,129 @@
+{
+  "id": "lithobius-forficatus",
+  "nom": "Lithobie à pinces",
+  "latin": "Lithobius forficatus",
+  "groupe": "myriapode",
+  "milieu": [
+    "jardin",
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "myriapoda",
+  "resume": "Le « mille-pattes » brun-roux qui file sous les pierres et les écorces : un **chilopode** prédateur à 15 paires de pattes, armé de **forcipules** venimeux, ses premières pattes transformées en crochets.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Arthropodes",
+      "synapomorphies": [
+        "Exosquelette chitineux articulé",
+        "Mue (ecdystéroïdes)",
+        "Appendices articulés"
+      ]
+    },
+    {
+      "rang": "Sous-embranchement",
+      "nom": "Myriapodes",
+      "synapomorphies": [
+        "Tête + tronc de nombreux segments à pattes",
+        "Une paire d’antennes"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Chilopodes",
+      "synapomorphies": [
+        "Forcipules venimeux",
+        "1 paire de pattes par segment"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Lithobiomorphes",
+      "synapomorphies": [
+        "15 paires de pattes à l’adulte"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Lithobiidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Lithobius",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Oniscus asellus",
+    "parents": [
+      "Lithobius variegatus",
+      "Scutigera coleoptrata",
+      "Geophilus flavus"
+    ]
+  },
+  "facts": [
+    "Ses « crochets » venimeux sont des pattes transformées, pas des mandibules.",
+    "Elle naît avec 7 paires de pattes et en gagne au fil des mues.",
+    "Les chilopodes ont une paire de pattes par segment, les diplopodes deux.",
+    "Sa morsure est sans danger pour l’humain (au pire une légère douleur)."
+  ],
+  "anecdote": "Les deux « crochets » qu’une lithobie plante dans sa proie sont en fait sa première paire de pattes, transformée en seringues à venin.",
+  "indices_quiz": [
+    "Chilopode à 15 paires de pattes à l’adulte.",
+    "Ses forcipules venimeux sont des pattes modifiées.",
+    "Développement anamorphe : elle gagne des pattes en muant."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/122234",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Lithobius_forficatus"
+  },
+  "notions": [
+    "ecdysozoaires-mue"
+  ],
+  "ajoute_le": "2026-11-03",
+  "caracteristiques": {
+    "essentiel": "Elle mesure 2 à 3 cm, avec un corps aplati brun-roux et brillant. L’adulte a **15 paires de pattes**. Les **forcipules**, des appendices modifiés du premier segment du tronc, injectent du venin. Elle respire par des **trachées**. Sa cuticule n’a pas de couche cireuse étanche : elle est sensible au dessèchement.",
+    "details": "Le développement est **anamorphe** : le jeune éclot avec 7 paires de pattes et en ajoute au fil des mues. Il ne faut pas la confondre avec les **diplopodes** (iules, gloméris), qui ont 2 paires de pattes par segment, sont détritivores et lents. Les myriapodes et les hexapodes ont colonisé la terre **indépendamment**."
+  },
+  "comportement": {
+    "essentiel": "Elle est nocturne et chasse à l’affût ou en patrouille : collemboles, cloportes, araignées, insectes. Elle repère ses proies au toucher et à l’odeur grâce à ses longues antennes.",
+    "details": "Elle est **thigmotactique** : elle recherche le contact sur le dos et le ventre, d’où sa vie sous les pierres. Elle est photophobe et recherche l’humidité. Pour se défendre, elle peut perdre ses pattes postérieures (autotomie) et mordre.",
+    "concepts": [
+      "agregation-cloportes"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Litière, sous les pierres, écorces, bois mort, composts, caves. Très commune en Belgique.",
+    "details": "Prédatrice de la mésofaune du sol, elle participe à la régulation des décomposeurs.",
+    "uicn": "NE",
+    "menaces": [
+      "Peu menacée"
+    ]
+  },
+  "terrain": {
+    "ou": "Sous les pierres, pots, écorces et bois mort ; dans le compost.",
+    "quand": "Toute l’année ; plus active la nuit.",
+    "criteres": [
+      "Brun-roux brillant, corps aplati",
+      "15 paires de pattes, course rapide",
+      "Longues antennes"
+    ],
+    "sosies": [
+      {
+        "espece": "Iule (diplopode, Julidae)",
+        "distinguer": "Corps cylindrique, 2 paires de pattes par segment, lent, s’enroule en spirale ; détritivore."
+      },
+      {
+        "espece": "Scutigère (Scutigera coleoptrata)",
+        "distinguer": "Très longues pattes fines, extrêmement rapide ; dans les maisons, en expansion vers le nord."
+      }
+    ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/179402948/medium.jpg",
+    "credit": "(c) Alexis Tinker-Tsavalas, some rights reserved (CC BY), uploaded by Alexis Tinker-Tsavalas",
+    "licence": "CC BY",
+    "source": "https://www.inaturalist.org/photos/179402948"
+  }
+}

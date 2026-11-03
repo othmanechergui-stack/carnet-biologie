@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-31-shanidar-lance",
+  "date": "2026-10-31",
+  "titre": "Shanidar : un Néandertalien tué par une lance de bois en plein cœur",
+  "resume": "Shanidar A (Irak, ≈ 75 000 ans, ≈ 45 ans) porte un trou de 15 mm dans l’omoplate gauche : une lance de bois l’aurait traversé de l’avant de la poitrine jusqu’au dos. Une blessure dentaire plus ancienne, cicatrisée pendant au moins un an, suggère qu’il avait été soigné. Accident de chasse ou violence ? Impossible à trancher. Cinq individus inhumés au même endroit, sur des années.",
+  "source": {
+    "nom": "Scientific Reports — Pomeroy, Barker (Univ. Cambridge) — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261029072126.htm"
+  },
+  "themes": [
+    "evolution",
+    "paleontologie"
+  ],
+  "grille": {
+    "modele": "humain",
+    "echantillon": "1 individu (5 dans la sépulture)",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "moyen"
+  },
+  "quiz": {
+    "question": "Sur quoi repose l’hypothèse que Shanidar A avait été soigné ?",
+    "choix": [
+      "Une blessure dentaire ancienne, cicatrisée pendant au moins un an",
+      "Des traces de médicaments",
+      "Son ADN"
+    ],
+    "bonne": 0
+  },
+  "module": "module5"
+}

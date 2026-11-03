@@ -1,0 +1,147 @@
+{
+  "id": "lycopodium-clavatum",
+  "nom": "Lycopode en massue",
+  "latin": "Lycopodium clavatum",
+  "type": "fougere",
+  "regne": "plante",
+  "milieu": [
+    "lande",
+    "tourbiere",
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "lycophyta",
+  "saison": [
+    7,
+    8,
+    9
+  ],
+  "resume": "Plante rampante de landes, qui ressemble à une mousse géante. C’est un **lycophyte**, représentant d’une des plus anciennes lignées de plantes vasculaires, avec des feuilles minuscules (**microphylles**). Il est rare et protégé en Belgique.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Division",
+      "Lycophytes",
+      [
+        "Microphylles",
+        "Sporanges à l’aisselle des sporophylles"
+      ]
+    ],
+    [
+      "Ordre",
+      "Lycopodiales",
+      [
+        "Homosporie"
+      ]
+    ],
+    [
+      "Famille",
+      "Lycopodiacées",
+      []
+    ],
+    [
+      "Genre",
+      "Lycopodium",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Equisetum arvense",
+    "parents": [
+      "Lycopodium annotinum",
+      "Huperzia selago",
+      "Selaginella selaginoides"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ses tiges rampantes, longues de plus d’un mètre, sont couvertes de **microphylles** (petites feuilles à une seule nervure, d’une origine évolutive différente des mégaphylles). Les rameaux dressés portent des **strobiles** (épis de sporophylles) par paires, au bout d’un long pédoncule. Il est **homosporé** : un seul type de spores.",
+    "details": "La spore donne un **gamétophyte souterrain**, mycohétérotrophe : il dépend d’un champignon symbiotique et se développe pendant **plusieurs années (jusqu’à une quinzaine)** avant de produire des gamètes. Cela explique la lenteur de sa recolonisation et sa rareté. Les lycophytes du Carbonifère (*Lepidodendron*, *Sigillaria*) étaient des arbres de 30 m : ils ont formé une grande partie du **charbon**."
+  },
+  "identification": {
+    "feuille": "Microphylles en écailles serrées, terminées par un poil blanc",
+    "fleur": "— (strobiles jaunâtres par 2, sur long pédoncule)",
+    "fruit": "— (spores jaunes très fines)",
+    "ecorce": "—",
+    "port": "Tiges rampantes ramifiées, rameaux dressés",
+    "periode": "Spores en été"
+  },
+  "ecologie": {
+    "essentiel": "Landes sèches à humides et pelouses acides : Hautes Fagnes, Campine, Ardenne. Rare.",
+    "details": "C’est une espèce de milieux pauvres et ouverts, en régression avec la fermeture des landes et les dépôts d’azote. Il est intégralement protégé en Wallonie.",
+    "uicn": "LC",
+    "menaces": [
+      "Fermeture des landes",
+      "Dépôts d’azote",
+      "Piétinement"
+    ]
+  },
+  "usages": {
+    "essentiel": "Ses spores (« poudre de lycopode ») sont très inflammables : on les utilisait pour les flashs photo et les effets pyrotechniques au théâtre, et en pharmacie pour enrober les pilules. La plante contient des alcaloïdes : ne pas consommer.",
+    "details": "Plante protégée : ne pas cueillir.",
+    "confusions_dangereuses": [
+      "Toxique (alcaloïdes)"
+    ]
+  },
+  "facts": [
+    "Son gamétophyte souterrain peut mettre jusqu’à une quinzaine d’années à mûrir, en symbiose avec un champignon.",
+    "Ses spores s’enflamment d’un coup : on les utilisait pour les premiers flashs photo.",
+    "Ses cousins du Carbonifère étaient des arbres de 30 m qui ont formé le charbon.",
+    "Ses microphylles ont une origine évolutive différente des feuilles des fougères et des plantes à graines."
+  ],
+  "anecdote": "Avant les flashs électriques, les photographes enflammaient de la poudre de lycopode, des spores qui brûlent en un éclair.",
+  "indices_quiz": [
+    "Lycophyte rampant à microphylles et strobiles par paires.",
+    "Gamétophyte souterrain qui met des années à mûrir.",
+    "Ses spores servaient de poudre à flash."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/77914",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Lycopodium_clavatum"
+  },
+  "notions": [
+    "adaptations-terrestres",
+    "heterosporie-graine"
+  ],
+  "ajoute_le": "2026-11-03",
+  "terrain": {
+    "ou": "Landes des Hautes Fagnes et de Campine (rare ; reste sur les sentiers).",
+    "quand": "Visible toute l’année ; strobiles en été.",
+    "criteres": [
+      "Tiges rampantes « en guirlande »",
+      "Feuilles terminées par un poil blanc",
+      "Strobiles par 2 au bout d’un long pédoncule"
+    ],
+    "sosies": [
+      {
+        "espece": "Lycopode à rameaux annuels (L. annotinum)",
+        "distinguer": "Feuilles sans poil terminal, strobile unique et sessile ; plus forestier."
+      },
+      {
+        "espece": "Mousses (Polytrichum)",
+        "distinguer": "Pas de tissu vasculaire ni de strobile ; capsules sur soies."
+      }
+    ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/92299933/medium.jpg",
+    "credit": "(c) 空猫, some rights reserved (CC BY-NC), uploaded by 空猫",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/92299933"
+  }
+}

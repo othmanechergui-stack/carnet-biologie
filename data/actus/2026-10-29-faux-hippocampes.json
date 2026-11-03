@@ -1,0 +1,31 @@
+{
+  "id": "2026-10-29-faux-hippocampes",
+  "date": "2026-10-29",
+  "titre": "Les « sea muppets » : le corps d’hippocampe a évolué deux fois",
+  "resume": "Trois petits poissons des grands fonds australiens ressemblant à des hippocampes forment un nouveau genre, Australyichthys. Le micro-CT montre qu’ils n’ont ni les plaques ventrales soudées ni la couronne osseuse des hippocampes, et l’ADN d’un spécimen les place sur une branche à part chez les Syngnathidés. Le plan d’organisation « hippocampe » est donc apparu au moins deux fois. Seulement 7 spécimens connus en 65 ans.",
+  "source": {
+    "nom": "Journal of Lost Species (via The Conversation) — ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm"
+  },
+  "themes": [
+    "evolution",
+    "zoologie"
+  ],
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "7 spécimens, ADN d’un seul",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible"
+  },
+  "quiz": {
+    "question": "Que montrent les « sea muppets » sur l’évolution de la forme d’hippocampe ?",
+    "choix": [
+      "Qu’elle est apparue au moins deux fois (convergence)",
+      "Que tous les syngnathes descendent des hippocampes",
+      "Qu’ils sont des hybrides"
+    ],
+    "bonne": 0
+  },
+  "module": "zoologie"
+}

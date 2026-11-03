@@ -1,0 +1,116 @@
+{
+  "id": "mnemiopsis-leidyi",
+  "nom": "Cténophore américain (Mnemiopsis)",
+  "latin": "Mnemiopsis leidyi",
+  "groupe": "ctenophore",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": true,
+  "clade": "ctenophora",
+  "resume": "Petit animal gélatineux et transparent qui scintille de couleurs arc-en-ciel. Ce n’est **pas une méduse** mais un **cténophore**, qui nage grâce à **8 rangées de palettes ciliées**. Introduit d’Amérique, il est devenu **envahissant** en mer Noire, puis en mer du Nord, y compris sur la côte belge.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Cténaires (Cténophores)",
+      "synapomorphies": [
+        "8 rangées de palettes ciliées (cténes)",
+        "Colloblastes (cellules collantes)"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Tentaculés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Lobés (Lobata)",
+      "synapomorphies": [
+        "Grands lobes buccaux"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Bolinopsidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Mnemiopsis",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Aurelia aurita",
+    "parents": [
+      "Bolinopsis infundibulum",
+      "Pleurobrachia pileus"
+    ]
+  },
+  "facts": [
+    "Les couleurs arc-en-ciel viennent de la diffraction de la lumière par ses palettes de cils, pas d’une émission de lumière.",
+    "Les cténophores pourraient être le groupe frère de tous les autres animaux.",
+    "Il est hermaphrodite et peut s’autoféconder, un atout pour coloniser à partir de quelques individus.",
+    "Son invasion en mer Noire a contribué à l’effondrement de la pêche à l’anchois."
+  ],
+  "anecdote": "L’arc-en-ciel qui court le long d’un cténophore n’est pas de la lumière qu’il produit : ce sont ses cils qui décomposent la lumière comme un CD.",
+  "indices_quiz": [
+    "Cténaire à 8 rangées de palettes ciliées, sans cnidocytes.",
+    "Hermaphrodite autofécond, il échappe à l’effet Allee.",
+    "Invasif via les eaux de ballast, de la mer Noire à la mer du Nord."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/180788",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Mnemiopsis_leidyi"
+  },
+  "notions": [
+    "regle-dix-pourcent",
+    "etapes-invasion"
+  ],
+  "ajoute_le": "2026-11-03",
+  "caracteristiques": {
+    "essentiel": "Il mesure jusqu’à 10 cm, avec un corps transparent et deux grands lobes. Les **cténes** (palettes de cils soudés) battent en vagues coordonnées et **diffractent la lumière**, ce qui produit l’effet arc-en-ciel : ce n’est pas de la bioluminescence. Il n’a **pas de cnidocytes** mais des **colloblastes** collants. Il est aussi **bioluminescent** (lumière bleu-vert) quand on le dérange, dans l’obscurité.",
+    "details": "La position des cténophores dans l’arbre des animaux est très débattue. Plusieurs phylogénomiques les placent comme **groupe frère de tous les autres animaux**, avant les éponges. Leur système nerveux est singulier : un réseau nerveux syncytial, sans synapses classiques entre certaines cellules (Burkhardt et al., 2023). Il est **hermaphrodite** et autofécond, et il peut se reproduire dès le stade larvaire."
+  },
+  "comportement": {
+    "essentiel": "Il chasse le zooplancton (copépodes), les œufs et les larves de poissons en créant un courant avec ses lobes.",
+    "details": "Capacité de reproduction énorme : un individu peut produire des milliers d’œufs par jour quand la nourriture abonde. Avec l’autofécondation, cela lui permet d’**échapper à l’effet Allee** lors des introductions par les eaux de ballast.",
+    "concepts": [
+      "effet-allee"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Originaire des estuaires de la côte atlantique américaine, il a été introduit en **mer Noire** dans les années 1980 par les eaux de ballast, puis en **mer du Nord et Baltique** (observé depuis 2006). Il est présent dans les ports et les estuaires belges et néerlandais.",
+    "details": "En mer Noire, sa pullulation (années 1980–1990) a contribué à l’effondrement des pêcheries d’anchois, en mangeant le zooplancton et les larves de poissons. Elle a été en partie contrôlée par l’arrivée d’un autre cténophore prédateur, *Beroe ovata*. C’est un exemple d’école d’**invasion biologique marine**.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "terrain": {
+    "ou": "Ports et estuaires (Zeebrugge, Ostende, Escaut occidental), plages après coups de vent.",
+    "quand": "Été et automne, surtout de juillet à novembre.",
+    "criteres": [
+      "Transparent, sans tentacules urticants",
+      "Deux grands lobes",
+      "Rangées scintillantes arc-en-ciel"
+    ],
+    "sosies": [
+      {
+        "espece": "Groseille de mer (Pleurobrachia pileus)",
+        "distinguer": "Cténophore indigène sphérique (1–2 cm) avec deux longs tentacules rétractiles."
+      },
+      {
+        "espece": "Aurélie (méduse)",
+        "distinguer": "Ombrelle à 4 anneaux, pas de rangées ciliées scintillantes ; cnidaire."
+      }
+    ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9566101/medium.jpg",
+    "credit": "(c) Vidar@aqua-photos, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/9566101"
+  }
+}

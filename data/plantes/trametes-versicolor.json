@@ -1,0 +1,145 @@
+{
+  "id": "trametes-versicolor",
+  "nom": "Tramète versicolore",
+  "latin": "Trametes versicolor",
+  "type": "champignon",
+  "regne": "champignon",
+  "milieu": [
+    "foret",
+    "jardin"
+  ],
+  "belgique": true,
+  "clade": "basidiomycota",
+  "saison": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "resume": "Les petites « queues de dinde » en éventails superposés, zonées de couleurs, sur les souches et le bois mort. C’est un **polypore** (des pores, pas de lames) et un champion de la **pourriture blanche** qui décompose la lignine.",
+  "phylogenie": [
+    [
+      "Règne",
+      "Champignons (Fungi)",
+      [
+        "Hétérotrophie par absorption",
+        "Paroi chitineuse",
+        "Hyphes"
+      ]
+    ],
+    [
+      "Division",
+      "Basidiomycètes",
+      [
+        "Baside à 4 spores"
+      ]
+    ],
+    [
+      "Classe",
+      "Agaricomycètes",
+      []
+    ],
+    [
+      "Ordre",
+      "Polyporales",
+      [
+        "Hyménium à pores",
+        "Sporophores souvent coriaces"
+      ]
+    ],
+    [
+      "Famille",
+      "Polyporacées",
+      []
+    ],
+    [
+      "Genre",
+      "Trametes",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Amanita muscaria",
+    "parents": [
+      "Trametes hirsuta",
+      "Trametes gibbosa"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Les chapeaux mesurent 3 à 8 cm, en éventails minces et coriaces, veloutés, à **zones concentriques** de couleurs variées (brun, gris, bleuté, ocre) et à marge claire. Le dessous est blanc, à **pores** minuscules (3 à 5 par mm). Le champignon est **saprotrophe** et lignivore.",
+    "details": "C’est une **pourriture blanche** : elle dégrade la **lignine** grâce à des enzymes oxydatives (laccases, peroxydases) et laisse un bois blanchâtre et fibreux. Peu d’organismes savent décomposer la lignine : les champignons de pourriture blanche ont joué un rôle dans le cycle du carbone depuis le Carbonifère (Floudas et al., 2012). Les sporophores sont pérennes et coriaces, et résistent à l’hiver."
+  },
+  "identification": {
+    "chapeau": "Éventails minces, veloutés, zonés de couleurs, en groupes imbriqués",
+    "lames": "Pas de lames : pores blancs minuscules",
+    "pied": "Absent (fixé latéralement)",
+    "chair": "Mince, coriace",
+    "habitat": "Souches et bois mort de feuillus",
+    "periode": "Toute l’année"
+  },
+  "ecologie": {
+    "essentiel": "Bois mort de feuillus (hêtre, chêne, bouleau), souches, piquets : partout.",
+    "details": "C’est un **décomposeur** clé du bois mort, qui libère les nutriments et le carbone. Il peut aussi attaquer les arbres affaiblis.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Immangeable (coriace). Des extraits (polysaccharide PSK, « krestin ») sont utilisés au Japon comme adjuvants en oncologie. Les preuves restent limitées et ne justifient pas l’automédication. Ses laccases sont étudiées pour la dépollution.",
+    "details": "Ne pas confondre avec des polypores toxiques ; aucun intérêt culinaire."
+  },
+  "facts": [
+    "Ses couleurs zonées varient presque d’un individu à l’autre, d’où « versicolore ».",
+    "C’est une pourriture blanche : elle sait décomposer la lignine, ce que presque rien d’autre ne sait faire.",
+    "Ses sporophores coriaces persistent tout l’hiver.",
+    "Ses enzymes (laccases) intéressent la dépollution et l’industrie du papier."
+  ],
+  "anecdote": "Si le bois mort ne s’accumule pas en montagnes, c’est grâce à des champignons comme la tramète, qui savent démonter la lignine.",
+  "indices_quiz": [
+    "Polypore en éventails zonés de couleurs, pores blancs.",
+    "Pourriture blanche qui décompose la lignine.",
+    "Visible toute l’année sur le bois mort."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/54134",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Trametes_versicolor"
+  },
+  "notions": [
+    "mycorhizes"
+  ],
+  "ajoute_le": "2026-11-03",
+  "terrain": {
+    "ou": "Souches, bûches et bois mort dans tous les bois et parcs.",
+    "quand": "Toute l’année.",
+    "criteres": [
+      "Éventails minces zonés et veloutés",
+      "Pores blancs minuscules dessous",
+      "En groupes imbriqués"
+    ],
+    "sosies": [
+      {
+        "espece": "Stérée hirsute (Stereum hirsutum)",
+        "distinguer": "Dessous LISSE (sans pores), jaune-orangé ; aspect semblable."
+      },
+      {
+        "espece": "Tramète hirsute (Trametes hirsuta)",
+        "distinguer": "Plus grise, très poilue, peu colorée."
+      }
+    ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/160331738/medium.jpg",
+    "credit": "(c) Christine Young, some rights reserved (CC BY), uploaded by Christine Young",
+    "licence": "CC BY",
+    "source": "https://www.inaturalist.org/photos/160331738"
+  }
+}

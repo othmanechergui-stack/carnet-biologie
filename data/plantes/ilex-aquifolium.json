@@ -1,0 +1,169 @@
+{
+  "id": "ilex-aquifolium",
+  "nom": "Houx commun",
+  "latin": "Ilex aquifolium",
+  "type": "arbuste",
+  "regne": "plante",
+  "milieu": [
+    "foret",
+    "haie",
+    "jardin"
+  ],
+  "belgique": true,
+  "clade": "asteridae",
+  "saison": [
+    11,
+    12,
+    1
+  ],
+  "resume": "Le houx des sous-bois et des décorations de Noël, aux feuilles persistantes **piquantes**. Il est **dioïque** : seuls les pieds femelles portent les baies rouges, toxiques pour l’humain.",
+  "phylogenie": [
+    [
+      "Clade",
+      "Embryophytes",
+      [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    ],
+    [
+      "Clade",
+      "Trachéophytes",
+      [
+        "Sporophyte dominant",
+        "Tissus vasculaires lignifiés"
+      ]
+    ],
+    [
+      "Clade",
+      "Spermatophytes",
+      [
+        "Ovule",
+        "Pollen",
+        "Graine"
+      ]
+    ],
+    [
+      "Clade",
+      "Angiospermes",
+      [
+        "Carpelle",
+        "Double fécondation"
+      ]
+    ],
+    [
+      "Clade",
+      "Eudicotylédones",
+      [
+        "Pollen triaperturé"
+      ]
+    ],
+    [
+      "Clade",
+      "Astéridées",
+      [
+        "Corolle gamopétale",
+        "Ovule unitégumenté"
+      ]
+    ],
+    [
+      "Ordre",
+      "Aquifoliales",
+      [
+        "Lignée basale des Astéridées « campanulidées »"
+      ]
+    ],
+    [
+      "Famille",
+      "Aquifoliacées",
+      []
+    ],
+    [
+      "Genre",
+      "Ilex",
+      []
+    ]
+  ],
+  "mini_arbre": {
+    "externe": "Hedera helix",
+    "parents": [
+      "Ilex paraguariensis",
+      "Ilex crenata"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Ses feuilles sont coriaces, luisantes, à cuticule épaisse, et persistent 2 à 3 ans. Il est **dioïque** : petites fleurs blanches à 4 pétales en mai, mâles et femelles sur des pieds séparés. Le fruit est une **drupe** rouge à 4 noyaux.",
+    "details": "Il présente une **hétérophyllie** : les feuilles du bas sont épineuses, celles du haut (hors de portée des herbivores) souvent entières. Les houx broutés produisent davantage de feuilles épineuses (Obeso, 1997) : c’est une **défense induite**. Herrera & Bazaga (2013) ont montré que feuilles épineuses et non épineuses d’un même arbre diffèrent par leur **méthylation de l’ADN** (épigénétique), sans différence de séquence."
+  },
+  "identification": {
+    "feuille": "Persistante, coriace, ondulée-épineuse (bas) ou entière (haut)",
+    "fleur": "Petites fleurs blanches à 4 pétales (mai), pieds séparés",
+    "fruit": "Drupes rouges (pieds femelles), novembre-février",
+    "ecorce": "Lisse, gris-vert",
+    "port": "Arbuste ou petit arbre sciaphile",
+    "periode": "Baies en hiver"
+  },
+  "ecologie": {
+    "essentiel": "Sous-bois de hêtraies et chênaies acides, haies. Très commun en forêt de Soignes et en Ardenne.",
+    "details": "C’est l’une des rares ressources hivernales de baies pour les grives et les merles. Son feuillage persistant abrite les oiseaux et sert de refuge hivernal aux insectes.",
+    "uicn": "LC",
+    "menaces": [
+      "Prélèvements de branches à Noël",
+      "Abroutissement"
+    ]
+  },
+  "usages": {
+    "essentiel": "Ornement de Noël. Les baies sont **toxiques** (saponines, ilicine), avec des vomissements chez l’enfant. Le **maté** est préparé avec une espèce sud-américaine du même genre (*Ilex paraguariensis*), riche en caféine.",
+    "details": "Ne pas arracher les branches en forêt : le houx est protégé dans certaines régions.",
+    "confusions_dangereuses": [
+      "Baies rouges toxiques, surtout pour les enfants"
+    ]
+  },
+  "facts": [
+    "Seuls les pieds femelles portent des baies : il faut un pied mâle à proximité.",
+    "Les feuilles du haut sont souvent sans épines : les épines poussent là où broutent les herbivores.",
+    "Cette variation épineuse est liée à la méthylation de l’ADN (épigénétique).",
+    "Le maté sud-américain vient d’un houx cousin, Ilex paraguariensis."
+  ],
+  "anecdote": "Les feuilles de houx perdent leurs piquants en hauteur : hors de portée des chevreuils, l’arbre ne gaspille plus d’énergie à se défendre.",
+  "indices_quiz": [
+    "Aquifoliacée dioïque à feuilles persistantes piquantes.",
+    "Ses épines dépendent de l’abroutissement et de la méthylation de l’ADN.",
+    "Le maté vient d’un de ses cousins."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/53856",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Ilex_aquifolium"
+  },
+  "notions": [
+    "epigenomique",
+    "plasticite-phenotypique"
+  ],
+  "ajoute_le": "2026-11-03",
+  "terrain": {
+    "ou": "Sous-bois de Soignes, Ardenne, haies.",
+    "quand": "Baies de novembre à février.",
+    "criteres": [
+      "Feuilles persistantes luisantes épineuses",
+      "Baies rouges en hiver (pieds femelles)",
+      "Écorce lisse gris-vert"
+    ],
+    "sosies": [
+      {
+        "espece": "Mahonia (Mahonia aquifolium)",
+        "distinguer": "Feuilles composées (folioles épineuses), baies bleu-noir pruineuses ; ornementale."
+      },
+      {
+        "espece": "Chêne vert (Quercus ilex) jeune",
+        "distinguer": "Feuilles parfois dentées-épineuses mais duveteuses dessous ; glands."
+      }
+    ]
+  },
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/117929954/medium.jpg",
+    "credit": "(c) Joan Septembre, some rights reserved (CC BY-NC), uploaded by Joan Septembre",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/117929954"
+  }
+}
