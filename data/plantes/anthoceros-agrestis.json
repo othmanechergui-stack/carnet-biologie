@@ -1,0 +1,137 @@
+{
+  "id": "anthoceros-agrestis",
+  "nom": "Anthocérote des champs",
+  "latin": "Anthoceros agrestis",
+  "type": "mousse",
+  "regne": "plante",
+  "milieu": [
+    "culture",
+    "friche"
+  ],
+  "belgique": true,
+  "clade": "anthocerotophyta",
+  "saison": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "resume": "Petite rosette vert foncé des champs humides après la moisson, hérissée de **sporophytes en forme de cornes**. Les anthocérotes sont les **Stomatophytes les plus archaïques** et la seule lignée de plantes terrestres à posséder un **pyrénoïde**.",
+  "phylogenie": [
+    {
+      "rang": "Clade",
+      "nom": "Embryophytes",
+      "synapomorphies": [
+        "Embryon",
+        "Spores à sporopollénine",
+        "Gamétanges protégés"
+      ]
+    },
+    {
+      "rang": "Clade",
+      "nom": "Stomatophytes",
+      "synapomorphies": [
+        "Stomates sur l’épiderme du sporophyte"
+      ]
+    },
+    {
+      "rang": "Division",
+      "nom": "Anthocérotophytes",
+      "synapomorphies": [
+        "Sporange cylindrique à croissance continue depuis un méristème basal",
+        "Columelle",
+        "Ouverture du sporange par deux valves"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Anthocérotacées",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Anthoceros",
+      "synapomorphies": [
+        "Spores noires"
+      ]
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Marchantia polymorpha",
+    "parents": [
+      "Phaeoceros laevis",
+      "Polytrichum commune"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Le **gamétophyte** est un thalle foliacé de 1–2 cm, comme chez certaines hépatiques. Le **sporophyte** comprend un pied court et un long sporange cylindrique muni de **stomates**, d’un tissu chlorophyllien et d’une **columelle** stérile centrale. Il s’allonge en continu depuis sa base et s’ouvre par **deux valves**.",
+    "details": "Chaque cellule contient en général un seul gros chloroplaste muni d’un **pyrénoïde**, un compartiment où la Rubisco est concentrée : c’est un mécanisme de concentration du CO₂ connu chez les algues, unique chez les plantes terrestres. Le thalle héberge dans des cavités à mucilage des colonies de **cyanobactéries *Nostoc*** qui fixent l’azote atmosphérique.\n\nLes génomes d’*Anthoceros agrestis* et d’espèces proches (2020) ont aidé à reconstruire les gènes de l’ancêtre des plantes terrestres et à confirmer le groupement des anthocérotes avec les mousses et les hépatiques au sein des Bryophytes au sens large."
+  },
+  "identification": {
+    "feuille": "Pas de feuilles : thalle en rosette, vert foncé, à lobes crispés, 1–2 cm",
+    "fleur": "Aucune (archégones et anthéridies enfoncés dans le thalle)",
+    "fruit": "Sporophytes en aiguilles dressées de 1–3 cm, vertes puis noircissant au sommet en s’ouvrant en deux valves ; spores noires",
+    "port": "Rosettes plaquées au sol nu et humide",
+    "periode": "Fin d’été à fin d’automne"
+  },
+  "ecologie": {
+    "essentiel": "Plante **pionnière** des sols nus, humides et peu calcaires : chaumes de céréales, bords de champs, ornières. Elle accomplit son cycle en quelques mois entre la moisson et le labour.",
+    "details": "Elle dépend d’un travail du sol peu intensif et de chaumes laissés en place. Les herbicides, le labour précoce et les couverts denses la rendent discrète et localisée.",
+    "uicn": "NE",
+    "menaces": [
+      "Labour précoce des chaumes",
+      "Herbicides",
+      "Disparition des cultures sur sols acides humides"
+    ]
+  },
+  "usages": {
+    "essentiel": "Aucun usage alimentaire. C’est un **organisme modèle** émergent pour l’évolution des plantes terrestres, de la symbiose avec les cyanobactéries et du pyrénoïde.",
+    "details": "Les recherches sur son pyrénoïde intéressent les agronomes : transférer un mécanisme de concentration du CO₂ aux céréales pourrait améliorer leur photosynthèse."
+  },
+  "facts": [
+    "C’est la seule lignée de plantes terrestres à posséder un pyrénoïde, comme beaucoup d’algues.",
+    "Son sporophyte pousse en continu depuis sa base, comme une corne.",
+    "Le thalle abrite des cyanobactéries Nostoc qui fixent l’azote.",
+    "Son sporophyte porte des stomates, contrairement à celui des hépatiques."
+  ],
+  "anecdote": "L’anthocérote garde dans ses cellules un pyrénoïde d’algue, perdu par toutes les autres plantes terrestres.",
+  "indices_quiz": [
+    "Stomatophyte le plus archaïque, groupe frère des Hémitrachéophytes dans le cours.",
+    "Pionnière des chaumes humides après la moisson.",
+    "Sporophyte en corne à columelle, cellules à pyrénoïde."
+  ],
+  "terrain": {
+    "ou": "Chaumes de céréales et bords de champs humides sur sols acides (Ardenne, Condroz, Campine).",
+    "quand": "Septembre–novembre, entre la moisson et le labour.",
+    "criteres": [
+      "Rosette vert foncé collée au sol",
+      "Fines « cornes » dressées",
+      "Spores noires (loupe)"
+    ],
+    "sosies": [
+      {
+        "espece": "Phaeoceros laevis",
+        "distinguer": "Même aspect, mais thalle plus lisse et spores jaunes."
+      },
+      {
+        "espece": "Riccia (Riccia glauca)",
+        "distinguer": "Hépatique à thalle des mêmes chaumes, mais sans aucune corne ; sporanges enfoncés dans le thalle."
+      }
+    ]
+  },
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/158429",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Anthoceros_agrestis"
+  },
+  "notions": [
+    "embryophytes-apomorphies",
+    "adaptations-terrestres"
+  ],
+  "ajoute_le": "2026-11-05",
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/331616138/medium.jpeg",
+    "credit": "(c) martina_poeltl, some rights reserved (CC BY-NC), uploaded by martina_poeltl",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/331616138"
+  }
+}

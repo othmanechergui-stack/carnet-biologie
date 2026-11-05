@@ -1,0 +1,122 @@
+{
+  "id": "hydra-vulgaris",
+  "nom": "Hydre d’eau douce",
+  "latin": "Hydra vulgaris",
+  "groupe": "cnidaire",
+  "milieu": [
+    "mare",
+    "lac",
+    "riviere"
+  ],
+  "belgique": true,
+  "clade": "hydrozoa",
+  "resume": "Minuscule **polype d’eau douce** (quelques millimètres à 1–2 cm, tentacules compris) fixé aux plantes aquatiques. Célèbre pour sa **régénération** et sa sénescence presque indétectable, entretenues par des cellules souches qui se renouvellent sans cesse.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Cnidaires",
+      "synapomorphies": [
+        "Cnidocytes (nématocystes)",
+        "Deux feuillets séparés par la mésoglée",
+        "Cavité gastrique à un seul orifice"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Hydrozoaires",
+      "synapomorphies": [
+        "Digestion extracellulaire dans la cavité gastrique",
+        "Méduse à vélum (craspédote) quand elle existe"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Anthoathécates",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Hydridés",
+      "synapomorphies": [
+        "Perte du stade méduse",
+        "Vie en eau douce"
+      ]
+    },
+    {
+      "rang": "Genre",
+      "nom": "Hydra",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Aurelia aurita",
+    "parents": [
+      "Hydra oligactis",
+      "Hydra viridissima",
+      "Obelia geniculata"
+    ]
+  },
+  "caracteristiques": {
+    "essentiel": "Corps tubulaire à deux feuillets (épiderme et gastroderme) séparés par la mésoglée, couronne de 5 à 10 tentacules armés de **nématocystes** autour de la bouche, disque basal adhésif. Pas de stade méduse : tout le cycle se fait au stade polype.",
+    "details": "Le corps est en renouvellement permanent : les cellules se divisent dans la colonne et sont repoussées vers les tentacules et le pied, où elles meurent. Trois lignées de cellules souches (épidermiques, gastrodermiques et **interstitielles**, ces dernières donnant nématocytes, neurones et gamètes) assurent ce flux.\n\nAbraham Trembley a montré dès les années 1740 qu’un fragment d’hydre régénère un individu entier. Chez *H. vulgaris*, des suivis de cohortes au laboratoire n’ont pas détecté d’augmentation du risque de mort avec l’âge."
+  },
+  "comportement": {
+    "essentiel": "Prédatrice à l’affût : elle capture daphnies et larves d’insectes grâce aux nématocystes, puis les avale entières. Elle se contracte en boule au moindre choc.",
+    "details": "Elle se déplace lentement en glissant sur son disque basal ou en « culbutes » (tentacules puis pied). Elle possède un **réseau nerveux diffus**, sans cerveau. Reproduction surtout **asexuée par bourgeonnement** ; la reproduction sexuée (testicules et ovaires sur la colonne) est déclenchée notamment par le refroidissement de l’automne.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Eaux douces calmes et propres : mares, étangs, fossés, bords de lacs, sous les feuilles de plantes aquatiques.",
+    "details": "Elle régule le zooplancton à petite échelle et sert de proie à des vers plats et à certains invertébrés. La sexualité d’automne produit des œufs résistants qui passent l’hiver.",
+    "uicn": "NE",
+    "menaces": [
+      "Pollution et eutrophisation des mares",
+      "Comblement des petites zones humides"
+    ]
+  },
+  "facts": [
+    "Un petit fragment d’hydre peut régénérer un individu entier (Trembley, années 1740).",
+    "Ses cellules sont renouvelées en permanence et migrent vers les extrémités.",
+    "Elle n’a pas de stade méduse, contrairement à la plupart des hydrozoaires.",
+    "Elle se reproduit surtout par bourgeonnement ; la sexualité est déclenchée par le froid."
+  ],
+  "anecdote": "L’hydre porte le nom du monstre aux têtes repoussantes… et la biologie lui a donné raison.",
+  "indices_quiz": [
+    "Hydrozoaire d’eau douce sans stade méduse.",
+    "Polype prédateur qui se contracte en boule et se reproduit par bourgeons.",
+    "Régénère un individu entier à partir d’un fragment."
+  ],
+  "terrain": {
+    "ou": "Mares et étangs à eau claire : sous les feuilles de nénuphars, sur les tiges immergées (prélever un peu de végétation dans un bocal et attendre qu’elles se déploient).",
+    "quand": "Toute l’année, surtout du printemps à l’automne.",
+    "criteres": [
+      "Polype de quelques mm, blanchâtre à brunâtre",
+      "Couronne de longs tentacules fins",
+      "Bourgeons latéraux fréquents"
+    ],
+    "sosies": [
+      {
+        "espece": "Hydre verte (Hydra viridissima)",
+        "distinguer": "Vert vif à cause des algues symbiotiques (Chlorella) dans le gastroderme ; tentacules plus courts."
+      },
+      {
+        "espece": "Hydre brune (Hydra oligactis)",
+        "distinguer": "Plus grande, à pied nettement étiré en pédoncule et tentacules très longs."
+      }
+    ]
+  },
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/486293",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Hydra_vulgaris"
+  },
+  "notions": [
+    "cnidaires-diploblastes"
+  ],
+  "ajoute_le": "2026-11-05",
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5483509/medium.jpg",
+    "credit": "(c) Proyecto Agua, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/5483509"
+  }
+}

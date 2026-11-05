@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-05-colverts-elevage-adn",
+  "date": "2026-11-05",
+  "titre": "Les lâchers de canards d’élevage ont laissé leur empreinte génétique dans les colverts sauvages",
+  "resume": "À partir de plus de 400 spécimens de musée et de plus de 600 colverts actuels (1800–2020), l’équipe reconstitue l’histoire génétique du canard colvert nord-américain. L’ascendance « ferme de gibier » apparaît dans les années 1910–1920 et arrive par vagues liées aux lâchers régionaux. Depuis les années 1980, les colverts de la voie de migration atlantique portent en moyenne ≈ 20 % d’ascendance domestique. Les canards d’élevage ont ≈ 35 % de diversité génétique en moins et plus de deux fois plus de consanguinité. Le lien avec une moindre résistance aux maladies reste une hypothèse.",
+  "source": {
+    "nom": "Current Biology — McFarland, Lavretsky et al. (Univ. Texas El Paso, Smithsonian) — doi:10.1016/j.cub.2026.07.004",
+    "url": "https://phys.org/news/2026-11-historic-duck-dna-wild-mallard.html"
+  },
+  "themes": [
+    "genetique",
+    "conservation",
+    "evolution"
+  ],
+  "module": "module4",
+  "grille": {
+    "modele": "animal",
+    "echantillon": "> 400 spécimens de musée + > 600 oiseaux actuels, 1800–2020",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible",
+    "grand_echantillon": true
+  },
+  "quiz": {
+    "question": "Quelle part d’ascendance d’élevage portent en moyenne les colverts de la voie atlantique depuis les années 1980 ?",
+    "choix": [
+      "≈ 2 %",
+      "≈ 20 %",
+      "≈ 80 %"
+    ],
+    "bonne": 1
+  }
+}

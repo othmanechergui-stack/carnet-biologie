@@ -1,0 +1,129 @@
+{
+  "id": "grus-grus",
+  "nom": "Grue cendrée",
+  "latin": "Grus grus",
+  "groupe": "oiseau",
+  "milieu": [
+    "zone-humide",
+    "culture",
+    "tourbiere"
+  ],
+  "belgique": true,
+  "clade": "gruiformes",
+  "resume": "Grand échassier gris au cou tendu qui traverse la Belgique en **grands V trompetants** fin octobre–novembre, de la Scandinavie et de la Baltique vers la France et l’Espagne. Les jeunes **apprennent la route** en migrant avec leurs parents.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Oiseaux",
+      "synapomorphies": [
+        "Plumes",
+        "Furcula",
+        "Bec corné",
+        "Hallux retourné"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Gruiformes",
+      "synapomorphies": [
+        "Monophylie surtout moléculaire"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Gruidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Grus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Rallus aquaticus",
+    "parents": [
+      "Grus monacha",
+      "Antigone canadensis",
+      "Balearica pavonina"
+    ]
+  },
+  "caracteristiques": {
+    "essentiel": "Environ 1,1–1,2 m de haut et autour de 2 m d’envergure. Plumage gris, tête et cou noirs avec une bande blanche, calotte rouge nue. Les rémiges internes forment un « panache » retombant sur la queue au repos.",
+    "details": "Chez la grue cendrée, la **trachée s’enroule à l’intérieur du bréchet** (la crête du sternum) avant de rejoindre les poumons. Ce long tube résonnant donne aux cris leur timbre trompetant, audible de très loin. Les jeunes de l’année se reconnaissent à leur tête brun-roux, sans le dessin noir et blanc."
+  },
+  "comportement": {
+    "essentiel": "Les couples sont en général **durables** et se renforcent par des **duos** (cris à l’unisson) et des danses (sauts, courbettes, ailes ouvertes). La migration se fait en **familles** au sein de grands groupes.",
+    "details": "La route et les haltes ne sont pas entièrement innées : les jeunes migrent avec leurs parents et passent leur premier hiver avec eux. C’est un bon exemple pour les **quatre questions de Tinbergen** : causes immédiates (photopériode, fronts froids et vents porteurs déclenchent les départs), développement (apprentissage social de la route), fonction (exploiter des zones d’hivernage riches) et histoire évolutive.\n\nLes vols se font souvent en V : chaque oiseau profite du tourbillon ascendant créé par l’aile de celui qui le précède.",
+    "concepts": [
+      "tinbergen-quatre-questions"
+    ]
+  },
+  "ecologie": {
+    "essentiel": "Niche dans les tourbières, marais et forêts humides du nord et de l’est de l’Europe ; hiverne en France, dans la péninsule Ibérique et en Afrique du Nord. Les haltes migratoires se font dans des zones humides entourées de cultures (grains de maïs restés au sol).",
+    "details": "Omnivore : graines, tubercules, invertébrés, petits vertébrés. Après un fort déclin au XXe siècle (drainage des zones humides), l’espèce a regagné du terrain en Europe de l’Ouest grâce à la protection et à la restauration des marais.",
+    "uicn": "LC",
+    "menaces": [
+      "Drainage des zones humides",
+      "Collisions avec les lignes électriques",
+      "Dérangement sur les sites de halte"
+    ]
+  },
+  "facts": [
+    "Sa trachée s’enroule dans le bréchet, ce qui amplifie ses cris trompetants.",
+    "Les jeunes migrent avec leurs parents et apprennent ainsi la route.",
+    "Elle vole le cou tendu, alors que le héron cendré le replie en S.",
+    "Les couples se forment pour plusieurs années et se renforcent par des duos et des danses."
+  ],
+  "anecdote": "La trachée de la grue cendrée fait des boucles à l’intérieur de son sternum : c’est une trompette d’os et de cartilage.",
+  "indices_quiz": [
+    "Gruiforme, cousin des râles et des foulques.",
+    "Migre en familles en grands V bruyants ; les couples dansent et chantent en duo.",
+    "Sa trachée s’enroule dans le bréchet."
+  ],
+  "terrain": {
+    "ou": "Passages en altitude au-dessus de toute la Wallonie (Ardenne, Famenne, Hautes Fagnes), plus rarement en Flandre.",
+    "quand": "Fin octobre–novembre (retour fin février–mars), surtout après un front froid avec vent de nord-est.",
+    "criteres": [
+      "Grands V ou lignes de dizaines à centaines d’oiseaux",
+      "Cou et pattes tendus",
+      "Cris trompetants « krou-krou » entendus avant de les voir"
+    ],
+    "sosies": [
+      {
+        "espece": "Héron cendré (Ardea cinerea)",
+        "distinguer": "Vole le cou replié en S, seul ou en petits groupes, presque silencieux."
+      },
+      {
+        "espece": "Oies (Anser spp.)",
+        "distinguer": "Aussi en V bruyants, mais plus petites, cou plus court, cris cacardants et non trompetants."
+      }
+    ]
+  },
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/41",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Grus_grus"
+  },
+  "notions": [
+    "oiseaux-dinosaures",
+    "tinbergen-quatre-questions"
+  ],
+  "ajoute_le": "2026-11-05",
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/13745/medium.jpg",
+    "credit": "(c) Tarique Sani, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/13745"
+  }
+}

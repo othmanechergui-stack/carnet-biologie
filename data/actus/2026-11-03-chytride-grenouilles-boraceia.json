@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-03-chytride-grenouilles-boraceia",
+  "date": "2026-11-03",
+  "titre": "Le chytride derrière l’effondrement des amphibiens de Boracéia (Brésil) il y a 45 ans",
+  "resume": "Les amphibiens de la station de Boracéia (forêt atlantique, São Paulo) ont décliné entre 1979 et 1982 sans explication. L’équipe a testé plus de 370 spécimens de musée de 17 espèces et refait six campagnes de terrain (2022–2024). Aucun spécimen antérieur à 1979 n’est positif à *Batrachochytrium dendrobatidis*, contre plus de la moitié de ceux des années 1980 ; 5 des 17 espèces n’ont pas été retrouvées. Paradoxalement, les espèces les plus touchées n’ont pas d’infection détectable (mortes avant d’être collectées ?). Le climat a pu contribuer et le résultat vaut pour ce site.",
+  "source": {
+    "nom": "Molecular Ecology 35(19) — Boyette et al. (Smithsonian, Penn State, Univ. São Paulo) — doi:10.1111/mec.70573",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
+  },
+  "themes": [
+    "conservation",
+    "biodiversite",
+    "ecologie"
+  ],
+  "module": "ecologie",
+  "grille": {
+    "modele": "animal",
+    "echantillon": "> 370 spécimens de musée, 17 espèces + 6 campagnes 2022–2024",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "moyen",
+    "grand_echantillon": true
+  },
+  "quiz": {
+    "question": "Quelle proportion des spécimens antérieurs à 1979 était positive au chytride ?",
+    "choix": [
+      "Aucun",
+      "Environ la moitié",
+      "Presque tous"
+    ],
+    "bonne": 0
+  }
+}

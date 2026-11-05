@@ -1,0 +1,32 @@
+{
+  "id": "2026-11-04-spermophiles-hibernation-parentele",
+  "date": "2026-11-04",
+  "titre": "Les femelles spermophiles entourées de parentes survivent mieux à l’hibernation",
+  "resume": "Analyse d’environ deux décennies de capture-marquage-recapture chez le spermophile de Belding (*Urocitellus beldingi*, Californie). Les individus lourds et les femelles survivent mieux à l’hiver ; les jeunes mâles meurent le plus. Chez les femelles adultes seulement, la survie augmente avec le nombre de parentes adultes vivant à proximité. Des saisons de neige plus courtes sont associées à un réveil plus précoce, une meilleure survie des jeunes et plus de petits. Étude corrélationnelle : le mécanisme de l’effet de parentèle est inconnu et la taille d’échantillon n’est pas donnée dans le communiqué.",
+  "source": {
+    "nom": "PLOS ONE — Mateo et al. (Univ. Chicago) — doi:10.1371/journal.pone.0358786",
+    "url": "https://phys.org/news/2026-11-big-families-adult-female-ground.html"
+  },
+  "themes": [
+    "comportement",
+    "ecologie",
+    "zoologie"
+  ],
+  "module": "societes",
+  "grille": {
+    "modele": "terrain",
+    "echantillon": "≈ 20–25 ans de capture-recapture (effectif non précisé)",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "moyen"
+  },
+  "quiz": {
+    "question": "Chez le spermophile de Belding, quelle catégorie profite de la présence de parentes pour survivre à l’hibernation ?",
+    "choix": [
+      "Les jeunes mâles",
+      "Les femelles adultes",
+      "Tous les individus"
+    ],
+    "bonne": 1
+  }
+}

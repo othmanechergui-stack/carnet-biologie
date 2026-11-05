@@ -1,0 +1,85 @@
+{
+  "id": "trichoplax-adhaerens",
+  "nom": "Trichoplax",
+  "latin": "Trichoplax adhaerens",
+  "groupe": "placozoaire",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": false,
+  "clade": "placozoa",
+  "resume": "L’un des animaux les plus simples connus : une **plaque de cellules** de l’ordre du millimètre, sans bouche, sans nerfs ni muscles, qui rampe sur les biofilms marins. Découvert en 1883 dans un aquarium de Graz.",
+  "phylogenie": [
+    {
+      "rang": "Règne",
+      "nom": "Métazoaires",
+      "synapomorphies": [
+        "Pluricellularité avec collagène et jonctions cellulaires",
+        "Spermatozoïde flagellé",
+        "Développement embryonnaire"
+      ]
+    },
+    {
+      "rang": "Embranchement",
+      "nom": "Placozoaires",
+      "synapomorphies": [
+        "Corps aplati en deux épithéliums (supérieur et inférieur)",
+        "« Cellules fibres » entre les épithéliums, sans matrice extracellulaire"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Trichoplacidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Trichoplax",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Mnemiopsis leidyi",
+    "parents": [
+      "Hoilungia hongkongensis",
+      "Aurelia aurita"
+    ]
+  },
+  "caracteristiques": {
+    "essentiel": "Deux épithéliums ciliés : l’inférieur, nutritif, est rapproché d’un endoderme ; le supérieur est protecteur. Entre eux, des **cellules fibres** sans véritable matrice extracellulaire, chose exceptionnelle chez un animal. Pas d’axe antéro-postérieur ni de symétrie : la forme change sans cesse.",
+    "details": "On n’y décrivait classiquement qu’environ six types cellulaires. Son génome, séquencé en 2008, ne fait qu’environ 100 Mb mais contient une grande partie de la « boîte à outils » des animaux complexes (gènes de signalisation, facteurs de transcription, dont des gènes apparentés aux Hox/ParaHox).\n\nLe cours le présente comme la seule espèce connue ; depuis, la génomique a révélé plusieurs lignées cryptiques et de nouvelles espèces ont été décrites, comme *Hoilungia hongkongensis* (2018)."
+  },
+  "comportement": {
+    "essentiel": "Il glisse grâce aux cils de sa face inférieure, s’arrête au-dessus d’un tapis d’algues ou de bactéries, et **digère à l’extérieur** en sécrétant des enzymes dans une « chambre » formée sous lui, avant d’absorber les nutriments.",
+    "details": "Sans neurones ni synapses, il coordonne pourtant ses arrêts et ses départs grâce à des **neuropeptides** sécrétés par des cellules glandulaires, qui modulent le battement ciliaire. C’est un modèle pour comprendre comment un comportement peut exister avant le système nerveux. Il se reproduit surtout par scission ou bourgeonnement.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Eaux côtières chaudes et tempérées chaudes, sur les surfaces dures couvertes de biofilm (rochers, coquilles, mangroves). Très souvent trouvé dans les aquariums marins.",
+    "details": "Brouteur de micro-algues et de bactéries. Son écologie dans la nature reste très mal connue, en raison de sa taille et de son aspect de simple tache.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "facts": [
+    "Il n’a ni bouche, ni tube digestif, ni neurones, ni muscles.",
+    "Il digère sa nourriture à l’extérieur de son corps, sous sa face inférieure.",
+    "Il a été découvert en 1883 sur les vitres d’un aquarium marin à Graz.",
+    "Son génome fait environ 100 Mb mais contient beaucoup de gènes de signalisation des animaux complexes."
+  ],
+  "anecdote": "Trichoplax coordonne son comportement sans un seul neurone, avec de simples peptides.",
+  "indices_quiz": [
+    "Placozoaire, embranchement d’animaux sans organes.",
+    "Rampe grâce à ses cils et digère sous lui, à l’extérieur du corps.",
+    "Découvert en 1883 dans un aquarium à Graz."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/293298",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Trichoplax_adhaerens"
+  },
+  "notions": [
+    "metazoaires-synapomorphies"
+  ],
+  "ajoute_le": "2026-11-05"
+}

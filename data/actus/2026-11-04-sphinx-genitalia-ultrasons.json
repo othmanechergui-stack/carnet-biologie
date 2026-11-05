@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-04-sphinx-genitalia-ultrasons",
+  "date": "2026-11-04",
+  "titre": "Chez les sphinx, l’évolution a transformé plusieurs fois les génitalia en brouilleurs anti-chauves-souris",
+  "resume": "En diffusant des cris de chauves-souris en chasse et en manipulant des papillons, l’équipe a enregistré les ultrasons produits par des sphinx (Sphingidés), puis étudié les génitalia de 124 espèces et la phylogénie de 310 espèces. Les mâles frottent des écailles génitales contre trois structures différentes (écailles, épines ou nodules), selon trois mécanismes. La réponse sonore serait apparue indépendamment jusqu’à sept fois en ≈ 30 millions d’années. Les espèces dotées d’organes auditifs produisent les sons les plus aptes à brouiller le sonar ; chez les espèces sourdes, la fonction (effrayer, mimer) reste hypothétique.",
+  "source": {
+    "nom": "Proceedings of the Royal Society B — Masonick et al. (Univ. Florida) — doi:10.1098/rspb.2026.2303",
+    "url": "https://phys.org/news/2026-11-evolution-hawkmoth-genitals-defensive-tools.html"
+  },
+  "themes": [
+    "evolution",
+    "comportement",
+    "zoologie"
+  ],
+  "module": "ethologie",
+  "grille": {
+    "modele": "animal",
+    "echantillon": "124 espèces (morphologie), 310 espèces (phylogénie)",
+    "publication": "revue",
+    "design": "correlation",
+    "ecart_titre": "faible",
+    "grand_echantillon": true
+  },
+  "quiz": {
+    "question": "Combien de fois, au maximum, la production d’ultrasons anti-chauves-souris serait-elle apparue chez les sphinx ?",
+    "choix": [
+      "Une seule fois",
+      "Jusqu’à sept fois",
+      "Plus de cent fois"
+    ],
+    "bonne": 1
+  }
+}

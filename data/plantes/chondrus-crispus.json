@@ -1,0 +1,118 @@
+{
+  "id": "chondrus-crispus",
+  "nom": "Mousse d’Irlande (pioca)",
+  "latin": "Chondrus crispus",
+  "type": "algue",
+  "regne": "algue",
+  "milieu": [
+    "mer"
+  ],
+  "belgique": false,
+  "clade": "rhodophyta",
+  "saison": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "resume": "Algue rouge buissonnante des rochers du bas de l’estran, de la Bretagne à la Norvège et en Amérique du Nord. Source historique des **carraghénanes**, gélifiants omniprésents dans l’industrie alimentaire.",
+  "phylogenie": [
+    {
+      "rang": "Clade",
+      "nom": "Archaeplastida",
+      "synapomorphies": [
+        "Plastes primaires à deux membranes, issus d’une cyanobactérie"
+      ]
+    },
+    {
+      "rang": "Division",
+      "nom": "Rhodophytes (algues rouges)",
+      "synapomorphies": [
+        "Chlorophylle a masquée par la phycoérythrine",
+        "Gamètes mâles non flagellés (aplanogamie)"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Floridéophycées",
+      "synapomorphies": [
+        "Cycle trigénétique",
+        "Communications intercellulaires bouchées (synapses)"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Gigartinales",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Famille",
+      "nom": "Gigartinacées",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Chondrus",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Porphyra umbilicalis",
+    "parents": [
+      "Mastocarpus stellatus",
+      "Gelidium corneum"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Thalle cartilagineux de 5–15 cm, fixé par un petit disque, à lames **plates** ramifiées en éventail. Couleur rouge pourpre à vert-jaune au soleil ; sous l’eau, l’extrémité des frondes est souvent **irisée de bleu**. Pigment dominant : **phycoérythrine**, qui capte la lumière verte.",
+    "details": "Le cycle est **trigénétique** et isomorphe : gamétophytes mâles et femelles, puis un **carposporophyte** diploïde qui se développe sur la femelle, et enfin un tétrasporophyte libre semblable au gamétophyte. Les deux générations libres n’ont pas les mêmes carraghénanes : types kappa/iota chez les gamétophytes, type lambda chez les tétrasporophytes. Le génome a été publié en 2013."
+  },
+  "identification": {
+    "feuille": "Pas de feuilles : lames plates, sans nervure, divisées en dichotomies régulières",
+    "fruit": "Cystocarpes en petites bosses sur une seule face des frondes femelles",
+    "port": "Touffes denses sur les rochers",
+    "periode": "Toute l’année ; récolte traditionnelle en été"
+  },
+  "ecologie": {
+    "essentiel": "Bas de l’estran et petits fonds rocheux battus, dans l’Atlantique Nord tempéré froid. Absente des côtes sableuses belges, où elle peut au mieux apparaître en épave.",
+    "details": "Elle forme avec *Mastocarpus stellatus* des ceintures denses qui abritent de nombreux petits invertébrés. Elle souffre des vagues de chaleur marines à la limite sud de son aire.",
+    "uicn": "NE",
+    "menaces": [
+      "Réchauffement de l’eau",
+      "Surexploitation locale"
+    ]
+  },
+  "usages": {
+    "essentiel": "Les **carraghénanes** (polymères de galactose sulfaté, additif E407) épaississent et gélifient desserts lactés, crèmes glacées et sauces. En Irlande et en Bretagne, on fait traditionnellement des flans en la faisant bouillir dans du lait.",
+    "details": "L’extraction industrielle se fait par ébullition à partir de *Chondrus* et de *Gigartina* en Europe, et d’*Eucheuma* cultivée en Indonésie. Comme pour toute algue de cueillette, elle doit venir d’eaux propres.",
+    "cueillette": "Récolter à marée basse en coupant au-dessus du disque de fixation, uniquement dans des eaux non polluées et en respectant la réglementation locale."
+  },
+  "facts": [
+    "C’est une source historique des carraghénanes, l’additif E407.",
+    "Ses frondes sont souvent irisées de bleu sous l’eau.",
+    "Gamétophytes et tétrasporophytes produisent des carraghénanes différents.",
+    "Elle a un cycle à trois générations, typique des Floridéophycées."
+  ],
+  "anecdote": "Une partie des flans industriels tient grâce à une algue rouge des côtes bretonnes et irlandaises.",
+  "indices_quiz": [
+    "Rhodophyte floridéophycée, de l’ordre des Gigartinales.",
+    "Lames plates en éventail, irisées de bleu sous l’eau.",
+    "Source historique des carraghénanes (E407)."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/130176",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Chondrus_crispus"
+  },
+  "notions": [
+    "endosymbiose-algues"
+  ],
+  "ajoute_le": "2026-11-05",
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9581986/medium.jpg",
+    "credit": "(c) Susan J. Hewitt, some rights reserved (CC BY-NC), uploaded by Susan J. Hewitt",
+    "licence": "CC BY-NC",
+    "source": "https://www.inaturalist.org/photos/9581986"
+  }
+}

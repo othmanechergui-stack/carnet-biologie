@@ -1,791 +1,801 @@
 {
- "id": "metazoa",
- "nom": "Métazoaires (Animaux)",
- "synapomorphies": [
-  "Multicellularité",
-  "Matrice extracellulaire (collagène)",
-  "Épithéliums à jonctions + lame basale"
- ],
- "texte": "Groupe frère : les choanoflagellés. Les relations entre éponges, cténaires, placozoaires et cnidaires restent débattues : elles sont figurées ici en peigne.",
- "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
- "enfants": [
-  {
-   "id": "porifera",
-   "nom": "Spongiaires (Éponges)",
-   "synapomorphies": [
-    "Choanocytes formant un choanoderme",
-    "Système aquifère (ostioles → osculum)"
-   ],
-   "texte": "Démosponges, hexactinellides, calcisponges, homoscléromorphes.",
-   "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-  },
-  {
-   "id": "ctenophora",
-   "nom": "Cténaires",
-   "synapomorphies": [
-    "Huit rangées de palettes ciliées",
-    "Colloblastes"
-   ],
-   "texte": "Position débattue : parfois placés comme groupe frère de tous les autres animaux.",
-   "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-  },
-  {
-   "id": "placozoa",
-   "nom": "Placozoaires",
-   "texte": "*Trichoplax adhaerens* : deux épithéliums, pas de matrice extracellulaire selon ton cours.",
-   "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-  },
-  {
-   "id": "cnidaria",
-   "nom": "Cnidaires",
-   "synapomorphies": [
-    "Cnidocytes (nématocystes)",
-    "Mésoglée entre épiderme et gastroderme"
-   ],
-   "texte": "Cavité gastrovasculaire à un seul orifice ; polype et/ou méduse.",
-   "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-   "enfants": [
+  "id": "metazoa",
+  "nom": "Métazoaires (Animaux)",
+  "synapomorphies": [
+    "Multicellularité",
+    "Matrice extracellulaire (collagène)",
+    "Épithéliums à jonctions + lame basale"
+  ],
+  "texte": "Groupe frère : les choanoflagellés. Les relations entre éponges, cténaires, placozoaires et cnidaires restent débattues : elles sont figurées ici en peigne.",
+  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+  "enfants": [
     {
-     "id": "anthozoa",
-     "nom": "Anthozoaires",
-     "synapomorphies": [
-      "Pas de stade méduse",
-      "Symétrie biradiale"
-     ],
-     "texte": "Coraux et anémones.",
-     "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+      "id": "porifera",
+      "nom": "Spongiaires (Éponges)",
+      "synapomorphies": [
+        "Choanocytes formant un choanoderme",
+        "Système aquifère (ostioles → osculum)"
+      ],
+      "texte": "Démosponges, hexactinellides, calcisponges, homoscléromorphes.",
+      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
     },
     {
-     "id": "scyphozoa",
-     "nom": "Scyphozoaires",
-     "synapomorphies": [
-      "Strobilation du polype en éphyrules"
-     ],
-     "texte": "« Vraies » méduses.",
-     "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+      "id": "ctenophora",
+      "nom": "Cténaires",
+      "synapomorphies": [
+        "Huit rangées de palettes ciliées",
+        "Colloblastes"
+      ],
+      "texte": "Position débattue : parfois placés comme groupe frère de tous les autres animaux.",
+      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
     },
     {
-     "id": "hydrozoa",
-     "nom": "Hydrozoaires",
-     "texte": "Hydres, siphonophores, alternance polype/méduse.",
-     "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-    }
-   ]
-  },
-  {
-   "id": "bilateria",
-   "nom": "Bilatériens (Triploblastes)",
-   "synapomorphies": [
-    "Trois feuillets embryonnaires",
-    "Symétrie bilatérale"
-   ],
-   "texte": "Le mésoderme se forme à la gastrulation.",
-   "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-   "enfants": [
-    {
-     "id": "xenacoelomorpha",
-     "nom": "Xénacœlomorphes",
-     "texte": "Xenoturbella, acœles : position très discutée.",
-     "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+      "id": "placozoa",
+      "nom": "Placozoaires",
+      "texte": "*Trichoplax adhaerens* : deux épithéliums, pas de matrice extracellulaire selon ton cours.",
+      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
     },
     {
-     "id": "protostomia",
-     "nom": "Protostomiens",
-     "synapomorphies": [
-      "Système nerveux ventral (hyponeuriens)"
-     ],
-     "texte": "Blastopore → bouche (avec exceptions).",
-     "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-     "enfants": [
-      {
-       "id": "lophotrochozoa",
-       "nom": "Lophotrochozoaires (Spiraliens)",
-       "synapomorphies": [
-        "Clivage spiral",
-        "Larve trochophore ou lophophore"
-       ],
-       "texte": "Mollusques, annélides, plathelminthes, rotifères…",
-       "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-       "enfants": [
+      "id": "cnidaria",
+      "nom": "Cnidaires",
+      "synapomorphies": [
+        "Cnidocytes (nématocystes)",
+        "Mésoglée entre épiderme et gastroderme"
+      ],
+      "texte": "Cavité gastrovasculaire à un seul orifice ; polype et/ou méduse.",
+      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+      "enfants": [
         {
-         "id": "platyhelminthes",
-         "nom": "Plathelminthes",
-         "texte": "Vers plats acœlomates : planaires, douves, ténias.",
-         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+          "id": "anthozoa",
+          "nom": "Anthozoaires",
+          "synapomorphies": [
+            "Pas de stade méduse",
+            "Symétrie biradiale"
+          ],
+          "texte": "Coraux et anémones.",
+          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
         },
         {
-         "id": "annelida",
-         "nom": "Annélides",
-         "synapomorphies": [
-          "Métamérie (segments répétés)",
-          "Soies chitineuses (chètes)"
-         ],
-         "texte": "Polychètes et clitellates (lombrics, sangsues).",
-         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-         "enfants": [
-          {
-           "id": "clitellata",
-           "nom": "Clitellates",
-           "synapomorphies": [
-            "Clitellum",
-            "Hermaphrodisme"
-           ],
-           "texte": "Oligochètes (lombrics) et sangsues.",
-           "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-          }
-         ]
+          "id": "scyphozoa",
+          "nom": "Scyphozoaires",
+          "synapomorphies": [
+            "Strobilation du polype en éphyrules"
+          ],
+          "texte": "« Vraies » méduses.",
+          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
         },
         {
-         "id": "mollusca",
-         "nom": "Mollusques",
-         "synapomorphies": [
-          "Manteau",
-          "Radula",
-          "Cténidies"
-         ],
-         "texte": "Plus de 100 000 espèces décrites.",
-         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-         "enfants": [
-          {
-           "id": "gastropoda",
-           "nom": "Gastéropodes",
-           "synapomorphies": [
-            "Torsion de 180°"
-           ],
-           "texte": "Escargots, limaces, buccins.",
-           "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-          },
-          {
-           "id": "bivalvia",
-           "nom": "Bivalves",
-           "synapomorphies": [
-            "Coquille à deux valves",
-            "Perte de la radula"
-           ],
-           "texte": "Moules, huîtres, coques.",
-           "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-          },
-          {
-           "id": "cephalopoda",
-           "nom": "Céphalopodes",
-           "synapomorphies": [
-            "Siphon musculeux",
-            "Poche d’encre",
-            "Bras/tentacules dérivés du pied"
-           ],
-           "texte": "Poulpes, seiches, calmars, nautiles.",
-           "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-          }
-         ]
+          "id": "hydrozoa",
+          "nom": "Hydrozoaires",
+          "texte": "Hydres, siphonophores, alternance polype/méduse.",
+          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
         }
-       ]
-      },
-      {
-       "id": "ecdysozoa",
-       "nom": "Ecdysozoaires",
-       "synapomorphies": [
-        "Cuticule chitineuse en 3 couches",
-        "Mue contrôlée par les ecdystéroïdes"
-       ],
-       "texte": "Clade moléculaire qui a remplacé les « Articulés ».",
-       "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-       "enfants": [
+      ]
+    },
+    {
+      "id": "bilateria",
+      "nom": "Bilatériens (Triploblastes)",
+      "synapomorphies": [
+        "Trois feuillets embryonnaires",
+        "Symétrie bilatérale"
+      ],
+      "texte": "Le mésoderme se forme à la gastrulation.",
+      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+      "enfants": [
         {
-         "id": "nematoda",
-         "nom": "Nématodes",
-         "synapomorphies": [
-          "Amphides (chémorécepteurs)",
-          "Muscles longitudinaux seulement"
-         ],
-         "texte": "Parmi les animaux les plus abondants sur Terre.",
-         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+          "id": "xenacoelomorpha",
+          "nom": "Xénacœlomorphes",
+          "texte": "Xenoturbella, acœles : position très discutée.",
+          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
         },
         {
-         "id": "tardigrada",
-         "nom": "Tardigrades",
-         "synapomorphies": [
-          "Quatre paires de pattes à griffes",
-          "Appareil buccal à stylets"
-         ],
-         "texte": "Capables de cryptobiose.",
-         "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-        },
-        {
-         "id": "arthropoda",
-         "nom": "Arthropodes",
-         "synapomorphies": [
-          "Exosquelette articulé",
-          "Appendices articulés",
-          "Tagmatisation"
-         ],
-         "texte": "Le plus grand embranchement animal.",
-         "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-         "enfants": [
-          {
-           "id": "chelicerata",
-           "nom": "Chélicérates",
-           "synapomorphies": [
-            "Chélicères",
-            "Pas d’antennes"
-           ],
-           "texte": "Arachnides, limules, pycnogonides.",
-           "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-           "enfants": [
+          "id": "protostomia",
+          "nom": "Protostomiens",
+          "synapomorphies": [
+            "Système nerveux ventral (hyponeuriens)"
+          ],
+          "texte": "Blastopore → bouche (avec exceptions).",
+          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+          "enfants": [
             {
-             "id": "arachnida",
-             "nom": "Arachnides",
-             "synapomorphies": [
-              "Quatre paires de pattes marchantes",
-              "Respiration aérienne (poumons-livres, trachées)"
-             ],
-             "texte": "Araignées, scorpions, acariens, opilions.",
-             "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-            }
-           ]
-          },
-          {
-           "id": "mandibulata",
-           "nom": "Mandibulates",
-           "synapomorphies": [
-            "Mandibules"
-           ],
-           "texte": "Myriapodes + Pancrustacés.",
-           "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-           "enfants": [
-            {
-             "id": "myriapoda",
-             "nom": "Myriapodes",
-             "texte": "Mille-pattes et scolopendres.",
-             "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-            },
-            {
-             "id": "pancrustacea",
-             "nom": "Pancrustacés",
-             "synapomorphies": [
-              "Yeux composés à ommatidies à 4 cellules cristalliniennes"
-             ],
-             "texte": "Les hexapodes sont nichés au sein des « crustacés », qui sont donc paraphylétiques.",
-             "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-             "enfants": [
-              {
-               "id": "isopoda",
-               "nom": "Isopodes",
-               "synapomorphies": [
-                "Corps aplati dorso-ventralement",
-                "Pléopodes respiratoires"
-               ],
-               "texte": "Inclut les cloportes, seuls crustacés vraiment terrestres.",
-               "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-              },
-              {
-               "id": "hexapoda",
-               "nom": "Hexapodes",
-               "synapomorphies": [
-                "Trois paires de pattes",
-                "Corps en 3 tagmes (tête, thorax, abdomen)",
-                "Une paire d’antennes"
-               ],
-               "texte": "Le groupe le plus riche du monde vivant.",
-               "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-               "enfants": [
+              "id": "lophotrochozoa",
+              "nom": "Lophotrochozoaires (Spiraliens)",
+              "synapomorphies": [
+                "Clivage spiral",
+                "Larve trochophore ou lophophore"
+              ],
+              "texte": "Mollusques, annélides, plathelminthes, rotifères…",
+              "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+              "enfants": [
                 {
-                 "id": "coleoptera",
-                 "nom": "Coléoptères",
-                 "synapomorphies": [
-                  "Élytres"
-                 ],
-                 "texte": "Environ 400 000 espèces décrites.",
-                 "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                  "id": "platyhelminthes",
+                  "nom": "Plathelminthes",
+                  "texte": "Vers plats acœlomates : planaires, douves, ténias.",
+                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
                 },
                 {
-                 "id": "hymenoptera",
-                 "nom": "Hyménoptères",
-                 "synapomorphies": [
-                  "Haplodiploïdie",
-                  "Ailes couplées par des crochets (hamuli)"
-                 ],
-                 "texte": "Abeilles, guêpes, fourmis ; plusieurs origines de l’eusocialité.",
-                 "source": "animal societies/Biology of Animal Societies (2017-2018).pdf",
-                 "enfants": [
-                  {
-                   "id": "formicidae",
-                   "nom": "Fourmis (Formicidés)",
-                   "synapomorphies": [
-                    "Glande métapleurale",
-                    "Pétiole"
-                   ],
-                   "texte": "Toutes eusociales.",
-                   "source": "animal societies/Biology of Animal Societies (2017-2018).pdf"
-                  },
-                  {
-                   "id": "apidae",
-                   "nom": "Apidés",
-                   "synapomorphies": [
-                    "Corbeilles à pollen (chez les apinés)"
-                   ],
-                   "texte": "Abeilles domestiques, bourdons, mélipones.",
-                   "source": "animal societies/Biology of Animal Societies (2017-2018).pdf"
-                  }
-                 ]
-                }
-               ]
-              }
-             ]
-            }
-           ]
-          }
-         ]
-        }
-       ]
-      }
-     ]
-    },
-    {
-     "id": "deuterostomia",
-     "nom": "Deutérostomiens",
-     "synapomorphies": [
-      "Blastopore → anus",
-      "Clivage radial"
-     ],
-     "texte": "Ambulacraires + Chordés.",
-     "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-     "enfants": [
-      {
-       "id": "ambulacraria",
-       "nom": "Ambulacraires",
-       "synapomorphies": [
-        "Larve dipleurula"
-       ],
-       "texte": "Échinodermes + Hémichordés.",
-       "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-       "enfants": [
-        {
-         "id": "echinodermata",
-         "nom": "Échinodermes",
-         "synapomorphies": [
-          "Squelette dermique de monocristaux de calcite (ossicules)",
-          "Système ambulacraire dérivé du cœlome"
-         ],
-         "texte": "Symétrie pentaradiée secondaire ; larve bilatérale.",
-         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-        },
-        {
-         "id": "hemichordata",
-         "nom": "Hémichordés",
-         "texte": "Entéropneustes et ptérobranches.",
-         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-        }
-       ]
-      },
-      {
-       "id": "chordata",
-       "nom": "Chordés",
-       "synapomorphies": [
-        "Notochorde",
-        "Tube neural dorsal",
-        "Pharynx à fentes",
-        "Queue post-anale",
-        "Endostyle"
-       ],
-       "texte": "Céphalocordés, urochordés, crâniates.",
-       "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-       "enfants": [
-        {
-         "id": "cephalochordata",
-         "nom": "Céphalocordés",
-         "synapomorphies": [
-          "Notochorde s’étendant jusqu’à l’avant de la tête"
-         ],
-         "texte": "Lancelets (amphioxus).",
-         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-        },
-        {
-         "id": "olfactores",
-         "nom": "Olfactores",
-         "texte": "Clade établi surtout par les données moléculaires : les tuniciers sont le groupe frère des vertébrés.",
-         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-         "enfants": [
-          {
-           "id": "urochordata",
-           "nom": "Urochordés (Tuniciers)",
-           "synapomorphies": [
-            "Tunique de tunicine (cellulose animale)"
-           ],
-           "texte": "Larve têtard à chorde ; adulte souvent fixé.",
-           "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-          },
-          {
-           "id": "craniata",
-           "nom": "Crâniates (= Vertébrés)",
-           "synapomorphies": [
-            "Crêtes neurales",
-            "Filaments branchiaux",
-            "Tête bien définie"
-           ],
-           "texte": "Les microARN montrent que les cyclostomes sont monophylétiques : crâniates = vertébrés.",
-           "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-           "enfants": [
-            {
-             "id": "cyclostomata",
-             "nom": "Cyclostomes",
-             "synapomorphies": [
-              "Bouche sans mâchoire",
-              "Quatre familles de microARN propres"
-             ],
-             "texte": "Myxines et lamproies.",
-             "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-             "enfants": [
-              {
-               "id": "petromyzontida",
-               "nom": "Lamproies",
-               "synapomorphies": [
-                "Disque buccal à dents cornées"
-               ],
-               "texte": "Branchies en poches ; beaucoup sont parasites de poissons à l’âge adulte.",
-               "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-              }
-             ]
-            },
-            {
-             "id": "gnathostomata",
-             "nom": "Gnathostomes",
-             "synapomorphies": [
-              "Mâchoires (arcs mandibulaires)",
-              "Nageoires paires"
-             ],
-             "texte": "Vertébrés à mâchoires.",
-             "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-             "enfants": [
-              {
-               "id": "chondrichthyes",
-               "nom": "Chondrichthyens",
-               "synapomorphies": [
-                "Squelette cartilagineux secondairement",
-                "Écailles placoïdes"
-               ],
-               "texte": "Requins, raies, chimères.",
-               "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-              },
-              {
-               "id": "osteichthyes",
-               "nom": "Ostéichthyens",
-               "synapomorphies": [
-                "Os endochondral"
-               ],
-               "texte": "Poissons osseux au sens large, tétrapodes compris.",
-               "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-               "enfants": [
-                {
-                 "id": "actinopterygii",
-                 "nom": "Actinoptérygiens",
-                 "synapomorphies": [
-                  "Nageoires rayonnées sans lobe charnu"
-                 ],
-                 "texte": "Plus de la moitié des vertébrés.",
-                 "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-                 "enfants": [
-                  {
-                   "id": "teleostei",
-                   "nom": "Téléostéens",
-                   "synapomorphies": [
-                    "Queue homocerque",
-                    "Prémaxillaire mobile"
-                   ],
-                   "texte": "≈ 96 % des poissons actuels.",
-                   "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-                  }
-                 ]
-                },
-                {
-                 "id": "sarcopterygii",
-                 "nom": "Sarcoptérygiens",
-                 "synapomorphies": [
-                  "Nageoires paires charnues à un seul os basal"
-                 ],
-                 "texte": "Cœlacanthes, dipneustes et tétrapodes.",
-                 "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-                 "enfants": [
-                  {
-                   "id": "actinistia",
-                   "nom": "Actinistiens",
-                   "texte": "Cœlacanthes, autrefois qualifiés de « fossiles vivants » — terme que ton cours relativise.",
-                   "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-                  },
-                  {
-                   "id": "rhipidistia",
-                   "nom": "Rhipidistiens",
-                   "synapomorphies": [
-                    "Poumon alvéolé d’origine endodermique",
-                    "Glotte",
-                    "Cône artériel sinueux",
-                    "Cœur à deux oreillettes"
-                   ],
-                   "texte": "Dipneustes + tétrapodes.",
-                   "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-                   "enfants": [
+                  "id": "annelida",
+                  "nom": "Annélides",
+                  "synapomorphies": [
+                    "Métamérie (segments répétés)",
+                    "Soies chitineuses (chètes)"
+                  ],
+                  "texte": "Polychètes et clitellates (lombrics, sangsues).",
+                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                  "enfants": [
                     {
-                     "id": "tetrapoda",
-                     "nom": "Tétrapodes",
-                     "synapomorphies": [
-                      "Membres chiridiens (doigts)",
-                      "Ceintures reliées à la colonne"
-                     ],
-                     "texte": "Vertébrés à quatre membres, sortis de l’eau au Dévonien.",
-                     "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-                     "enfants": [
-                      {
-                       "id": "lissamphibia",
-                       "nom": "Lissamphibiens",
-                       "synapomorphies": [
-                        "Dents bicuspides et pédicellées",
-                        "Peau perméable impliquée dans la respiration"
-                       ],
-                       "texte": "Anoures, urodèles et gymnophiones (≈ 5 000 espèces selon ton cours ; plus de 8 000 aujourd’hui).",
-                       "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-                       "enfants": [
+                      "id": "clitellata",
+                      "nom": "Clitellates",
+                      "synapomorphies": [
+                        "Clitellum",
+                        "Hermaphrodisme"
+                      ],
+                      "texte": "Oligochètes (lombrics) et sangsues.",
+                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                    }
+                  ]
+                },
+                {
+                  "id": "mollusca",
+                  "nom": "Mollusques",
+                  "synapomorphies": [
+                    "Manteau",
+                    "Radula",
+                    "Cténidies"
+                  ],
+                  "texte": "Plus de 100 000 espèces décrites.",
+                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                  "enfants": [
+                    {
+                      "id": "gastropoda",
+                      "nom": "Gastéropodes",
+                      "synapomorphies": [
+                        "Torsion de 180°"
+                      ],
+                      "texte": "Escargots, limaces, buccins.",
+                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                    },
+                    {
+                      "id": "bivalvia",
+                      "nom": "Bivalves",
+                      "synapomorphies": [
+                        "Coquille à deux valves",
+                        "Perte de la radula"
+                      ],
+                      "texte": "Moules, huîtres, coques.",
+                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                    },
+                    {
+                      "id": "cephalopoda",
+                      "nom": "Céphalopodes",
+                      "synapomorphies": [
+                        "Siphon musculeux",
+                        "Poche d’encre",
+                        "Bras/tentacules dérivés du pied"
+                      ],
+                      "texte": "Poulpes, seiches, calmars, nautiles.",
+                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "ecdysozoa",
+              "nom": "Ecdysozoaires",
+              "synapomorphies": [
+                "Cuticule chitineuse en 3 couches",
+                "Mue contrôlée par les ecdystéroïdes"
+              ],
+              "texte": "Clade moléculaire qui a remplacé les « Articulés ».",
+              "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+              "enfants": [
+                {
+                  "id": "nematoda",
+                  "nom": "Nématodes",
+                  "synapomorphies": [
+                    "Amphides (chémorécepteurs)",
+                    "Muscles longitudinaux seulement"
+                  ],
+                  "texte": "Parmi les animaux les plus abondants sur Terre.",
+                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                },
+                {
+                  "id": "tardigrada",
+                  "nom": "Tardigrades",
+                  "synapomorphies": [
+                    "Quatre paires de pattes à griffes",
+                    "Appareil buccal à stylets"
+                  ],
+                  "texte": "Capables de cryptobiose.",
+                  "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                },
+                {
+                  "id": "arthropoda",
+                  "nom": "Arthropodes",
+                  "synapomorphies": [
+                    "Exosquelette articulé",
+                    "Appendices articulés",
+                    "Tagmatisation"
+                  ],
+                  "texte": "Le plus grand embranchement animal.",
+                  "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                  "enfants": [
+                    {
+                      "id": "chelicerata",
+                      "nom": "Chélicérates",
+                      "synapomorphies": [
+                        "Chélicères",
+                        "Pas d’antennes"
+                      ],
+                      "texte": "Arachnides, limules, pycnogonides.",
+                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                      "enfants": [
                         {
-                         "id": "anura",
-                         "nom": "Anoures",
-                         "synapomorphies": [
-                          "Pas de queue chez l’adulte",
-                          "Pattes postérieures sauteuses",
-                          "Urostyle"
-                         ],
-                         "texte": "Grenouilles et crapauds.",
-                         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                          "id": "arachnida",
+                          "nom": "Arachnides",
+                          "synapomorphies": [
+                            "Quatre paires de pattes marchantes",
+                            "Respiration aérienne (poumons-livres, trachées)"
+                          ],
+                          "texte": "Araignées, scorpions, acariens, opilions.",
+                          "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "mandibulata",
+                      "nom": "Mandibulates",
+                      "synapomorphies": [
+                        "Mandibules"
+                      ],
+                      "texte": "Myriapodes + Pancrustacés.",
+                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                      "enfants": [
+                        {
+                          "id": "myriapoda",
+                          "nom": "Myriapodes",
+                          "texte": "Mille-pattes et scolopendres.",
+                          "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
                         },
                         {
-                         "id": "urodela",
-                         "nom": "Urodèles",
-                         "synapomorphies": [
-                          "Queue conservée chez l’adulte"
-                         ],
-                         "texte": "Salamandres et tritons ; l’axolotl est un urodèle néoténique.",
-                         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
-                        }
-                       ]
-                      },
-                      {
-                       "id": "amniota",
-                       "nom": "Amniotes",
-                       "synapomorphies": [
-                        "Œuf amniotique (amnios, chorion, allantoïde)"
-                       ],
-                       "texte": "L’œuf à annexes embryonnaires libère la reproduction du milieu aquatique (fin du Carbonifère).",
-                       "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-                       "enfants": [
-                        {
-                         "id": "synapsida",
-                         "nom": "Synapsides",
-                         "synapomorphies": [
-                          "Une seule fosse temporale inférieure"
-                         ],
-                         "texte": "Lignée des mammifères ; les « reptiles mammaliens » (pélycosaures, thérapsides) en font partie.",
-                         "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-                         "enfants": [
-                          {
-                           "id": "mammalia",
-                           "nom": "Mammifères",
-                           "synapomorphies": [
-                            "Articulation dento-squamosale",
-                            "Poils",
-                            "Glandes mammaires"
-                           ],
-                           "texte": "Synapsides dont la mâchoire s’articule entre le dentaire et le squamosal ; l’articulaire et le carré sont devenus marteau et enclume.",
-                           "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
-                           "enfants": [
+                          "id": "pancrustacea",
+                          "nom": "Pancrustacés",
+                          "synapomorphies": [
+                            "Yeux composés à ommatidies à 4 cellules cristalliniennes"
+                          ],
+                          "texte": "Les hexapodes sont nichés au sein des « crustacés », qui sont donc paraphylétiques.",
+                          "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                          "enfants": [
                             {
-                             "id": "monotremata",
-                             "nom": "Monotrèmes",
-                             "synapomorphies": [
-                              "Ovipares",
-                              "Cloaque",
-                              "Glandes mammaires sans mamelons"
-                             ],
-                             "texte": "Ornithorynque et échidnés : les seuls mammifères pondant des œufs.",
-                             "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                              "id": "isopoda",
+                              "nom": "Isopodes",
+                              "synapomorphies": [
+                                "Corps aplati dorso-ventralement",
+                                "Pléopodes respiratoires"
+                              ],
+                              "texte": "Inclut les cloportes, seuls crustacés vraiment terrestres.",
+                              "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
                             },
                             {
-                             "id": "theria",
-                             "nom": "Thériens",
-                             "synapomorphies": [
-                              "Viviparité",
-                              "Mamelons"
-                             ],
-                             "texte": "Marsupiaux + Placentaires.",
-                             "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-                             "enfants": [
-                              {
-                               "id": "placentalia",
-                               "nom": "Placentaires",
-                               "synapomorphies": [
-                                "Placenta chorio-allantoïdien durable"
-                               ],
-                               "texte": "Quatre grands clades (Afrothères, Xénarthres, Euarchontoglires, Laurasiathères), établis surtout par la phylogénie moléculaire.",
-                               "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-                               "enfants": [
+                              "id": "hexapoda",
+                              "nom": "Hexapodes",
+                              "synapomorphies": [
+                                "Trois paires de pattes",
+                                "Corps en 3 tagmes (tête, thorax, abdomen)",
+                                "Une paire d’antennes"
+                              ],
+                              "texte": "Le groupe le plus riche du monde vivant.",
+                              "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                              "enfants": [
                                 {
-                                 "id": "euarchontoglires",
-                                 "nom": "Euarchontoglires",
-                                 "texte": "Primates + Rongeurs/Lagomorphes (et quelques petits groupes).",
-                                 "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-                                 "enfants": [
-                                  {
-                                   "id": "primates",
-                                   "nom": "Primates",
-                                   "synapomorphies": [
-                                    "Ongles plats",
-                                    "Pouce opposable",
-                                    "Vision binoculaire développée"
-                                   ],
-                                   "texte": "Inclut les hominidés (orangs-outans, gorilles, chimpanzés, humains).",
-                                   "source": "module 5/Anthropologie biologique.docx"
-                                  },
-                                  {
-                                   "id": "rodentia",
-                                   "nom": "Rongeurs",
-                                   "synapomorphies": [
-                                    "Une paire d’incisives à croissance continue à chaque mâchoire",
-                                    "Diastème"
-                                   ],
-                                   "texte": "L’ordre de mammifères le plus riche (≈ 40 % des espèces).",
-                                   "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-                                  }
-                                 ]
+                                  "id": "coleoptera",
+                                  "nom": "Coléoptères",
+                                  "synapomorphies": [
+                                    "Élytres"
+                                  ],
+                                  "texte": "Environ 400 000 espèces décrites.",
+                                  "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
                                 },
                                 {
-                                 "id": "laurasiatheria",
-                                 "nom": "Laurasiathères",
-                                 "texte": "Clade moléculaire : carnivores, chauves-souris, ongulés, cétacés, hérissons…",
-                                 "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-                                 "enfants": [
-                                  {
-                                   "id": "eulipotyphla",
-                                   "nom": "Eulipotyphles",
-                                   "texte": "Hérissons, taupes, musaraignes : insectivores au sens strict.",
-                                   "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-                                  },
-                                  {
-                                   "id": "chiroptera",
-                                   "nom": "Chiroptères",
-                                   "synapomorphies": [
-                                    "Aile = patagium tendu entre les doigts allongés",
-                                    "Vol battu actif"
-                                   ],
-                                   "texte": "Deuxième ordre de mammifères en nombre d’espèces ; beaucoup utilisent l’écholocation.",
-                                   "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-                                  },
-                                  {
-                                   "id": "carnivora",
-                                   "nom": "Carnivores",
-                                   "synapomorphies": [
-                                    "Carnassières (P4 supérieure / M1 inférieure tranchantes)"
-                                   ],
-                                   "texte": "Canidés, félidés, mustélidés, herpestidés (suricate)…",
-                                   "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-                                  },
-                                  {
-                                   "id": "cetartiodactyla",
-                                   "nom": "Cétartiodactyles",
-                                   "synapomorphies": [
-                                    "Astragale à double poulie"
-                                   ],
-                                   "texte": "Les cétacés sont des artiodactyles : leur groupe frère actuel est celui des hippopotames.",
-                                   "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-                                  }
-                                 ]
+                                  "id": "hymenoptera",
+                                  "nom": "Hyménoptères",
+                                  "synapomorphies": [
+                                    "Haplodiploïdie",
+                                    "Ailes couplées par des crochets (hamuli)"
+                                  ],
+                                  "texte": "Abeilles, guêpes, fourmis ; plusieurs origines de l’eusocialité.",
+                                  "source": "animal societies/Biology of Animal Societies (2017-2018).pdf",
+                                  "enfants": [
+                                    {
+                                      "id": "formicidae",
+                                      "nom": "Fourmis (Formicidés)",
+                                      "synapomorphies": [
+                                        "Glande métapleurale",
+                                        "Pétiole"
+                                      ],
+                                      "texte": "Toutes eusociales.",
+                                      "source": "animal societies/Biology of Animal Societies (2017-2018).pdf"
+                                    },
+                                    {
+                                      "id": "apidae",
+                                      "nom": "Apidés",
+                                      "synapomorphies": [
+                                        "Corbeilles à pollen (chez les apinés)"
+                                      ],
+                                      "texte": "Abeilles domestiques, bourdons, mélipones.",
+                                      "source": "animal societies/Biology of Animal Societies (2017-2018).pdf"
+                                    }
+                                  ]
                                 }
-                               ]
-                              }
-                             ]
+                              ]
                             }
-                           ]
-                          }
-                         ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "deuterostomia",
+          "nom": "Deutérostomiens",
+          "synapomorphies": [
+            "Blastopore → anus",
+            "Clivage radial"
+          ],
+          "texte": "Ambulacraires + Chordés.",
+          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+          "enfants": [
+            {
+              "id": "ambulacraria",
+              "nom": "Ambulacraires",
+              "synapomorphies": [
+                "Larve dipleurula"
+              ],
+              "texte": "Échinodermes + Hémichordés.",
+              "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+              "enfants": [
+                {
+                  "id": "echinodermata",
+                  "nom": "Échinodermes",
+                  "synapomorphies": [
+                    "Squelette dermique de monocristaux de calcite (ossicules)",
+                    "Système ambulacraire dérivé du cœlome"
+                  ],
+                  "texte": "Symétrie pentaradiée secondaire ; larve bilatérale.",
+                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                },
+                {
+                  "id": "hemichordata",
+                  "nom": "Hémichordés",
+                  "texte": "Entéropneustes et ptérobranches.",
+                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                }
+              ]
+            },
+            {
+              "id": "chordata",
+              "nom": "Chordés",
+              "synapomorphies": [
+                "Notochorde",
+                "Tube neural dorsal",
+                "Pharynx à fentes",
+                "Queue post-anale",
+                "Endostyle"
+              ],
+              "texte": "Céphalocordés, urochordés, crâniates.",
+              "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+              "enfants": [
+                {
+                  "id": "cephalochordata",
+                  "nom": "Céphalocordés",
+                  "synapomorphies": [
+                    "Notochorde s’étendant jusqu’à l’avant de la tête"
+                  ],
+                  "texte": "Lancelets (amphioxus).",
+                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                },
+                {
+                  "id": "olfactores",
+                  "nom": "Olfactores",
+                  "texte": "Clade établi surtout par les données moléculaires : les tuniciers sont le groupe frère des vertébrés.",
+                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                  "enfants": [
+                    {
+                      "id": "urochordata",
+                      "nom": "Urochordés (Tuniciers)",
+                      "synapomorphies": [
+                        "Tunique de tunicine (cellulose animale)"
+                      ],
+                      "texte": "Larve têtard à chorde ; adulte souvent fixé.",
+                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                    },
+                    {
+                      "id": "craniata",
+                      "nom": "Crâniates (= Vertébrés)",
+                      "synapomorphies": [
+                        "Crêtes neurales",
+                        "Filaments branchiaux",
+                        "Tête bien définie"
+                      ],
+                      "texte": "Les microARN montrent que les cyclostomes sont monophylétiques : crâniates = vertébrés.",
+                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                      "enfants": [
+                        {
+                          "id": "cyclostomata",
+                          "nom": "Cyclostomes",
+                          "synapomorphies": [
+                            "Bouche sans mâchoire",
+                            "Quatre familles de microARN propres"
+                          ],
+                          "texte": "Myxines et lamproies.",
+                          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                          "enfants": [
+                            {
+                              "id": "petromyzontida",
+                              "nom": "Lamproies",
+                              "synapomorphies": [
+                                "Disque buccal à dents cornées"
+                              ],
+                              "texte": "Branchies en poches ; beaucoup sont parasites de poissons à l’âge adulte.",
+                              "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                            }
+                          ]
                         },
                         {
-                         "id": "sauropsida",
-                         "nom": "Sauropsides (Reptiles au sens cladistique)",
-                         "synapomorphies": [
-                          "Kératine β dans les écailles"
-                         ],
-                         "texte": "Tortues, lépidosaures, crocodiles et oiseaux. Les « reptiles » classiques sont paraphylétiques sans les oiseaux.",
-                         "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-                         "enfants": [
-                          {
-                           "id": "lepidosauria",
-                           "nom": "Lépidosaures",
-                           "synapomorphies": [
-                            "Mue en un seul morceau (exuviation)",
-                            "Fente cloacale transversale"
-                           ],
-                           "texte": "Lézards, serpents, sphénodon.",
-                           "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-                          },
-                          {
-                           "id": "archosauria",
-                           "nom": "Archosaures",
-                           "synapomorphies": [
-                            "Fenêtre antéorbitaire",
-                            "Dents en alvéoles (thécodontie)"
-                           ],
-                           "texte": "Crocodiles + dinosaures (dont les oiseaux).",
-                           "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-                           "enfants": [
+                          "id": "gnathostomata",
+                          "nom": "Gnathostomes",
+                          "synapomorphies": [
+                            "Mâchoires (arcs mandibulaires)",
+                            "Nageoires paires"
+                          ],
+                          "texte": "Vertébrés à mâchoires.",
+                          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                          "enfants": [
                             {
-                             "id": "aves",
-                             "nom": "Oiseaux",
-                             "synapomorphies": [
-                              "Plumes (déjà chez d’autres théropodes)",
-                              "Furcula",
-                              "Hallux retourné",
-                              "Bec corné sans dents (actuels)"
-                             ],
-                             "texte": "Dinosaures théropodes ; vol, sacs aériens, os pneumatisés.",
-                             "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
-                             "enfants": [
-                              {
-                               "id": "galliformes",
-                               "nom": "Galliformes",
-                               "texte": "Faisans, paons, poules : oiseaux terrestres à forte sélection sexuelle chez beaucoup d’espèces.",
-                               "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-                              },
-                              {
-                               "id": "passeriformes",
-                               "nom": "Passereaux",
-                               "synapomorphies": [
-                                "Pied anisodactyle à hallux fort, adapté au perchoir"
-                               ],
-                               "texte": "Plus de la moitié des espèces d’oiseaux ; les oscines apprennent leur chant.",
-                               "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
-                              }
-                             ]
+                              "id": "chondrichthyes",
+                              "nom": "Chondrichthyens",
+                              "synapomorphies": [
+                                "Squelette cartilagineux secondairement",
+                                "Écailles placoïdes"
+                              ],
+                              "texte": "Requins, raies, chimères.",
+                              "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                            },
+                            {
+                              "id": "osteichthyes",
+                              "nom": "Ostéichthyens",
+                              "synapomorphies": [
+                                "Os endochondral"
+                              ],
+                              "texte": "Poissons osseux au sens large, tétrapodes compris.",
+                              "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                              "enfants": [
+                                {
+                                  "id": "actinopterygii",
+                                  "nom": "Actinoptérygiens",
+                                  "synapomorphies": [
+                                    "Nageoires rayonnées sans lobe charnu"
+                                  ],
+                                  "texte": "Plus de la moitié des vertébrés.",
+                                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                                  "enfants": [
+                                    {
+                                      "id": "teleostei",
+                                      "nom": "Téléostéens",
+                                      "synapomorphies": [
+                                        "Queue homocerque",
+                                        "Prémaxillaire mobile"
+                                      ],
+                                      "texte": "≈ 96 % des poissons actuels.",
+                                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "id": "sarcopterygii",
+                                  "nom": "Sarcoptérygiens",
+                                  "synapomorphies": [
+                                    "Nageoires paires charnues à un seul os basal"
+                                  ],
+                                  "texte": "Cœlacanthes, dipneustes et tétrapodes.",
+                                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                                  "enfants": [
+                                    {
+                                      "id": "actinistia",
+                                      "nom": "Actinistiens",
+                                      "texte": "Cœlacanthes, autrefois qualifiés de « fossiles vivants » — terme que ton cours relativise.",
+                                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                                    },
+                                    {
+                                      "id": "rhipidistia",
+                                      "nom": "Rhipidistiens",
+                                      "synapomorphies": [
+                                        "Poumon alvéolé d’origine endodermique",
+                                        "Glotte",
+                                        "Cône artériel sinueux",
+                                        "Cœur à deux oreillettes"
+                                      ],
+                                      "texte": "Dipneustes + tétrapodes.",
+                                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                                      "enfants": [
+                                        {
+                                          "id": "tetrapoda",
+                                          "nom": "Tétrapodes",
+                                          "synapomorphies": [
+                                            "Membres chiridiens (doigts)",
+                                            "Ceintures reliées à la colonne"
+                                          ],
+                                          "texte": "Vertébrés à quatre membres, sortis de l’eau au Dévonien.",
+                                          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                                          "enfants": [
+                                            {
+                                              "id": "lissamphibia",
+                                              "nom": "Lissamphibiens",
+                                              "synapomorphies": [
+                                                "Dents bicuspides et pédicellées",
+                                                "Peau perméable impliquée dans la respiration"
+                                              ],
+                                              "texte": "Anoures, urodèles et gymnophiones (≈ 5 000 espèces selon ton cours ; plus de 8 000 aujourd’hui).",
+                                              "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                                              "enfants": [
+                                                {
+                                                  "id": "anura",
+                                                  "nom": "Anoures",
+                                                  "synapomorphies": [
+                                                    "Pas de queue chez l’adulte",
+                                                    "Pattes postérieures sauteuses",
+                                                    "Urostyle"
+                                                  ],
+                                                  "texte": "Grenouilles et crapauds.",
+                                                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                                                },
+                                                {
+                                                  "id": "urodela",
+                                                  "nom": "Urodèles",
+                                                  "synapomorphies": [
+                                                    "Queue conservée chez l’adulte"
+                                                  ],
+                                                  "texte": "Salamandres et tritons ; l’axolotl est un urodèle néoténique.",
+                                                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "id": "amniota",
+                                              "nom": "Amniotes",
+                                              "synapomorphies": [
+                                                "Œuf amniotique (amnios, chorion, allantoïde)"
+                                              ],
+                                              "texte": "L’œuf à annexes embryonnaires libère la reproduction du milieu aquatique (fin du Carbonifère).",
+                                              "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                              "enfants": [
+                                                {
+                                                  "id": "synapsida",
+                                                  "nom": "Synapsides",
+                                                  "synapomorphies": [
+                                                    "Une seule fosse temporale inférieure"
+                                                  ],
+                                                  "texte": "Lignée des mammifères ; les « reptiles mammaliens » (pélycosaures, thérapsides) en font partie.",
+                                                  "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                                                  "enfants": [
+                                                    {
+                                                      "id": "mammalia",
+                                                      "nom": "Mammifères",
+                                                      "synapomorphies": [
+                                                        "Articulation dento-squamosale",
+                                                        "Poils",
+                                                        "Glandes mammaires"
+                                                      ],
+                                                      "texte": "Synapsides dont la mâchoire s’articule entre le dentaire et le squamosal ; l’articulaire et le carré sont devenus marteau et enclume.",
+                                                      "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf",
+                                                      "enfants": [
+                                                        {
+                                                          "id": "monotremata",
+                                                          "nom": "Monotrèmes",
+                                                          "synapomorphies": [
+                                                            "Ovipares",
+                                                            "Cloaque",
+                                                            "Glandes mammaires sans mamelons"
+                                                          ],
+                                                          "texte": "Ornithorynque et échidnés : les seuls mammifères pondant des œufs.",
+                                                          "source": "Zoologie/Synthese sur tout le syllabus de zoologie de M. Flot.pdf"
+                                                        },
+                                                        {
+                                                          "id": "theria",
+                                                          "nom": "Thériens",
+                                                          "synapomorphies": [
+                                                            "Viviparité",
+                                                            "Mamelons"
+                                                          ],
+                                                          "texte": "Marsupiaux + Placentaires.",
+                                                          "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                                          "enfants": [
+                                                            {
+                                                              "id": "placentalia",
+                                                              "nom": "Placentaires",
+                                                              "synapomorphies": [
+                                                                "Placenta chorio-allantoïdien durable"
+                                                              ],
+                                                              "texte": "Quatre grands clades (Afrothères, Xénarthres, Euarchontoglires, Laurasiathères), établis surtout par la phylogénie moléculaire.",
+                                                              "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                                              "enfants": [
+                                                                {
+                                                                  "id": "euarchontoglires",
+                                                                  "nom": "Euarchontoglires",
+                                                                  "texte": "Primates + Rongeurs/Lagomorphes (et quelques petits groupes).",
+                                                                  "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                                                  "enfants": [
+                                                                    {
+                                                                      "id": "primates",
+                                                                      "nom": "Primates",
+                                                                      "synapomorphies": [
+                                                                        "Ongles plats",
+                                                                        "Pouce opposable",
+                                                                        "Vision binoculaire développée"
+                                                                      ],
+                                                                      "texte": "Inclut les hominidés (orangs-outans, gorilles, chimpanzés, humains).",
+                                                                      "source": "module 5/Anthropologie biologique.docx"
+                                                                    },
+                                                                    {
+                                                                      "id": "rodentia",
+                                                                      "nom": "Rongeurs",
+                                                                      "synapomorphies": [
+                                                                        "Une paire d’incisives à croissance continue à chaque mâchoire",
+                                                                        "Diastème"
+                                                                      ],
+                                                                      "texte": "L’ordre de mammifères le plus riche (≈ 40 % des espèces).",
+                                                                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "id": "laurasiatheria",
+                                                                  "nom": "Laurasiathères",
+                                                                  "texte": "Clade moléculaire : carnivores, chauves-souris, ongulés, cétacés, hérissons…",
+                                                                  "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                                                  "enfants": [
+                                                                    {
+                                                                      "id": "eulipotyphla",
+                                                                      "nom": "Eulipotyphles",
+                                                                      "texte": "Hérissons, taupes, musaraignes : insectivores au sens strict.",
+                                                                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                                                                    },
+                                                                    {
+                                                                      "id": "chiroptera",
+                                                                      "nom": "Chiroptères",
+                                                                      "synapomorphies": [
+                                                                        "Aile = patagium tendu entre les doigts allongés",
+                                                                        "Vol battu actif"
+                                                                      ],
+                                                                      "texte": "Deuxième ordre de mammifères en nombre d’espèces ; beaucoup utilisent l’écholocation.",
+                                                                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                                                                    },
+                                                                    {
+                                                                      "id": "carnivora",
+                                                                      "nom": "Carnivores",
+                                                                      "synapomorphies": [
+                                                                        "Carnassières (P4 supérieure / M1 inférieure tranchantes)"
+                                                                      ],
+                                                                      "texte": "Canidés, félidés, mustélidés, herpestidés (suricate)…",
+                                                                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                                                                    },
+                                                                    {
+                                                                      "id": "cetartiodactyla",
+                                                                      "nom": "Cétartiodactyles",
+                                                                      "synapomorphies": [
+                                                                        "Astragale à double poulie"
+                                                                      ],
+                                                                      "texte": "Les cétacés sont des artiodactyles : leur groupe frère actuel est celui des hippopotames.",
+                                                                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "id": "sauropsida",
+                                                  "nom": "Sauropsides (Reptiles au sens cladistique)",
+                                                  "synapomorphies": [
+                                                    "Kératine β dans les écailles"
+                                                  ],
+                                                  "texte": "Tortues, lépidosaures, crocodiles et oiseaux. Les « reptiles » classiques sont paraphylétiques sans les oiseaux.",
+                                                  "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                                  "enfants": [
+                                                    {
+                                                      "id": "lepidosauria",
+                                                      "nom": "Lépidosaures",
+                                                      "synapomorphies": [
+                                                        "Mue en un seul morceau (exuviation)",
+                                                        "Fente cloacale transversale"
+                                                      ],
+                                                      "texte": "Lézards, serpents, sphénodon.",
+                                                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                                                    },
+                                                    {
+                                                      "id": "archosauria",
+                                                      "nom": "Archosaures",
+                                                      "synapomorphies": [
+                                                        "Fenêtre antéorbitaire",
+                                                        "Dents en alvéoles (thécodontie)"
+                                                      ],
+                                                      "texte": "Crocodiles + dinosaures (dont les oiseaux).",
+                                                      "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                                      "enfants": [
+                                                        {
+                                                          "id": "aves",
+                                                          "nom": "Oiseaux",
+                                                          "synapomorphies": [
+                                                            "Plumes (déjà chez d’autres théropodes)",
+                                                            "Furcula",
+                                                            "Hallux retourné",
+                                                            "Bec corné sans dents (actuels)"
+                                                          ],
+                                                          "texte": "Dinosaures théropodes ; vol, sacs aériens, os pneumatisés.",
+                                                          "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                                          "enfants": [
+                                                            {
+                                                              "id": "galliformes",
+                                                              "nom": "Galliformes",
+                                                              "texte": "Faisans, paons, poules : oiseaux terrestres à forte sélection sexuelle chez beaucoup d’espèces.",
+                                                              "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                                                            },
+                                                            {
+                                                              "id": "passeriformes",
+                                                              "nom": "Passereaux",
+                                                              "synapomorphies": [
+                                                                "Pied anisodactyle à hallux fort, adapté au perchoir"
+                                                              ],
+                                                              "texte": "Plus de la moitié des espèces d’oiseaux ; les oscines apprennent leur chant.",
+                                                              "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf"
+                                                            },
+                                                            {
+                                                              "id": "gruiformes",
+                                                              "nom": "Gruiformes (grues, râles)",
+                                                              "synapomorphies": [
+                                                                "Monophylie établie surtout par la phylogénomique (pas de synapomorphie morphologique simple)"
+                                                              ],
+                                                              "texte": "Ordre regroupant les grues, les râles, les foulques et quelques familles tropicales. Les grandes phylogénies moléculaires d’oiseaux le placent dans un ensemble avec les Cuculiformes (coucous) et les outardes (Otididés).",
+                                                              "source": "Zoologie/Synthese de Zoologie 2 2019-2020.pdf",
+                                                              "enfants": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
                             }
-                           ]
-                          }
-                         ]
+                          ]
                         }
-                       ]
-                      }
-                     ]
+                      ]
                     }
-                   ]
-                  }
-                 ]
+                  ]
                 }
-               ]
-              }
-             ]
+              ]
             }
-           ]
-          }
-         ]
+          ]
         }
-       ]
-      }
-     ]
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

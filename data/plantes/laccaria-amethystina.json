@@ -1,0 +1,145 @@
+{
+  "id": "laccaria-amethystina",
+  "nom": "Laccaire améthyste",
+  "latin": "Laccaria amethystina",
+  "type": "champignon",
+  "regne": "champignon",
+  "milieu": [
+    "foret"
+  ],
+  "belgique": true,
+  "clade": "agaricales",
+  "saison": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "resume": "Petit champignon **entièrement violet** des hêtraies et chênaies, très commun en automne. Partenaire **ectomycorhizien** des arbres ; son cousin *Laccaria bicolor* a été le premier champignon ectomycorhizien dont on a séquencé le génome.",
+  "phylogenie": [
+    {
+      "rang": "Règne",
+      "nom": "Champignons (Fungi)",
+      "synapomorphies": [
+        "Hétérotrophie par absorption",
+        "Paroi chitineuse",
+        "Hyphes"
+      ]
+    },
+    {
+      "rang": "Division",
+      "nom": "Basidiomycètes",
+      "synapomorphies": [
+        "Baside à 4 spores",
+        "Dicaryon durable"
+      ]
+    },
+    {
+      "rang": "Classe",
+      "nom": "Agaricomycètes",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Agaricales",
+      "synapomorphies": [
+        "Lames"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Hydnangiacées",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Laccaria",
+      "synapomorphies": [
+        "Lames épaisses et espacées",
+        "Spores blanches à épines"
+      ]
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Amanita muscaria",
+    "parents": [
+      "Laccaria bicolor",
+      "Laccaria laccata"
+    ]
+  },
+  "anatomie": {
+    "essentiel": "Sporophore de 2–6 cm, violet améthyste profond lorsqu’il est humide. Il est **hygrophane** : en séchant, il pâlit jusqu’au lilas grisâtre, ce qui le rend méconnaissable. Lames épaisses, **espacées**, violettes, poudrées de blanc par les spores à maturité.",
+    "details": "Le mycélium forme des **ectomycorhizes** : un manchon d’hyphes autour des radicelles et un **réseau de Hartig** entre les cellules du cortex, sans y pénétrer. Chez *Laccaria bicolor*, le génome (2008) a montré une réduction des enzymes de dégradation de la cellulose et des petites protéines sécrétées comme l’effecteur MiSSP7, qui atténue les défenses de la plante hôte pour permettre la symbiose."
+  },
+  "identification": {
+    "chapeau": "2–6 cm, violet vif humide, pâlissant en séchant ; convexe puis ombiliqué, un peu squamuleux",
+    "lames": "Violettes, épaisses, très espacées, adnées ; poudrées de blanc par les spores",
+    "pied": "Violet, fibreux, coriace, souvent tordu, à base duvetée de lilas",
+    "chair": "Mince, violacée, sans odeur marquée",
+    "habitat": "Hêtraies, chênaies, aussi sous conifères ; souvent en troupes dans la litière",
+    "periode": "Août–novembre"
+  },
+  "ecologie": {
+    "essentiel": "Ectomycorhizien généraliste du hêtre, du chêne et de nombreux conifères. Un des champignons les plus fréquents des hêtraies acidiphiles belges.",
+    "details": "Il échange l’azote et le phosphore puisés par ses hyphes contre des sucres de l’arbre. Comme les autres *Laccaria*, il colonise vite les jeunes racines, ce qui en fait un candidat classique pour inoculer des plants forestiers.",
+    "uicn": "NE",
+    "menaces": [
+      "—"
+    ]
+  },
+  "usages": {
+    "essentiel": "Comestible médiocre, mais il **accumule l’arsenic** du sol : à éviter, surtout en grande quantité ou près de sites pollués.",
+    "details": "Son intérêt est surtout scientifique : le genre *Laccaria* est un modèle de la symbiose ectomycorhizienne. Toute cueillette doit être vérifiée par un expert (mycologue, cercle de mycologie).",
+    "confusions_dangereuses": [
+      "Mycène pure (Mycena pura) : rose-lilas, odeur de radis, lames serrées et fines ; toxique (muscarine)",
+      "Inocybes à teinte lilas (Inocybe geophylla var. lilacina) : petit chapeau soyeux, lames brunissantes ; toxique (muscarine)",
+      "Cortinaires violets (Cortinarius spp.) : cortine (voile en toile d’araignée) et spores rouille ; certains sont mortels"
+    ]
+  },
+  "facts": [
+    "Il est hygrophane : violet vif humide, il devient lilas pâle en séchant.",
+    "Il vit en ectomycorhize avec le hêtre, le chêne et de nombreux conifères.",
+    "Il peut accumuler l’arsenic du sol.",
+    "Le génome de son cousin Laccaria bicolor (2008) a été le premier d’un champignon ectomycorhizien."
+  ],
+  "anecdote": "Le laccaire améthyste change de couleur en séchant : le même champignon peut paraître violet le matin et gris-lilas l’après-midi.",
+  "indices_quiz": [
+    "Agaricale de la famille des Hydnangiacées.",
+    "Ectomycorhizien du hêtre, aux lames épaisses et espacées.",
+    "Tout violet quand il est humide, il accumule l’arsenic."
+  ],
+  "terrain": {
+    "ou": "Hêtraies et chênaies acides : forêt de Soignes, bois de Hal, Ardenne.",
+    "quand": "Septembre–novembre, après les pluies.",
+    "criteres": [
+      "Tout violet (chapeau, lames, pied)",
+      "Lames épaisses et très espacées",
+      "Pied fibreux et coriace"
+    ],
+    "sosies": [
+      {
+        "espece": "Mycène pure (Mycena pura)",
+        "distinguer": "Odeur de radis, lames fines et serrées, pied fragile et creux."
+      },
+      {
+        "espece": "Laccaire laqué (Laccaria laccata)",
+        "distinguer": "Même silhouette et mêmes lames espacées, mais orange-brun et non violet."
+      }
+    ]
+  },
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/55899",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Laccaria_amethystina"
+  },
+  "notions": [
+    "mycorhizes",
+    "champignons-opisthocontes"
+  ],
+  "ajoute_le": "2026-11-05",
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/100850899/medium.jpeg",
+    "credit": "(c) Christian Berg, some rights reserved (CC BY), uploaded by Christian Berg",
+    "licence": "CC BY",
+    "source": "https://www.inaturalist.org/photos/100850899"
+  }
+}

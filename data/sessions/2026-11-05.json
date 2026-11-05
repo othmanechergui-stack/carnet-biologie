@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-05",
+  "revision": "mycorhizes",
+  "bonus": {
+    "titre": "Le « wood wide web » en débat : que transportent vraiment les réseaux mycorhiziens communs ?",
+    "essentiel": "Un même mycélium ectomycorhizien peut relier les racines de plusieurs arbres : on parle de **réseau mycorhizien commun**. En 1997, Simard et al. (*Nature*) ont suivi par marquage isotopique un transfert de carbone entre bouleau et douglas, ce qui a lancé l’idée d’arbres « mères » nourrissant leurs semis. En 2023, Karst et al. (*Nature Ecology & Evolution*) ont réexaminé la littérature : l’existence de ces réseaux en forêt est bien établie, mais les transferts de ressources ou de signaux **bénéfiques pour la plante receveuse** sont rarement démontrés au champ. Ils pointent aussi un **biais de citation** en faveur des résultats positifs.",
+    "details": "Le problème est méthodologique. Montrer qu’un isotope passe d’un arbre à un autre ne prouve pas qu’il transite par les hyphes plutôt que par le sol, ni qu’il profite à la plante receveuse plutôt qu’au champignon. Il faut des témoins où le réseau est coupé (barrières à mailles plus fines que les hyphes) et mesurer la croissance ou la survie, pas seulement la présence du marqueur.\n\nDu point de vue évolutif, un champignon ectomycorhizien comme le laccaire est un partenaire qui maximise sa propre fitness : il n’a aucune raison de « redistribuer » le carbone entre arbres si cela ne lui profite pas. Les mycorhizes sont un **mutualisme**, avec des coûts, des conflits et parfois des tricheurs, comme les orchidées et monotropes **mycohétérotrophes** qui exploitent le réseau sans rien donner.",
+    "lien_notion": "mutualismes"
+  },
+  "animal": "grus-grus",
+  "animaux_reserve": [
+    "sphenodon-punctatus",
+    "hydra-vulgaris",
+    "trichoplax-adhaerens"
+  ],
+  "plante": "laccaria-amethystina",
+  "plantes_reserve": [
+    "anthoceros-agrestis",
+    "chondrus-crispus"
+  ],
+  "digest": [
+    "2026-11-05-colverts-elevage-adn",
+    "2026-11-04-sphinx-genitalia-ultrasons",
+    "2026-11-04-spermophiles-hibernation-parentele",
+    "2026-11-03-chytride-grenouilles-boraceia"
+  ],
+  "quiz": [
+    {
+      "type": "notion",
+      "ref": "mycorhizes"
+    },
+    {
+      "type": "leitner"
+    },
+    {
+      "type": "identifier",
+      "ref": "erithacus-rubecula"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-11-01-acanthaster-diversite"
+    },
+    {
+      "type": "actu",
+      "ref": "2026-10-29-faux-hippocampes"
+    }
+  ]
+}

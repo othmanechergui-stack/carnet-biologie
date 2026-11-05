@@ -1,0 +1,110 @@
+{
+  "id": "sphenodon-punctatus",
+  "nom": "Sphénodon (tuatara)",
+  "latin": "Sphenodon punctatus",
+  "groupe": "reptile",
+  "milieu": [
+    "foret",
+    "falaise"
+  ],
+  "belgique": false,
+  "clade": "lepidosauria",
+  "resume": "Ressemble à un lézard mais n’en est pas un : c’est le **dernier représentant des Rhynchocéphales**, groupe frère des Squamates (lézards et serpents). Endémique de Nouvelle-Zélande, il vit très lentement et très longtemps.",
+  "phylogenie": [
+    {
+      "rang": "Embranchement",
+      "nom": "Chordés",
+      "synapomorphies": [
+        "Notochorde",
+        "Tube neural dorsal",
+        "Fentes pharyngiennes",
+        "Queue post-anale",
+        "Endostyle"
+      ]
+    },
+    {
+      "rang": "Clade",
+      "nom": "Sauropsides (diapsides)",
+      "synapomorphies": [
+        "Deux fosses temporales"
+      ]
+    },
+    {
+      "rang": "Clade",
+      "nom": "Lépidosaures",
+      "synapomorphies": [
+        "Écailles kératinisées",
+        "Mâles à deux hémipénis (absents chez le sphénodon)"
+      ]
+    },
+    {
+      "rang": "Ordre",
+      "nom": "Rhynchocéphales",
+      "synapomorphies": [
+        "Prémaxillaire à 2–3 dents fusionnées",
+        "Double rangée de dents à la mâchoire supérieure"
+      ]
+    },
+    {
+      "rang": "Famille",
+      "nom": "Sphénodontidés",
+      "synapomorphies": []
+    },
+    {
+      "rang": "Genre",
+      "nom": "Sphenodon",
+      "synapomorphies": []
+    }
+  ],
+  "mini_arbre": {
+    "externe": "Crocodylus niloticus",
+    "parents": [
+      "Lacerta agilis"
+    ]
+  },
+  "caracteristiques": {
+    "essentiel": "Il conserve les **deux arcades temporales** complètes du crâne diapside, que les Squamates ont perdues en partie. Ses dents sont soudées à l’os des mâchoires, avec une **double rangée** en haut dans laquelle s’emboîte la rangée inférieure. Les mâles n’ont **pas d’organe copulateur**.",
+    "details": "Chez le jeune, un **œil pariétal** (« troisième œil ») avec cristallin et rétine est visible au sommet du crâne, avant d’être recouvert d’écailles. Il est relié à l’épiphyse et interviendrait dans les rythmes liés à la lumière.\n\nL’absence d’hémipénis contredit l’apomorphie « deux hémipénis » des Lépidosaures : des embryons de sphénodon ébauchent des bourgeons génitaux qui régressent, ce qui plaide pour une **perte secondaire**. Bel exemple d’apomorphie de groupe absente chez un de ses membres."
+  },
+  "comportement": {
+    "essentiel": "Nocturne, il partage souvent les terriers des oiseaux marins (pétrels, puffins) des îlots où il survit. Il reste actif à des températures corporelles basses pour un reptile.",
+    "details": "Croissance et reproduction extrêmement lentes : maturité sexuelle vers 10–20 ans, une ponte tous les quelques années, incubation de plus d’un an. Le **sexe dépend de la température d’incubation** : des œufs plus chauds donnent plus de mâles, ce qui fait du réchauffement une menace pour le sex-ratio.",
+    "concepts": []
+  },
+  "ecologie": {
+    "essentiel": "Surtout sur une trentaine d’îlots sans prédateurs introduits au large de la Nouvelle-Zélande ; réintroduit dans des sanctuaires clôturés comme Zealandia (Wellington).",
+    "details": "Il mange surtout des invertébrés (wetas, coléoptères), parfois des œufs et des poussins d’oiseaux marins. Les rats introduits, qui mangent œufs et jeunes, l’ont fait disparaître de l’île principale.",
+    "uicn": "LC",
+    "menaces": [
+      "Rats et autres prédateurs introduits",
+      "Réchauffement (sex-ratio biaisé vers les mâles)",
+      "Très faible taux de reproduction"
+    ]
+  },
+  "facts": [
+    "C’est la seule espèce vivante des Rhynchocéphales, groupe qui était diversifié au Mésozoïque.",
+    "Les mâles n’ont pas d’hémipénis, contrairement aux lézards et aux serpents.",
+    "Les jeunes ont un œil pariétal visible au sommet de la tête.",
+    "Le sexe des petits dépend de la température d’incubation des œufs."
+  ],
+  "anecdote": "Le sphénodon n’est pas un lézard : il est plus éloigné d’un lézard qu’un lézard d’un serpent.",
+  "indices_quiz": [
+    "Lépidosaure, dernier Rhynchocéphale vivant.",
+    "Nocturne, il partage les terriers d’oiseaux marins.",
+    "Les jeunes ont un « troisième œil » au sommet du crâne."
+  ],
+  "liens": {
+    "inaturalist": "https://www.inaturalist.org/taxa/200834",
+    "commons": "https://commons.wikimedia.org/wiki/Category:Sphenodon_punctatus"
+  },
+  "notions": [
+    "caracteres-cladistique"
+  ],
+  "ajoute_le": "2026-11-05",
+  "photo": {
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31712982/medium.jpg",
+    "credit": "(c) digitaltrails, some rights reserved (CC BY-NC-SA)",
+    "licence": "CC BY-NC-SA",
+    "source": "https://www.inaturalist.org/photos/31712982"
+  }
+}

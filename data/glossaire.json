@@ -1,1796 +1,1890 @@
 [
- {
-  "terme": "synapomorphie",
-  "variantes": [
-   "synapomorphies"
-  ],
-  "definition": "Caractère dérivé (apomorphie) partagé par plusieurs taxons, hérité de leur ancêtre commun. C’est le seul type de caractère qui permet de reconnaître un clade.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "apomorphie",
-  "variantes": [
-   "apomorphies"
-  ],
-  "definition": "État dérivé d’un caractère, apparu au cours de l’évolution (par opposition à l’état ancestral).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "plésiomorphie",
-  "variantes": [
-   "plésiomorphies"
-  ],
-  "definition": "État ancestral d’un caractère.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "symplésiomorphie",
-  "variantes": [
-   "symplésiomorphies"
-  ],
-  "definition": "État ancestral partagé par plusieurs taxons. Il ne prouve pas leur parenté proche (ex. : les vertèbres chez requins et poissons osseux).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "autapomorphie",
-  "variantes": [
-   "autapomorphies"
-  ],
-  "definition": "Caractère dérivé propre à un seul taxon ; inutile pour établir des relations de parenté.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "homoplasie",
-  "variantes": [
-   "homoplasies"
-  ],
-  "definition": "Ressemblance non héritée d’un ancêtre commun : convergence ou réversion.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "convergence",
-  "variantes": [
-   "convergences",
-   "convergente",
-   "convergent"
-  ],
-  "definition": "Apparition indépendante d’un même caractère dans des lignées différentes (ex. : ailes des oiseaux et des chauves-souris).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "réversion",
-  "variantes": [
-   "réversions"
-  ],
-  "definition": "Retour secondaire à un état qui ressemble à l’état ancestral (ex. : perte des pattes chez les serpents).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "monophylétique",
-  "variantes": [
-   "monophylétiques",
-   "monophylie"
-  ],
-  "definition": "Se dit d’un groupe qui comprend un ancêtre et TOUS ses descendants (= clade).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "paraphylétique",
-  "variantes": [
-   "paraphylétiques",
-   "paraphylie"
-  ],
-  "definition": "Groupe qui comprend un ancêtre et seulement une partie de ses descendants (ex. : « Reptiles » sans les oiseaux). Fondé sur des plésiomorphies.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "polyphylétique",
-  "variantes": [
-   "polyphylétiques"
-  ],
-  "definition": "Groupe qui réunit des taxons sans leur ancêtre commun, sur la base de convergences (ex. : « animaux à sang chaud »).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "clade",
-  "variantes": [
-   "clades"
-  ],
-  "definition": "Groupe monophylétique : un ancêtre et l’ensemble de ses descendants.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "groupe externe",
-  "variantes": [
-   "groupes externes",
-   "outgroup"
-  ],
-  "definition": "Taxon extérieur au groupe étudié, utilisé pour déterminer quel état d’un caractère est ancestral (polarisation).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "groupe frère",
-  "variantes": [
-   "groupes frères"
-  ],
-  "definition": "Le clade le plus proche parent d’un autre clade : ils partagent un ancêtre commun exclusif.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "parcimonie",
-  "variantes": [],
-  "definition": "Principe qui retient l’arbre demandant le moins de changements d’états (donc le moins d’homoplasies).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "cladogramme",
-  "variantes": [
-   "cladogrammes"
-  ],
-  "definition": "Arbre qui représente uniquement l’ordre de branchement (qui est plus proche de qui), sans échelle de temps.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "taxon",
-  "variantes": [
-   "taxons",
-   "taxa"
-  ],
-  "definition": "Groupe d’organismes nommé, à n’importe quel rang (espèce, genre, famille…).",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "embranchement",
-  "variantes": [
-   "embranchements",
-   "phylum"
-  ],
-  "definition": "Rang de classification juste sous le règne (ex. : Chordés, Arthropodes) ; « phylum » en anglais.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "polytomie",
-  "variantes": [
-   "polytomies"
-  ],
-  "definition": "Nœud d’où partent plus de deux branches : relations non résolues.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "cladistique",
-  "variantes": [],
-  "definition": "École de classification (Hennig) qui ne reconnaît que des groupes monophylétiques définis par des synapomorphies.",
-  "domaine": "phylogénie"
- },
- {
-  "terme": "notochorde",
-  "variantes": [
-   "chorde",
-   "chorde dorsale"
-  ],
-  "definition": "Baguette dorsale souple d’origine mésodermique, présente chez tous les chordés (au moins chez l’embryon).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "tube neural",
-  "variantes": [],
-  "definition": "Système nerveux central creux, dorsal chez les chordés, issu du repli de l’ectoderme.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "endostyle",
-  "variantes": [],
-  "definition": "Gouttière ciliée du plancher du pharynx des chordés, qui sécrète du mucus et fixe l’iode ; homologue de la thyroïde.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "fentes pharyngiennes",
-  "variantes": [
-   "fentes branchiales",
-   "pharyngotrémie"
-  ],
-  "definition": "Ouvertures du pharynx vers l’extérieur ; servent à filtrer ou respirer ; présentes au moins chez l’embryon des chordés.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "crêtes neurales",
-  "variantes": [
-   "crête neurale"
-  ],
-  "definition": "Cellules embryonnaires qui se détachent des bords du tube neural et migrent (pigments, nerfs, os de la face). Synapomorphie des crâniates.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "épineurien",
-  "variantes": [
-   "épineuriens"
-  ],
-  "definition": "Animal dont le système nerveux central est dorsal (chordés).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "hyponeurien",
-  "variantes": [
-   "hyponeuriens"
-  ],
-  "definition": "Animal dont le système nerveux central est ventral (protostomiens).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "diploblastique",
-  "variantes": [
-   "diploblastiques",
-   "diploblaste",
-   "diploblastes"
-  ],
-  "definition": "Qui possède deux feuillets embryonnaires (ectoderme et endoderme), comme les cnidaires.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "triploblastique",
-  "variantes": [
-   "triploblastiques",
-   "triploblaste",
-   "triploblastes"
-  ],
-  "definition": "Qui possède trois feuillets embryonnaires (ectoderme, mésoderme, endoderme) = Bilatériens.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "mésoderme",
-  "variantes": [],
-  "definition": "Feuillet embryonnaire intermédiaire, à l’origine des muscles, du squelette, du sang et de la paroi du cœlome.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "ectoderme",
-  "variantes": [],
-  "definition": "Feuillet embryonnaire externe : épiderme et système nerveux.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "endoderme",
-  "variantes": [],
-  "definition": "Feuillet embryonnaire interne : tube digestif et glandes associées. (En botanique : assise interne de l’écorce de la racine.)",
-  "domaine": "zoologie"
- },
- {
-  "terme": "mésoglée",
-  "variantes": [],
-  "definition": "Matrice extracellulaire gélatineuse entre l’épiderme et le gastroderme des cnidaires.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "cnidocyte",
-  "variantes": [
-   "cnidocytes",
-   "nématocyste",
-   "nématocystes"
-  ],
-  "definition": "Cellule urticante des cnidaires contenant un nématocyste (capsule à filament projetable).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "choanocyte",
-  "variantes": [
-   "choanocytes"
-  ],
-  "definition": "Cellule à flagelle entouré d’une collerette de microvillosités ; crée le courant d’eau et capture les particules chez les éponges.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "cœlome",
-  "variantes": [
-   "coelome",
-   "cœlomates",
-   "coelomates"
-  ],
-  "definition": "Cavité générale entièrement bordée de mésoderme.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "pseudocœlome",
-  "variantes": [
-   "pseudocoelome",
-   "pseudocœlomates",
-   "pseudocoelomates"
-  ],
-  "definition": "Cavité générale bordée d’un côté par le mésoderme et de l’autre par l’endoderme.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "protostomien",
-  "variantes": [
-   "protostomiens"
-  ],
-  "definition": "Bilatérien chez qui le blastopore donne classiquement la bouche (arthropodes, mollusques, annélides…).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "deutérostomien",
-  "variantes": [
-   "deutérostomiens"
-  ],
-  "definition": "Bilatérien chez qui le blastopore donne l’anus, la bouche se formant secondairement (échinodermes, chordés).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "blastopore",
-  "variantes": [],
-  "definition": "Orifice par lequel l’endoderme s’invagine lors de la gastrulation.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "gastrulation",
-  "variantes": [],
-  "definition": "Étape du développement où se mettent en place les feuillets embryonnaires.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "clivage spiral",
-  "variantes": [],
-  "definition": "Divisions de l’œuf où les blastomères se disposent en spirale ; typique des Spiraliens (Lophotrochozoaires).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "ecdysozoaires",
-  "variantes": [
-   "ecdysozoaire"
-  ],
-  "definition": "Clade d’animaux qui muent leur cuticule (arthropodes, nématodes, tardigrades…).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "lophotrochozoaires",
-  "variantes": [
-   "lophotrochozoaire"
-  ],
-  "definition": "Clade de protostomiens (mollusques, annélides, plathelminthes…), souvent à larve trochophore ou lophophore.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "mue",
-  "variantes": [
-   "mues",
-   "ecdysis"
-  ],
-  "definition": "Remplacement périodique de la cuticule (ecdysis), contrôlé par les ecdystéroïdes.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "ecdystéroïdes",
-  "variantes": [
-   "ecdystéroïde"
-  ],
-  "definition": "Hormones stéroïdes qui déclenchent la mue chez les ecdysozoaires.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "cuticule",
-  "variantes": [
-   "cuticules"
-  ],
-  "definition": "Couche protectrice sécrétée par l’épiderme (chitineuse chez les arthropodes ; cireuse chez les plantes).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "chitine",
-  "variantes": [],
-  "definition": "Polymère d’acétylglucosamine : cuticule des arthropodes, paroi des champignons.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "manteau",
-  "variantes": [],
-  "definition": "Tégument des mollusques qui sécrète la coquille.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "radula",
-  "variantes": [],
-  "definition": "Ruban chitineux denté qui râpe la nourriture chez les mollusques (perdu chez les bivalves).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "cténidies",
-  "variantes": [
-   "cténidie"
-  ],
-  "definition": "Branchies en peigne des mollusques.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "torsion",
-  "variantes": [],
-  "definition": "Rotation de 180° de la masse viscérale chez l’embryon des gastéropodes.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "métamérie",
-  "variantes": [
-   "métamères",
-   "métamérisé"
-  ],
-  "definition": "Organisation du corps en segments répétés (métamères).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "chètes",
-  "variantes": [
-   "chète",
-   "soies chitineuses"
-  ],
-  "definition": "Soies chitineuses des annélides.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "clitellum",
-  "variantes": [],
-  "definition": "Renflement glandulaire des clitellates (lombrics, sangsues) qui sécrète le cocon.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "tagme",
-  "variantes": [
-   "tagmes",
-   "tagmatisation"
-  ],
-  "definition": "Région du corps formée de segments fusionnés (tête, thorax, abdomen).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "chélicères",
-  "variantes": [
-   "chélicère"
-  ],
-  "definition": "Premiers appendices buccaux en pince des chélicérates (araignées, scorpions).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "système ambulacraire",
-  "variantes": [
-   "pieds ambulacraires"
-  ],
-  "definition": "Réseau de canaux remplis d’eau dérivé du cœlome, actionnant les pieds ambulacraires des échinodermes.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "ossicules",
-  "variantes": [
-   "ossicule"
-  ],
-  "definition": "Petites pièces squelettiques de calcite des échinodermes.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "crâniates",
-  "variantes": [],
-  "definition": "Chordés à tête différenciée et crêtes neurales ; synonyme de vertébrés.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "cyclostomes",
-  "variantes": [],
-  "definition": "Vertébrés sans mâchoires actuels : lamproies et myxines.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "gnathostomes",
-  "variantes": [
-   "gnathostome"
-  ],
-  "definition": "Vertébrés à mâchoires.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "ostéichthyens",
-  "variantes": [],
-  "definition": "Clade des « poissons osseux » au sens large, tétrapodes compris ; synapomorphie : os endochondral.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "sarcoptérygiens",
-  "variantes": [
-   "sarcoptérygien"
-  ],
-  "definition": "Poissons à nageoires charnues (cœlacanthes, dipneustes) + tétrapodes.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "rhipidistiens",
-  "variantes": [],
-  "definition": "Dipneustes + tétrapodes ; poumon alvéolé, glotte, cœur à deux oreillettes.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "tétrapodes",
-  "variantes": [
-   "tétrapode"
-  ],
-  "definition": "Vertébrés à quatre membres chiridiens (à doigts).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "membre chiridien",
-  "variantes": [
-   "membres chiridiens"
-  ],
-  "definition": "Membre à doigts des tétrapodes (stylopode, zeugopode, autopode).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "amniotes",
-  "variantes": [
-   "œuf amniotique"
-  ],
-  "definition": "Tétrapodes dont l’embryon est protégé par des annexes (amnios, chorion, allantoïde) : reptiles, oiseaux, mammifères.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "synapsides",
-  "variantes": [
-   "synapside"
-  ],
-  "definition": "Amniotes à une seule fosse temporale : lignée des mammifères.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "diapsides",
-  "variantes": [],
-  "definition": "Amniotes à deux fosses temporales : lépidosaures et archosaures.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "archosaures",
-  "variantes": [],
-  "definition": "Crocodiles + dinosaures (dont les oiseaux).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "articulation dento-squamosale",
-  "variantes": [],
-  "definition": "Articulation de la mâchoire entre le dentaire et le squamosal : synapomorphie des mammifères.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "monotrèmes",
-  "variantes": [],
-  "definition": "Mammifères ovipares (ornithorynque, échidnés).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "furcula",
-  "variantes": [],
-  "definition": "Clavicules soudées en fourchette des oiseaux (et de théropodes).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "olfactores",
-  "variantes": [],
-  "definition": "Clade tuniciers + vertébrés.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "eutélie",
-  "variantes": [
-   "eutélique",
-   "eutéliques"
-  ],
-  "definition": "Nombre de cellules fixe chez l’adulte (nématodes, rotifères, tardigrades).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "aposématisme",
-  "variantes": [
-   "aposématique",
-   "aposématiques"
-  ],
-  "definition": "Couleurs vives signalant la toxicité ou le mauvais goût d’une proie.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "ovovivipare",
-  "variantes": [
-   "ovoviviparité"
-  ],
-  "definition": "Qui garde les œufs dans les voies génitales jusqu’à l’éclosion, sans échanges placentaires.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "catadrome",
-  "variantes": [
-   "anadrome"
-  ],
-  "definition": "Poisson qui grandit en eau douce et se reproduit en mer (anguille). L’inverse : anadrome (saumon, lamproie).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "néoténie",
-  "variantes": [],
-  "definition": "Rétention de caractères juvéniles chez l’adulte reproducteur (axolotl ; forme du crâne humain).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "hétérochronie",
-  "variantes": [
-   "hétérochronies"
-  ],
-  "definition": "Changement du calendrier du développement entre ancêtre et descendant.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "embryophytes",
-  "variantes": [
-   "embryophyte"
-  ],
-  "definition": "Plantes terrestres : embryon nourri par le gamétophyte, spores à sporopollénine, gamétanges protégés.",
-  "domaine": "botanique"
- },
- {
-  "terme": "sporophyte",
-  "variantes": [
-   "sporophytes"
-  ],
-  "definition": "Génération diploïde (2n) qui produit des spores par méiose.",
-  "domaine": "botanique"
- },
- {
-  "terme": "gamétophyte",
-  "variantes": [
-   "gamétophytes"
-  ],
-  "definition": "Génération haploïde (n) qui produit les gamètes.",
-  "domaine": "botanique"
- },
- {
-  "terme": "sporopollénine",
-  "variantes": [],
-  "definition": "Polymère très résistant de la paroi des spores et des grains de pollen.",
-  "domaine": "botanique"
- },
- {
-  "terme": "archégone",
-  "variantes": [
-   "archégones"
-  ],
-  "definition": "Gamétange femelle multicellulaire en forme de bouteille, contenant une oosphère.",
-  "domaine": "botanique"
- },
- {
-  "terme": "anthéridie",
-  "variantes": [
-   "anthéridies"
-  ],
-  "definition": "Gamétange mâle multicellulaire.",
-  "domaine": "botanique"
- },
- {
-  "terme": "gamétange",
-  "variantes": [
-   "gamétanges"
-  ],
-  "definition": "Organe producteur de gamètes.",
-  "domaine": "botanique"
- },
- {
-  "terme": "sporange",
-  "variantes": [
-   "sporanges"
-  ],
-  "definition": "Organe producteur de spores.",
-  "domaine": "botanique"
- },
- {
-  "terme": "stomate",
-  "variantes": [
-   "stomates"
-  ],
-  "definition": "Pore de l’épiderme bordé de deux cellules de garde, qui règle les échanges gazeux.",
-  "domaine": "botanique"
- },
- {
-  "terme": "méristème",
-  "variantes": [
-   "méristèmes"
-  ],
-  "definition": "Massif de cellules indifférenciées qui se divisent (apical : croissance en longueur ; cambium : en épaisseur).",
-  "domaine": "botanique"
- },
- {
-  "terme": "xylème",
-  "variantes": [],
-  "definition": "Tissu conducteur de la sève brute (eau, sels minéraux) : trachéides et vaisseaux morts, lignifiés.",
-  "domaine": "botanique"
- },
- {
-  "terme": "phloème",
-  "variantes": [
-   "liber"
-  ],
-  "definition": "Tissu conducteur de la sève élaborée (sucres) : tubes criblés vivants.",
-  "domaine": "botanique"
- },
- {
-  "terme": "trachéide",
-  "variantes": [
-   "trachéides"
-  ],
-  "definition": "Cellule conductrice du xylème, allongée, morte, communiquant par des ponctuations.",
-  "domaine": "botanique"
- },
- {
-  "terme": "cambium",
-  "variantes": [],
-  "definition": "Méristème secondaire qui produit le bois vers l’intérieur et le liber vers l’extérieur.",
-  "domaine": "botanique"
- },
- {
-  "terme": "phellogène",
-  "variantes": [],
-  "definition": "Méristème secondaire qui produit le liège.",
-  "domaine": "botanique"
- },
- {
-  "terme": "collenchyme",
-  "variantes": [],
-  "definition": "Tissu de soutien vivant, à parois cellulosiques épaissies, souple.",
-  "domaine": "botanique"
- },
- {
-  "terme": "sclérenchyme",
-  "variantes": [],
-  "definition": "Tissu de soutien à parois lignifiées, rigide (fibres, sclérites).",
-  "domaine": "botanique"
- },
- {
-  "terme": "lignine",
-  "variantes": [
-   "lignifié",
-   "lignifiées",
-   "lignifiés"
-  ],
-  "definition": "Polymère qui rigidifie et imperméabilise les parois (bois).",
-  "domaine": "botanique"
- },
- {
-  "terme": "cadre de Caspary",
-  "variantes": [
-   "cadres de Caspary",
-   "bandes de Caspary"
-  ],
-  "definition": "Bande de subérine/lignine dans les parois de l’endoderme racinaire, qui force l’eau à traverser les membranes.",
-  "domaine": "botanique"
- },
- {
-  "terme": "péricycle",
-  "variantes": [],
-  "definition": "Assise cellulaire du cylindre central de la racine, à l’origine des racines latérales.",
-  "domaine": "botanique"
- },
- {
-  "terme": "eustèle",
-  "variantes": [],
-  "definition": "Disposition des faisceaux en cercle dans la tige des dicotylédones.",
-  "domaine": "botanique"
- },
- {
-  "terme": "atactostèle",
-  "variantes": [],
-  "definition": "Faisceaux dispersés dans la tige des monocotylédones.",
-  "domaine": "botanique"
- },
- {
-  "terme": "hétérosporie",
-  "variantes": [],
-  "definition": "Production de deux types de spores (microspores mâles, mégaspores femelles).",
-  "domaine": "botanique"
- },
- {
-  "terme": "ovule",
-  "variantes": [
-   "ovules"
-  ],
-  "definition": "Mégasporange entouré d’un tégument ; devient la graine après fécondation.",
-  "domaine": "botanique"
- },
- {
-  "terme": "siphonogamie",
-  "variantes": [],
-  "definition": "Transport des gamètes mâles jusqu’à l’ovule par un tube pollinique.",
-  "domaine": "botanique"
- },
- {
-  "terme": "carpelle",
-  "variantes": [
-   "carpelles"
-  ],
-  "definition": "Feuille fertile refermée sur les ovules ; synapomorphie des angiospermes ; forme le fruit.",
-  "domaine": "botanique"
- },
- {
-  "terme": "double fécondation",
-  "variantes": [],
-  "definition": "Chez les angiospermes : un gamète mâle féconde l’oosphère (embryon 2n), l’autre la cellule centrale (albumen 3n).",
-  "domaine": "botanique"
- },
- {
-  "terme": "albumen",
-  "variantes": [],
-  "definition": "Tissu de réserve triploïde de la graine des angiospermes.",
-  "domaine": "botanique"
- },
- {
-  "terme": "cotylédon",
-  "variantes": [
-   "cotylédons"
-  ],
-  "definition": "Feuille embryonnaire de la graine.",
-  "domaine": "botanique"
- },
- {
-  "terme": "monocotylédones",
-  "variantes": [
-   "monocotylédone"
-  ],
-  "definition": "Clade d’angiospermes à un seul cotylédon, sans cambium.",
-  "domaine": "botanique"
- },
- {
-  "terme": "eudicotylédones",
-  "variantes": [
-   "eudicots"
-  ],
-  "definition": "Clade d’angiospermes défini par le pollen triaperturé.",
-  "domaine": "botanique"
- },
- {
-  "terme": "monoïque",
-  "variantes": [
-   "monoïques",
-   "monoécie"
-  ],
-  "definition": "Plante portant des fleurs mâles et femelles séparées sur le même individu.",
-  "domaine": "botanique"
- },
- {
-  "terme": "dioïque",
-  "variantes": [
-   "dioïques",
-   "dioécie"
-  ],
-  "definition": "Espèce dont les individus sont soit mâles, soit femelles.",
-  "domaine": "botanique"
- },
- {
-  "terme": "anémophile",
-  "variantes": [
-   "anémophiles",
-   "anémophilie"
-  ],
-  "definition": "Pollinisé par le vent.",
-  "domaine": "botanique"
- },
- {
-  "terme": "akène",
-  "variantes": [
-   "akènes"
-  ],
-  "definition": "Fruit sec indéhiscent à une graine (gland, noisette, fruit du pissenlit).",
-  "domaine": "botanique"
- },
- {
-  "terme": "caryopse",
-  "variantes": [],
-  "definition": "Fruit des graminées où la paroi du fruit est soudée à la graine (grain de blé).",
-  "domaine": "botanique"
- },
- {
-  "terme": "drupe",
-  "variantes": [
-   "drupes"
-  ],
-  "definition": "Fruit charnu à noyau (cerise, baie de sureau).",
-  "domaine": "botanique"
- },
- {
-  "terme": "silique",
-  "variantes": [],
-  "definition": "Fruit sec des Brassicacées, s’ouvrant par deux valves.",
-  "domaine": "botanique"
- },
- {
-  "terme": "arille",
-  "variantes": [
-   "arilles"
-  ],
-  "definition": "Excroissance charnue entourant une graine (if).",
-  "domaine": "botanique"
- },
- {
-  "terme": "mycorhize",
-  "variantes": [
-   "mycorhizes",
-   "ectomycorhizes",
-   "endomycorhizes",
-   "ectomycorhizien",
-   "ectomycorhizienne"
-  ],
-  "definition": "Symbiose entre racines et champignon (endo- : hyphes dans les cellules ; ecto- : autour).",
-  "domaine": "botanique"
- },
- {
-  "terme": "hyphe",
-  "variantes": [
-   "hyphes",
-   "mycélium"
-  ],
-  "definition": "Filament cellulaire des champignons ; leur ensemble forme le mycélium.",
-  "domaine": "botanique"
- },
- {
-  "terme": "asque",
-  "variantes": [
-   "asques"
-  ],
-  "definition": "Sac où se forment (souvent 8) spores chez les Ascomycètes.",
-  "domaine": "botanique"
- },
- {
-  "terme": "baside",
-  "variantes": [
-   "basides"
-  ],
-  "definition": "Cellule portant (souvent 4) spores à son sommet chez les Basidiomycètes.",
-  "domaine": "botanique"
- },
- {
-  "terme": "opisthocontes",
-  "variantes": [
-   "opisthoconte"
-  ],
-  "definition": "Clade animaux + champignons : flagelle propulseur postérieur, chitine.",
-  "domaine": "botanique"
- },
- {
-  "terme": "endosymbiose",
-  "variantes": [
-   "endosymbioses"
-  ],
-  "definition": "Intégration d’un organisme dans les cellules d’un autre (origine des plastes et des mitochondries).",
-  "domaine": "botanique"
- },
- {
-  "terme": "plaste",
-  "variantes": [
-   "plastes",
-   "chloroplaste",
-   "chloroplastes"
-  ],
-  "definition": "Organite photosynthétique (chloroplaste) issu d’une endosymbiose.",
-  "domaine": "botanique"
- },
- {
-  "terme": "columelle",
-  "variantes": [],
-  "definition": "Axe stérile central du sporange chez les mousses et anthocérotes.",
-  "domaine": "botanique"
- },
- {
-  "terme": "élatères",
-  "variantes": [
-   "élatère"
-  ],
-  "definition": "Structures hygroscopiques qui aident à disperser les spores (hépatiques, prêles).",
-  "domaine": "botanique"
- },
- {
-  "terme": "péristome",
-  "variantes": [],
-  "definition": "Couronne de dents à l’ouverture de la capsule des mousses (ou lèvre de la coquille d’un escargot).",
-  "domaine": "botanique"
- },
- {
-  "terme": "sore",
-  "variantes": [
-   "sores"
-  ],
-  "definition": "Groupe de sporanges sous la feuille des fougères.",
-  "domaine": "botanique"
- },
- {
-  "terme": "géophyte",
-  "variantes": [
-   "géophytes"
-  ],
-  "definition": "Plante qui passe la mauvaise saison sous forme d’organes souterrains (bulbe, rhizome).",
-  "domaine": "botanique"
- },
- {
-  "terme": "rhizome",
-  "variantes": [
-   "rhizomes"
-  ],
-  "definition": "Tige souterraine horizontale.",
-  "domaine": "botanique"
- },
- {
-  "terme": "ombelle",
-  "variantes": [
-   "ombelles"
-  ],
-  "definition": "Inflorescence où les pédicelles partent d’un même point (Apiacées).",
-  "domaine": "botanique"
- },
- {
-  "terme": "capitule",
-  "variantes": [
-   "capitules"
-  ],
-  "definition": "Inflorescence de fleurs serrées sur un réceptacle commun (Astéracées).",
-  "domaine": "botanique"
- },
- {
-  "terme": "hétérostylie",
-  "variantes": [
-   "hétérostyle"
-  ],
-  "definition": "Coexistence de fleurs à styles longs et courts dans une espèce, favorisant la pollinisation croisée.",
-  "domaine": "botanique"
- },
- {
-  "terme": "myrmécochorie",
-  "variantes": [],
-  "definition": "Dispersion des graines par les fourmis (souvent grâce à un élaïosome).",
-  "domaine": "botanique"
- },
- {
-  "terme": "allélopathie",
-  "variantes": [
-   "allélopathique",
-   "allélopathiques"
-  ],
-  "definition": "Inhibition des plantes voisines par des substances chimiques libérées.",
-  "domaine": "botanique"
- },
- {
-  "terme": "allèle",
-  "variantes": [
-   "allèles"
-  ],
-  "definition": "Version d’un gène à un locus.",
-  "domaine": "génétique"
- },
- {
-  "terme": "locus",
-  "variantes": [
-   "loci"
-  ],
-  "definition": "Emplacement d’un gène ou d’un marqueur sur un chromosome.",
-  "domaine": "génétique"
- },
- {
-  "terme": "panmixie",
-  "variantes": [
-   "panmictique",
-   "panmictiques"
-  ],
-  "definition": "Croisements entièrement aléatoires dans une population.",
-  "domaine": "génétique"
- },
- {
-  "terme": "hétérozygotie",
-  "variantes": [
-   "hétérozygotie observée",
-   "hétérozygotie attendue"
-  ],
-  "definition": "Proportion d’individus (ou probabilité) portant deux allèles différents à un locus.",
-  "domaine": "génétique"
- },
- {
-  "terme": "F_ST",
-  "variantes": [
-   "Fst"
-  ],
-  "definition": "Indice de différenciation génétique entre populations (0 = identiques, 1 = fixées pour des allèles différents).",
-  "domaine": "génétique"
- },
- {
-  "terme": "F_IS",
-  "variantes": [
-   "Fis"
-  ],
-  "definition": "Écart à la panmixie au sein des populations (déficit en hétérozygotes, consanguinité).",
-  "domaine": "génétique"
- },
- {
-  "terme": "effet Wahlund",
-  "variantes": [],
-  "definition": "Déficit en hétérozygotes dû au mélange de populations différenciées dans un même échantillon.",
-  "domaine": "génétique"
- },
- {
-  "terme": "dérive génétique",
-  "variantes": [
-   "dérive"
-  ],
-  "definition": "Variation aléatoire des fréquences alléliques due à l’échantillonnage des gamètes ; forte dans les petites populations.",
-  "domaine": "génétique"
- },
- {
-  "terme": "taille efficace",
-  "variantes": [],
-  "definition": "Effectif d’une population idéale qui subirait la même dérive que la population réelle (Ne).",
-  "domaine": "génétique"
- },
- {
-  "terme": "coalescence",
-  "variantes": [
-   "coalescent",
-   "coalescer"
-  ],
-  "definition": "Remontée de la généalogie de copies de gènes jusqu’à leur ancêtre commun le plus récent.",
-  "domaine": "génétique"
- },
- {
-  "terme": "flux de gènes",
-  "variantes": [
-   "flux génique"
-  ],
-  "definition": "Échange d’allèles entre populations par migration d’individus ou de gamètes.",
-  "domaine": "génétique"
- },
- {
-  "terme": "déséquilibre de liaison",
-  "variantes": [],
-  "definition": "Association non aléatoire des allèles de deux loci dans les gamètes.",
-  "domaine": "génétique"
- },
- {
-  "terme": "identité par ascendance",
-  "variantes": [
-   "IPA",
-   "IBD"
-  ],
-  "definition": "Deux copies de gène descendant d’une même copie ancestrale (IPA / IBD).",
-  "domaine": "génétique"
- },
- {
-  "terme": "consanguinité",
-  "variantes": [
-   "dépression de consanguinité"
-  ],
-  "definition": "Croisement entre apparentés ; augmente l’homozygotie.",
-  "domaine": "génétique"
- },
- {
-  "terme": "introgression",
-  "variantes": [],
-  "definition": "Passage de gènes d’une espèce dans une autre par hybridation puis rétrocroisements.",
-  "domaine": "génétique"
- },
- {
-  "terme": "tri incomplet des lignées",
-  "variantes": [
-   "ILS"
-  ],
-  "definition": "Discordance entre arbre de gène et arbre d’espèces due à un polymorphisme ancestral (ILS).",
-  "domaine": "génétique"
- },
- {
-  "terme": "norme de réaction",
-  "variantes": [
-   "normes de réaction"
-  ],
-  "definition": "Fonction qui donne le phénotype d’un génotype selon l’environnement.",
-  "domaine": "génétique"
- },
- {
-  "terme": "plasticité phénotypique",
-  "variantes": [
-   "plasticité"
-  ],
-  "definition": "Capacité d’un génotype à produire des phénotypes différents selon l’environnement.",
-  "domaine": "génétique"
- },
- {
-  "terme": "Q_ST",
-  "variantes": [
-   "Qst"
-  ],
-  "definition": "Différenciation génétique d’un trait quantitatif entre populations, à comparer au F_ST.",
-  "domaine": "génétique"
- },
- {
-  "terme": "polyploïdie",
-  "variantes": [
-   "polyploïde",
-   "polyploïdes"
-  ],
-  "definition": "Possession de plus de deux jeux de chromosomes (duplication du génome entier).",
-  "domaine": "génétique"
- },
- {
-  "terme": "allopolyploïde",
-  "variantes": [
-   "allopolyploïdes",
-   "allopolyploïdie"
-  ],
-  "definition": "Polyploïde issu d’un hybride entre deux espèces, suivi d’un doublement chromosomique.",
-  "domaine": "génétique"
- },
- {
-  "terme": "homéologues",
-  "variantes": [
-   "homéologue"
-  ],
-  "definition": "Chromosomes apparentés provenant de deux espèces différentes réunies dans un allopolyploïde.",
-  "domaine": "génétique"
- },
- {
-  "terme": "apomixie",
-  "variantes": [
-   "apomictique",
-   "apomictiques"
-  ],
-  "definition": "Production de graines sans fécondation (clones de la mère).",
-  "domaine": "génétique"
- },
- {
-  "terme": "autogamie",
-  "variantes": [
-   "autogame",
-   "autogames"
-  ],
-  "definition": "Autofécondation.",
-  "domaine": "génétique"
- },
- {
-  "terme": "allogamie",
-  "variantes": [
-   "allogame",
-   "allogames"
-  ],
-  "definition": "Fécondation croisée entre individus différents.",
-  "domaine": "génétique"
- },
- {
-  "terme": "supergène",
-  "variantes": [
-   "supergènes"
-  ],
-  "definition": "Groupe de gènes liés hérités ensemble, contrôlant un polymorphisme complexe.",
-  "domaine": "génétique"
- },
- {
-  "terme": "microsatellite",
-  "variantes": [
-   "microsatellites"
-  ],
-  "definition": "Marqueur fait de répétitions en tandem d’un court motif ; allèles = nombre de répétitions.",
-  "domaine": "génétique"
- },
- {
-  "terme": "allèle nul",
-  "variantes": [
-   "allèles nuls"
-  ],
-  "definition": "Allèle qui ne s’amplifie pas en PCR (mutation dans le site d’amorce) et passe inaperçu.",
-  "domaine": "génétique"
- },
- {
-  "terme": "superdominance",
-  "variantes": [],
-  "definition": "Avantage sélectif des hétérozygotes, qui maintient un polymorphisme.",
-  "domaine": "génétique"
- },
- {
-  "terme": "néofonctionnalisation",
-  "variantes": [
-   "sous-fonctionnalisation"
-  ],
-  "definition": "Après duplication, une copie de gène acquiert une nouvelle fonction.",
-  "domaine": "génétique"
- },
- {
-  "terme": "paralogues",
-  "variantes": [
-   "paralogue",
-   "orthologues"
-  ],
-  "definition": "Gènes issus d’une duplication au sein d’un génome (orthologues : séparés par spéciation).",
-  "domaine": "génétique"
- },
- {
-  "terme": "fitness inclusive",
-  "variantes": [],
-  "definition": "Succès reproducteur direct + part transmise indirectement via l’aide aux apparentés.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "règle de Hamilton",
-  "variantes": [],
-  "definition": "Un acte altruiste est favorisé si rB > C (apparentement × bénéfice > coût).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "coefficient d’apparentement",
-  "variantes": [
-   "apparentement"
-  ],
-  "definition": "Probabilité qu’un allèle d’un individu soit présent par ascendance chez un autre (r).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "sélection de parentèle",
-  "variantes": [],
-  "definition": "Sélection de comportements qui favorisent les apparentés.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "eusocialité",
-  "variantes": [
-   "eusocial",
-   "eusociale",
-   "eusociaux",
-   "eusociales"
-  ],
-  "definition": "Chevauchement des générations, soins coopératifs au couvain et castes reproductrices/stériles.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "haplodiploïdie",
-  "variantes": [
-   "haplodiploïde",
-   "haplodiploïdes"
-  ],
-  "definition": "Mâles haploïdes (œufs non fécondés), femelles diploïdes (Hyménoptères).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "polyandrie",
-  "variantes": [
-   "polyandre"
-  ],
-  "definition": "Accouplement d’une femelle avec plusieurs mâles.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "polygynie",
-  "variantes": [
-   "polygyne",
-   "polygynes"
-  ],
-  "definition": "Plusieurs reines dans une colonie (ou un mâle avec plusieurs femelles).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "signal honnête",
-  "variantes": [
-   "signaux honnêtes"
-  ],
-  "definition": "Signal fiable sur la qualité de l’émetteur, maintenu par son coût ou une contrainte physique.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "principe du handicap",
-  "variantes": [
-   "handicap"
-  ],
-  "definition": "Un signal coûteux n’est soutenable que par les individus de bonne qualité (Zahavi, Grafen).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "signal d’index",
-  "variantes": [
-   "signaux d’index"
-  ],
-  "definition": "Signal physiquement lié à la qualité, impossible à truquer (ex. : formants vocaux liés à la taille).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "exploitation sensorielle",
-  "variantes": [],
-  "definition": "Évolution d’un signal qui exploite une préférence sensorielle préexistante du receveur.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "anisogamie",
-  "variantes": [],
-  "definition": "Gamètes de tailles différentes (ovule gros, spermatozoïde petit).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "sex-ratio opérationnel",
-  "variantes": [],
-  "definition": "Rapport mâles/femelles prêts à se reproduire à un moment donné.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "auto-organisation",
-  "variantes": [],
-  "definition": "Émergence d’une structure ou décision collective à partir d’interactions locales, sans chef.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "phéromone",
-  "variantes": [
-   "phéromones"
-  ],
-  "definition": "Signal chimique entre individus d’une même espèce.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "kinèse",
-  "variantes": [
-   "orthocinèse",
-   "klinocinèse"
-  ],
-  "definition": "Réponse non orientée à un stimulus : changement de vitesse (orthocinèse) ou de fréquence de virages (klinocinèse).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "taxie",
-  "variantes": [
-   "taxies",
-   "thigmotaxie"
-  ],
-  "definition": "Déplacement orienté par rapport à un stimulus (phototaxie, thigmotaxie…).",
-  "domaine": "éthologie"
- },
- {
-  "terme": "éthogramme",
-  "variantes": [],
-  "definition": "Inventaire des comportements d’une espèce, avec leurs définitions.",
-  "domaine": "éthologie"
- },
- {
-  "terme": "effet Allee",
-  "variantes": [],
-  "definition": "Corrélation positive entre densité et croissance par individu à faible densité.",
-  "domaine": "écologie"
- },
- {
-  "terme": "niche écologique",
-  "variantes": [
-   "niche réalisée",
-   "niche fondamentale"
-  ],
-  "definition": "Ensemble des conditions et ressources permettant à une espèce de maintenir une population.",
-  "domaine": "écologie"
- },
- {
-  "terme": "métapopulation",
-  "variantes": [
-   "métapopulations"
-  ],
-  "definition": "Ensemble de populations locales reliées par la dispersion, avec extinctions et recolonisations.",
-  "domaine": "écologie"
- },
- {
-  "terme": "succession",
-  "variantes": [
-   "successions",
-   "succession secondaire",
-   "succession primaire"
-  ],
-  "definition": "Remplacement directionnel des communautés au cours du temps sur un site.",
-  "domaine": "écologie"
- },
- {
-  "terme": "espèce clé de voûte",
-  "variantes": [
-   "clé de voûte"
-  ],
-  "definition": "Espèce à effet disproportionné par rapport à son abondance.",
-  "domaine": "écologie"
- },
- {
-  "terme": "ingénieur de l’écosystème",
-  "variantes": [
-   "ingénieurs de l’écosystème"
-  ],
-  "definition": "Espèce qui modifie physiquement le milieu (castor, lombric).",
-  "domaine": "écologie"
- },
- {
-  "terme": "cascade trophique",
-  "variantes": [
-   "cascades trophiques"
-  ],
-  "definition": "Effet indirect d’un prédateur sur les niveaux inférieurs du réseau trophique.",
-  "domaine": "écologie"
- },
- {
-  "terme": "mutualisme",
-  "variantes": [
-   "mutualismes"
-  ],
-  "definition": "Interaction à bénéfices réciproques entre deux espèces.",
-  "domaine": "écologie"
- },
- {
-  "terme": "pression de propagules",
-  "variantes": [],
-  "definition": "Nombre d’individus introduits et nombre d’introductions.",
-  "domaine": "écologie"
- },
- {
-  "terme": "bioindicateur",
-  "variantes": [
-   "bioindicateurs"
-  ],
-  "definition": "Espèce dont la présence ou l’état renseigne sur la qualité du milieu.",
-  "domaine": "écologie"
- },
- {
-  "terme": "phénologie",
-  "variantes": [],
-  "definition": "Calendrier des événements biologiques saisonniers (floraison, migration).",
-  "domaine": "écologie"
- },
- {
-  "terme": "mapping",
-  "variantes": [],
-  "definition": "Alignement des lectures de séquençage sur un génome de référence.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "profondeur de couverture",
-  "variantes": [],
-  "definition": "Nombre moyen de lectures recouvrant chaque base (ex. : 30×).",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "largeur de couverture",
-  "variantes": [],
-  "definition": "Fraction de la référence couverte par au moins une lecture.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "multi-read",
-  "variantes": [
-   "multi-reads"
-  ],
-  "definition": "Lecture qui s’aligne à plusieurs positions du génome.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "FASTQ",
-  "variantes": [],
-  "definition": "Format de fichier des lectures : séquence + qualité de chaque base.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "SAM",
-  "variantes": [
-   "BAM"
-  ],
-  "definition": "Format texte des alignements de lectures ; BAM = version binaire compressée.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "CIGAR",
-  "variantes": [],
-  "definition": "Code décrivant l’alignement d’une lecture (M, I, D, N = intron, S = soft-clip).",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "MAPQ",
-  "variantes": [],
-  "definition": "Qualité de mapping en échelle Phred (probabilité que la position soit fausse).",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "score Phred",
-  "variantes": [
-   "Phred"
-  ],
-  "definition": "Q = −10·log₁₀(probabilité d’erreur) ; Q30 = 1 erreur sur 1 000.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "TPM",
-  "variantes": [
-   "RPKM",
-   "FPKM",
-   "CPM"
-  ],
-  "definition": "Transcrits par million : normalisation par la longueur puis ramenée à 10⁶ par échantillon.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "FDR",
-  "variantes": [],
-  "definition": "Taux de fausses découvertes : correction des p-values pour tests multiples (Benjamini-Hochberg).",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "binomiale négative",
-  "variantes": [
-   "surdispersion",
-   "surdispersés"
-  ],
-  "definition": "Loi de comptage qui autorise une variance supérieure à la moyenne (surdispersion).",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "épissage",
-  "variantes": [
-   "épissé",
-   "épissés",
-   "épissées"
-  ],
-  "definition": "Retrait des introns d’un pré-ARNm.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "méthylation",
-  "variantes": [],
-  "definition": "Ajout d’un groupe méthyle sur l’ADN (5-mC) ou l’ARN (m6A), marque épigénétique.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "ChIP-seq",
-  "variantes": [],
-  "definition": "Immunoprécipitation de la chromatine suivie de séquençage, pour cartographier marques d’histones ou facteurs.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "organoïde",
-  "variantes": [
-   "organoïdes"
-  ],
-  "definition": "Mini-tissu 3D cultivé à partir de cellules souches, modèle simplifié d’un organe.",
-  "domaine": "transcriptomique"
- },
- {
-  "terme": "byssus",
-  "variantes": [],
-  "definition": "Faisceau de fils protéiques sécrétés par le pied de certains bivalves (moules) pour s’ancrer au substrat ; adhère sous l’eau grâce à la DOPA.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "filtreur",
-  "variantes": [
-   "filtreurs",
-   "filtration"
-  ],
-  "definition": "Animal qui se nourrit en retenant des particules en suspension dans l’eau (éponges, moules, ascidies).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "trochophore",
-  "variantes": [
-   "larve trochophore"
-  ],
-  "definition": "Larve planctonique ciliée des Lophotrochozoaires (annélides, mollusques).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "véligère",
-  "variantes": [],
-  "definition": "Larve des mollusques munie d’un voile cilié (velum), qui suit le stade trochophore.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "forcipules",
-  "variantes": [
-   "forcipule"
-  ],
-  "definition": "Première paire de pattes du tronc des chilopodes, transformée en crochets à venin.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "anamorphose",
-  "variantes": [
-   "anamorphe"
-  ],
-  "definition": "Développement où des segments et des paires de pattes s’ajoutent à chaque mue (myriapodes).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "écailles placoïdes",
-  "variantes": [
-   "écaille placoïde",
-   "denticules"
-  ],
-  "definition": "Écailles des chondrichthyens, faites de dentine et d’émail : homologues des dents.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "ampoules de Lorenzini",
-  "variantes": [],
-  "definition": "Électrorécepteurs des requins et raies, qui détectent les champs électriques des proies.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "ptérygopodes",
-  "variantes": [],
-  "definition": "Organes copulateurs des chondrichthyens mâles, dérivés des nageoires pelviennes.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "colloblastes",
-  "variantes": [
-   "colloblaste"
-  ],
-  "definition": "Cellules collantes des tentacules des cténophores, qui capturent les proies (à la place des cnidocytes).",
-  "domaine": "zoologie"
- },
- {
-  "terme": "cténes",
-  "variantes": [
-   "palettes ciliées"
-  ],
-  "definition": "Palettes de cils soudés disposées en 8 rangées chez les cténophores, servant à nager.",
-  "domaine": "zoologie"
- },
- {
-  "terme": "microphylle",
-  "variantes": [
-   "microphylles"
-  ],
-  "definition": "Petite feuille à une seule nervure non ramifiée, caractéristique des lycophytes.",
-  "domaine": "botanique"
- },
- {
-  "terme": "mégaphylle",
-  "variantes": [
-   "mégaphylles"
-  ],
-  "definition": "Feuille à nervation ramifiée des euphyllophytes (fougères, prêles, plantes à graines).",
-  "domaine": "botanique"
- },
- {
-  "terme": "strobile",
-  "variantes": [
-   "strobiles"
-  ],
-  "definition": "Épi de sporophylles portant des sporanges (lycopodes, prêles) ; équivalent d’un cône.",
-  "domaine": "botanique"
- },
- {
-  "terme": "homosporie",
-  "variantes": [
-   "homosporé",
-   "homosporée"
-  ],
-  "definition": "Production d’un seul type de spores (opposé : hétérosporie).",
-  "domaine": "botanique"
- },
- {
-  "terme": "pourriture blanche",
-  "variantes": [],
-  "definition": "Décomposition du bois par des champignons capables de dégrader la lignine (le bois devient blanc et fibreux).",
-  "domaine": "botanique"
- },
- {
-  "terme": "saprotrophe",
-  "variantes": [
-   "saprotrophes",
-   "saprophyte"
-  ],
-  "definition": "Organisme qui se nourrit de matière organique morte (décomposeur).",
-  "domaine": "botanique"
- },
- {
-  "terme": "hétérophyllie",
-  "variantes": [],
-  "definition": "Présence de feuilles de formes différentes sur une même plante (lierre, houx).",
-  "domaine": "botanique"
- },
- {
-  "terme": "défense induite",
-  "variantes": [
-   "défenses induites"
-  ],
-  "definition": "Défense qui n’est produite qu’après détection d’une attaque ou d’un risque (épines du houx, coquille des moules).",
-  "domaine": "écologie"
- },
- {
-  "terme": "mycohétérotrophe",
-  "variantes": [],
-  "definition": "Plante (ou gamétophyte) qui tire son carbone d’un champignon symbiotique au lieu de la photosynthèse.",
-  "domaine": "botanique"
- }
+  {
+    "terme": "synapomorphie",
+    "variantes": [
+      "synapomorphies"
+    ],
+    "definition": "Caractère dérivé (apomorphie) partagé par plusieurs taxons, hérité de leur ancêtre commun. C’est le seul type de caractère qui permet de reconnaître un clade.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "apomorphie",
+    "variantes": [
+      "apomorphies"
+    ],
+    "definition": "État dérivé d’un caractère, apparu au cours de l’évolution (par opposition à l’état ancestral).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "plésiomorphie",
+    "variantes": [
+      "plésiomorphies"
+    ],
+    "definition": "État ancestral d’un caractère.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "symplésiomorphie",
+    "variantes": [
+      "symplésiomorphies"
+    ],
+    "definition": "État ancestral partagé par plusieurs taxons. Il ne prouve pas leur parenté proche (ex. : les vertèbres chez requins et poissons osseux).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "autapomorphie",
+    "variantes": [
+      "autapomorphies"
+    ],
+    "definition": "Caractère dérivé propre à un seul taxon ; inutile pour établir des relations de parenté.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "homoplasie",
+    "variantes": [
+      "homoplasies"
+    ],
+    "definition": "Ressemblance non héritée d’un ancêtre commun : convergence ou réversion.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "convergence",
+    "variantes": [
+      "convergences",
+      "convergente",
+      "convergent"
+    ],
+    "definition": "Apparition indépendante d’un même caractère dans des lignées différentes (ex. : ailes des oiseaux et des chauves-souris).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "réversion",
+    "variantes": [
+      "réversions"
+    ],
+    "definition": "Retour secondaire à un état qui ressemble à l’état ancestral (ex. : perte des pattes chez les serpents).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "monophylétique",
+    "variantes": [
+      "monophylétiques",
+      "monophylie"
+    ],
+    "definition": "Se dit d’un groupe qui comprend un ancêtre et TOUS ses descendants (= clade).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "paraphylétique",
+    "variantes": [
+      "paraphylétiques",
+      "paraphylie"
+    ],
+    "definition": "Groupe qui comprend un ancêtre et seulement une partie de ses descendants (ex. : « Reptiles » sans les oiseaux). Fondé sur des plésiomorphies.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "polyphylétique",
+    "variantes": [
+      "polyphylétiques"
+    ],
+    "definition": "Groupe qui réunit des taxons sans leur ancêtre commun, sur la base de convergences (ex. : « animaux à sang chaud »).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "clade",
+    "variantes": [
+      "clades"
+    ],
+    "definition": "Groupe monophylétique : un ancêtre et l’ensemble de ses descendants.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "groupe externe",
+    "variantes": [
+      "groupes externes",
+      "outgroup"
+    ],
+    "definition": "Taxon extérieur au groupe étudié, utilisé pour déterminer quel état d’un caractère est ancestral (polarisation).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "groupe frère",
+    "variantes": [
+      "groupes frères"
+    ],
+    "definition": "Le clade le plus proche parent d’un autre clade : ils partagent un ancêtre commun exclusif.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "parcimonie",
+    "variantes": [],
+    "definition": "Principe qui retient l’arbre demandant le moins de changements d’états (donc le moins d’homoplasies).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "cladogramme",
+    "variantes": [
+      "cladogrammes"
+    ],
+    "definition": "Arbre qui représente uniquement l’ordre de branchement (qui est plus proche de qui), sans échelle de temps.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "taxon",
+    "variantes": [
+      "taxons",
+      "taxa"
+    ],
+    "definition": "Groupe d’organismes nommé, à n’importe quel rang (espèce, genre, famille…).",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "embranchement",
+    "variantes": [
+      "embranchements",
+      "phylum"
+    ],
+    "definition": "Rang de classification juste sous le règne (ex. : Chordés, Arthropodes) ; « phylum » en anglais.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "polytomie",
+    "variantes": [
+      "polytomies"
+    ],
+    "definition": "Nœud d’où partent plus de deux branches : relations non résolues.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "cladistique",
+    "variantes": [],
+    "definition": "École de classification (Hennig) qui ne reconnaît que des groupes monophylétiques définis par des synapomorphies.",
+    "domaine": "phylogénie"
+  },
+  {
+    "terme": "notochorde",
+    "variantes": [
+      "chorde",
+      "chorde dorsale"
+    ],
+    "definition": "Baguette dorsale souple d’origine mésodermique, présente chez tous les chordés (au moins chez l’embryon).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "tube neural",
+    "variantes": [],
+    "definition": "Système nerveux central creux, dorsal chez les chordés, issu du repli de l’ectoderme.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "endostyle",
+    "variantes": [],
+    "definition": "Gouttière ciliée du plancher du pharynx des chordés, qui sécrète du mucus et fixe l’iode ; homologue de la thyroïde.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "fentes pharyngiennes",
+    "variantes": [
+      "fentes branchiales",
+      "pharyngotrémie"
+    ],
+    "definition": "Ouvertures du pharynx vers l’extérieur ; servent à filtrer ou respirer ; présentes au moins chez l’embryon des chordés.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "crêtes neurales",
+    "variantes": [
+      "crête neurale"
+    ],
+    "definition": "Cellules embryonnaires qui se détachent des bords du tube neural et migrent (pigments, nerfs, os de la face). Synapomorphie des crâniates.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "épineurien",
+    "variantes": [
+      "épineuriens"
+    ],
+    "definition": "Animal dont le système nerveux central est dorsal (chordés).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "hyponeurien",
+    "variantes": [
+      "hyponeuriens"
+    ],
+    "definition": "Animal dont le système nerveux central est ventral (protostomiens).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "diploblastique",
+    "variantes": [
+      "diploblastiques",
+      "diploblaste",
+      "diploblastes"
+    ],
+    "definition": "Qui possède deux feuillets embryonnaires (ectoderme et endoderme), comme les cnidaires.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "triploblastique",
+    "variantes": [
+      "triploblastiques",
+      "triploblaste",
+      "triploblastes"
+    ],
+    "definition": "Qui possède trois feuillets embryonnaires (ectoderme, mésoderme, endoderme) = Bilatériens.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "mésoderme",
+    "variantes": [],
+    "definition": "Feuillet embryonnaire intermédiaire, à l’origine des muscles, du squelette, du sang et de la paroi du cœlome.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "ectoderme",
+    "variantes": [],
+    "definition": "Feuillet embryonnaire externe : épiderme et système nerveux.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "endoderme",
+    "variantes": [],
+    "definition": "Feuillet embryonnaire interne : tube digestif et glandes associées. (En botanique : assise interne de l’écorce de la racine.)",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "mésoglée",
+    "variantes": [],
+    "definition": "Matrice extracellulaire gélatineuse entre l’épiderme et le gastroderme des cnidaires.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "cnidocyte",
+    "variantes": [
+      "cnidocytes",
+      "nématocyste",
+      "nématocystes"
+    ],
+    "definition": "Cellule urticante des cnidaires contenant un nématocyste (capsule à filament projetable).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "choanocyte",
+    "variantes": [
+      "choanocytes"
+    ],
+    "definition": "Cellule à flagelle entouré d’une collerette de microvillosités ; crée le courant d’eau et capture les particules chez les éponges.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "cœlome",
+    "variantes": [
+      "coelome",
+      "cœlomates",
+      "coelomates"
+    ],
+    "definition": "Cavité générale entièrement bordée de mésoderme.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "pseudocœlome",
+    "variantes": [
+      "pseudocoelome",
+      "pseudocœlomates",
+      "pseudocoelomates"
+    ],
+    "definition": "Cavité générale bordée d’un côté par le mésoderme et de l’autre par l’endoderme.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "protostomien",
+    "variantes": [
+      "protostomiens"
+    ],
+    "definition": "Bilatérien chez qui le blastopore donne classiquement la bouche (arthropodes, mollusques, annélides…).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "deutérostomien",
+    "variantes": [
+      "deutérostomiens"
+    ],
+    "definition": "Bilatérien chez qui le blastopore donne l’anus, la bouche se formant secondairement (échinodermes, chordés).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "blastopore",
+    "variantes": [],
+    "definition": "Orifice par lequel l’endoderme s’invagine lors de la gastrulation.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "gastrulation",
+    "variantes": [],
+    "definition": "Étape du développement où se mettent en place les feuillets embryonnaires.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "clivage spiral",
+    "variantes": [],
+    "definition": "Divisions de l’œuf où les blastomères se disposent en spirale ; typique des Spiraliens (Lophotrochozoaires).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "ecdysozoaires",
+    "variantes": [
+      "ecdysozoaire"
+    ],
+    "definition": "Clade d’animaux qui muent leur cuticule (arthropodes, nématodes, tardigrades…).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "lophotrochozoaires",
+    "variantes": [
+      "lophotrochozoaire"
+    ],
+    "definition": "Clade de protostomiens (mollusques, annélides, plathelminthes…), souvent à larve trochophore ou lophophore.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "mue",
+    "variantes": [
+      "mues",
+      "ecdysis"
+    ],
+    "definition": "Remplacement périodique de la cuticule (ecdysis), contrôlé par les ecdystéroïdes.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "ecdystéroïdes",
+    "variantes": [
+      "ecdystéroïde"
+    ],
+    "definition": "Hormones stéroïdes qui déclenchent la mue chez les ecdysozoaires.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "cuticule",
+    "variantes": [
+      "cuticules"
+    ],
+    "definition": "Couche protectrice sécrétée par l’épiderme (chitineuse chez les arthropodes ; cireuse chez les plantes).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "chitine",
+    "variantes": [],
+    "definition": "Polymère d’acétylglucosamine : cuticule des arthropodes, paroi des champignons.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "manteau",
+    "variantes": [],
+    "definition": "Tégument des mollusques qui sécrète la coquille.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "radula",
+    "variantes": [],
+    "definition": "Ruban chitineux denté qui râpe la nourriture chez les mollusques (perdu chez les bivalves).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "cténidies",
+    "variantes": [
+      "cténidie"
+    ],
+    "definition": "Branchies en peigne des mollusques.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "torsion",
+    "variantes": [],
+    "definition": "Rotation de 180° de la masse viscérale chez l’embryon des gastéropodes.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "métamérie",
+    "variantes": [
+      "métamères",
+      "métamérisé"
+    ],
+    "definition": "Organisation du corps en segments répétés (métamères).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "chètes",
+    "variantes": [
+      "chète",
+      "soies chitineuses"
+    ],
+    "definition": "Soies chitineuses des annélides.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "clitellum",
+    "variantes": [],
+    "definition": "Renflement glandulaire des clitellates (lombrics, sangsues) qui sécrète le cocon.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "tagme",
+    "variantes": [
+      "tagmes",
+      "tagmatisation"
+    ],
+    "definition": "Région du corps formée de segments fusionnés (tête, thorax, abdomen).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "chélicères",
+    "variantes": [
+      "chélicère"
+    ],
+    "definition": "Premiers appendices buccaux en pince des chélicérates (araignées, scorpions).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "système ambulacraire",
+    "variantes": [
+      "pieds ambulacraires"
+    ],
+    "definition": "Réseau de canaux remplis d’eau dérivé du cœlome, actionnant les pieds ambulacraires des échinodermes.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "ossicules",
+    "variantes": [
+      "ossicule"
+    ],
+    "definition": "Petites pièces squelettiques de calcite des échinodermes.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "crâniates",
+    "variantes": [],
+    "definition": "Chordés à tête différenciée et crêtes neurales ; synonyme de vertébrés.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "cyclostomes",
+    "variantes": [],
+    "definition": "Vertébrés sans mâchoires actuels : lamproies et myxines.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "gnathostomes",
+    "variantes": [
+      "gnathostome"
+    ],
+    "definition": "Vertébrés à mâchoires.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "ostéichthyens",
+    "variantes": [],
+    "definition": "Clade des « poissons osseux » au sens large, tétrapodes compris ; synapomorphie : os endochondral.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "sarcoptérygiens",
+    "variantes": [
+      "sarcoptérygien"
+    ],
+    "definition": "Poissons à nageoires charnues (cœlacanthes, dipneustes) + tétrapodes.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "rhipidistiens",
+    "variantes": [],
+    "definition": "Dipneustes + tétrapodes ; poumon alvéolé, glotte, cœur à deux oreillettes.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "tétrapodes",
+    "variantes": [
+      "tétrapode"
+    ],
+    "definition": "Vertébrés à quatre membres chiridiens (à doigts).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "membre chiridien",
+    "variantes": [
+      "membres chiridiens"
+    ],
+    "definition": "Membre à doigts des tétrapodes (stylopode, zeugopode, autopode).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "amniotes",
+    "variantes": [
+      "œuf amniotique"
+    ],
+    "definition": "Tétrapodes dont l’embryon est protégé par des annexes (amnios, chorion, allantoïde) : reptiles, oiseaux, mammifères.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "synapsides",
+    "variantes": [
+      "synapside"
+    ],
+    "definition": "Amniotes à une seule fosse temporale : lignée des mammifères.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "diapsides",
+    "variantes": [],
+    "definition": "Amniotes à deux fosses temporales : lépidosaures et archosaures.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "archosaures",
+    "variantes": [],
+    "definition": "Crocodiles + dinosaures (dont les oiseaux).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "articulation dento-squamosale",
+    "variantes": [],
+    "definition": "Articulation de la mâchoire entre le dentaire et le squamosal : synapomorphie des mammifères.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "monotrèmes",
+    "variantes": [],
+    "definition": "Mammifères ovipares (ornithorynque, échidnés).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "furcula",
+    "variantes": [],
+    "definition": "Clavicules soudées en fourchette des oiseaux (et de théropodes).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "olfactores",
+    "variantes": [],
+    "definition": "Clade tuniciers + vertébrés.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "eutélie",
+    "variantes": [
+      "eutélique",
+      "eutéliques"
+    ],
+    "definition": "Nombre de cellules fixe chez l’adulte (nématodes, rotifères, tardigrades).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "aposématisme",
+    "variantes": [
+      "aposématique",
+      "aposématiques"
+    ],
+    "definition": "Couleurs vives signalant la toxicité ou le mauvais goût d’une proie.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "ovovivipare",
+    "variantes": [
+      "ovoviviparité"
+    ],
+    "definition": "Qui garde les œufs dans les voies génitales jusqu’à l’éclosion, sans échanges placentaires.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "catadrome",
+    "variantes": [
+      "anadrome"
+    ],
+    "definition": "Poisson qui grandit en eau douce et se reproduit en mer (anguille). L’inverse : anadrome (saumon, lamproie).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "néoténie",
+    "variantes": [],
+    "definition": "Rétention de caractères juvéniles chez l’adulte reproducteur (axolotl ; forme du crâne humain).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "hétérochronie",
+    "variantes": [
+      "hétérochronies"
+    ],
+    "definition": "Changement du calendrier du développement entre ancêtre et descendant.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "embryophytes",
+    "variantes": [
+      "embryophyte"
+    ],
+    "definition": "Plantes terrestres : embryon nourri par le gamétophyte, spores à sporopollénine, gamétanges protégés.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "sporophyte",
+    "variantes": [
+      "sporophytes"
+    ],
+    "definition": "Génération diploïde (2n) qui produit des spores par méiose.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "gamétophyte",
+    "variantes": [
+      "gamétophytes"
+    ],
+    "definition": "Génération haploïde (n) qui produit les gamètes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "sporopollénine",
+    "variantes": [],
+    "definition": "Polymère très résistant de la paroi des spores et des grains de pollen.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "archégone",
+    "variantes": [
+      "archégones"
+    ],
+    "definition": "Gamétange femelle multicellulaire en forme de bouteille, contenant une oosphère.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "anthéridie",
+    "variantes": [
+      "anthéridies"
+    ],
+    "definition": "Gamétange mâle multicellulaire.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "gamétange",
+    "variantes": [
+      "gamétanges"
+    ],
+    "definition": "Organe producteur de gamètes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "sporange",
+    "variantes": [
+      "sporanges"
+    ],
+    "definition": "Organe producteur de spores.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "stomate",
+    "variantes": [
+      "stomates"
+    ],
+    "definition": "Pore de l’épiderme bordé de deux cellules de garde, qui règle les échanges gazeux.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "méristème",
+    "variantes": [
+      "méristèmes"
+    ],
+    "definition": "Massif de cellules indifférenciées qui se divisent (apical : croissance en longueur ; cambium : en épaisseur).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "xylème",
+    "variantes": [],
+    "definition": "Tissu conducteur de la sève brute (eau, sels minéraux) : trachéides et vaisseaux morts, lignifiés.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "phloème",
+    "variantes": [
+      "liber"
+    ],
+    "definition": "Tissu conducteur de la sève élaborée (sucres) : tubes criblés vivants.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "trachéide",
+    "variantes": [
+      "trachéides"
+    ],
+    "definition": "Cellule conductrice du xylème, allongée, morte, communiquant par des ponctuations.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "cambium",
+    "variantes": [],
+    "definition": "Méristème secondaire qui produit le bois vers l’intérieur et le liber vers l’extérieur.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "phellogène",
+    "variantes": [],
+    "definition": "Méristème secondaire qui produit le liège.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "collenchyme",
+    "variantes": [],
+    "definition": "Tissu de soutien vivant, à parois cellulosiques épaissies, souple.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "sclérenchyme",
+    "variantes": [],
+    "definition": "Tissu de soutien à parois lignifiées, rigide (fibres, sclérites).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "lignine",
+    "variantes": [
+      "lignifié",
+      "lignifiées",
+      "lignifiés"
+    ],
+    "definition": "Polymère qui rigidifie et imperméabilise les parois (bois).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "cadre de Caspary",
+    "variantes": [
+      "cadres de Caspary",
+      "bandes de Caspary"
+    ],
+    "definition": "Bande de subérine/lignine dans les parois de l’endoderme racinaire, qui force l’eau à traverser les membranes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "péricycle",
+    "variantes": [],
+    "definition": "Assise cellulaire du cylindre central de la racine, à l’origine des racines latérales.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "eustèle",
+    "variantes": [],
+    "definition": "Disposition des faisceaux en cercle dans la tige des dicotylédones.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "atactostèle",
+    "variantes": [],
+    "definition": "Faisceaux dispersés dans la tige des monocotylédones.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "hétérosporie",
+    "variantes": [],
+    "definition": "Production de deux types de spores (microspores mâles, mégaspores femelles).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "ovule",
+    "variantes": [
+      "ovules"
+    ],
+    "definition": "Mégasporange entouré d’un tégument ; devient la graine après fécondation.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "siphonogamie",
+    "variantes": [],
+    "definition": "Transport des gamètes mâles jusqu’à l’ovule par un tube pollinique.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "carpelle",
+    "variantes": [
+      "carpelles"
+    ],
+    "definition": "Feuille fertile refermée sur les ovules ; synapomorphie des angiospermes ; forme le fruit.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "double fécondation",
+    "variantes": [],
+    "definition": "Chez les angiospermes : un gamète mâle féconde l’oosphère (embryon 2n), l’autre la cellule centrale (albumen 3n).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "albumen",
+    "variantes": [],
+    "definition": "Tissu de réserve triploïde de la graine des angiospermes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "cotylédon",
+    "variantes": [
+      "cotylédons"
+    ],
+    "definition": "Feuille embryonnaire de la graine.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "monocotylédones",
+    "variantes": [
+      "monocotylédone"
+    ],
+    "definition": "Clade d’angiospermes à un seul cotylédon, sans cambium.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "eudicotylédones",
+    "variantes": [
+      "eudicots"
+    ],
+    "definition": "Clade d’angiospermes défini par le pollen triaperturé.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "monoïque",
+    "variantes": [
+      "monoïques",
+      "monoécie"
+    ],
+    "definition": "Plante portant des fleurs mâles et femelles séparées sur le même individu.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "dioïque",
+    "variantes": [
+      "dioïques",
+      "dioécie"
+    ],
+    "definition": "Espèce dont les individus sont soit mâles, soit femelles.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "anémophile",
+    "variantes": [
+      "anémophiles",
+      "anémophilie"
+    ],
+    "definition": "Pollinisé par le vent.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "akène",
+    "variantes": [
+      "akènes"
+    ],
+    "definition": "Fruit sec indéhiscent à une graine (gland, noisette, fruit du pissenlit).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "caryopse",
+    "variantes": [],
+    "definition": "Fruit des graminées où la paroi du fruit est soudée à la graine (grain de blé).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "drupe",
+    "variantes": [
+      "drupes"
+    ],
+    "definition": "Fruit charnu à noyau (cerise, baie de sureau).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "silique",
+    "variantes": [],
+    "definition": "Fruit sec des Brassicacées, s’ouvrant par deux valves.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "arille",
+    "variantes": [
+      "arilles"
+    ],
+    "definition": "Excroissance charnue entourant une graine (if).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "mycorhize",
+    "variantes": [
+      "mycorhizes",
+      "ectomycorhizes",
+      "endomycorhizes",
+      "ectomycorhizien",
+      "ectomycorhizienne"
+    ],
+    "definition": "Symbiose entre racines et champignon (endo- : hyphes dans les cellules ; ecto- : autour).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "hyphe",
+    "variantes": [
+      "hyphes",
+      "mycélium"
+    ],
+    "definition": "Filament cellulaire des champignons ; leur ensemble forme le mycélium.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "asque",
+    "variantes": [
+      "asques"
+    ],
+    "definition": "Sac où se forment (souvent 8) spores chez les Ascomycètes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "baside",
+    "variantes": [
+      "basides"
+    ],
+    "definition": "Cellule portant (souvent 4) spores à son sommet chez les Basidiomycètes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "opisthocontes",
+    "variantes": [
+      "opisthoconte"
+    ],
+    "definition": "Clade animaux + champignons : flagelle propulseur postérieur, chitine.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "endosymbiose",
+    "variantes": [
+      "endosymbioses"
+    ],
+    "definition": "Intégration d’un organisme dans les cellules d’un autre (origine des plastes et des mitochondries).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "plaste",
+    "variantes": [
+      "plastes",
+      "chloroplaste",
+      "chloroplastes"
+    ],
+    "definition": "Organite photosynthétique (chloroplaste) issu d’une endosymbiose.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "columelle",
+    "variantes": [],
+    "definition": "Axe stérile central du sporange chez les mousses et anthocérotes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "élatères",
+    "variantes": [
+      "élatère"
+    ],
+    "definition": "Structures hygroscopiques qui aident à disperser les spores (hépatiques, prêles).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "péristome",
+    "variantes": [],
+    "definition": "Couronne de dents à l’ouverture de la capsule des mousses (ou lèvre de la coquille d’un escargot).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "sore",
+    "variantes": [
+      "sores"
+    ],
+    "definition": "Groupe de sporanges sous la feuille des fougères.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "géophyte",
+    "variantes": [
+      "géophytes"
+    ],
+    "definition": "Plante qui passe la mauvaise saison sous forme d’organes souterrains (bulbe, rhizome).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "rhizome",
+    "variantes": [
+      "rhizomes"
+    ],
+    "definition": "Tige souterraine horizontale.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "ombelle",
+    "variantes": [
+      "ombelles"
+    ],
+    "definition": "Inflorescence où les pédicelles partent d’un même point (Apiacées).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "capitule",
+    "variantes": [
+      "capitules"
+    ],
+    "definition": "Inflorescence de fleurs serrées sur un réceptacle commun (Astéracées).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "hétérostylie",
+    "variantes": [
+      "hétérostyle"
+    ],
+    "definition": "Coexistence de fleurs à styles longs et courts dans une espèce, favorisant la pollinisation croisée.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "myrmécochorie",
+    "variantes": [],
+    "definition": "Dispersion des graines par les fourmis (souvent grâce à un élaïosome).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "allélopathie",
+    "variantes": [
+      "allélopathique",
+      "allélopathiques"
+    ],
+    "definition": "Inhibition des plantes voisines par des substances chimiques libérées.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "allèle",
+    "variantes": [
+      "allèles"
+    ],
+    "definition": "Version d’un gène à un locus.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "locus",
+    "variantes": [
+      "loci"
+    ],
+    "definition": "Emplacement d’un gène ou d’un marqueur sur un chromosome.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "panmixie",
+    "variantes": [
+      "panmictique",
+      "panmictiques"
+    ],
+    "definition": "Croisements entièrement aléatoires dans une population.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "hétérozygotie",
+    "variantes": [
+      "hétérozygotie observée",
+      "hétérozygotie attendue"
+    ],
+    "definition": "Proportion d’individus (ou probabilité) portant deux allèles différents à un locus.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "F_ST",
+    "variantes": [
+      "Fst"
+    ],
+    "definition": "Indice de différenciation génétique entre populations (0 = identiques, 1 = fixées pour des allèles différents).",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "F_IS",
+    "variantes": [
+      "Fis"
+    ],
+    "definition": "Écart à la panmixie au sein des populations (déficit en hétérozygotes, consanguinité).",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "effet Wahlund",
+    "variantes": [],
+    "definition": "Déficit en hétérozygotes dû au mélange de populations différenciées dans un même échantillon.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "dérive génétique",
+    "variantes": [
+      "dérive"
+    ],
+    "definition": "Variation aléatoire des fréquences alléliques due à l’échantillonnage des gamètes ; forte dans les petites populations.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "taille efficace",
+    "variantes": [],
+    "definition": "Effectif d’une population idéale qui subirait la même dérive que la population réelle (Ne).",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "coalescence",
+    "variantes": [
+      "coalescent",
+      "coalescer"
+    ],
+    "definition": "Remontée de la généalogie de copies de gènes jusqu’à leur ancêtre commun le plus récent.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "flux de gènes",
+    "variantes": [
+      "flux génique"
+    ],
+    "definition": "Échange d’allèles entre populations par migration d’individus ou de gamètes.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "déséquilibre de liaison",
+    "variantes": [],
+    "definition": "Association non aléatoire des allèles de deux loci dans les gamètes.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "identité par ascendance",
+    "variantes": [
+      "IPA",
+      "IBD"
+    ],
+    "definition": "Deux copies de gène descendant d’une même copie ancestrale (IPA / IBD).",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "consanguinité",
+    "variantes": [
+      "dépression de consanguinité"
+    ],
+    "definition": "Croisement entre apparentés ; augmente l’homozygotie.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "introgression",
+    "variantes": [],
+    "definition": "Passage de gènes d’une espèce dans une autre par hybridation puis rétrocroisements.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "tri incomplet des lignées",
+    "variantes": [
+      "ILS"
+    ],
+    "definition": "Discordance entre arbre de gène et arbre d’espèces due à un polymorphisme ancestral (ILS).",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "norme de réaction",
+    "variantes": [
+      "normes de réaction"
+    ],
+    "definition": "Fonction qui donne le phénotype d’un génotype selon l’environnement.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "plasticité phénotypique",
+    "variantes": [
+      "plasticité"
+    ],
+    "definition": "Capacité d’un génotype à produire des phénotypes différents selon l’environnement.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "Q_ST",
+    "variantes": [
+      "Qst"
+    ],
+    "definition": "Différenciation génétique d’un trait quantitatif entre populations, à comparer au F_ST.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "polyploïdie",
+    "variantes": [
+      "polyploïde",
+      "polyploïdes"
+    ],
+    "definition": "Possession de plus de deux jeux de chromosomes (duplication du génome entier).",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "allopolyploïde",
+    "variantes": [
+      "allopolyploïdes",
+      "allopolyploïdie"
+    ],
+    "definition": "Polyploïde issu d’un hybride entre deux espèces, suivi d’un doublement chromosomique.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "homéologues",
+    "variantes": [
+      "homéologue"
+    ],
+    "definition": "Chromosomes apparentés provenant de deux espèces différentes réunies dans un allopolyploïde.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "apomixie",
+    "variantes": [
+      "apomictique",
+      "apomictiques"
+    ],
+    "definition": "Production de graines sans fécondation (clones de la mère).",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "autogamie",
+    "variantes": [
+      "autogame",
+      "autogames"
+    ],
+    "definition": "Autofécondation.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "allogamie",
+    "variantes": [
+      "allogame",
+      "allogames"
+    ],
+    "definition": "Fécondation croisée entre individus différents.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "supergène",
+    "variantes": [
+      "supergènes"
+    ],
+    "definition": "Groupe de gènes liés hérités ensemble, contrôlant un polymorphisme complexe.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "microsatellite",
+    "variantes": [
+      "microsatellites"
+    ],
+    "definition": "Marqueur fait de répétitions en tandem d’un court motif ; allèles = nombre de répétitions.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "allèle nul",
+    "variantes": [
+      "allèles nuls"
+    ],
+    "definition": "Allèle qui ne s’amplifie pas en PCR (mutation dans le site d’amorce) et passe inaperçu.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "superdominance",
+    "variantes": [],
+    "definition": "Avantage sélectif des hétérozygotes, qui maintient un polymorphisme.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "néofonctionnalisation",
+    "variantes": [
+      "sous-fonctionnalisation"
+    ],
+    "definition": "Après duplication, une copie de gène acquiert une nouvelle fonction.",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "paralogues",
+    "variantes": [
+      "paralogue",
+      "orthologues"
+    ],
+    "definition": "Gènes issus d’une duplication au sein d’un génome (orthologues : séparés par spéciation).",
+    "domaine": "génétique"
+  },
+  {
+    "terme": "fitness inclusive",
+    "variantes": [],
+    "definition": "Succès reproducteur direct + part transmise indirectement via l’aide aux apparentés.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "règle de Hamilton",
+    "variantes": [],
+    "definition": "Un acte altruiste est favorisé si rB > C (apparentement × bénéfice > coût).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "coefficient d’apparentement",
+    "variantes": [
+      "apparentement"
+    ],
+    "definition": "Probabilité qu’un allèle d’un individu soit présent par ascendance chez un autre (r).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "sélection de parentèle",
+    "variantes": [],
+    "definition": "Sélection de comportements qui favorisent les apparentés.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "eusocialité",
+    "variantes": [
+      "eusocial",
+      "eusociale",
+      "eusociaux",
+      "eusociales"
+    ],
+    "definition": "Chevauchement des générations, soins coopératifs au couvain et castes reproductrices/stériles.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "haplodiploïdie",
+    "variantes": [
+      "haplodiploïde",
+      "haplodiploïdes"
+    ],
+    "definition": "Mâles haploïdes (œufs non fécondés), femelles diploïdes (Hyménoptères).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "polyandrie",
+    "variantes": [
+      "polyandre"
+    ],
+    "definition": "Accouplement d’une femelle avec plusieurs mâles.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "polygynie",
+    "variantes": [
+      "polygyne",
+      "polygynes"
+    ],
+    "definition": "Plusieurs reines dans une colonie (ou un mâle avec plusieurs femelles).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "signal honnête",
+    "variantes": [
+      "signaux honnêtes"
+    ],
+    "definition": "Signal fiable sur la qualité de l’émetteur, maintenu par son coût ou une contrainte physique.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "principe du handicap",
+    "variantes": [
+      "handicap"
+    ],
+    "definition": "Un signal coûteux n’est soutenable que par les individus de bonne qualité (Zahavi, Grafen).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "signal d’index",
+    "variantes": [
+      "signaux d’index"
+    ],
+    "definition": "Signal physiquement lié à la qualité, impossible à truquer (ex. : formants vocaux liés à la taille).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "exploitation sensorielle",
+    "variantes": [],
+    "definition": "Évolution d’un signal qui exploite une préférence sensorielle préexistante du receveur.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "anisogamie",
+    "variantes": [],
+    "definition": "Gamètes de tailles différentes (ovule gros, spermatozoïde petit).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "sex-ratio opérationnel",
+    "variantes": [],
+    "definition": "Rapport mâles/femelles prêts à se reproduire à un moment donné.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "auto-organisation",
+    "variantes": [],
+    "definition": "Émergence d’une structure ou décision collective à partir d’interactions locales, sans chef.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "phéromone",
+    "variantes": [
+      "phéromones"
+    ],
+    "definition": "Signal chimique entre individus d’une même espèce.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "kinèse",
+    "variantes": [
+      "orthocinèse",
+      "klinocinèse"
+    ],
+    "definition": "Réponse non orientée à un stimulus : changement de vitesse (orthocinèse) ou de fréquence de virages (klinocinèse).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "taxie",
+    "variantes": [
+      "taxies",
+      "thigmotaxie"
+    ],
+    "definition": "Déplacement orienté par rapport à un stimulus (phototaxie, thigmotaxie…).",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "éthogramme",
+    "variantes": [],
+    "definition": "Inventaire des comportements d’une espèce, avec leurs définitions.",
+    "domaine": "éthologie"
+  },
+  {
+    "terme": "effet Allee",
+    "variantes": [],
+    "definition": "Corrélation positive entre densité et croissance par individu à faible densité.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "niche écologique",
+    "variantes": [
+      "niche réalisée",
+      "niche fondamentale"
+    ],
+    "definition": "Ensemble des conditions et ressources permettant à une espèce de maintenir une population.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "métapopulation",
+    "variantes": [
+      "métapopulations"
+    ],
+    "definition": "Ensemble de populations locales reliées par la dispersion, avec extinctions et recolonisations.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "succession",
+    "variantes": [
+      "successions",
+      "succession secondaire",
+      "succession primaire"
+    ],
+    "definition": "Remplacement directionnel des communautés au cours du temps sur un site.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "espèce clé de voûte",
+    "variantes": [
+      "clé de voûte"
+    ],
+    "definition": "Espèce à effet disproportionné par rapport à son abondance.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "ingénieur de l’écosystème",
+    "variantes": [
+      "ingénieurs de l’écosystème"
+    ],
+    "definition": "Espèce qui modifie physiquement le milieu (castor, lombric).",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "cascade trophique",
+    "variantes": [
+      "cascades trophiques"
+    ],
+    "definition": "Effet indirect d’un prédateur sur les niveaux inférieurs du réseau trophique.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "mutualisme",
+    "variantes": [
+      "mutualismes"
+    ],
+    "definition": "Interaction à bénéfices réciproques entre deux espèces.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "pression de propagules",
+    "variantes": [],
+    "definition": "Nombre d’individus introduits et nombre d’introductions.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "bioindicateur",
+    "variantes": [
+      "bioindicateurs"
+    ],
+    "definition": "Espèce dont la présence ou l’état renseigne sur la qualité du milieu.",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "phénologie",
+    "variantes": [],
+    "definition": "Calendrier des événements biologiques saisonniers (floraison, migration).",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "mapping",
+    "variantes": [],
+    "definition": "Alignement des lectures de séquençage sur un génome de référence.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "profondeur de couverture",
+    "variantes": [],
+    "definition": "Nombre moyen de lectures recouvrant chaque base (ex. : 30×).",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "largeur de couverture",
+    "variantes": [],
+    "definition": "Fraction de la référence couverte par au moins une lecture.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "multi-read",
+    "variantes": [
+      "multi-reads"
+    ],
+    "definition": "Lecture qui s’aligne à plusieurs positions du génome.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "FASTQ",
+    "variantes": [],
+    "definition": "Format de fichier des lectures : séquence + qualité de chaque base.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "SAM",
+    "variantes": [
+      "BAM"
+    ],
+    "definition": "Format texte des alignements de lectures ; BAM = version binaire compressée.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "CIGAR",
+    "variantes": [],
+    "definition": "Code décrivant l’alignement d’une lecture (M, I, D, N = intron, S = soft-clip).",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "MAPQ",
+    "variantes": [],
+    "definition": "Qualité de mapping en échelle Phred (probabilité que la position soit fausse).",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "score Phred",
+    "variantes": [
+      "Phred"
+    ],
+    "definition": "Q = −10·log₁₀(probabilité d’erreur) ; Q30 = 1 erreur sur 1 000.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "TPM",
+    "variantes": [
+      "RPKM",
+      "FPKM",
+      "CPM"
+    ],
+    "definition": "Transcrits par million : normalisation par la longueur puis ramenée à 10⁶ par échantillon.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "FDR",
+    "variantes": [],
+    "definition": "Taux de fausses découvertes : correction des p-values pour tests multiples (Benjamini-Hochberg).",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "binomiale négative",
+    "variantes": [
+      "surdispersion",
+      "surdispersés"
+    ],
+    "definition": "Loi de comptage qui autorise une variance supérieure à la moyenne (surdispersion).",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "épissage",
+    "variantes": [
+      "épissé",
+      "épissés",
+      "épissées"
+    ],
+    "definition": "Retrait des introns d’un pré-ARNm.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "méthylation",
+    "variantes": [],
+    "definition": "Ajout d’un groupe méthyle sur l’ADN (5-mC) ou l’ARN (m6A), marque épigénétique.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "ChIP-seq",
+    "variantes": [],
+    "definition": "Immunoprécipitation de la chromatine suivie de séquençage, pour cartographier marques d’histones ou facteurs.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "organoïde",
+    "variantes": [
+      "organoïdes"
+    ],
+    "definition": "Mini-tissu 3D cultivé à partir de cellules souches, modèle simplifié d’un organe.",
+    "domaine": "transcriptomique"
+  },
+  {
+    "terme": "byssus",
+    "variantes": [],
+    "definition": "Faisceau de fils protéiques sécrétés par le pied de certains bivalves (moules) pour s’ancrer au substrat ; adhère sous l’eau grâce à la DOPA.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "filtreur",
+    "variantes": [
+      "filtreurs",
+      "filtration"
+    ],
+    "definition": "Animal qui se nourrit en retenant des particules en suspension dans l’eau (éponges, moules, ascidies).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "trochophore",
+    "variantes": [
+      "larve trochophore"
+    ],
+    "definition": "Larve planctonique ciliée des Lophotrochozoaires (annélides, mollusques).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "véligère",
+    "variantes": [],
+    "definition": "Larve des mollusques munie d’un voile cilié (velum), qui suit le stade trochophore.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "forcipules",
+    "variantes": [
+      "forcipule"
+    ],
+    "definition": "Première paire de pattes du tronc des chilopodes, transformée en crochets à venin.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "anamorphose",
+    "variantes": [
+      "anamorphe"
+    ],
+    "definition": "Développement où des segments et des paires de pattes s’ajoutent à chaque mue (myriapodes).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "écailles placoïdes",
+    "variantes": [
+      "écaille placoïde",
+      "denticules"
+    ],
+    "definition": "Écailles des chondrichthyens, faites de dentine et d’émail : homologues des dents.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "ampoules de Lorenzini",
+    "variantes": [],
+    "definition": "Électrorécepteurs des requins et raies, qui détectent les champs électriques des proies.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "ptérygopodes",
+    "variantes": [],
+    "definition": "Organes copulateurs des chondrichthyens mâles, dérivés des nageoires pelviennes.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "colloblastes",
+    "variantes": [
+      "colloblaste"
+    ],
+    "definition": "Cellules collantes des tentacules des cténophores, qui capturent les proies (à la place des cnidocytes).",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "cténes",
+    "variantes": [
+      "palettes ciliées"
+    ],
+    "definition": "Palettes de cils soudés disposées en 8 rangées chez les cténophores, servant à nager.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "microphylle",
+    "variantes": [
+      "microphylles"
+    ],
+    "definition": "Petite feuille à une seule nervure non ramifiée, caractéristique des lycophytes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "mégaphylle",
+    "variantes": [
+      "mégaphylles"
+    ],
+    "definition": "Feuille à nervation ramifiée des euphyllophytes (fougères, prêles, plantes à graines).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "strobile",
+    "variantes": [
+      "strobiles"
+    ],
+    "definition": "Épi de sporophylles portant des sporanges (lycopodes, prêles) ; équivalent d’un cône.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "homosporie",
+    "variantes": [
+      "homosporé",
+      "homosporée"
+    ],
+    "definition": "Production d’un seul type de spores (opposé : hétérosporie).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "pourriture blanche",
+    "variantes": [],
+    "definition": "Décomposition du bois par des champignons capables de dégrader la lignine (le bois devient blanc et fibreux).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "saprotrophe",
+    "variantes": [
+      "saprotrophes",
+      "saprophyte"
+    ],
+    "definition": "Organisme qui se nourrit de matière organique morte (décomposeur).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "hétérophyllie",
+    "variantes": [],
+    "definition": "Présence de feuilles de formes différentes sur une même plante (lierre, houx).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "défense induite",
+    "variantes": [
+      "défenses induites"
+    ],
+    "definition": "Défense qui n’est produite qu’après détection d’une attaque ou d’un risque (épines du houx, coquille des moules).",
+    "domaine": "écologie"
+  },
+  {
+    "terme": "mycohétérotrophe",
+    "variantes": [],
+    "definition": "Plante (ou gamétophyte) qui tire son carbone d’un champignon symbiotique au lieu de la photosynthèse.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "réseau de Hartig",
+    "variantes": [],
+    "definition": "Réseau d’hyphes qui s’insinue entre les cellules du cortex racinaire dans une ectomycorhize, sans y pénétrer ; c’est la zone d’échanges entre plante et champignon.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "arbuscule",
+    "variantes": [
+      "arbuscules"
+    ],
+    "definition": "Structure très ramifiée formée par un champignon gloméromycète à l’intérieur d’une cellule corticale de la racine ; siège des échanges dans l’endomycorhize.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "hygrophane",
+    "variantes": [
+      "hygrophanes"
+    ],
+    "definition": "Se dit d’un chapeau de champignon qui change de teinte (en général pâlit) en perdant son eau.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "sporophore",
+    "variantes": [
+      "sporophores"
+    ],
+    "definition": "Partie visible et reproductrice d’un champignon (le « champignon » au sens courant), qui porte les spores ; le reste de l’organisme est le mycélium.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "pyrénoïde",
+    "variantes": [
+      "pyrénoïdes"
+    ],
+    "definition": "Compartiment du chloroplaste où se concentre la Rubisco ; il fait partie d’un mécanisme de concentration du CO₂ présent chez de nombreuses algues et, chez les plantes terrestres, seulement chez les anthocérotes.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "phycoérythrine",
+    "variantes": [],
+    "definition": "Pigment rouge des algues rouges (et de certaines cyanobactéries) qui capte la lumière verte et masque la chlorophylle a.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "carraghénane",
+    "variantes": [
+      "carraghénanes"
+    ],
+    "definition": "Polymère de galactose sulfaté de la paroi de certaines algues rouges, extrait comme épaississant et gélifiant (E407).",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "aplanogamie",
+    "variantes": [],
+    "definition": "Fécondation par des gamètes dépourvus de flagelles, qui se rencontrent au gré des mouvements de l’eau ; apomorphie des algues rouges.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "carposporophyte",
+    "variantes": [
+      "carposporophytes"
+    ],
+    "definition": "Génération diploïde des algues rouges floridéophycées qui se développe sur le gamétophyte femelle et produit des carpospores.",
+    "domaine": "botanique"
+  },
+  {
+    "terme": "hémipénis",
+    "variantes": [],
+    "definition": "Organe copulateur pair des mâles de Squamates (lézards et serpents), dont un seul est utilisé à chaque accouplement ; absent chez le sphénodon.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "œil pariétal",
+    "variantes": [
+      "troisième œil"
+    ],
+    "definition": "Organe photorécepteur situé au sommet du crâne de certains vertébrés (sphénodon, beaucoup de lézards), relié à l’épiphyse.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "cellules interstitielles",
+    "variantes": [
+      "cellule interstitielle"
+    ],
+    "definition": "Cellules souches multipotentes des hydrozoaires comme l’hydre, à l’origine des nématocytes, des neurones et des gamètes.",
+    "domaine": "zoologie"
+  },
+  {
+    "terme": "chytridiomycose",
+    "variantes": [],
+    "definition": "Maladie de la peau des amphibiens due au champignon chytride *Batrachochytrium dendrobatidis* (ou *B. salamandrivorans*), responsable de déclins massifs dans le monde.",
+    "domaine": "écologie"
+  }
 ]
